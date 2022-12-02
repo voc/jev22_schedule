@@ -1,0 +1,45 @@
+{
+  "schedule": {
+    "version": "2022-12-02 22:04",
+    "conference": {
+      "acronym": "jev22",
+      "title": "Dezentrale Jahresendveranstaltungen",
+      "start": "2022-12-27",
+      "end": "2022-12-30",
+      "daysCount": 4,
+      "timeslot_duration": "00:15",
+      "time_zone_name": "Europe/Amsterdam",
+      "rooms": [],
+      "days": [
+        {
+          "index": 1,
+          "date": "2022-12-27",
+          "day_start": "2022-12-27T10:00:00+01:00",
+          "day_end": "2022-12-28T09:59:59+01:00",
+          "rooms": {}
+        },
+        {
+          "index": 2,
+          "date": "2022-12-28",
+          "day_start": "2022-12-28T10:00:00+01:00",
+          "day_end": "2022-12-29T09:59:59+01:00",
+          "rooms": {}
+        },
+        {
+          "index": 3,
+          "date": "2022-12-29",
+          "day_start": "2022-12-29T10:00:00+01:00",
+          "day_end": "2022-12-30T09:59:59+01:00",
+          "rooms": {}
+        },
+        {
+          "index": 4,
+          "date": "2022-12-30",
+          "day_start": "2022-12-30T10:00:00+01:00",
+          "day_end": "2022-12-31T09:59:59+01:00",
+          "rooms": {}
+        }
+      ]
+    }
+  }
+}

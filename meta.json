@@ -1,0 +1,224 @@
+{
+  "data": {
+    "version": "2022-12-02 22:04",
+    "source_urls": [],
+    "rooms": [],
+    "conferences": [
+      {
+        "url": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",
+        "name": "Hacking in Parallel",
+        "location": "Berlin, c-base",
+        "links": [
+          "https://wiki.hip-berlin.de/"
+        ],
+        "api_url": "https://pretalx.c3voc.de//api/events/hip-berlin-2022",
+        "meta": {
+          "name": {
+            "de": "///Hacking in Parallel \u2013 Berlin///",
+            "en": "///Hacking in Parallel \u2013 Berlin///"
+          },
+          "slug": "hip-berlin-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/hip-berlin-2022/",
+            "schedule": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/hip-berlin-2022/login/",
+            "feed": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "TBD",
+        "name": "dezentrale Chaos-Culture",
+        "location": "Bielefeld, Digitalcourage",
+        "links": [
+          "https://digitalcourage.de/"
+        ]
+      },
+      {
+        "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/export/schedule.json",
+        "name": "Hellarious: Hacking in Hell",
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "links": [
+          "https://alte-hoelle.de/"
+        ],
+        "api_url": "https://pretalx.c3voc.de//api/events/hacking-in-hell-2022",
+        "meta": {
+          "name": {
+            "de": "Hellarious"
+          },
+          "slug": "hacking-in-hell-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/hacking-in-hell-2022/",
+            "schedule": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/hacking-in-hell-2022/login/",
+            "feed": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://pretalx.c3voc.de/xrelog-2022/schedule/export/schedule.json",
+        "name": "xrelog22: Independent Multiverses",
+        "location": "Hamburg, FTZ/HAW",
+        "links": [
+          "https://events.ccc.de/2022/11/13/xrelog22-cfp/",
+          "https://matrix.to/#/#xrevent:matrix.org"
+        ],
+        "api_url": "https://pretalx.c3voc.de//api/events/xrelog-2022",
+        "meta": {
+          "name": {
+            "de": "xrelog22",
+            "en": "xrelog22"
+          },
+          "slug": "xrelog-2022",
+          "is_public": true,
+          "date_from": "2022-12-28",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/xrelog-2022/",
+            "schedule": "https://pretalx.c3voc.de/xrelog-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/xrelog-2022/login/",
+            "feed": "https://pretalx.c3voc.de/xrelog-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "TBD",
+        "name": "localverse2022",
+        "location": "Leipzig",
+        "links": [
+          "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation-20221118/",
+          "https://matrix.to/#/#localverse2022:chat.dezentrale.space"
+        ]
+      },
+      {
+        "url": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/export/schedule.json",
+        "name": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
+        "location": "M\u00fcnchen",
+        "links": [
+          "https://events.ccc.de/2022/11/18/ff22-cfp/"
+        ],
+        "api_url": "https://forum.freiraeumen.jetzt//api/events/freiraumforum",
+        "meta": {
+          "name": {
+            "de": "Forum f\u00fcr Freiraum - Gib Uns Mehr!",
+            "en": "Forum for free spaces - Give Us More!"
+          },
+          "slug": "freiraumforum",
+          "is_public": true,
+          "date_from": "2022-12-26",
+          "date_to": "2022-12-31",
+          "timezone": "UTC",
+          "urls": {
+            "base": "https://forum.freiraeumen.jetzt/freiraumforum/",
+            "schedule": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/",
+            "login": "https://forum.freiraeumen.jetzt/freiraumforum/login/",
+            "feed": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://cfp.ccc-p.org/rtc22/schedule/export/schedule.json",
+        "name": "Reconnect To Chaos!",
+        "location": "Potsdam, Chaostreff",
+        "links": [
+          "https://www.ccc-p.org/rtc22/"
+        ],
+        "api_url": "https://cfp.ccc-p.org//api/events/rtc22",
+        "meta": {
+          "name": {
+            "de": "Reconnect To Chaos!",
+            "en": "Reconnect To Chaos!"
+          },
+          "slug": "rtc22",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://cfp.ccc-p.org/rtc22/",
+            "schedule": "https://cfp.ccc-p.org/rtc22/schedule/",
+            "login": "https://cfp.ccc-p.org/rtc22/login/",
+            "feed": "https://cfp.ccc-p.org/rtc22/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/export/schedule.json",
+        "name": "FireShonks",
+        "location": "Remote & W\u00fclfrath",
+        "links": [
+          "https://events.ccc.de/2022/10/27/fireshonks-cfp/",
+          "https://events.haecksen.org/fireshonks/"
+        ],
+        "api_url": "https://pretalx.c3voc.de//api/events/fire-shonks-2022",
+        "meta": {
+          "name": {
+            "de": "FireShonks",
+            "en": "FireShonks"
+          },
+          "slug": "fire-shonks-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/fire-shonks-2022/",
+            "schedule": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/fire-shonks-2022/login/",
+            "feed": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "name": "ChilyConChaos",
+        "location": "Gie\u00dfen/Wetzlar",
+        "links": [
+          "https://chilyconchaos.de/"
+        ]
+      },
+      {
+        "url": "https://talks.w.icmp.camp/schedule/export/schedule.json",
+        "slug": "wicmp1",
+        "name": "Wintergalaktische Club Mate Party",
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "links": [
+          "https://w.icmp.camp"
+        ],
+        "api_url": "https://talks.w.icmp.camp/api/events/wicmp1",
+        "meta": {
+          "name": {
+            "de": "Wintergalaktische Club Mate Party",
+            "en": "Wintergalactic Club Mate Party"
+          },
+          "slug": "wicmp1",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://talks.w.icmp.camp/wicmp1/",
+            "schedule": "https://talks.w.icmp.camp/wicmp1/schedule/",
+            "login": "https://talks.w.icmp.camp/wicmp1/login/",
+            "feed": "https://talks.w.icmp.camp/wicmp1/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      }
+    ]
+  }
+}

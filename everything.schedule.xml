@@ -1,0 +1,16 @@
+<schedule>
+  <version>2022-12-02 22:04</version>
+  <conference>
+    <acronym>jev22</acronym>
+    <title>Dezentrale Jahresendveranstaltungen</title>
+    <start>2022-12-27</start>
+    <end>2022-12-30</end>
+    <days>4</days>
+    <timeslot_duration>00:15</timeslot_duration>
+    <time_zone_name>Europe/Amsterdam</time_zone_name>
+  </conference>
+  <day index="1" date="2022-12-27" start="2022-12-27T10:00:00+01:00" end="2022-12-28T09:59:59+01:00"/>
+  <day index="2" date="2022-12-28" start="2022-12-28T10:00:00+01:00" end="2022-12-29T09:59:59+01:00"/>
+  <day index="3" date="2022-12-29" start="2022-12-29T10:00:00+01:00" end="2022-12-30T09:59:59+01:00"/>
+  <day index="4" date="2022-12-30" start="2022-12-30T10:00:00+01:00" end="2022-12-31T09:59:59+01:00"/>
+</schedule>
