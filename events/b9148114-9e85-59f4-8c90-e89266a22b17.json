@@ -1,0 +1,33 @@
+{
+  "id": 49190,
+  "guid": "b9148114-9e85-59f4-8c90-e89266a22b17",
+  "logo": "/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png",
+  "date": "2022-12-28T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:25",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49190--mostly-homebrewn-metal-am",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
+  "title": "(mostly) homebrewn metal AM",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk/panel 75 min + 10 min Q&A (85 Minuten)",
+  "language": "en",
+  "abstract": "A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)",
+  "description": "After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3320,
+      "code": "BRLYXQ",
+      "public_name": "Klapauzius",
+      "biography": "Staatlich gepr\u00fcfter Elektrotechniker, beruflich als Softwareentwickler (Simatic SPS/HMI) im Bereich Maschinenbau f\u00fcr die pharmazeutische Industrie t\u00e4tig. Mehr als zehn Jahre Erfahrung in der additiven Fertigung in Hobby und Beruf, sinterbasierter Metall FFF/FDM 3d Druck seit etwa drei Jahren. Erste Schritte mit BASIC am Commodore C64, Assembler auf ARM2 mit einem Acorn Archimedes in den 90ern, Microcontroller mit Arduino/Atmel und dergleichen, seit dem auf einer Reise der Neugier folgend. Funkamateur (Klasse A, Rufzeichen DH5SL, gr\u00f6\u00dftenteils Kurzwelle). Mit dem Chaos in Dortmund seit 2007 verbunden.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

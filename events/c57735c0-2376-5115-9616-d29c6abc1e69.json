@@ -1,0 +1,33 @@
+{
+  "id": 22,
+  "guid": "c57735c0-2376-5115-9616-d29c6abc1e69",
+  "logo": "",
+  "date": "2022-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-22-trust-in-digital-communication",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/K7J8PF/",
+  "title": "Trust in digital communication",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "This is a presentation trying to explain what trust is - at the concept level as well as some key implementation details - and why it is important - especially in digital communication.",
+  "description": "The talk will mainly focus on trust - why it is needed and how it is established when all there is to talk to are machines. It will - where appropriate present examples from history to make current technology relatable. The talk concentrates mainly on Public Key Cryptography with short mentions of other technologies but without blockchain. It can be seen as providing foundational information for people not working on a daily basis with this stuff and for all those that sometimes wonder \"What does that little padlock near my browsers address line tell me?\"",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 25,
+      "code": "DD7SFS",
+      "public_name": "Juergen Key",
+      "biography": "https://github.com/elbosso",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

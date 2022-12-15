@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "guid": "cfd78601-99af-5460-8f7b-8537777a221e",
+  "logo": "",
+  "date": "2022-12-30T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "rtc22-5-infrastructure-review",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
+  "title": "Infrastructure Review",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Bin mir noch unsicher, ob wir wirklich viel zu erz\u00e4hlen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 7,
+      "code": "FDRA89",
+      "public_name": "Source",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

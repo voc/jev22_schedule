@@ -1,0 +1,33 @@
+{
+  "id": 49100,
+  "guid": "a861943b-bcf8-5a18-b1b9-58bca2a6158d",
+  "logo": "",
+  "date": "2022-12-28T20:15:00+01:00",
+  "start": "20:15",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49100-hacking-a-sat-receiver",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/",
+  "title": "Hacking a sat receiver",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver",
+  "description": "In diesem Vortrag geht es darum was man mit einem g\u00fcnstigen Sat-Receiver so anstellen kann, au\u00dfer Fernsehen zu gucken. Dabei handelt es sich n\u00e4mlich um einen kleinen Computer der auch gehackt werden kann. Es geht um Firmware-Formate, Framebuffer, Eigenheiten der MIPS-Architektur, und ein bisschen Linux.\r\n\r\n\r\n[EN]\r\n\r\nIn this talk, I will talk about the things that can be done with a cheap sat receiver, aside from watching TV. It turns out to be a little computer that can be hacked. There will be firmware file formats, framebuffers, idiosyncracies of the MIPS architecture, and a little bit of Linux.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3257,
+      "code": "X8NUST",
+      "public_name": "jn",
+      "biography": "Hacker from CCC Aachen, mainly interested in firmware",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

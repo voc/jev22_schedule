@@ -1,0 +1,33 @@
+{
+  "id": 49153,
+  "guid": "4e8f01e5-28d2-5025-a497-d4b663297ea4",
+  "logo": "/media/fire-shonks-2022/submissions/Y8H7QD/logrotten_6zKvOnb.jpeg",
+  "date": "2022-12-30T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49153-logrotten-it-s-not-a-bug-",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/",
+  "title": "Logrotten - \"It's not a bug\"",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Logrotate, ein Tool zum Verwalten von Logdateien, verf\u00fcgt \u00fcber eine Sicherheitsl\u00fccke, die das Ausweiten der Rechte \u00fcber eine Race Condition erlaubt. Die Sicherheitl\u00fccke \u2013 \u201cLogrotten\u201d -  kann dann ausgenutzt werden, wenn ein*e unprivilegierte*r Benutzer*in das Logverzeichnis unter Kontrolle hat. \r\nIn diesem Vortrag wird gezeigt, wie einfach es ist, diese Sicherheitsl\u00fccke auszunutzen, und es wird gezeigt, welche Auswirkungen und Reichweite diese Sicherheitsl\u00fccke hat, z.B. auf andere Softwarepakete wie gitlab. Am Ende wird der aktuelle Stand von Logrotate aufgezeigt.",
+  "description": "Mit Logrotate k\u00f6nnen Logfiles verwaltet werden. Es erm\u00f6glicht das automatische Rotieren, Komprimieren, Entfernen und Versenden von Logdateien. Jede Logdatei kann dabei t\u00e4glich, w\u00f6chentlich oder monatlich von Logrotate rotiert werden, bzw. wenn sie eine bestimmte Gr\u00f6\u00dfe erreicht hat. Au\u00dferdem bietet Logrotate auch eine Root-Shell. \r\n\r\nLogrotate unterst\u00fctzt verschiedene Methoden, um neue Dateien zu erstellen. Die Direktive \"copy\" beispielsweise erstellt eine Kopie der Logdatei und \"create\" erzeugt nach dem Rotieren eine neue, leere Logdatei. Wenn jemand das Logverzeichnis mit einem symbolischen Link austauscht, kurz bevor die neue Logdatei erstellt wird, legt Logrotate die neue Datei in einem anderen Verzeichnis ab. Ein solches Szenario kann ausgenutzt werden, wenn Logrotate als Benutzer root l\u00e4uft und ein*e Benutzer*in mit geringen Privilegien die Kontrolle \u00fcber den Pfad zum Logverzeichnis hat. Wenn diese*r Benutzer*in zum richtigen Zeitpunkt das Logverzeichnis mit einem symbolischen Link austauscht, schreibt Logrotate die neue Datei in das verlinkte Verzeichnis. Danach werden die Berechtigungen der erstellten Datei angepasst, sodass die angreifende Person Schreibzugriff auf dieser Datei hat.\r\nIn diesem Vortrag werden die verschiedenen Szenarien erl\u00e4utert, in denen Logrotate auf gef\u00e4hrliche Weise konfiguriert werden kann. Es wird erl\u00e4utert, welche Softwarepakete gefunden wurden, die anf\u00e4llig f\u00fcr diese Art von Angriffen sind. Abschlie\u00dfend wird der aktuelle Stand von Logrotate diskutiert.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3292,
+      "code": "DEYZS9",
+      "public_name": "Wolfgang Hotwagner",
+      "biography": "Wolfgang Hotwagner is a Research-Engineer at the Cyber Security Research Team of the Austrian Institute of Technology(AIT), where he works on various topics like \"Pentesting\", \"Log File Anomaly Detection\" and \"Cyberrange\". He is a linux enthusiast and practices it-security in his spare time.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

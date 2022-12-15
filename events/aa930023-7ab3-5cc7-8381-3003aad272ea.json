@@ -1,0 +1,33 @@
+{
+  "id": 49105,
+  "guid": "aa930023-7ab3-5cc7-8381-3003aad272ea",
+  "logo": "/media/fire-shonks-2022/submissions/TGCYWB/risiko%C3%BCbernahme_zXDQ5bW.jpg",
+  "date": "2022-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49105-betreutes-hacken-senior-und-die-juniorcrew",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/TGCYWB/",
+  "title": "Betreutes Hacken - Senior und die Juniorcrew",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Helft Hetti die Box Challenge zu meistern.",
+  "description": "Eine nicht aufgezeichnete Session in der wir gemeinsam eine interaktive HackTheBox (HTB) oder TryHackMe (THM) Challenge l\u00f6sen. Das Ziel ist es gemeinsam eine gute Zeit zu verbringen, es ist quasi eine gemeinsame B\u0335a\u0335c\u0335k\u0335s\u0335e\u0335a\u0335t\u0335  Hacking Session. Nat\u00fcrlich k\u00f6nnt ihr nebenbei selber mitmachen, falls Ihr Lust habt. Ich werde ein aktuelles Kali Linux verwenden. Download: https://www.kali.org/get-kali/\r\n\r\n**Ablauf der Session:**  \r\nEs wird von mir im Vorhinein eine nicht genannte Challenge Box, voraussichtlich von THM oder HTB, ausgew\u00e4hlt, welche ich selber auch noch nicht gemacht/gel\u00f6st habe. Diese ist vom Schwierigkeitslevel f\u00fcr Anf\u00e4nger*innen geeignet und sollte eine Web Challenge sein welche potentiell mit einem Linuxteil abschlie\u00dft.\r\nBis auf die Challenge Box Vorauswahl und das Einrichten der Virtuellen Maschine (VM) basierend auf Kali Linux gibt es von meiner Seite keinerlei Vorbereitungen.\r\n\r\nW\u00e4hrend des Workshops versuchen wir gemeinsam die Schwachstellen zu finden und auszunutzen. Die Idee w\u00e4re, dass das Publikum mir via Chat Ideen liefert, wie wir die Box angreifen k\u00f6nnen. Ich w\u00fcrde passende als auch unpassende Ideen dann live vorf\u00fchren. Dabei werde ich euch \u00fcbliche Tools und Methoden zeigen, mit denen ich an solche Probleme herangehe.\r\n\r\nAm Ende des Workshops gibt es die M\u00f6glichkeit f\u00fcr eine Q+A Session, falls von euch gew\u00fcnscht, oder wir hacken einfach mal 1-2 Stunden durch. Das h\u00e4ngt von euch ab!\r\n\r\nVielleicht schaffen wir ja gemeinsam die Box zu erfolgreich zu pwnen!",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3264,
+      "code": "KYLAZR",
+      "public_name": "Hetti",
+      "biography": "Hetti ist ein IT-Security Experte aus Wien und Teil des feinsten Wiener Hackspaces [Metalab](https://metalab.at). \r\nIn seiner Freizeit f\u00e4hrt er sehr gerne auf community basierte IT (Security) Konferenzen und Camps.\r\nDie [Wiener Cryptoparty](https://cryptoparty.at) ist von ihm organisiert, bei der er auch Vortr\u00e4ge und Workshops zu verschiedenen Themen der IT-Security & Privatssph\u00e4re h\u00e4lt.\r\nMan findet ihn auch beim [Chaos Computer Club Vienna (C3W)](https://c3w.at) und an manchen Wochenenden ist er auf Flaggenjagd mit dem erfolgreichen akademischen CTF Team [We_0wn_Y0u](https://w0y.at).",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

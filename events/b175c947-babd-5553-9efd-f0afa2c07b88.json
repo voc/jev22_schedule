@@ -1,0 +1,33 @@
+{
+  "id": 49271,
+  "guid": "b175c947-babd-5553-9efd-f0afa2c07b88",
+  "logo": "",
+  "date": "2022-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:30",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49271-hacktivism-past-present-and-future",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/",
+  "title": "Hacktivism - past, present and future",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 75 min + 10 min Q&A (85 Minuten)",
+  "language": "en",
+  "abstract": "In this panel, we'll bring current and former hacktivists together to discuss their experiences and their opinions on how this form of activism has evolved through the years and what space it'll have in the future of activism around the world.",
+  "description": "Join this panel and listen to former members of Telecomix, Lulzsec and other hacktivist groups discuss about their experiences doing hacktivism, any consequences they suffered, and how they envision the future for this form of activism.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3380,
+      "code": "3FX8MG",
+      "public_name": "leon",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

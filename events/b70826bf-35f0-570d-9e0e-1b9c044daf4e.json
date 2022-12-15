@@ -1,0 +1,47 @@
+{
+  "id": 49294,
+  "guid": "b70826bf-35f0-570d-9e0e-1b9c044daf4e",
+  "logo": "",
+  "date": "2022-12-27T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49294-tba",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/",
+  "title": "tba",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "tba",
+  "description": "tba",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3407,
+      "code": "KPTLGM",
+      "public_name": "snoopy",
+      "biography": "Stoppt Kameras und andere \u00dcberwachungsma\u00dfnahmen, f\u00f6rdert OpenSource und ist im C4 zuhause.",
+      "answers": []
+    },
+    {
+      "id": 3404,
+      "code": "QHN3NG",
+      "public_name": "Starbug",
+      "biography": ".",
+      "answers": []
+    },
+    {
+      "id": 41,
+      "code": "UZTVSX",
+      "public_name": "kantorkel",
+      "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

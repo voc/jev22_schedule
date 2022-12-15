@@ -1,0 +1,33 @@
+{
+  "id": 6,
+  "guid": "aa07f194-7443-5b6d-a4f8-c4fe520879c4",
+  "logo": "",
+  "date": "2022-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:30",
+  "room": "Seminarraum 1 (25)",
+  "slug": "rtc22-6-sketchnotes-workshop",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/77ZGHR/",
+  "title": "SKETCHNOTES Workshop",
+  "subtitle": "",
+  "track": null,
+  "type": "Pr\u00e4senzworkshop",
+  "language": "de",
+  "abstract": "Sketchnotes WOrkshop,\r\n\r\nbitte papier mitbringen",
+  "description": "jeder kann zeichnen",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5,
+      "code": "KTKF9F",
+      "public_name": "Gini",
+      "biography": "Hi ich bin gini",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

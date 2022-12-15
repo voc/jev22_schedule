@@ -1,0 +1,40 @@
+{
+  "id": 16,
+  "guid": "a2482fb7-b3b9-51a4-b0d5-75e251fa6fce",
+  "logo": "/media/rtc22/submissions/3QSJYT/3d-pentagame-gegenlicht-klein_qlwOLCS.jpg",
+  "date": "2022-12-28T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-16-neues-aus-der-pentagame-forschung",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/3QSJYT/",
+  "title": "Neues aus der Pentagame-Forschung",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Neues aus der Pentagame-Forschung: | KI spielt Pentagame und praktisch unschlagbar | Komplexit\u00e4tsvorhersagen dadurch best\u00e4tigt | Geek^3: Das 3D-Pentagame vor Ort | Release Pentagame-Server | Verteiltes Pentagame-Turnier w\u00e4hrend der HiP-Zeit | Sch\u00f6nheitswettbewerb Pentagame-(3D-Druck)-Figuren",
+  "description": "Talk / Sendeslot mit Interviewelementen - idealerweise zu Beginn von HiP, Themen siehe oben.\r\n\r\nDarin Ank\u00fcndigung von 2 Wettbewerben f\u00fcr die Dauer von HiP:\r\n\r\n1 - Spielen auf Pentagame-Server (Ranking)\r\n2 - \"Sch\u00f6nheitswettbewerb\" - Einsendungen von Bildern mit Pentagame-Figuren und Live-Abstimmung\r\n\r\nBei beiden Wettbewerben sind Spiele und T-shirts zu gewinnen; beide Enden zu Ende von HiP; also dann noch mal ein (Sendeslot) zwecks Siegerk\u00fcr in beiden Wettbewerben.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 22,
+      "code": "D7BCWA",
+      "public_name": "penta",
+      "biography": "Hat sich seit 20+ Jahren mit abstrakten Spielen, insbesondere diesem, besch\u00f6ftigt. Experte f\u00fcr Spieltheorie und anders Chaos",
+      "answers": []
+    },
+    {
+      "id": 23,
+      "code": "WFJWLV",
+      "public_name": "Mike Ziebeck",
+      "biography": "Software Entwickler aus Berlin",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

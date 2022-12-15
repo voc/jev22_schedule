@@ -1,0 +1,33 @@
+{
+  "id": 49094,
+  "guid": "30e15886-595a-50c4-9247-3fe0df97dc1d",
+  "logo": "",
+  "date": "2022-12-27T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:30",
+  "room": "workshop room 3",
+  "slug": "hip-berlin-2022-49094-cip-chatting-in-parallel-what-s-happening-in-the-matrix-multiverses-",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A9TXSW/",
+  "title": "CiP - Chatting in Parallel ... What's happening in the Matrix-Multiverses?",
+  "subtitle": "",
+  "track": "Workshop - E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "It gives an overview of the Matrix World. Showcasing and spotlightning projects and developments. \r\nGoal of the workshop is to educate people enough to run their own matrix-homeserver and federate with others.",
+  "description": "A workshop which bring and collect the latest developments from Matrix.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 213,
+      "code": "A9QZAU",
+      "public_name": "Yan 't' Minagawa",
+      "biography": "It Yan 't' Minagawa from c-base in Berlin.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

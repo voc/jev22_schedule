@@ -1,0 +1,33 @@
+{
+  "id": 49230,
+  "guid": "7aa7f6ba-3b9c-552d-8193-531e366b8f88",
+  "logo": "",
+  "date": "2022-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49230-opening",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/",
+  "title": "Opening",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Veranstaltungsbeginn mit Einf\u00fchrung",
+  "description": "Vor den ersten Vortrag die Veranstaltung er\u00f6ffnen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 972,
+      "code": "WFVS9W",
+      "public_name": "Fireshork",
+      "biography": "Wie immer...",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

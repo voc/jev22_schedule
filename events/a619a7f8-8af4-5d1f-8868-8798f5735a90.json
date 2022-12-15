@@ -1,0 +1,40 @@
+{
+  "id": 49195,
+  "guid": "a619a7f8-8af4-5d1f-8868-8798f5735a90",
+  "logo": "/media/hip-berlin-2022/submissions/SRYJMG/Skull_Icon-Black_Y5HgCrp.png",
+  "date": "2022-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:25",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49195-how-my-video-game-project-is-helping-me-learn-tech-and-conquer-my-mental-health",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SRYJMG/",
+  "title": "How my video game project is helping me learn tech and conquer my mental health",
+  "subtitle": "",
+  "track": "Track 2 Room 2",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "A few years ago I came up with an idea to help myself that would later develop into a video game project. It has taught me more than I would have expected so far and I would really like to share those things with you!",
+  "description": "I always liked coming up with creative stories. It was fun to create characters and have them experience interesting stories.\r\nNot surprisingly when I was a teenager and life threw mental health issues at me, I decided to deal with it in a creative way, so I made a character and made him go through some stuff. A short time later, I had a handful of characters and idea: How about I make a video game out of this? How about I make it about hackers?\r\nA few years and a few semesters of video game art studies later I am here with a project that so far has helped me with those mental health issues, taught me a lot about video games and has gotten me more into technology and I now have a small team of friends who are helping me. The plan for the project is to have a video game about hackers that is part story based (and your interactions with the characters influence this part) and part CTFs. I want to release it for free and make everything open source.\r\nI hope that my journey (so far) can teach you some cool stuff as well!\r\n\r\nJust so you know: The video game is still in development, so I will not be able to show a fully finished game during this talk, but I will do what I can to be able to show a small demo!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3326,
+      "code": "KTDY8Q",
+      "public_name": "DarioACG",
+      "biography": "I'm a EEE student, and I'm really interested in electronics, and both the hardware and software level of computing, although I'm a complete novice.",
+      "answers": []
+    },
+    {
+      "id": 3325,
+      "code": "B9H7KB",
+      "public_name": "yvmqznrm",
+      "biography": "I am a trans dude in my early twenties who makes video games in college and art and likes to learn all sorts of cool things about tech :)",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

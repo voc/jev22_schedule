@@ -1,0 +1,33 @@
+{
+  "id": 49163,
+  "guid": "4aff93bc-0d9e-5334-b77a-4d3d33884482",
+  "logo": "/media/hip-berlin-2022/submissions/MVZST3/LEDstripsEverywhereForEveryone_ZHD1sqS.jpg",
+  "date": "2022-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:30",
+  "room": "soldering room 7",
+  "slug": "hip-berlin-2022-49163-led-strips-everywhere-for-everyone-",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MVZST3/",
+  "title": "LED Strips Everywhere for Everyone!",
+  "subtitle": "",
+  "track": "Workshop - E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "''Learn how to program LED strips.<br>It's super easy and fun to make your life trippy and beautiful.<br>For total beginners.''",
+  "description": "Learn how to light up LED strips with a cheap Arduino, and make your life trippy and beautiful! For total beginners -- no knowledge needed at all. LED strips have become really inexpensive. Lots of people have created inexpensive methods of controlling their color and brightness. This workshop shows one way to control LED strips, to make them do what you want. We will use a very cheap Arduino clone. I'll show you everything you need to know to use existing programs -- as-is, or to hack on -- to control the colors in your world with LED strips.\r\n\r\n== Workshop Itinerary ==\r\n* Intro to Red-Green-Blue (RGB) LEDs<br>\r\n* Brief intro to Arduino<br>\r\n* How to use an Arduino to control an LED strip<br>\r\n* Some demos of programs you can download",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 240,
+      "code": "QFFJLL",
+      "public_name": "Mitch",
+      "biography": "Mitch Altman is an international hacker and inventor, best known for inventing TV-B-Gone remote controls, a keychain that turns off TVs in public places.  He has been creating music and music synthesizers since he was a teenager, was co-founder of 3ware, a successful Silicon Valley startup in the late 1990s, and did pioneering work in Virtual Reality in the mid-1980s. He has contributed to 2600, MAKE, and other magazines, and wrote a chapter for \u201cMaker Pro\u201d, a book about making a living from projects one loves.  Mitch enjoys his frequent hacker/artist-in-residencies, where he shares, learns, and continues to cross-pollinate.  For the last several years Mitch has been giving performances, talks, leading workshops around the world, inspiring people, sharing how to make cool things with electronics, and teaching everyone to solder.  He promotes hackerspaces and open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and is President and CEO of Cornfield Electronics.\r\n\r\n    Wikipedia page:\r\n    http://en.wikipedia.org/wiki/Mitch_Altman\r\n\r\n    TEDxBrussels talk: \"The Hackerspace Movement\":\r\n    https://www.youtube.com/watch?v=WkiX7R1-kaY",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49151,
+  "guid": "05a9fd54-56dd-564a-8035-da88cdde0a5b",
+  "logo": "",
+  "date": "2022-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:55",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49151-50-years-of-c-the-good-the-bad-and-the-ugly",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LUEPLZ/",
+  "title": "50 years of C, the good, the bad and the ugly",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "The C programming language first appeared in 1972 and became enormously popular. It has this magical combination of features that allows developers to quickly write portable code that can be reused and easily ported to different architectures. It has been the foundation of most operating systems and systems programming in the past 50 years.",
+  "description": "The C programming language first appeared in 1972 and became enormously popular. It has this magical combination of features that allows developers to quickly write portable code that can be reused and easily ported to different architectures. It has been the foundation of most operating systems and systems programming in the past 50 years. \r\n\r\nIn this presentation, I explore its history, why it's been so popular and what its drawbacks are. And there are many drawbacks. Even so, for the past 50 years we've put up with them, because the language is just so incredibly powerful and useful.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3246,
+      "code": "3VRY8M",
+      "public_name": "Ilja van Sprundel",
+      "biography": "TODO",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 49181,
+  "guid": "948ef99e-e3ea-53bb-b73d-c61f49e8038d",
+  "logo": "/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg",
+  "date": "2022-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49181-best-of-digitalzwangmelder",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
+  "title": "Best-of Digitalzwangmelder",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Wir verlesen die besten \u00dcberwachungsbl\u00fcten aus dem Digitalzwangmelder.",
+  "description": "\"... geht nur mit App.\"\r\n\"... nur noch online.\"\r\n\"... laden Sie im Google-Play-Store ...\"\r\nImmer h\u00e4ufiger sto\u00dfen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wir dazu aufgerufen uns Situationen zu schildern in denen Teilhabe am Leben nur noch mittels digitaler Mittel m\u00f6glich war. Wir verlesen die besten Einsendungen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 393,
+      "code": "NSTENV",
+      "public_name": "padeluun",
+      "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
+      "answers": []
+    },
+    {
+      "id": 387,
+      "code": "UXT9SH",
+      "public_name": "Leena Simon",
+      "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

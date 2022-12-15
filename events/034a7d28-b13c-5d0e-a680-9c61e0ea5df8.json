@@ -1,0 +1,33 @@
+{
+  "id": 49264,
+  "guid": "034a7d28-b13c-5d0e-a680-9c61e0ea5df8",
+  "logo": "",
+  "date": "2022-12-28T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "01:00",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49264-exploring-social-media-reactions-to-conflicts-in-2022",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UCQTY9/",
+  "title": "Exploring social media reactions to conflicts in 2022",
+  "subtitle": "",
+  "track": "Track 2 Room 2",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.",
+  "description": "2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.\r\n\r\nIn this talk we will use topic modeling and social network analysis to explore public usage of social media and reactions to different hostilities. The first approach is a machine learning technique and is used to cluster, discover latent topics, and thus better understand text data. The second one is a toolset to extract nodes and edges from the specific data, in order to analyze and visualize a social network to highlight relationships.\r\n\r\nSocial media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.\r\n\r\nThis talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3376,
+      "code": "QZ8JFF",
+      "public_name": "Bi3n3",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

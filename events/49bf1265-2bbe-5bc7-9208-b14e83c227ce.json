@@ -1,0 +1,33 @@
+{
+  "id": 49293,
+  "guid": "49bf1265-2bbe-5bc7-9208-b14e83c227ce",
+  "logo": "",
+  "date": "2022-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:17",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49293-erklrhaj-experimentiert",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/",
+  "title": "Erkl\u00e4rhaj experimentiert",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+  "description": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3401,
+      "code": "YLYLMA",
+      "public_name": "Erkl\u00e4rhai",
+      "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

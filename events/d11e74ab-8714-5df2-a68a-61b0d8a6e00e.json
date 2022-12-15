@@ -1,0 +1,33 @@
+{
+  "id": 49098,
+  "guid": "d11e74ab-8714-5df2-a68a-61b0d8a6e00e",
+  "logo": "",
+  "date": "2022-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:30",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49098-subdomain-takeover-the-use-after-free-of-the-internet",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FB78TC/",
+  "title": "Subdomain takeover, the use after free of the internet",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 30 min",
+  "language": "en",
+  "abstract": "Most bug bounty platforms list subdomain takeover as \"not in scope\", but could it be interesting anyways? Yes! This talk will show you what this kind of problem is and how it can be mitigated at scale (and where it isn't).",
+  "description": "On a boring evening, I thought of playing around with automated scanning using long bash one-liners. The next morning, a one-liner consisting of 17 pipes was born which found a few hundred valid subdomains prone to subdomain takeover. This wasn't really complicated, but by automating such a process, I had the chance to dive deeper into the whole topic and found quite a weird ecosystem.\r\n\r\nThis talk is there to give you the whole context: from the basic \"what is subdomain takeover?\" to further \"well how can it be found?\" until the essential \"well how to we solve this once and for all?\".",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3256,
+      "code": "TXXW73",
+      "public_name": "hanemile",
+      "biography": "InfoSec  |  Foo @chaosdorf  |  CTF Sauercl0ud & ALLES!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

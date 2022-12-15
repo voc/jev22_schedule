@@ -1,0 +1,40 @@
+{
+  "id": 49119,
+  "guid": "9160deb5-29b8-56f7-967b-799c5c075e7a",
+  "logo": "",
+  "date": "2022-12-28T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49119-netzwerken-haecksen-only-",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/HTG8AZ/",
+  "title": "Netzwerken (Haecksen only)",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Lerne Haecksen kennen!",
+  "description": "Bei 570 Haecksen kennst du sicherlich noch nicht alle. Komm vorbei, lerne in Kleingruppen Haecksen kennen und wer wei\u00df, vielleicht findest du Gleichgesinnte f\u00fcr eine n\u00e4chste Aktivit\u00e4t.\r\n\r\nDieser Workshop ist nur f\u00fcr Haecksen!\r\n\r\n(Gruppe teilen auf 15 Personen jeweils, davon nochmal 3er Gruppen bauen, in den Triplets Selbstvorstellung, in der 15er Gruppe Vorstellung durch eine andere Haeckse.)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 43,
+      "code": "7NGZ9Q",
+      "public_name": "C_ristina",
+      "biography": "Defense Haeckse, Gynformation, geekfem, Cryptoparty HH, hat Pony-gro\u00dfe Hunde und \u00fcberall wo es Pommes gibt.",
+      "answers": []
+    },
+    {
+      "id": 3277,
+      "code": "QXW9GB",
+      "public_name": "melzai",
+      "biography": "Ich mache bei den Haecksen Meta-Orga und schaute unter Anderem auf die Anwendbarkeit von Quantum Computing im lebenswissenschaftlichen Bereich.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

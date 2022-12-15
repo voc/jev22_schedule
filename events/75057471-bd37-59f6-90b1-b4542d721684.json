@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "guid": "75057471-bd37-59f6-90b1-b4542d721684",
+  "logo": "",
+  "date": "2022-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:30",
+  "room": "Sparti",
+  "slug": "rtc22-7-ipv6-einfach-nutzen",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/",
+  "title": "IPv6 einfach nutzen",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Eine einfache Vorstellung von  IPv6",
+  "description": "IPv6 an Beispielen gezeigt.  Mit Erlaeuterungen der Begriffe. Dazu Referenzen und Literaturhinweise.\r\nVorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. Das geschieht nur per IPv6 aber ohne (zus\u00e4tzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.\r\nEinfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. \r\nZur Einstimmung empfehle ich den Podcast \"Anna-Lena Baecker RFCE014: IPv6\" mit Clemens Schrimpe https://requestforcomments.de/archives/412",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 9,
+      "code": "ETHYLD",
+      "public_name": "mutant",
+      "biography": "Mein Lieblingschaos ist der Chaospott Essen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

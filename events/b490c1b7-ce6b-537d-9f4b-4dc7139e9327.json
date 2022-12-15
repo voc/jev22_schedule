@@ -1,0 +1,33 @@
+{
+  "id": 49221,
+  "guid": "b490c1b7-ce6b-537d-9f4b-4dc7139e9327",
+  "logo": "",
+  "date": "2022-12-28T16:15:00+01:00",
+  "start": "16:15",
+  "duration": "00:30",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49221-reviving-open-source-projects-at-the-example-af-opentracks",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/",
+  "title": "Reviving open-source projects: at the example af OpenTracks",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 30 min",
+  "language": "en",
+  "abstract": "Most open-source projects have limit lifetime: at some point in time development stops and the project becomes unmaintained. A lot of projects often do not even reach the stage, where they are used by a critical mass of users.\r\n\r\nIn this talk, I will go through the steps of continuing an open-source project using my lessons learned from forking Google's MyTracks and crafting it into OpenTracks.",
+  "description": "What makes an open-source project successful? How does a hands-on lifecycle of an open-source project look like? How can we ensure that an open-source project stays meaningful over several years? \r\n\r\nIn 2016, Google decided to sun set MyTracks, which was a very successful Android application for GPS tracking. Back in 2019, I forked Google's MyTracks and re-branded as OpenTracks.\r\n\r\nIn this talk, I will present the hands-on lessons I learned in the subsequent 3 years of ongoing development.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3344,
+      "code": "8YMG3X",
+      "public_name": "Dennis Guse",
+      "biography": "Somebody who can code and stayed long enough at university.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

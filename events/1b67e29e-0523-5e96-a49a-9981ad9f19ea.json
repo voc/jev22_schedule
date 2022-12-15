@@ -1,0 +1,40 @@
+{
+  "id": 49267,
+  "guid": "1b67e29e-0523-5e96-a49a-9981ad9f19ea",
+  "logo": "",
+  "date": "2022-12-30T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:30",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49267-placeholder-review-closing",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/",
+  "title": "placeholder, Review & Closing",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 30 min",
+  "language": "en",
+  "abstract": "Review & Closing done  by crew",
+  "description": "Review & Closing done  by crew",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3393,
+      "code": "YPRCZQ",
+      "public_name": "pandora",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 181,
+      "code": "KWLW8R",
+      "public_name": "cven",
+      "biography": "Organizers",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

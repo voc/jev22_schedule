@@ -1,0 +1,33 @@
+{
+  "id": 49182,
+  "guid": "881f2b25-78a1-5de2-874d-d5a1fc648d5b",
+  "logo": "/media/hip-berlin-2022/submissions/LSVHXN/IntroToScientificJournalism_AGUXdbh.png",
+  "date": "2022-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "00:55",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49182-an-introduction-to-scientific-journalism",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/",
+  "title": "An Introduction to Scientific Journalism",
+  "subtitle": "",
+  "track": "Track 2 Room 2",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "The History, State, and Potential of Scientific Journalism, For a More Accountable and Reproducible Media Ecosystem.",
+  "description": "Scientific journalism (not to be confused with 'Wissenschaftsjournalismus') is essentially the application of the principles of the scientific method to the process and presentation of journalistic work. This presentation will further define and recall the history -- from Philip Meyer's precision journalism, to WikiLeaks -- of the concept, how it has been practiced in the past, and how it could be practiced in the future. I will also outline my own model of revision-controlled journalism (RCJ) as a further extension that draws on the benefits of open-source intelligence and version control systems.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3312,
+      "code": "XXFLKC",
+      "public_name": "Janine",
+      "biography": "Janine is a privacy researcher, independent investigative journalist, and educator on the topics of information security, financial technology, and (counter)surveillance.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

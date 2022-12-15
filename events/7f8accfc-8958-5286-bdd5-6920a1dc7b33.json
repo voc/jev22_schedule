@@ -1,0 +1,40 @@
+{
+  "id": 49118,
+  "guid": "7f8accfc-8958-5286-bdd5-6920a1dc7b33",
+  "logo": "",
+  "date": "2022-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49118-haecksen-frhstck",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/3KMN8W/",
+  "title": "Haecksen-Fr\u00fchst\u00fcck",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Haecksenfr\u00fchst\u00fcck f\u00fcr interessierte FINTA-Personen",
+  "description": "-",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 43,
+      "code": "7NGZ9Q",
+      "public_name": "C_ristina",
+      "biography": "Defense Haeckse, Gynformation, geekfem, Cryptoparty HH, hat Pony-gro\u00dfe Hunde und \u00fcberall wo es Pommes gibt.",
+      "answers": []
+    },
+    {
+      "id": 3277,
+      "code": "QXW9GB",
+      "public_name": "melzai",
+      "biography": "Ich mache bei den Haecksen Meta-Orga und schaute unter Anderem auf die Anwendbarkeit von Quantum Computing im lebenswissenschaftlichen Bereich.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

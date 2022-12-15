@@ -1,0 +1,33 @@
+{
+  "id": 49183,
+  "guid": "b8b66404-90dd-5119-84b4-72c0e284cb16",
+  "logo": "",
+  "date": "2022-12-29T16:45:00+01:00",
+  "start": "16:45",
+  "duration": "01:30",
+  "room": "Track 2 room 2",
+  "slug": "hip-berlin-2022-49183-eduroam-eine-reise-durch-die-technik-hinter-der-fderation",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/",
+  "title": "eduroam - eine Reise durch die Technik hinter der F\u00f6deration",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "de",
+  "abstract": "In diesem Vortrag wollen wir uns einmal auf eine kleine Reise durch die technischen Grundlagen des internationalen Hochschul-WLANs \"eduroam\" begeben.",
+  "description": "Fast alle Studis kennen es: Das Hochschul-WLAN eduroam . An fast jeder Uni oder Hochschule in Deutschland kommen Forscher:innen und Studierende damit ins Internet. Aber wie funktioniert das ganze eigentlich? Wer tr\u00e4gt was dazu bei?\r\nDieser Vortrag soll all das kl\u00e4ren.\r\n\r\nZun\u00e4chst wollen wir uns die Geschichte des f\u00f6derierten Internetzugangs und die Anf\u00e4nge von eduroam anschauen.\r\nAls n\u00e4chstes wollen wir uns mit der Technik und den Protokollen besch\u00e4ftigen. Was geschieht, wenn ich mich an einer anderen Einrichtung einlogge? Woher wissen die Komponenten, wer jetzt f\u00fcr mich zust\u00e4ndig ist?\r\nDa bei eduroam viele Einrichtungen beteiligt sind, muss der Login-Vorgang aber auch abgesichert werden. Wie funktioniert die Sicherheit im eduroam? Was muss ich beachten und was hilft mir dabei?\r\nAbschlie\u00dfend wollen wir uns mit der Zukunft besch\u00e4ftigen. Wo geht die Reise hin? Wo kann eduroam weiterentwickelt werden?\r\n\r\nF\u00fcr wen vorher eduroam eine BlackBox war, der hat nach dem Vortrag hoffentlich ein etwas besseres Verst\u00e4ndnis.\r\nUnd wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich danach etwas mehr dar\u00fcber, was alles schief gegangen sein k\u00f6nnte.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 245,
+      "code": "WJF9DS",
+      "public_name": "Janfred",
+      "biography": "Janfred (28, Pronomen er/sein) arbeitet beim DFN-Verein im eduroam-Team und studiert parallel Informatik an der Universit\u00e4t Bremen.\r\nSchon zu Anfang des Studiums hat er angefangen, beim Zentrum f\u00fcr Netze an der Universit\u00e4t Bremen im WLAN-Team zu arbeiten und hat sich schnell auf die Serverkonfiguration gest\u00fcrzt.\r\nDabei hat er insbesondere ein Interesse an IT-Sicherheit und Internetprotokollen entwickelt.\r\nAktuell ist er in verschiedenen internationalen eduroam-Gremien und der IETF aktiv.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,8 +1,49 @@
 {
   "data": {
-    "version": "2022-12-02 22:04",
-    "source_urls": [],
-    "rooms": [],
+    "version": "2022-12-15 22:50; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "source_urls": [
+      "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",
+      "https://cfp.ccc-p.org/rtc22/schedule/export/schedule.json",
+      "https://pretalx.c3voc.de/fire-shonks-2022/schedule/export/schedule.json"
+    ],
+    "rooms": [
+      {
+        "guid": null,
+        "schedule_name": "Theater Hall E.T.I."
+      },
+      {
+        "guid": null,
+        "schedule_name": "Track 2 room 2"
+      },
+      {
+        "guid": null,
+        "schedule_name": "workshop room 3"
+      },
+      {
+        "guid": null,
+        "schedule_name": "soldering room 7"
+      },
+      {
+        "guid": null,
+        "schedule_name": "c-base mainhall"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Sparti"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Fireshonks-Stream"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Fireshonks-Workshop"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Seminarraum 1 (25)"
+      }
+    ],
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",

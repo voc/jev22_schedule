@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "guid": "ef0a4cff-09db-5cb4-bbeb-ecb3ca678345",
+  "logo": "",
+  "date": "2022-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "rtc22-1-opening",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/",
+  "title": "Opening",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Hello world!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 4,
+      "code": "7KU3YH",
+      "public_name": "cyroxx",
+      "biography": "my little bio",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

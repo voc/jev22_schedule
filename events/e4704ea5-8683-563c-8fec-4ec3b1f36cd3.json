@@ -1,0 +1,33 @@
+{
+  "id": 11,
+  "guid": "e4704ea5-8683-563c-8fec-4ec3b1f36cd3",
+  "logo": "",
+  "date": "2022-12-29T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-11-die-mikroarchitektur-moderner-prozessoren-ein-crashkurs",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/FEWKFR/",
+  "title": "Die Mikroarchitektur moderner Prozessoren: ein Crashkurs",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Moderne Prozessoren f\u00fchren Programme mit beeindruckender Geschwindigkeit aus.  Aber wie tun sie das eigentlich?  Wir steigen im Rahmen dieses Vortrages vom Level der Hochsprache runter zum Assembler und schauen uns mal an, was ein Prozessorkern eigentlich genau tut, wenn er Maschinenbefehle ausf\u00fchrt.  Wir werden dabei lernen, wie Hardwaredesigner \u00fcber die Jahrzehnte der CPU beigebracht haben, pro Takt meist mehrere Befehle auszuf\u00fchren und dabei Schwierigkeiten wie langsamen Speicher und unvorhersehbare Spr\u00fcngen umschifft.  Mitnehmen kann der Zuh\u00f6rer dazu praktische Hinweise, wie man den eigenen Code verbessern kann, sodass er schneller ausgef\u00fchrt wird.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 14,
+      "code": "DMGMGX",
+      "public_name": "Robert Clausecker",
+      "biography": "Ich erforsche die Implementierung kombinatorischer Algorithmen mit SIMD-Techniken, heuristische Suche, und das SAT-Problem am Zuse-Institut zu Berlin.  Au\u00dferhalb dessen besch\u00e4ftige ich mich mit historischer Rechentechnik und der Programmierung dieser.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

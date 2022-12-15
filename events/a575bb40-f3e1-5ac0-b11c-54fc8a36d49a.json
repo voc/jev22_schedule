@@ -1,0 +1,33 @@
+{
+  "id": 18,
+  "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
+  "logo": "",
+  "date": "2022-12-30T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "rtc22-18-technikphilosophische-jahresendgala",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
+  "title": "Technikphilosophische Jahresendgala",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.",
+  "description": "Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen B\u00fccher handeln von Cyberphilosophie, Hackern und \"informierten T\u00fcftlern\", von uns also.  Lasst es auf Euch wirken.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 2,
+      "code": "8Q7ENU",
+      "public_name": "ajuvo",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

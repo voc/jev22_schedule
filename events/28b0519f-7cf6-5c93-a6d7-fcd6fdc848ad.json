@@ -1,0 +1,33 @@
+{
+  "id": 49088,
+  "guid": "28b0519f-7cf6-5c93-a6d7-fcd6fdc848ad",
+  "logo": "",
+  "date": "2022-12-29T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49088-how-to-become-an-openstreetmap-pro",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/",
+  "title": "How to become an OpenStreetMap pro",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.",
+  "description": "I will show various editors, validators, parsers and other tools for both general and more specific purposes. I'm also sharing some tips and tricks I've learned during several years of OSM mapping.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 183,
+      "code": "UYSXKG",
+      "public_name": "jomo",
+      "biography": "- \ud83d\udc18 [@jomo@mstdn.io](https://mstdn.io/@jomo])\r\n- \ud83d\udc26 [@0xjomo](https://twitter.com/0xjomo)\r\n- \ud83c\udf10 [jomo.tv](https://jomo.tv)\r\n- \ud83d\udc8c [r3s\u24d0jomo.tv](mailto:r3s\ud83d\udc8cjomo.tv)",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

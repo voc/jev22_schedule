@@ -1,0 +1,33 @@
+{
+  "id": 49152,
+  "guid": "0ce3f88d-c508-5481-916e-3a70e181d56c",
+  "logo": "",
+  "date": "2022-12-27T19:45:00+01:00",
+  "start": "19:45",
+  "duration": "01:00",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49152-update-on-kubernetes-security-in-critical-infrastructure",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YYQ7DK/",
+  "title": "Update on Kubernetes Security in Critical Infrastructure",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "We summarize howto secure Kubernetes clusters in critical infrastructure and give insights from the machine rooms.",
+  "description": "Cloud native technology has made its way into critical infrastructure. Controlling transmission grids, energy stock exchanges and in the future government applications gets closer and closer to the way how the big providers are running applications in their public cloud.\r\n\r\nHowever, for security reasons expressed in regulation and standards require air gapped environments. The talks describes the architecture of applications designed for this kind of environments, how they are developed and updated and secured.\r\n\r\nThe author discusses regulations, especially of the German BSI, CIS, NIST, what is there and what is missing and must be adapted from international standards. These kind of use cases assume a certain maturity of K8S, we check what has improved in the last year and what is still missing.\r\n\r\nThe talk contains more than traces of DevSecOps, GitOps and code signing.  ~Hacking~ Trainings examples are available at https://github.com/thomasfricke/training-kubernetes-security",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 287,
+      "code": "DLBBNE",
+      "public_name": "Thomas Fricke",
+      "biography": "Der Redner hat sich von Anfang mit Web, Linux und auch Kubernetes und Clouds besch\u00e4ftigt. Meistens arbeitet er mit K8S in air gapped Umgebungen im Bereich Gesundheit, Energie und Verwaltung. Er hat einige Architektur Sitzungen im IT Planungsrat ehrenamtlich begleitet.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

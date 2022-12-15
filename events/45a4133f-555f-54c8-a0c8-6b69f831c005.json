@@ -1,0 +1,33 @@
+{
+  "id": 49077,
+  "guid": "45a4133f-555f-54c8-a0c8-6b69f831c005",
+  "logo": "/media/fire-shonks-2022/submissions/BBJ7JR/text-decoded_GFcHg4o.png",
+  "date": "2022-12-30T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49077-die-technik-hinter-teletext",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/BBJ7JR/",
+  "title": "Die Technik hinter Teletext",
+  "subtitle": "",
+  "track": "R3S - Remote Rhein Ruhr Stage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "...oder wie man eine Bildschirmseite in 6720 Bits bringt",
+  "description": "Teletext wird immer noch von Millionen von Leuten t\u00e4glich genutzt. Insbesondere in Zeiten, in denen das Web irrsinnig fett geworden ist, ist es sicherlich interessant zu sehen, welche ressourcensparenden Alternativen es gibt.\r\nAuch ist Teletext ein wunderbares Beispiel f\u00fcr ein Protokoll, welches aus der Zeit vor dem Mikrocomputer stammt, eine Vision, um der Masse Zugriff zu Computern zu geben, die bis ins Heute weiterentwickelt wurde.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 180,
+      "code": "JVRP8M",
+      "public_name": "Christian Berger",
+      "biography": "Ich arbeite als Voice-Engineer bei einer D\u00fcsseldorfer Telefonfirma, und finde alte Technologien spannend, da sie oft die Essenz dahinter offen legen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

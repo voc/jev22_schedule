@@ -1,0 +1,33 @@
+{
+  "id": 14,
+  "guid": "0d6314a9-9049-59b4-b6e3-3d909086b378",
+  "logo": "/media/rtc22/submissions/MCVSWU/Logo_blue_f148DRv.png",
+  "date": "2022-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "rtc22-14-machen-wir-die-elektronik-durch-hardware-as-a-service-kreislauffhiger",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/MCVSWU/",
+  "title": "Machen wir die Elektronik durch \"Hardware as a service\" kreislauff\u00e4higer",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Die Elektronikindustrie verursacht eine gro\u00dfe Menge negativer externer Effekte, von den Minen bis zum Ende der Lebensdauer der Produkte. Viele Studien haben gezeigt, dass die meisten dieser Auswirkungen w\u00e4hrend der Entstehung und dem Ende des Produkts auftreten. Daher besteht die erste Priorit\u00e4t darin, die Zahl der hergestellten und verkauften elektronischen Ger\u00e4te zu verringern. Dies ist jedoch f\u00fcr Unternehmen, die ausschlie\u00dflich auf den Verkauf dieser Ger\u00e4te angewiesen sind, nicht realisierbar. Daher ist ein anderes Gesch\u00e4ftsmodell erforderlich: Product as as Service (PaaS). Wir werden untersuchen, unter welchen Bedingungen diese neue Art des Wirtschaftens wirklich nachhaltig sein kann (Spoiler: indem sie zirkul\u00e4r ist!) und ob die Elektronik nicht auch zu einem Gemeingut werden k\u00f6nnte.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 19,
+      "code": "FVXUPD",
+      "public_name": "Lina Dingler",
+      "biography": "F\u00fcr Commown - der Kooperative f\u00fcr nachhaltige Elektronik - mache ich die Presse - und \u00d6ffentlichkeitsarbeit f\u00fcr die DACH-Region. Auch nebenberuflich ist mein Interesse im Umweltschutz erkennbar. Derzeit lasse ich mich nebenberuflich als Campaignerin mit Schwerpunkt auf Klimaaktivismus ausbilden. Die Zirkularit\u00e4t der Elektronikindustrie ist eine gro\u00dfe Herausforderung, lasst sie uns gemeinsam angehen!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

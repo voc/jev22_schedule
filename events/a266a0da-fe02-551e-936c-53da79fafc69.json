@@ -1,0 +1,33 @@
+{
+  "id": 49079,
+  "guid": "a266a0da-fe02-551e-936c-53da79fafc69",
+  "logo": "",
+  "date": "2022-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49079-how-to-prepare-files-for-lasercutting-inkscape-workshop-",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/",
+  "title": "How to prepare files for lasercutting (Inkscape Workshop)",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Wie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im vorangestellten Lightning-Talk erhaltet ihr eine kleine \u00dcbersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download).\r\n\r\nHow do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the preceding lightning talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download).",
+  "description": "This workshop can be held bilingually in English/German upon request. German by default.\r\nThis is an interactive workshop in BBB, nothing is recorded, but you can participate a lot!\r\n\r\nDieser Workshop findet auf Anfrage zweisprachig auf Englisch/Deutsch statt, sonst auf deutsch.\r\nDies ist ein interaktiver Workshop im BBB, es wird nichts aufgezeichnet, daf\u00fcr darf viel mitgemacht werden!",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3239,
+      "code": "BGKNHG",
+      "public_name": "merline",
+      "biography": "Haeckse und Macherin // Haeckse and maker",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

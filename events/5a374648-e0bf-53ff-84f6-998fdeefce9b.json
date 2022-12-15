@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "guid": "5a374648-e0bf-53ff-84f6-998fdeefce9b",
+  "logo": "",
+  "date": "2022-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-4-cursedin-dnb-",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
+  "title": "cursedin (DnB)",
+  "subtitle": "",
+  "track": null,
+  "type": "Performance",
+  "language": "de",
+  "abstract": "wahrscheinlich liquid DnB. tanzbar, darf aber auch zu code verarbeitet werden",
+  "description": "https://soundcloud.com/cursedin",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 10,
+      "code": "HYUTSA",
+      "public_name": "Kerstin",
+      "biography": "Kommunikationsdesignerin, die sich f\u00fcr functional programming, Computernetze, Open Source Maintainership und DnB interessiert.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

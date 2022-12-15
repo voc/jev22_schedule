@@ -1,0 +1,33 @@
+{
+  "id": 2,
+  "guid": "31916d57-f27c-5fa7-9b8f-760311966f4a",
+  "logo": "",
+  "date": "2022-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-2-misconceptions-about-energy-assessment",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/FEK7VC/",
+  "title": "Misconceptions about Energy Assessment",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "The energy consumption of computer systems are of increasing interest. But it is easy to shoot yourself in the foot while measuring your software. In this talk you will learn about different ways of assessing your software's energy demand, basic mistakes in measurements and how to avoid them.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 6,
+      "code": "NCEZ93",
+      "public_name": "tzwenn",
+      "biography": "Sven is a Ph.D. student at the Operating Systems and Middleware Group at the HPI Potsdam. His interest is into energy-aware computing and operating system support for accelerators.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

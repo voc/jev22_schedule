@@ -1,0 +1,33 @@
+{
+  "id": 49097,
+  "guid": "02136e0f-21ff-5c64-a3c8-11046444da44",
+  "logo": "",
+  "date": "2022-12-27T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "00:45",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49097-perimeter-security-is-dead-get-over-it-",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9KFG8N/",
+  "title": "Perimeter security is dead, get over it.",
+  "subtitle": "",
+  "track": "Theater Hall - E.T.I. (HiP main stage)",
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "I wil talk why perimeter security is no longer a useful security principle, what could replace it and how to migrate",
+  "description": "Perimeter security has been a principle of our security architecture for decades and for a long time it has served us well. \r\n\r\nBut lately especially malware waves have shown that its not working well anymore.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3255,
+      "code": "GTP8BL",
+      "public_name": "mc.fly",
+      "biography": "mc.fly. Conference goer since 1997, speaker since 1999, security since 2005",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

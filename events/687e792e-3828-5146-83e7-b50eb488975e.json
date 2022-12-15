@@ -1,0 +1,33 @@
+{
+  "id": 49269,
+  "guid": "687e792e-3828-5146-83e7-b50eb488975e",
+  "logo": "/media/hip-berlin-2022/submissions/3QLP7D/QeyGen_Ve4Ww8I.png",
+  "date": "2022-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "workshop room 3",
+  "slug": "hip-berlin-2022-49269-quantenverschlsselung-in-einer-box",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
+  "title": "Quantenverschl\u00fcsselung in einer Box",
+  "subtitle": "",
+  "track": "Workshop - E.T.I.",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Da zuk\u00fcnftige Quantencomputer besonders gut darin sind, klassische Verschl\u00fcsselungen zu knacken, werden andere Formen der Schl\u00fcsselgenerierung ben\u00f6tigt.\r\nEine m\u00f6gliche L\u00f6sung ist die Erzeugung von sogenannten Quantenschl\u00fcsseln, die eine besondere Eigenheit der Quantenmechanik ausnutzen.\r\nStatt mit einzelnen Photonen werden wir im Workshop einen Schl\u00fcssel mit dem extra daf\u00fcr entwickelten Quantenschl\u00fcsselgenerator, kurz Qey-Gen, erzeugen. So kann jeder direkt hands-on das Verfahren ausprobieren und verstehen.",
+  "description": "In den letzten Jahrzehnten ist die Transistordichte so hoch geworden, dass klassische Computer mit den Eigenheiten der Quantenmechanik zu k\u00e4mpfen haben. Auf der anderen Seite machen sich Quantencomputer genau diese zunutze und revolutionieren moderne Rechenprozesse. So versprechen sie beispielsweise sichere Kommunikation, Simulation komplexer Molek\u00fcle und vieles mehr.\r\nEine Problemstellung, in denen Quantencomputer besonders stark sind, ist die Primfaktorzerlegung, auf Basis welcher viele unserer heutigen Kommunikationsschl\u00fcssel erzeugt werden. Um in Zukunft sicherer zu kommunizieren, wird vor allem auf sogenannte Quantenschl\u00fcssel gesetzt.\r\nIm Workshop werden wir uns genauer auf das BB84 Protokoll konzentrieren. Um die quantenmechanischen Grundlagen zu erkl\u00e4ren und den Schl\u00fcssel zu generieren, benutzen wir eine open source laser-gecuttete Holzbox.\r\n\r\nDie Box wurde in Zusammenarbeit mit den Jungen T\u00fcftler:innen und der TU Berlin entwickelt und wurde vom Bildungsministerium f\u00fcr Bildung und Forschung gef\u00f6rdert.\r\nDie Laser-Cut-Dateien findet man unter https://tueftelakademie.de/quanten1x1/quantenverschluesselung/gey-gen",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3372,
+      "code": "JWENKQ",
+      "public_name": "Tobias Schubert",
+      "biography": "Neben meinem Physikstudium habe ich bereits seid mehreren Jahren Erfahrungen im Bereich der Wissenschaftskommunikation machen k\u00f6nnen. Ob auf Freizeitveranstaltungen wie Musikfestivals, in Einkaufszentren oder Tagen der offenen T\u00fcren, Menschen haben immer Lust herauszufinden wie die Dinge funktionieren. Um an diese spielerische Neugier anzukn\u00fcpfen, macht es mir Spa\u00df interaktive Installationen zu entwickeln, die wissenschaftliche Inhalte kommunizieren.\r\nSeit 2020 arbeite ich als wissenschaftlicher Mitarbeiter an der FU Berlin im \"Projektlabor Wissenschaftskommunikation\".",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

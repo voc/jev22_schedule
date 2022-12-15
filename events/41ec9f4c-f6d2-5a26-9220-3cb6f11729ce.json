@@ -1,0 +1,33 @@
+{
+  "id": 49209,
+  "guid": "41ec9f4c-f6d2-5a26-9220-3cb6f11729ce",
+  "logo": "",
+  "date": "2022-12-27T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:45",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49209-the-train-has-left-the-station-building-systems-for-a-2c-world",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WHRJMW/",
+  "title": "The train has left the station: Building systems for a +2C world",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "Following on from the failure of COP27 and recent events that seem to show that our models underestimated climate sensitivity to CO2 by at least an order of magnitude, it appears that climate chaos is unavoidable. How we build everything from now on will have to have resilience built in at its core, but this is very different to the way we have previously thought about technology. This talk aims to describe some of the problem space and how the presenters experience with disasters and crisis has shaped some of their work in the payments technology space.",
+  "description": "Following on from the failure of COP27 and recent events that seem to show that our models underestimated climate sensitivity to CO2 by at least an order of magnitude, it appears that climate chaos is unavoidable. We seem dead set on a course that will take global temperatures to +2C and possibly beyond into territory uncharted by humans in our evolutionary history to date. \r\n\r\n How we build everything from now on will have to have resilience built in at its core, but this needs a very different of way thinking compared to the way we have previously thought about technology or imagined the direction of progress. This talk aims to describe some of the problem space and how the presenters experience with disasters and crisis has shaped some of their work in the payments technology space. This might be enlightening as to how we will have to rethink technology from the ground up in order for it still to be useful for the majority of humanity on a hot planet.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3333,
+      "code": "XVUJXK",
+      "public_name": "emerson",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

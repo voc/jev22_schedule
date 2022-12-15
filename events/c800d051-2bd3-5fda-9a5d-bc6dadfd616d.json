@@ -1,0 +1,33 @@
+{
+  "id": 49174,
+  "guid": "c800d051-2bd3-5fda-9a5d-bc6dadfd616d",
+  "logo": "/media/fire-shonks-2022/submissions/BGAQ3C/Werbung_01_Datenschutz_f%C3%A4llt_heute_aus_C9wTcpr.png",
+  "date": "2022-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "00:30",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49174-db-schnffelnavigator",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/",
+  "title": "DB Schn\u00fcffelnavigator",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Die Bahn-App \u201eDB Navigator\u201d gibt viele Informationen \u00fcber uns an Tracking-Firmen weiter \u2013 und wir haben keine M\u00f6glichkeit, dem zu widersprechen. Digitalcourage klagt dagegen. Denn wir wollen Bahn fahren, nicht Daten liefern.",
+  "description": "Digitalcourage klagt gemeinsam mit dem  IT-Sicherheitsforscher, Datenschutzaktivist und Blogger Mike Kuketz und dem auf IT- und Datenschutzrecht spezialisierten Anwalt Peter Hense gegen Tracker im \u201eDB Navigator\u201d.\r\nWelche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Kniff die Bahn versucht hat, sich rauszureden \u2013 das erz\u00e4hlt Julia Witte von Digitalcourage.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3310,
+      "code": "RHVBXA",
+      "public_name": "Julia Witte",
+      "biography": "Julia Witte arbeitet bei Digitalcourage e.V. und hat den Anspruch, Fachwissen so zu \u00fcbersetzen, dass es auch f\u00fcr diejenigen verst\u00e4ndlich ist, die sich nicht intensiv mit Digitalthemen oder Netzpolitik besch\u00e4ftigen k\u00f6nnen. Sie ist gelernte H\u00f6rfunkjournalistin und hat mal was mit S\u00fcdostasienkunde studiert.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49248,
+  "guid": "0d6f2cc4-bda7-5a6e-a772-0308431d32a1",
+  "logo": "",
+  "date": "2022-12-29T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "Theater Hall E.T.I.",
+  "slug": "hip-berlin-2022-49248-no-fuzzer-has-been-there-yet-finding-bugs-in-linux-wireless-stacks",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A3ULZV/",
+  "title": "No Fuzzer has been there yet: Finding Bugs in Linux Wireless Stacks",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "language": "en",
+  "abstract": "Everything started with a Python script that helped discover a memory leak in the Linux Bluetooth stack. After expanding it to a rock-solid fuzzer targeting the Linux Bluetooth stack and discovering more bugs, we extend it to Wi-Fi. \ud83d\udca5 BOOM \ud83d\udca5! A heap overflow (CVE-2022-41674) and more severe vulnerabilities that do not require user interaction and also affect Android devices.",
+  "description": "This talk introduces how (kernel) fuzzing works and how our fuzzer for Linux wireless interfaces works specifically. I will show some issues we stumbled upon and how we solved them. Finally, I discuss some of the vulnerabilities it found and will provide some insight into the disclosure process.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3363,
+      "code": "MN9LUT",
+      "public_name": "S\u00f6nke",
+      "biography": "After obtaining his master degree in computer science at TU Darmstadt, S\u00f6nke currently works as security researcher at the Secure Mobile Networking Lab (TU Darmstadt).",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

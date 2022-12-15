@@ -1,0 +1,33 @@
+{
+  "id": 49117,
+  "guid": "2c87a62a-9195-5214-8495-1c1c276c1b0f",
+  "logo": "",
+  "date": "2022-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49117-askmeanything-quantum-computing",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PLZQB3/",
+  "title": "AskMeAnything Quantum Computing",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Wir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.",
+  "description": "Quantum Computing befindet sich immer noch hoch auf der Hype-Kurve, allerdings warnen auch die Ersten vor dem Quantum Winter. Wir reden, je nach euren Fragen, \u00fcber diese und andere Themen. Gleichzeitig klicken wir uns einen Zugang im IBM Qiskit System und lassen die ersten Notebooks der Tutorials laufen. Basierend auf diesen Eindr\u00fccken k\u00f6nnen wir dann besprechen was die jeweils momentan zur Verf\u00fcgung stehenden Systeme leisten k\u00f6nnen.\r\nIhr braucht also: Popcorn, Taschent\u00fccher f\u00fcr die Lachtr\u00e4nen, Beruhigungstee sowie einen IBM Qiskit Account oder eine lokale Installation von Qiskit von https://qiskit.org/\r\n(Andere Systeme d\u00fcrft ihr auch gern nutzen, aber dann m\u00fcsst ihr selbstst\u00e4ndig debuggen.)",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3277,
+      "code": "QXW9GB",
+      "public_name": "melzai",
+      "biography": "Ich mache bei den Haecksen Meta-Orga und schaute unter Anderem auf die Anwendbarkeit von Quantum Computing im lebenswissenschaftlichen Bereich.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

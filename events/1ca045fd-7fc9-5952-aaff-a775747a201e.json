@@ -1,0 +1,33 @@
+{
+  "id": 49180,
+  "guid": "1ca045fd-7fc9-5952-aaff-a775747a201e",
+  "logo": "/media/fire-shonks-2022/submissions/VFXVLS/abc_023SrPY.jpeg",
+  "date": "2022-12-28T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "fire-shonks-2022-49180-kann-quick-freeze-die-vorratsdatenspeicherung-endlich-beerdigen-",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VFXVLS/",
+  "title": "Kann Quick Freeze die Vorratsdatenspeicherung endlich beerdigen?",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Seit Jahrzehnten k\u00e4mpfen wir politisch und juristisch gegen die Vorratsdatenspeicherung. Kann \"Quick Freeze\" der richtige Weg sein, um den \u00dcberwachungszombie endg\u00fcltig zu beerdigen?",
+  "description": "Nach einer ganz kurzen Einordnung der Vorratsdatenspeicherung wollen wir den aktuellen Vorschlag zu einem Quick-Freeze-Verfahren skizzieren und warum wir darin eine Chance sehen. Wir geben einen \u00dcberblick dar\u00fcber, was die Bundespolitik gerade diskutiert, wie ein rechtsstaatlich vertretbares Instrument aussehen k\u00f6nnte und welche Fallstricke und Gefahren darin noch lauern.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 302,
+      "code": "XQZELM",
+      "public_name": "Konstantin Macher (Digitalcourage)",
+      "biography": "Konstantin ist Politikwissenschaftler mit lebenslanger Technikbegeisterung und Freude am Basteln. Seinem Drang nach gesellschaftlichem Engagement kommt er besonders durch seine Arbeit als Campaigner bei Digitalcourage e.V. nach. Dort bearbeitet er meist sicherheitspolitische Themen und koordiniert sich mit anderen Aktiven, z.B. zu den Themen #Chatkontrolle, #ReclaimYourFace, #PersoOhneFinger, #Vorratsdatenspeicherung und vieles mehr.\r\nKontakt gerne im Fediverse an @konstantin@digitalcourage.social",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

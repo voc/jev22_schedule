@@ -1,0 +1,33 @@
+{
+  "id": 49191,
+  "guid": "9133c081-f720-5035-9207-ee9c586dbccc",
+  "logo": "",
+  "date": "2022-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "03:00",
+  "room": "workshop room 3",
+  "slug": "hip-berlin-2022-49191-programming-games-in-go-for-pretty-much-all-platforms",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/",
+  "title": "Programming Games in Go for Pretty Much All Platforms",
+  "subtitle": "",
+  "track": "Workshop - E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Over the past couple of years, I've grown a new hobby of programming retro puzzle games in the Go programming language. This led to my first commercial puzzle adventure game, Dr. Kobushi's Labyrinthine Laboratory, being published on Nintendo Switch while being written fully in Go!\r\n\r\nBut isn't Go a network applications language? Can you really have fun creating all sorts of games in Go? Not only is the answer a resounding \"yes\", but you can then easily compile your game to ship it for Windows, Mac (including notarized, Universal apps), Linux, iPhone, Android and even Nintendo Switch!\r\n\r\nIn this workshop, we'll create a simple arcade game together using Go and the Ebitengine game library for Go. Basic knowledge of the Go programming language is recommended, but not much else!",
+  "description": "Over the past couple of years, I've grown a new hobby of programming retro puzzle games in the Go programming language. This led to my first commercial puzzle adventure game, Dr. Kobushi's Labyrinthine Laboratory, being published on Nintendo Switch while being written fully in Go!\r\n\r\nBut isn't Go a network applications language? Can you really have fun creating all sorts of games in Go? Not only is the answer a resounding \"yes\", but you can then easily compile your game to ship it for Windows, Mac (including notarized, Universal apps), Linux, iPhone, Android and even Nintendo Switch!\r\n\r\nIn this workshop, we'll create a simple arcade game together using Go and the Ebitengine game library for Go. Basic knowledge of the Go programming language is recommended, but not much else!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3321,
+      "code": "MCGCZS",
+      "public_name": "Nadim Kobeissi",
+      "biography": "Nadim Kobeissi is the director of Symbolic Software, a Paris-based software consultancy outfit with a focus on applied cryptography and software security. We also make excellent puzzle games.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49148,
+  "guid": "27a74be1-ec18-5618-a812-d40c3de0c6f8",
+  "logo": "",
+  "date": "2022-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "fire-shonks-2022-49148-queerbrunch-queeres-sitzen-und-essen-",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GDPMJ8/",
+  "title": "Queerbrunch! Queeres sitzen und essen!",
+  "subtitle": "",
+  "track": "Haecksen Tracks",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Queer brunch! Wir treffen uns zum gem\u00fctlichen plausch. Offen f\u00fcr alle Menschen die sich als queer oder LGBTQI+ identifizieren!",
+  "description": "Queer brunch! Wir treffen uns zum gem\u00fctlichen plausch. Offen f\u00fcr alle Menschen die sich als queer oder LGBTQI+ identifizieren!",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3287,
+      "code": "7VZLH3",
+      "public_name": "dakoraa",
+      "biography": "To queer to write a biography.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "pretalx.c3voc.de"
+}

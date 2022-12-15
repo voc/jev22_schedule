@@ -1,0 +1,33 @@
+{
+  "id": 9,
+  "guid": "3857781d-01fe-5eb6-85e4-23c38dcb1205",
+  "logo": "/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png",
+  "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-9-wir-knnen-dich-durchschauen-bildgebung-in-der-medizin",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/UGPT9B/",
+  "title": "Wir k\u00f6nnen dich durchschauen - Bildgebung in der Medizin",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Dunkle R\u00e4ume, teure Bildschirme, spannende Technik - willkommen in der Radiologie! Erfahrt welche g\u00e4ngigen M\u00f6glichkeiten es gibt, Bilder vom Inneren des K\u00f6rpers zu machen, wie die Verfahren funktionieren und wof\u00fcr sie geeignet sind.",
+  "description": "In diesem Vortrag werden die Grundlagen der medizinischen Bildgebung vorgestellt und gezeigt, was die verschiedenen Verfahren wie Ultraschall, R\u00f6ntgen, CT und MRT beinhalten und wie sie funktionieren. Wir gehen auf Anwendungsbereiche und Risiken ein und sehen, was sich hinter den h\u00e4ufig verwendeten Abk\u00fcrzungen verbirgt. Der Vortrag richtet sich an interessierte Laien und verzichtet auf m\u00f6glicherweise verst\u00f6rende Fotos. Seid dabei, um mehr \u00fcber die spannende Welt der medizinischen Bildgebung zu erfahren!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 12,
+      "code": "ZMUG7R",
+      "public_name": "qbit",
+      "biography": "Ich bin qbit (oder Felix) und lerne gerade Medizin in Hamburg. Vorher habe ich in Potsdam Software Engineering studiert. Neben Notfallmedizin interessiert mich die medizinische Informatik und Digitalisierungsprozesse in Praxen und Krankenh\u00e4usern.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

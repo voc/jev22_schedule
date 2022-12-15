@@ -1,0 +1,33 @@
+{
+  "id": 17,
+  "guid": "814912f4-7d40-596e-9320-f05dd9963765",
+  "logo": "/media/rtc22/submissions/P8HTXA/1000-reichsmark_JGS9aMx.jpg",
+  "date": "2022-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-17-technikgebrauch-damals-tm-",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/P8HTXA/",
+  "title": "Technikgebrauch damals(tm)",
+  "subtitle": "",
+  "track": null,
+  "type": "Performance",
+  "language": "de",
+  "abstract": "Opa erz\u00e4hlt jahresendgem\u00e4\u00df vom Krieg",
+  "description": "Eine live-damals(tm)-Performance. Jemand l\u00e4uft vor 100-80-50-30 Jahren durch deutsche St\u00e4dte, benutzt Verkehrsmittel, nimmt andere Dienstleistungen in Anspruch und betritt Lokalit\u00e4ten.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 2,
+      "code": "8Q7ENU",
+      "public_name": "ajuvo",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}
