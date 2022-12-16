@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-16 12:30; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-16 12:50; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3876,7 +3876,7 @@
                     "id": 3292,
                     "code": "DEYZS9",
                     "public_name": "Wolfgang Hotwagner",
-                    "biography": "Wolfgang Hotwagner is a Research-Engineer at the Cyber Security Research Team of the Austrian Institute of Technology(AIT), where he works on various topics like \"Pentesting\", \"Log File Anomaly Detection\" and \"Cyberrange\". He is a linux enthusiast and practices it-security in his spare time.",
+                    "biography": "Wolfgang Hotwagner ist Research-Engineer im Cyber Security Research Team am Austrian Institute of Technology (AIT). Er arbeitet an Themen wie \"Pentesting\", \"Log Anomalie Erkennung\" und \"Cyberrange\". In seiner Freizeit besch\u00e4ftigt er sich ebenfalls mit IT-Security und hat Spa\u00df mit Linux.",
                     "answers": []
                   }
                 ],
@@ -3979,7 +3979,7 @@
               {
                 "id": 49077,
                 "guid": "45a4133f-555f-54c8-a0c8-6b69f831c005",
-                "logo": "/media/fire-shonks-2022/submissions/BBJ7JR/text-decoded_GFcHg4o.png",
+                "logo": "",
                 "date": "2022-12-30T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "00:40",

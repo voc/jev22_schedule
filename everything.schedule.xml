@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-16 12:30; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
+  <version>2022-12-16 12:50; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3673,7 +3673,7 @@ unterscheiden.</description>
         <attachments/>
       </event>
       <event id="49077" guid="45a4133f-555f-54c8-a0c8-6b69f831c005">
-        <logo>/media/fire-shonks-2022/submissions/BBJ7JR/text-decoded_GFcHg4o.png</logo>
+        <logo/>
         <date>2022-12-30T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>00:40</duration>
