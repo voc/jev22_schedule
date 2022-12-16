@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-16 16:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-16 22:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1270,9 +1270,9 @@
                 "start": "16:15",
                 "duration": "00:30",
                 "room": "Theater Hall E.T.I.",
-                "slug": "hip-berlin-2022-49221-reviving-open-source-projects-at-the-example-af-opentracks",
+                "slug": "hip-berlin-2022-49221-reviving-open-source-projects-at-the-example-of-opentracks",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/",
-                "title": "Reviving open-source projects: at the example af OpenTracks",
+                "title": "Reviving open-source projects: at the example of OpenTracks",
                 "subtitle": "",
                 "track": "Theater Hall - E.T.I. (HiP main stage)",
                 "type": "Talk/panel 30 min",
