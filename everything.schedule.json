@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-16 13:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-16 16:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2004,9 +2004,9 @@
                 "start": "22:00",
                 "duration": "01:00",
                 "room": "Sparti",
-                "slug": "rtc22-4-cursedin-dnb-",
+                "slug": "rtc22-4-cursedin-drum-n-bass-",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
-                "title": "cursedin (DnB)",
+                "title": "cursedin (Drum'n'Bass)",
                 "subtitle": "",
                 "track": null,
                 "type": "Performance",

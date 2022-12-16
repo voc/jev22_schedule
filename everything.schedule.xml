@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-16 13:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
+  <version>2022-12-16 16:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1850,9 +1850,9 @@ Bei beiden Wettbewerben sind Spiele und T-shirts zu gewinnen; beide Enden zu End
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Sparti</room>
-        <slug>rtc22-4-cursedin-dnb-</slug>
+        <slug>rtc22-4-cursedin-drum-n-bass-</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
-        <title>cursedin (DnB)</title>
+        <title>cursedin (Drum'n'Bass)</title>
         <subtitle/>
         <track/>
         <type>Performance</type>
