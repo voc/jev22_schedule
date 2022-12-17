@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-17 15:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-17 17:30; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
     "source_urls": [
       "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",
       "https://cfp.ccc-p.org/rtc22/schedule/export/schedule.json",
@@ -160,7 +160,7 @@
           "is_public": true,
           "date_from": "2022-12-26",
           "date_to": "2022-12-31",
-          "timezone": "UTC",
+          "timezone": "Europe/Berlin",
           "urls": {
             "base": "https://forum.freiraeumen.jetzt/freiraumforum/",
             "schedule": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/",
