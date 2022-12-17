@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-17 07:50; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
+  <version>2022-12-17 15:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1115,6 +1115,7 @@ keywords: Fediverse, Mobilizon, data liberation, adversarial interoperability</d
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="345">Joseph</person>
           <person id="3335">Claudio Agosti</person>
         </persons>
         <links/>

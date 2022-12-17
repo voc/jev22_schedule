@@ -19,6 +19,13 @@
   "do_not_record": false,
   "persons": [
     {
+      "id": 345,
+      "code": "TAENRL",
+      "public_name": "Joseph",
+      "biography": "Free Software advocate working on issues related to digitization and environmental harm, proponent of autonomous (digital) spaces.",
+      "answers": []
+    },
+    {
       "id": 3335,
       "code": "DUSDSD",
       "public_name": "Claudio Agosti",

@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-17 07:50; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-17 15:10; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1339; FireShonks 0.10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1213,6 +1213,13 @@
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
+                  {
+                    "id": 345,
+                    "code": "TAENRL",
+                    "public_name": "Joseph",
+                    "biography": "Free Software advocate working on issues related to digitization and environmental harm, proponent of autonomous (digital) spaces.",
+                    "answers": []
+                  },
                   {
                     "id": 3335,
                     "code": "DUSDSD",
