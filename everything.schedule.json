@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-18 16:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.0; Reconnect To Chaos! 0.1339; FireShonks 0.10",
+    "version": "2022-12-18 19:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.2; Reconnect To Chaos! 0.1339; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3828,6 +3828,51 @@
               }
             ],
             "Fireshonks-Stream": [
+              {
+                "id": 49167,
+                "guid": "3c71d0d5-8779-552b-bde9-05f6cf8909e4",
+                "logo": "",
+                "date": "2022-12-30T09:00:00+01:00",
+                "start": "09:00",
+                "duration": "01:45",
+                "room": "Fireshonks-Stream",
+                "slug": "fire-shonks-2022-49167-videokonferenzen-selbstverstndlich-barrierefrei-warum-checklisten-nicht-ausreichen-wir-aber-trotzdem-eine-prsentieren",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/",
+                "title": "Videokonferenzen: \ud83d\ude48 \ud83d\ude49 \ud83d\ude4a - selbstverst\u00e4ndlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine pr\u00e4sentieren",
+                "subtitle": "",
+                "track": "Digitalcourage",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Wie lassen sich Videokonferenzen so gestalten, dass m\u00f6glichst alle Menschen daran teilhaben k\u00f6nnen?\r\nDieser Frage gehen wir - also die AGs \"Barrierefreiheit\" und \"Inklusion\" vom cyber4EDU e.V. - in unserem interaktiven Vortrag nach.\r\nInhaltlich befassen wir uns dabei mit technischen, organisatorischen und kommunikativen Gestaltungsm\u00f6glichkeiten und er\u00f6rtern sowohl praktische als auch politische Fragen. Dazu betrachten wir positive und negative Beispiele, erg\u00e4nzt um eigene Erfahrungen der AG-Mitglieder.",
+                "description": "Barrierefreiheit und Inklusion hei\u00dft nicht nur auf k\u00f6rperliche Einschr\u00e4nkungen oder Screenreader-Kompatibilit\u00e4t zu achten. Vielmehr bedeutet es, eine ganzheitliche Perspektive einzunehmen und sich die Teilhabe aller zum Ziel zu setzen. Videokonferenzen zug\u00e4nglich zu gestalten, ist daher immer noch eine gro\u00dfe Herausforderung - egal ob es um Vortr\u00e4ge, Unterricht, Diskussionen oder Zusammenarbeit geht. Tats\u00e4chlich w\u00fcrde ich hier sogar gerne k\u00fcrzere S\u00e4tze sehen, vielleicht so: Dabei den Fokus nur auf Soft- und Hardware zu legen, greift zu kurz. Die Teilhabe an Videokonferenzen h\u00e4ngt auch von barrierefreien Medien und organisatorischen Vorkehrungen ab. Entscheidend ist aber eine wertsch\u00e4tzende und entsprechend geregelte Kommunikation auf Augenh\u00f6he.\r\n\r\nAuf der Basis dieses breiten Barrierefreiheitsbegriffs wollen wir uns daher mit der Gestaltung von Videokonferenzen befassen. Unser Anspruch dabei ist: Selbstverst\u00e4ndliche Zug\u00e4nglichkeit f\u00fcr alle und Partizipation von allen. Diesen Anspruch in die Praxis umzusetzen, ist allerdings nicht einfach. Es bedarf der gegenseitigen R\u00fccksichtnahme aller Teilnehmenden auf alle Bedarfe und letztlich eines gemeinsamen Kulturwandels. Wie so h\u00e4ufig gilt auch hier: \"don't panic\" und \"wer nicht anf\u00e4ngt, hat schon verloren\".\r\n\r\nUm den Einstieg zu erleichtern, pr\u00e4sentieren wir die erste Version einer Checkliste mit Best-Practices, die auf Basis der Erfahrungen eines sehr diversen Projektteams gestaltet wurde. Die Erfahrungen zeigen aber auch, dass Inklusionsversuche wie eine Lupe wirken: Sie machen viele weitere Probleme deutlich. Zu diesen geh\u00f6ren unter anderem:\r\n- Kosten f\u00fcr die individuelle Ausstattung mit Soft- und Hardware oder Assistenz(en)\r\n- Datenschutz versus Unterst\u00fctzung\r\n- Bildungsbenachteiligung\r\n- strukturelle Diskriminierung\r\n\r\nBei dem Versuch, diese Probleme genauer zu betrachten und zu l\u00f6sen, stellen sich schnell weitreichende rechtliche und gesellschaftliche Fragen. Insofern ist die Checkliste wirklich nur ein erster Aufschlag und erfordert kontinuierliche Anpassung und Reflexion. Wir machen Vorschl\u00e4ge, wie diese gelingen k\u00f6nnen. \r\n\r\nMit unserem Vortrag m\u00f6chten wir in einen produktiven Austausch mit den Teilnehmenden kommen und \u00fcber die Bedeutung von Barrierefreiheit und Inklusion - aber auch die Herausforderungen und Anforderungen - sprechen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3345,
+                    "code": "KVVQAP",
+                    "public_name": "MoniKa (cyber4EDU e.V.)",
+                    "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3304,
+                    "code": "AU3Z9E",
+                    "public_name": "pnrd",
+                    "biography": "Mitglied bei cyber4EDU - ein Verein aus Eltern, P\u00e4dagog*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3305,
+                    "code": "FFZY8G",
+                    "public_name": "AG_Barrierefreiheit",
+                    "biography": "**Vortragende:**\r\n- Chris, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Hendrik, Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- MoniKa, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Irmhild, cyber4EDU AG Barrierefreiheit, im rl: Wissenschaftlerin, Projektleiterin und Teamleiterin eines sehr diversen Teams;\r\n- JoLa, Wissenschaftlerin und Designerin, Mitglied eines sehr diversen Teams\r\n- Silke, Bildungswissenschaftlerin, Mitglied eines sehr diversen Teams und Vollzeitautistin\r\n\r\n\r\nDie AG Barrierefreiheit und die AG Inklusion von [cyber4EDU e.V.](https://cyber4edu.org/c4e/wiki/start) arbeiten derzeit eng zusammen.\r\n\r\nBei uns steht aktuell das Thema \"Barrierefreie Videokonferenzsysteme\" im Fokus. Gerne w\u00fcrden wir langfristig einen Austausch der verschiedenen Personengruppen - Nutzende, Entwickelnde, Admins, Assistierende, \u2026 - etablieren.\r\n\r\n**Was wir so machen:**\r\nhttps://cyber4edu.org/c4e/wiki/workshops/rc3-nowhere-assembly-day2#uhr1\r\n\r\n**Zu unseren Treffen:**\r\nhttps://cyber4edu.org/c4e/wiki/unsere_arbeitsgruppen#barrierefreiheit",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 49284,
                 "guid": "5c041351-b4fc-5a25-ab70-6790dc98fa9f",

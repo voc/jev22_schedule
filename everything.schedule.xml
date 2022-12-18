@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-18 16:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.0; Reconnect To Chaos! 0.1339; FireShonks 0.10</version>
+  <version>2022-12-18 19:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.2; Reconnect To Chaos! 0.1339; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3527,6 +3527,47 @@ Premiere&#13;
       </event>
     </room>
     <room name="Fireshonks-Stream">
+      <event id="49167" guid="3c71d0d5-8779-552b-bde9-05f6cf8909e4">
+        <logo/>
+        <date>2022-12-30T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>fire-shonks-2022-49167-videokonferenzen-selbstverstndlich-barrierefrei-warum-checklisten-nicht-ausreichen-wir-aber-trotzdem-eine-prsentieren</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/</url>
+        <title>Videokonferenzen: 🙈 🙉 🙊 - selbstverständlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine präsentieren</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wie lassen sich Videokonferenzen so gestalten, dass möglichst alle Menschen daran teilhaben können?&#13;
+Dieser Frage gehen wir - also die AGs "Barrierefreiheit" und "Inklusion" vom cyber4EDU e.V. - in unserem interaktiven Vortrag nach.&#13;
+Inhaltlich befassen wir uns dabei mit technischen, organisatorischen und kommunikativen Gestaltungsmöglichkeiten und erörtern sowohl praktische als auch politische Fragen. Dazu betrachten wir positive und negative Beispiele, ergänzt um eigene Erfahrungen der AG-Mitglieder.</abstract>
+        <description>Barrierefreiheit und Inklusion heißt nicht nur auf körperliche Einschränkungen oder Screenreader-Kompatibilität zu achten. Vielmehr bedeutet es, eine ganzheitliche Perspektive einzunehmen und sich die Teilhabe aller zum Ziel zu setzen. Videokonferenzen zugänglich zu gestalten, ist daher immer noch eine große Herausforderung - egal ob es um Vorträge, Unterricht, Diskussionen oder Zusammenarbeit geht. Tatsächlich würde ich hier sogar gerne kürzere Sätze sehen, vielleicht so: Dabei den Fokus nur auf Soft- und Hardware zu legen, greift zu kurz. Die Teilhabe an Videokonferenzen hängt auch von barrierefreien Medien und organisatorischen Vorkehrungen ab. Entscheidend ist aber eine wertschätzende und entsprechend geregelte Kommunikation auf Augenhöhe.&#13;
+&#13;
+Auf der Basis dieses breiten Barrierefreiheitsbegriffs wollen wir uns daher mit der Gestaltung von Videokonferenzen befassen. Unser Anspruch dabei ist: Selbstverständliche Zugänglichkeit für alle und Partizipation von allen. Diesen Anspruch in die Praxis umzusetzen, ist allerdings nicht einfach. Es bedarf der gegenseitigen Rücksichtnahme aller Teilnehmenden auf alle Bedarfe und letztlich eines gemeinsamen Kulturwandels. Wie so häufig gilt auch hier: "don't panic" und "wer nicht anfängt, hat schon verloren".&#13;
+&#13;
+Um den Einstieg zu erleichtern, präsentieren wir die erste Version einer Checkliste mit Best-Practices, die auf Basis der Erfahrungen eines sehr diversen Projektteams gestaltet wurde. Die Erfahrungen zeigen aber auch, dass Inklusionsversuche wie eine Lupe wirken: Sie machen viele weitere Probleme deutlich. Zu diesen gehören unter anderem:&#13;
+- Kosten für die individuelle Ausstattung mit Soft- und Hardware oder Assistenz(en)&#13;
+- Datenschutz versus Unterstützung&#13;
+- Bildungsbenachteiligung&#13;
+- strukturelle Diskriminierung&#13;
+&#13;
+Bei dem Versuch, diese Probleme genauer zu betrachten und zu lösen, stellen sich schnell weitreichende rechtliche und gesellschaftliche Fragen. Insofern ist die Checkliste wirklich nur ein erster Aufschlag und erfordert kontinuierliche Anpassung und Reflexion. Wir machen Vorschläge, wie diese gelingen können. &#13;
+&#13;
+Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehmenden kommen und über die Bedeutung von Barrierefreiheit und Inklusion - aber auch die Herausforderungen und Anforderungen - sprechen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
+          <person id="3304">pnrd</person>
+          <person id="3305">AG_Barrierefreiheit</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49284" guid="5c041351-b4fc-5a25-ab70-6790dc98fa9f">
         <logo/>
         <date>2022-12-30T12:00:00+01:00</date>
