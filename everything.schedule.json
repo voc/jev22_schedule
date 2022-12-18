@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-18 22:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1340; FireShonks 0.11",
+    "version": "2022-12-18 23:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.4; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3494,7 +3494,7 @@
                     "id": 183,
                     "code": "UYSXKG",
                     "public_name": "jomo",
-                    "biography": "- \ud83d\udc18 [@jomo@mstdn.io](https://mstdn.io/@jomo])\r\n- \ud83d\udc26 [@0xjomo](https://twitter.com/0xjomo)\r\n- \ud83c\udf10 [jomo.tv](https://jomo.tv)\r\n- \ud83d\udc8c [r3s\u24d0jomo.tv](mailto:r3s\ud83d\udc8cjomo.tv)",
+                    "biography": "- \ud83d\udc18 [@jomo@mstdn.io](https://mstdn.io/@jomo])\r\n- \ud83c\udf10 [jomo.tv](https://jomo.tv)\r\n- \ud83d\udc8c [r3s\u24d0jomo.tv](mailto:r3s\ud83d\udc8cjomo.tv)\r\n- #\ufe0f\u20e3 jomo { hackint, libera, oftc, ircnet, freenode }",
                     "answers": []
                   }
                 ],
@@ -3990,7 +3990,7 @@
                     "id": 3247,
                     "code": "7XY7NU",
                     "public_name": "Casey Kreer",
-                    "biography": "sie/ihr | they/them\r\n\r\nSehbehinderte Person, die versucht, Medien barrierefreier zu machen.",
+                    "biography": "sie/ihr | they/them",
                     "answers": []
                   }
                 ],
@@ -4209,7 +4209,7 @@
                     "id": 3247,
                     "code": "7XY7NU",
                     "public_name": "Casey Kreer",
-                    "biography": "sie/ihr | they/them\r\n\r\nSehbehinderte Person, die versucht, Medien barrierefreier zu machen.",
+                    "biography": "sie/ihr | they/them",
                     "answers": []
                   }
                 ],
