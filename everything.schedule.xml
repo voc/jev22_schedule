@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-18 21:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
+  <version>2022-12-18 21:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2930,7 +2930,14 @@ BurpSuite and ZAProxy were incepted when the web did not have states, so they in
 &#13;
 So the author wrote custom python scripts to pentest this. It worked fine, but doing this makes the scripts usable only on this system. Therefore, the author decided to create a tool that fills that gap.&#13;
 &#13;
-Raider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its "Code is Data, Data is Code" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.</description>
+Raider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its "Code is Data, Data is Code" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.&#13;
+&#13;
+Links to the project:&#13;
+ - Website: https://raiderauth.com/&#13;
+ - Source: https://github.com/OWASP/raider&#13;
+ - Documentation: https://docs.raiderauth.com/en/latest/&#13;
+ - Twitter: @raiderauth&#13;
+ - Mastodon: @raider@infosec.exchange</description>
         <recording>
           <license/>
           <optout>false</optout>
