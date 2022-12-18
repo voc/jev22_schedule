@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-18 21:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1339; FireShonks 0.11</version>
+  <version>2022-12-18 21:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -632,6 +632,52 @@ https://berlinhackandtell.rocks</description>
         </recording>
         <persons>
           <person id="4">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="12" guid="7c35256e-594b-5a88-9424-a93ccdcdfe11">
+        <logo/>
+        <date>2022-12-27T18:45:00+01:00</date>
+        <start>18:45</start>
+        <duration>00:30</duration>
+        <room>Sparti</room>
+        <slug>rtc22-12-how-to-find-the-norwegian-prime-minister-in-an-anonymized-contact-tracing-dataset</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/3SS7L8/</url>
+        <title>How to find the Norwegian prime minister in an "anonymized" contact tracing dataset</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>The first version of “Smittestopp”, the Norwegian Institute&#13;
+of Public Health’s (NIPH) contact tracing application, centrally stored&#13;
+data about the population’s contact patterns with reference to a static&#13;
+personal identifier, a decision that has been widely discussed and criti-&#13;
+cised. After the Norwegian Data Protection Authority had temporarily&#13;
+forbidden further data collection and processing in June 2020, NIPH an-&#13;
+nounced to discontinue the app and stated that all data related to the&#13;
+application would be deleted. Nevertheless, in October 2021, researchers&#13;
+from an institution involved in the development of the app published&#13;
+a paper called “Nationwide rollout reveals eﬀicacy of epidemic control&#13;
+through digital contact tracing”. In their paper, they analysed a de-&#13;
+rived dataset based on the Smittestopp data that was announced to be&#13;
+deleted. The authors claim that this derived dataset was anonymised and&#13;
+therefore does not include any personal data. We challenge this assump-&#13;
+tion by explaining how different external sets of personal data can be&#13;
+matched with the dataset, which potentially leads to a re-identification&#13;
+of persons and a disclosure of their private contacts. We conceptually&#13;
+show how some of these methods can be applied on an example case&#13;
+using publicly available information on Erna Solberg, Norway’s former&#13;
+prime minister. We conclude that it appears reasonably likely that indi-&#13;
+viduals can be re-identified and that the dataset should not be considered&#13;
+anonymised.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">derhagen</person>
         </persons>
         <links/>
         <attachments/>
@@ -2864,6 +2910,37 @@ Aber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um 
       </event>
     </room>
     <room name="Sparti">
+      <event id="23" guid="ad8d9204-0bca-55b0-8733-956fd2127b77">
+        <logo/>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Sparti</room>
+        <slug>rtc22-23-owasp-raider-a-novel-framework-for-manipulating-http-processes-of-persistent-sessions</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/</url>
+        <title>OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Raider was created to fill a gap in current tooling for pentesting the authentication process. It abstracts the client-server information exchange as a finite state machine. Each step comprises one request with inputs, one response with outputs, arbitrary actions to do on the response, and conditional links to other stages. Thus, a graph-like structure is created. This architecture works not only for authentication purposes but can be used for any HTTP process that needs to keep track of states.</abstract>
+        <description>A few years ago, the author had the task of helping developers to build OAuth directly from RFCs, supporting them with security topics and questions. In the beginning, the project ran into some challenges. Early on, we faced the fact that authentication is a stateful process, while HTTP is a stateless protocol.&#13;
+&#13;
+BurpSuite and ZAProxy were incepted when the web did not have states, so they inherited a stateless architecture. REST APIs became popular some years after those tools were created. They have workarounds like Burpsuite macros and ZAP Zest scripts to pass information between requests, but we found that functionality lacking and too complex to implement.&#13;
+&#13;
+So the author wrote custom python scripts to pentest this. It worked fine, but doing this makes the scripts usable only on this system. Therefore, the author decided to create a tool that fills that gap.&#13;
+&#13;
+Raider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its "Code is Data, Data is Code" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Daniel Neagaru</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="22" guid="c57735c0-2376-5115-9616-d29c6abc1e69">
         <logo/>
         <date>2022-12-29T13:30:00+01:00</date>
@@ -2935,6 +3012,37 @@ Aber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um 
         </recording>
         <persons>
           <person id="6">tzwenn</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="13" guid="a170c7b7-65e5-5ab6-8155-abc8e4f9da48">
+        <logo/>
+        <date>2022-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>01:00</duration>
+        <room>Sparti</room>
+        <slug>rtc22-13-exploring-social-media-reactions-to-conflicts-in-2022</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/</url>
+        <title>Exploring social media reactions to conflicts in 2022</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.</abstract>
+        <description>2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.&#13;
+&#13;
+In this talk we will use topic modeling and social network analysis to explore public usage of social media and reactions to different hostilities. The first approach is a machine learning technique and is used to cluster, discover latent topics, and thus better understand text data. The second one is a toolset to extract nodes and edges from the specific data, in order to analyze and visualize a social network to highlight relationships.&#13;
+&#13;
+Social media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.&#13;
+&#13;
+This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">bi3n3</person>
         </persons>
         <links/>
         <attachments/>

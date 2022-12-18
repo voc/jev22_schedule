@@ -1,0 +1,33 @@
+{
+  "id": 23,
+  "guid": "ad8d9204-0bca-55b0-8733-956fd2127b77",
+  "logo": "",
+  "date": "2022-12-29T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "01:00",
+  "room": "Sparti",
+  "slug": "rtc22-23-owasp-raider-a-novel-framework-for-manipulating-http-processes-of-persistent-sessions",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/",
+  "title": "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Raider was created to fill a gap in current tooling for pentesting the authentication process. It abstracts the client-server information exchange as a finite state machine. Each step comprises one request with inputs, one response with outputs, arbitrary actions to do on the response, and conditional links to other stages. Thus, a graph-like structure is created. This architecture works not only for authentication purposes but can be used for any HTTP process that needs to keep track of states.",
+  "description": "A few years ago, the author had the task of helping developers to build OAuth directly from RFCs, supporting them with security topics and questions. In the beginning, the project ran into some challenges. Early on, we faced the fact that authentication is a stateful process, while HTTP is a stateless protocol.\r\n\r\nBurpSuite and ZAProxy were incepted when the web did not have states, so they inherited a stateless architecture. REST APIs became popular some years after those tools were created. They have workarounds like Burpsuite macros and ZAP Zest scripts to pass information between requests, but we found that functionality lacking and too complex to implement.\r\n\r\nSo the author wrote custom python scripts to pentest this. It worked fine, but doing this makes the scripts usable only on this system. Therefore, the author decided to create a tool that fills that gap.\r\n\r\nRaider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its \"Code is Data, Data is Code\" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 26,
+      "code": "E8A9RU",
+      "public_name": "Daniel Neagaru",
+      "biography": "Daniel Neagaru is a 30 year old penetration tester with almost 6 years working in the security industry and 5 more as a system administrator. He created Raider 2 years ago, which became a part of the OWASP family later on.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "cfp.ccc-p.org"
+}

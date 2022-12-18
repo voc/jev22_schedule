@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-18 21:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1339; FireShonks 0.11",
+    "version": "2022-12-18 21:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -694,6 +694,37 @@
                     "code": "7KU3YH",
                     "public_name": "cyroxx",
                     "biography": "my little bio",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 12,
+                "guid": "7c35256e-594b-5a88-9424-a93ccdcdfe11",
+                "logo": "",
+                "date": "2022-12-27T18:45:00+01:00",
+                "start": "18:45",
+                "duration": "00:30",
+                "room": "Sparti",
+                "slug": "rtc22-12-how-to-find-the-norwegian-prime-minister-in-an-anonymized-contact-tracing-dataset",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/3SS7L8/",
+                "title": "How to find the Norwegian prime minister in an \"anonymized\" contact tracing dataset",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "The first version of \u201cSmittestopp\u201d, the Norwegian Institute\r\nof Public Health\u2019s (NIPH) contact tracing application, centrally stored\r\ndata about the population\u2019s contact patterns with reference to a static\r\npersonal identifier, a decision that has been widely discussed and criti-\r\ncised. After the Norwegian Data Protection Authority had temporarily\r\nforbidden further data collection and processing in June 2020, NIPH an-\r\nnounced to discontinue the app and stated that all data related to the\r\napplication would be deleted. Nevertheless, in October 2021, researchers\r\nfrom an institution involved in the development of the app published\r\na paper called \u201cNationwide rollout reveals e\ufb00icacy of epidemic control\r\nthrough digital contact tracing\u201d. In their paper, they analysed a de-\r\nrived dataset based on the Smittestopp data that was announced to be\r\ndeleted. The authors claim that this derived dataset was anonymised and\r\ntherefore does not include any personal data. We challenge this assump-\r\ntion by explaining how different external sets of personal data can be\r\nmatched with the dataset, which potentially leads to a re-identification\r\nof persons and a disclosure of their private contacts. We conceptually\r\nshow how some of these methods can be applied on an example case\r\nusing publicly available information on Erna Solberg, Norway\u2019s former\r\nprime minister. We conclude that it appears reasonably likely that indi-\r\nviduals can be re-identified and that the dataset should not be considered\r\nanonymised.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 15,
+                    "code": "PAG88G",
+                    "public_name": "derhagen",
+                    "biography": "Spieltheorie, Algorithmen, Quantencomputing und Datenschutz. Ich forsche an allem M\u00f6glichem und arbeite als IT-Berater in einem skandinavischen Beratungsunternehmen mit Fokus auf Open Source.",
                     "answers": []
                   }
                 ],
@@ -3076,6 +3107,37 @@
             ],
             "Sparti": [
               {
+                "id": 23,
+                "guid": "ad8d9204-0bca-55b0-8733-956fd2127b77",
+                "logo": "",
+                "date": "2022-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:00",
+                "room": "Sparti",
+                "slug": "rtc22-23-owasp-raider-a-novel-framework-for-manipulating-http-processes-of-persistent-sessions",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/",
+                "title": "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Raider was created to fill a gap in current tooling for pentesting the authentication process. It abstracts the client-server information exchange as a finite state machine. Each step comprises one request with inputs, one response with outputs, arbitrary actions to do on the response, and conditional links to other stages. Thus, a graph-like structure is created. This architecture works not only for authentication purposes but can be used for any HTTP process that needs to keep track of states.",
+                "description": "A few years ago, the author had the task of helping developers to build OAuth directly from RFCs, supporting them with security topics and questions. In the beginning, the project ran into some challenges. Early on, we faced the fact that authentication is a stateful process, while HTTP is a stateless protocol.\r\n\r\nBurpSuite and ZAProxy were incepted when the web did not have states, so they inherited a stateless architecture. REST APIs became popular some years after those tools were created. They have workarounds like Burpsuite macros and ZAP Zest scripts to pass information between requests, but we found that functionality lacking and too complex to implement.\r\n\r\nSo the author wrote custom python scripts to pentest this. It worked fine, but doing this makes the scripts usable only on this system. Therefore, the author decided to create a tool that fills that gap.\r\n\r\nRaider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its \"Code is Data, Data is Code\" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 26,
+                    "code": "E8A9RU",
+                    "public_name": "Daniel Neagaru",
+                    "biography": "Daniel Neagaru is a 30 year old penetration tester with almost 6 years working in the security industry and 5 more as a system administrator. He created Raider 2 years ago, which became a part of the OWASP family later on.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 22,
                 "guid": "c57735c0-2376-5115-9616-d29c6abc1e69",
                 "logo": "",
@@ -3162,6 +3224,37 @@
                     "code": "NCEZ93",
                     "public_name": "tzwenn",
                     "biography": "Sven is a Ph.D. student at the Operating Systems and Middleware Group at the HPI Potsdam. His interest is energy-aware computing and operating system support for accelerators.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 13,
+                "guid": "a170c7b7-65e5-5ab6-8155-abc8e4f9da48",
+                "logo": "",
+                "date": "2022-12-29T20:45:00+01:00",
+                "start": "20:45",
+                "duration": "01:00",
+                "room": "Sparti",
+                "slug": "rtc22-13-exploring-social-media-reactions-to-conflicts-in-2022",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/",
+                "title": "Exploring social media reactions to conflicts in 2022",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.",
+                "description": "2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.\r\n\r\nIn this talk we will use topic modeling and social network analysis to explore public usage of social media and reactions to different hostilities. The first approach is a machine learning technique and is used to cluster, discover latent topics, and thus better understand text data. The second one is a toolset to extract nodes and edges from the specific data, in order to analyze and visualize a social network to highlight relationships.\r\n\r\nSocial media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.\r\n\r\nThis talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 16,
+                    "code": "KJDUCY",
+                    "public_name": "bi3n3",
+                    "biography": "developer",
                     "answers": []
                   }
                 ],
