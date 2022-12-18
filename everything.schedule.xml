@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-18 19:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.2; Reconnect To Chaos! 0.1339; FireShonks 0.11</version>
+  <version>2022-12-18 21:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1339; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1801,14 +1801,7 @@ Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit C
         <type>Talk</type>
         <language>de</language>
         <abstract>Neues aus der Pentagame-Forschung: | KI spielt Pentagame und praktisch unschlagbar | Komplexitätsvorhersagen dadurch bestätigt | Geek^3: Das 3D-Pentagame vor Ort | Release Pentagame-Server | Verteiltes Pentagame-Turnier während der HiP-Zeit | Schönheitswettbewerb Pentagame-(3D-Druck)-Figuren</abstract>
-        <description>Talk / Sendeslot mit Interviewelementen - idealerweise zu Beginn von HiP, Themen siehe oben.&#13;
-&#13;
-Darin Ankündigung von 2 Wettbewerben für die Dauer von HiP:&#13;
-&#13;
-1 - Spielen auf Pentagame-Server (Ranking)&#13;
-2 - "Schönheitswettbewerb" - Einsendungen von Bildern mit Pentagame-Figuren und Live-Abstimmung&#13;
-&#13;
-Bei beiden Wettbewerben sind Spiele und T-shirts zu gewinnen; beide Enden zu Ende von HiP; also dann noch mal ein (Sendeslot) zwecks Siegerkür in beiden Wettbewerben.</description>
+        <description>Pentagame ist ein abstraktes Brettspiel beliebt im Chaos-Umfeld. Es hat ein paar Eigenschaften, die es für die Spielforschung und Spieltheorie besonders interessant machen. Entsprechend gibt es immer wieder neue Erkenntnisse. Eine davon ist, dass es eigentlich gar nicht so sehr ein Brettspiel, sondern eine zweidimensionale Projektion eines dreidimensionalen Körpers ist. Genauer gesagt ist es ein "Pentagon-Antiprisma" und damit ein "Körperspiel" und kein "Brettspiel". - Davon ungeachtet stellen reden wir über die Herausforderungen der Umsetzung eines Pentagame-Servers, den Spaß eigene Figuren herzustellen, magnetische Spielbretter, besondere Stratetegien, Künstliche Intelligenz und die alten Griechen.</description>
         <recording>
           <license/>
           <optout>false</optout>

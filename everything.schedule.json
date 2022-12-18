@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-18 19:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.2; Reconnect To Chaos! 0.1339; FireShonks 0.11",
+    "version": "2022-12-18 21:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.3; Reconnect To Chaos! 0.1339; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1950,7 +1950,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Neues aus der Pentagame-Forschung: | KI spielt Pentagame und praktisch unschlagbar | Komplexit\u00e4tsvorhersagen dadurch best\u00e4tigt | Geek^3: Das 3D-Pentagame vor Ort | Release Pentagame-Server | Verteiltes Pentagame-Turnier w\u00e4hrend der HiP-Zeit | Sch\u00f6nheitswettbewerb Pentagame-(3D-Druck)-Figuren",
-                "description": "Talk / Sendeslot mit Interviewelementen - idealerweise zu Beginn von HiP, Themen siehe oben.\r\n\r\nDarin Ank\u00fcndigung von 2 Wettbewerben f\u00fcr die Dauer von HiP:\r\n\r\n1 - Spielen auf Pentagame-Server (Ranking)\r\n2 - \"Sch\u00f6nheitswettbewerb\" - Einsendungen von Bildern mit Pentagame-Figuren und Live-Abstimmung\r\n\r\nBei beiden Wettbewerben sind Spiele und T-shirts zu gewinnen; beide Enden zu Ende von HiP; also dann noch mal ein (Sendeslot) zwecks Siegerk\u00fcr in beiden Wettbewerben.",
+                "description": "Pentagame ist ein abstraktes Brettspiel beliebt im Chaos-Umfeld. Es hat ein paar Eigenschaften, die es f\u00fcr die Spielforschung und Spieltheorie besonders interessant machen. Entsprechend gibt es immer wieder neue Erkenntnisse. Eine davon ist, dass es eigentlich gar nicht so sehr ein Brettspiel, sondern eine zweidimensionale Projektion eines dreidimensionalen K\u00f6rpers ist. Genauer gesagt ist es ein \"Pentagon-Antiprisma\" und damit ein \"K\u00f6rperspiel\" und kein \"Brettspiel\". - Davon ungeachtet stellen reden wir \u00fcber die Herausforderungen der Umsetzung eines Pentagame-Servers, den Spa\u00df eigene Figuren herzustellen, magnetische Spielbretter, besondere Stratetegien, K\u00fcnstliche Intelligenz und die alten Griechen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
