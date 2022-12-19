@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-19 11:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
+    "version": "2022-12-19 12:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2085,7 +2085,7 @@
                 "abstract": "Oft habt ihr sie schon auf Konferenzen oder bei Vortragsnotizen gesehen- Sketchnotes ist eine Art, mit kleinen, einfachen Zeichnungen Mitschriften visuell zu gestalten.\r\nDu m\u00f6chtest das auch lernen? Dann komm beim Workshop vorbei!\r\n\r\nMithilfe vieler praktischer \u00dcbungen werden wir lernen, dass jeder Sketchnotes anfertigen kann und es wird auch viel Spa\u00df machen!",
                 "description": "Mithilfe vieler praktischer \u00dcbungen werden wir lernen, dass jeder Sketchnotes anfertigen kann und es wird auch viel Spa\u00df machen!\r\n\r\nBitte bringt Papier, einen schwarzen Stift (z.B. einen d\u00fcnnen Filzstift) und einen feinen grauen Stift f\u00fcr Schattierungen mit wenn ihr einen habt (z.B. Faber-Castell 167432 - Tuschestift Pitt artist pen brush, Strichst\u00e4rke B, Farbe 232, kaltgrau III)\r\nIm begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 5,
