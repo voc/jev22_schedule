@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-19 11:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
+    "version": "2022-12-19 11:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -805,7 +805,7 @@
                 "room": "Fireshonks-Stream",
                 "slug": "fire-shonks-2022-49194-how-to-prepare-files-for-lasercutting-talk-",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/",
-                "title": "How to prepare files for lasercutting (talk)",
+                "title": "How to prepare files for lasercutting (Talk)",
                 "subtitle": "",
                 "track": "R3S - Remote Rhein Ruhr Stage",
                 "type": "Talk",
