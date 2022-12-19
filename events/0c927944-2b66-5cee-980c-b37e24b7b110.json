@@ -6,7 +6,7 @@
   "start": "17:00",
   "duration": "00:56",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49179-datenschutz-sabotieren-aber-richtig",
+  "slug": "jev22-49179-datenschutz_sabotieren_aber_richtig",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PEEU9J/",
   "title": "Datenschutz sabotieren, aber richtig",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

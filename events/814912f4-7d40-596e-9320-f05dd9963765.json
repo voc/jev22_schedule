@@ -1,12 +1,12 @@
 {
-  "id": 17,
+  "id": 8149,
   "guid": "814912f4-7d40-596e-9320-f05dd9963765",
   "logo": "/media/rtc22/submissions/P8HTXA/1000-reichsmark_JGS9aMx.jpg",
   "date": "2022-12-27T20:00:00+01:00",
   "start": "20:00",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-17-technikgebrauch-damals-tm-",
+  "slug": "jev22-8149-technikgebrauch_damals_tm",
   "url": "https://cfp.ccc-p.org/rtc22/talk/P8HTXA/",
   "title": "Technikgebrauch damals(tm)",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

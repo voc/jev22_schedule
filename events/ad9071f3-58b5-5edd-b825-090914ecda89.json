@@ -6,12 +6,12 @@
   "start": "19:00",
   "duration": "00:40",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49202-introduction-to-reverse-engineering-with-frida",
+  "slug": "jev22-49202-introduction_to_reverse_engineering_with_frida",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/",
   "title": "Introduction to Reverse Engineering with Frida",
   "subtitle": "",
-  "track": "Theater Hall - E.T.I. (HiP main stage)",
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Want to learn reverse engineering? Looking for the tool assisting you in reversing almost everything? With Frida, you can reprogram software during runtime, so-called hooking, and view or change the program logic without source code access.",
   "description": "This talk provides a short overview on Frida capabilities and how to use them, including live demos. Frida supports various operating systems, including Linux, Windows, macOS, iOS, Android. You will be able to use this knowledge to get started with reverse engineering on your own :)",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

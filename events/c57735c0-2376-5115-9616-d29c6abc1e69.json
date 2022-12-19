@@ -1,12 +1,12 @@
 {
-  "id": 22,
+  "id": 5773,
   "guid": "c57735c0-2376-5115-9616-d29c6abc1e69",
   "logo": "",
   "date": "2022-12-29T13:30:00+01:00",
   "start": "13:30",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-22-trust-in-digital-communication",
+  "slug": "jev22-5773-trust_in_digital_communication",
   "url": "https://cfp.ccc-p.org/rtc22/talk/K7J8PF/",
   "title": "Trust in digital communication",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

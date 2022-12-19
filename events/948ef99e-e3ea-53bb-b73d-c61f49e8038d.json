@@ -6,7 +6,7 @@
   "start": "14:00",
   "duration": "01:00",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49181-best-of-digitalzwangmelder",
+  "slug": "jev22-49181-best_of_digitalzwangmelder",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
   "title": "Best-of Digitalzwangmelder",
   "subtitle": "",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

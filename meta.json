@@ -1,59 +1,41 @@
 {
   "data": {
-    "version": "2022-12-19 18:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
-    "source_urls": [
-      "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",
-      "https://pretalx.c3voc.de/xrelog-2022/schedule/export/schedule.json",
-      "https://cfp.ccc-p.org/rtc22/schedule/export/schedule.json",
-      "https://pretalx.c3voc.de/fire-shonks-2022/schedule/export/schedule.json"
-    ],
-    "rooms": [
-      {
-        "guid": null,
-        "schedule_name": "Theater Hall E.T.I."
-      },
-      {
-        "guid": null,
-        "schedule_name": "Track 2 room 2"
-      },
-      {
-        "guid": null,
-        "schedule_name": "workshop room 3"
-      },
-      {
-        "guid": null,
-        "schedule_name": "soldering room 7"
-      },
-      {
-        "guid": null,
-        "schedule_name": "c-base mainhall"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Sparti"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Fireshonks-Stream"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Fireshonks-Workshop"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Seminarraum 1 (25)"
-      }
-    ],
+    "version": "2022-12-19 22:27:04.734020; FireShonks 0.11; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-19 22:27:04.734020",
     "conferences": [
       {
-        "url": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/export/schedule.json",
+        "url": "https://pretalx.c3voc.de/fire-shonks-2022",
+        "name": "FireShonks",
+        "location": "Remote & W\u00fclfrath",
+        "links": [
+          "https://events.ccc.de/2022/10/27/fireshonks-cfp/",
+          "https://events.haecksen.org/fireshonks/"
+        ],
+        "meta": {
+          "name": {
+            "de": "FireShonks",
+            "en": "FireShonks"
+          },
+          "slug": "fire-shonks-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/fire-shonks-2022/",
+            "schedule": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/fire-shonks-2022/login/",
+            "feed": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://pretalx.c3voc.de/hip-berlin-2022",
         "name": "Hacking in Parallel",
         "location": "Berlin, c-base",
         "links": [
           "https://wiki.hip-berlin.de/"
         ],
-        "api_url": "https://pretalx.c3voc.de//api/events/hip-berlin-2022",
         "meta": {
           "name": {
             "de": "///Hacking in Parallel \u2013 Berlin///",
@@ -74,6 +56,32 @@
         "rooms": null
       },
       {
+        "url": "https://cfp.ccc-p.org/rtc22",
+        "name": "Reconnect To Chaos!",
+        "location": "Potsdam, Chaostreff",
+        "links": [
+          "https://www.ccc-p.org/rtc22/"
+        ],
+        "meta": {
+          "name": {
+            "de": "Reconnect To Chaos!",
+            "en": "Reconnect To Chaos!"
+          },
+          "slug": "rtc22",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://cfp.ccc-p.org/rtc22/",
+            "schedule": "https://cfp.ccc-p.org/rtc22/schedule/",
+            "login": "https://cfp.ccc-p.org/rtc22/login/",
+            "feed": "https://cfp.ccc-p.org/rtc22/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
         "url": "TBD",
         "name": "dezentrale Chaos-Culture",
         "location": "Bielefeld, Digitalcourage",
@@ -82,13 +90,12 @@
         ]
       },
       {
-        "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/export/schedule.json",
+        "url": "https://pretalx.c3voc.de/hacking-in-hell-2022",
         "name": "Hellarious: Hacking in Hell",
         "location": "Brandenburg, Alte H\u00f6lle",
         "links": [
           "https://alte-hoelle.de/"
         ],
-        "api_url": "https://pretalx.c3voc.de//api/events/hacking-in-hell-2022",
         "meta": {
           "name": {
             "de": "Hellarious"
@@ -108,14 +115,13 @@
         "rooms": null
       },
       {
-        "url": "https://pretalx.c3voc.de/xrelog-2022/schedule/export/schedule.json",
+        "url": "https://pretalx.c3voc.de/xrelog-2022",
         "name": "xrelog22: Independent Multiverses",
         "location": "Hamburg, FTZ/HAW",
         "links": [
           "https://events.ccc.de/2022/11/13/xrelog22-cfp/",
           "https://matrix.to/#/#xrevent:matrix.org"
         ],
-        "api_url": "https://pretalx.c3voc.de//api/events/xrelog-2022",
         "meta": {
           "name": {
             "de": "xrelog22",
@@ -140,18 +146,17 @@
         "name": "localverse2022",
         "location": "Leipzig",
         "links": [
-          "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation-20221118/",
+          "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation/",
           "https://matrix.to/#/#localverse2022:chat.dezentrale.space"
         ]
       },
       {
-        "url": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/export/schedule.json",
+        "url": "https://forum.freiraeumen.jetzt/freiraumforum",
         "name": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
         "location": "M\u00fcnchen",
         "links": [
           "https://events.ccc.de/2022/11/18/ff22-cfp/"
         ],
-        "api_url": "https://forum.freiraeumen.jetzt//api/events/freiraumforum",
         "meta": {
           "name": {
             "de": "Forum f\u00fcr Freiraum - Gib Uns Mehr!",
@@ -172,61 +177,7 @@
         "rooms": null
       },
       {
-        "url": "https://cfp.ccc-p.org/rtc22/schedule/export/schedule.json",
-        "name": "Reconnect To Chaos!",
-        "location": "Potsdam, Chaostreff",
-        "links": [
-          "https://www.ccc-p.org/rtc22/"
-        ],
-        "api_url": "https://cfp.ccc-p.org//api/events/rtc22",
-        "meta": {
-          "name": {
-            "de": "Reconnect To Chaos!",
-            "en": "Reconnect To Chaos!"
-          },
-          "slug": "rtc22",
-          "is_public": true,
-          "date_from": "2022-12-27",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://cfp.ccc-p.org/rtc22/",
-            "schedule": "https://cfp.ccc-p.org/rtc22/schedule/",
-            "login": "https://cfp.ccc-p.org/rtc22/login/",
-            "feed": "https://cfp.ccc-p.org/rtc22/schedule/feed.xml"
-          }
-        },
-        "rooms": null
-      },
-      {
-        "url": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/export/schedule.json",
-        "name": "FireShonks",
-        "location": "Remote & W\u00fclfrath",
-        "links": [
-          "https://events.ccc.de/2022/10/27/fireshonks-cfp/",
-          "https://events.haecksen.org/fireshonks/"
-        ],
-        "api_url": "https://pretalx.c3voc.de//api/events/fire-shonks-2022",
-        "meta": {
-          "name": {
-            "de": "FireShonks",
-            "en": "FireShonks"
-          },
-          "slug": "fire-shonks-2022",
-          "is_public": true,
-          "date_from": "2022-12-27",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://pretalx.c3voc.de/fire-shonks-2022/",
-            "schedule": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/",
-            "login": "https://pretalx.c3voc.de/fire-shonks-2022/login/",
-            "feed": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/feed.xml"
-          }
-        },
-        "rooms": null
-      },
-      {
+        "url": "webcals://ramac.mudbyte.de/remote.php/dav/public-calendars/YTtwyZcXsmZDfSoo/?export",
         "name": "ChilyConChaos",
         "location": "Gie\u00dfen/Wetzlar",
         "links": [
@@ -234,14 +185,13 @@
         ]
       },
       {
-        "url": "https://talks.w.icmp.camp/schedule/export/schedule.json",
+        "url": "https://talks.w.icmp.camp",
         "slug": "wicmp1",
         "name": "Wintergalaktische Club Mate Party",
         "location": "Erlangen, Bits'n'Bugs + ZAM",
         "links": [
           "https://w.icmp.camp"
         ],
-        "api_url": "https://talks.w.icmp.camp/api/events/wicmp1",
         "meta": {
           "name": {
             "de": "Wintergalaktische Club Mate Party",
@@ -260,6 +210,114 @@
           }
         },
         "rooms": null
+      },
+      {
+        "url": "TBD",
+        "name": "Winterchaos",
+        "location": "Luzern, CH",
+        "description": "Ein gem\u00fctlicher Jahresabschluss des LABOR Luzern und der LuXeria Luzern mit lokalen Vortr\u00e4gen und Workshops.",
+        "geolocation": [
+          47.0360555,
+          8.2799098
+        ],
+        "links": [
+          "https://laborluxeria.github.io/winterchaos2022/schedule/",
+          "https://laborluxeria.github.io/winterchaos2022/feed.xml"
+        ]
+      },
+      {
+        "url": "https://pretalx.hackwerk.fun/jev-2022",
+        "name": "End-of-Year event",
+        "location": "Aalen, Hackwerk",
+        "description": "Auch wir w\u00fcrden gerne bei der dezentralen Jahresendveranstaltung mitmachen. Hierzu laden wir vom 29.12-31.12. zum netten Zusammensein mit vielen Chaos-Wesen nach Aalen ein. \n\n Wir schauen bei einigen Gl\u00fchtschunks und Mate zusammen die Streams auf media.ccc.de an, haben aber auch vor selbst Vortr\u00e4ge zu halten und zu Streamen. \n\n Bitte hier ein Ticket klicken (wir verwenden das Ticketsystem, um die Teilnehmerzahl zu wissen)  \u2013 f\u00fcr Talk-Einreichungen haben wir ein Pretalx eingerichtet.",
+        "links": [
+          "https://tickets.hackwerk.fun/hackwerk/jev2022/",
+          "https://pretalx.hackwerk.fun/jev-2022/cfp"
+        ],
+        "meta": {
+          "name": {
+            "de": "Jahresendveranstaltung",
+            "en": "End-of-Year event"
+          },
+          "slug": "jev-2022",
+          "is_public": true,
+          "date_from": "2022-12-29",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.hackwerk.fun/jev-2022/",
+            "schedule": "https://pretalx.hackwerk.fun/jev-2022/schedule/",
+            "login": "https://pretalx.hackwerk.fun/jev-2022/login/",
+            "feed": "https://pretalx.hackwerk.fun/jev-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      }
+    ],
+    "rooms": [
+      {
+        "guid": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+        "schedule_name": "Fireshonks-Stream"
+      },
+      {
+        "guid": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+        "schedule_name": "Fireshonks-Workshop"
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+        "schedule_name": "Theater Hall E.T.I."
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+        "schedule_name": "Track 2 room 2"
+      },
+      {
+        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+        "schedule_name": "workshop room 3"
+      },
+      {
+        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+        "schedule_name": "soldering room 7"
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+        "schedule_name": "c-base mainhall"
+      },
+      {
+        "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
+        "schedule_name": "Sparti"
+      },
+      {
+        "guid": "146a5fe7-e0e6-41cd-b1ff-ea926a8b61cc",
+        "schedule_name": "Haus 2"
+      },
+      {
+        "guid": "0ba794eb-69bb-4381-9ce6-422529fc8291",
+        "schedule_name": "Theaterraum (22)"
+      },
+      {
+        "guid": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
+        "schedule_name": "Seminarraum 1 (25)"
+      },
+      {
+        "guid": "ce023d5e-a406-4bc0-ad0b-f0ce64c7f206",
+        "schedule_name": "Seminarraum 2 (24)"
+      },
+      {
+        "guid": "9d6724e4-a5ff-4fca-b4da-1fc28b59882a",
+        "schedule_name": "Seminarraum 3 (21)"
+      },
+      {
+        "guid": "ad28953f-122e-4293-836d-860320183a1c",
+        "schedule_name": "xrelog22 - Stream"
+      },
+      {
+        "guid": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
+        "schedule_name": "icc|bs"
+      },
+      {
+        "guid": "a5515405-a6a1-47f7-97dc-bd9ef73819a1",
+        "schedule_name": "Multiversum B\u00fchne"
       }
     ]
   }

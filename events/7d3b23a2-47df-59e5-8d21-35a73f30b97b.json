@@ -6,12 +6,12 @@
   "start": "21:30",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49250-aktuelles-zur-chatkontrolle",
+  "slug": "jev22-49250-aktuelles_zur_chatkontrolle",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBU3JC/",
   "title": "Aktuelles zur Chatkontrolle",
   "subtitle": "",
-  "track": "Theater Hall - E.T.I. (HiP main stage)",
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "de",
   "abstract": "Seit Mai 2022 laufen die Verhandlungen \u00fcber ein umfassendes neues \u00dcberwachungsprogramm der Europ\u00e4ischen Union, das als 'Chatkontrolle' bereits zu zweifelhaftem Ruhm gekommen ist. Nach den Pl\u00e4nen der EU-Kommission sollen unter dem Deckmantel des Kinder- und Jugendschutzes k\u00fcnftig Kommunikations- und Hostingdienste, ob verschl\u00fcsselt oder nicht, dazu verpflichtet werden s\u00e4mtliche Inhalte zu durchleuchten und verd\u00e4chtiges Material und 'Grooming' an eine eng an Europol angebundene zentrale Stelle weiterzuleiten. Das bundesweite B\u00fcndnis Chatkontrolle Stoppen! sowie die europ\u00e4ische Kampagne StopScanningMe.eu versuchen diese dystopischen Pl\u00e4ne zu verhindern.",
   "description": "Die Pl\u00e4ne der EU zur Chatkontrolle, die im konkreten Entwurf auf das Auffinden von Material der sexuellen Ausbeutung von Kindern und Jugendlichen sowie sexuellen Ann\u00e4herungsversuchen durch Erwachsene beschr\u00e4nkt bleiben, sehen unter anderem vor, dass Kommunikations- und Hostingdienste zum Scannen s\u00e4mtlicher Inhalte verpflichtet werden k\u00f6nnen. Nicht nur soll dabei auch mittels machine learning bislang unbekanntes Bild- und Videomaterial gefunden und gemeldet werden, sondern auch Textnachrichten analysiert und nach verd\u00e4chtigem Verhalten gesucht werden. Verschl\u00fcsselte Kommunikation ist nicht ausgenommen, so dass eine Umsetzung der Pl\u00e4ne einen massiven Angriff auf Ende-zu-Ende Verschl\u00fcsselung darstellt und zur umfassenden Verbreitung von Client-Side-Scanning f\u00fchren wird. Dass der Einsatz dieser dystopischen \u00dcberwachungsinstrumente mittelfristig nicht auf Missbrauchsdarstellungen von Kindern und Jugendlichen beschr\u00e4nkt bliebe, liegt auf der Hand.\r\nNachdem die EU-Kommisson im Mai ihre Pl\u00e4ne vorgelegt hat, besch\u00e4ftigen sich nun die zust\u00e4ndigen Aussch\u00fcsse des Europ\u00e4ische Parlaments sowie des EU-Rates mit dem Thema. Dabei sto\u00dfen die Pl\u00e4ne zwar auf Skepsis einiger Abgeordneter, aber insbesondere die Regierungen der meisten Nationalstaaten unterst\u00fctzen diesen Angriff auf vertrauliche und sichere Kommunikation. Aktuell l\u00e4uft die Positionierung der deutschen Bundesregierung, die einen entscheidenden Einfluss im Rat hat.\r\nUm die Pl\u00e4ne noch zu verhindern m\u00fcssen wir jetzt aktiv werden.",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

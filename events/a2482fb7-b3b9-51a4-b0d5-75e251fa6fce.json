@@ -1,12 +1,12 @@
 {
-  "id": 16,
+  "id": 2482,
   "guid": "a2482fb7-b3b9-51a4-b0d5-75e251fa6fce",
   "logo": "/media/rtc22/submissions/3QSJYT/3d-pentagame-gegenlicht-klein_qlwOLCS.jpg",
   "date": "2022-12-28T18:45:00+01:00",
   "start": "18:45",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-16-neues-aus-der-pentagame-forschung",
+  "slug": "jev22-2482-neues_aus_der_pentagame_forschung",
   "url": "https://cfp.ccc-p.org/rtc22/talk/3QSJYT/",
   "title": "Neues aus der Pentagame-Forschung",
   "subtitle": "",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

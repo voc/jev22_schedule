@@ -1,0 +1,17 @@
+{
+  "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",
+  "title": "Securing UnSafe Rust with XRust",
+  "subtitle": null,
+  "abstract": null,
+  "date": "2022-12-30T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "1:00",
+  "room": "ChilyConChaos",
+  "persons": [],
+  "track": null,
+  "type": "(Votrag)",
+  "id": 1001,
+  "slug": "jev22-1001-securing_unsafe_rust_with_xrust",
+  "room_id": null,
+  "origin": "ramac.mudbyte.de"
+}

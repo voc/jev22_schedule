@@ -6,11 +6,11 @@
   "start": "20:15",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49100-hacking-a-sat-receiver",
+  "slug": "jev22-49100-hacking_a_sat_receiver",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/",
   "title": "Hacking a sat receiver",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "en",
   "abstract": "In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

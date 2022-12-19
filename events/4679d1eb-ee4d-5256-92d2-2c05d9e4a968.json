@@ -6,11 +6,11 @@
   "start": "12:00",
   "duration": "01:30",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49194-how-to-prepare-files-for-lasercutting-talk-",
+  "slug": "jev22-49194-how_to_prepare_files_for_lasercutting_talk",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/",
   "title": "How to prepare files for lasercutting (Talk)",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "en",
   "abstract": "How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the workshop that will follow this talk, we will put all this into practice using Inkscape. \r\n\r\nWie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im anschlie\u00dfenden Workshop \u00fcben wir gemeinsam mit Inkscape.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

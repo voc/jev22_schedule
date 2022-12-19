@@ -6,11 +6,11 @@
   "start": "19:00",
   "duration": "02:00",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49265-introduction-to-c-programming",
+  "slug": "jev22-49265-introduction_to_c_programming",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/",
   "title": "Introduction to C Programming",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "In this workshop you will learn C through many hands on exercises of varying difficulty or bring-your-own projects.  Everyone will be learning on their own time, the only requirement is motivation!  Groups welcome as well, and if you already started a small project I can also provide you a small review and perhaps ideas on how to improve.\r\n\r\nThe platform will be mostly Linux and UNIX/POSIX (BSD, macOS, Solaris) due to personal experience there, but Windows is possible as well (with a bit more limited help).  Alternatively the Windows Subsystem for Linux can be used to develop and target Linux from Windows.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

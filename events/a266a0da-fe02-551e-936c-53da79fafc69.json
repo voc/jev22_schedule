@@ -6,11 +6,11 @@
   "start": "14:00",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49079-how-to-prepare-files-for-lasercutting-inkscape-workshop-",
+  "slug": "jev22-49079-how_to_prepare_files_for_lasercutting_inkscape_workshop",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/",
   "title": "How to prepare files for lasercutting (Inkscape Workshop)",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "en",
   "abstract": "Wie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im vorangestellten Talk erhaltet ihr eine kleine \u00dcbersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download) und schaue dir meinen Talk vor dem Workshop an.\r\n\r\nHow do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the preceding talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download) and watch my talk before the workshop.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

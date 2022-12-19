@@ -6,11 +6,11 @@
   "start": "19:00",
   "duration": "02:00",
   "room": "c-base mainhall",
-  "slug": "hip-berlin-2022-49224-berlin-hack-and-tell",
+  "slug": "jev22-49224-berlin_hack_and_tell",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SCGVSD/",
   "title": "Berlin Hack and Tell",
   "subtitle": "",
-  "track": "mainhall stage - c-base",
+  "track": "c-base",
   "type": "Workshop",
   "language": "en",
   "abstract": "stand up hacking - 8 dynamic allocated Slots(5min presentation + 5min conversation with the audience)\r\nPast hacks here: https://berlinhackandtell.rocks",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
   "origin": "pretalx.c3voc.de"
 }

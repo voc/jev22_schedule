@@ -6,12 +6,12 @@
   "start": "19:30",
   "duration": "00:25",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49185-ikea-pallet-hacks-",
+  "slug": "jev22-49185-ikea_pallet_hacks",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/",
   "title": "IKEA & pallet hacks!",
   "subtitle": "",
-  "track": "Track 2 Room 2",
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "From regular furniture to geodesic domes. \r\nWith an extra of: why you shouldn't repair your ceiling for free (and I did it anyway)",
   "description": "From regular furniture to geodesic domes.  Pallet furniture and other upcycling projects.\r\n\r\nBest practices and how-tos concerning working with pallets and IKEA resources.\r\n\r\nHow to hack your rental apartment deposit free.\r\n\r\nWith an extra of: why you shouldn't repair your ceiling for free (and I did it anyway)",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

@@ -6,11 +6,11 @@
   "start": "18:30",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49117-askmeanything-quantum-computing",
+  "slug": "jev22-49117-askmeanything_quantum_computing",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PLZQB3/",
   "title": "AskMeAnything Quantum Computing",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Wir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

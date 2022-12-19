@@ -6,12 +6,12 @@
   "start": "14:30",
   "duration": "01:30",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49192-regenerative-hacking-ecosystemic-design-workshop-for-rural-community-hackspaces",
+  "slug": "jev22-49192-regenerative_hacking",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/",
   "title": "Regenerative Hacking : Ecosystemic design workshop for rural community hackspaces",
   "subtitle": "",
-  "track": "Track 2 Room 2",
-  "type": "Talk/panel 75 min + 10 min Q&A (85 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Workshop exploring Regenerative design in the context of a rural community art and hackerspace in the small Welsh speaking town of Caernarfon in rural North Wales.",
   "description": "We will look at the emerging Regenerative Paradigm which is defined in contrast to the currently dominant exploitative paradigm. We'll take a holistic lens and look at a poor rural community in Wales, using tools introduced we'll identify the patterns of life energy in local systems (such as the food economy, the stuff economy, the local community knowledge economy) and explore how we can design a community hackerspace for a rural setting that might shift systems from the extractive to the regenerative.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

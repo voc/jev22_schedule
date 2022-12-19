@@ -6,11 +6,11 @@
   "start": "14:30",
   "duration": "02:00",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49258-binary-exploitation-beginner-workshop",
+  "slug": "jev22-49258-binary_exploitation_beginner_workshop",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
   "title": "Binary Exploitation Beginner Workshop",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "This workshop introduces basic concepts of x64 binary exploitation on Linux.\r\n\r\nThe workshop consists of a collection of increasingly difficult pwn challenges and is accompanied by a presentation and set of slides that first introduce basic concepts and then apply them to those challenges.",
@@ -42,6 +42,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

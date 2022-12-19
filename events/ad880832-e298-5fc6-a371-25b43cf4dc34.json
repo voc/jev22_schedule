@@ -6,11 +6,11 @@
   "start": "17:45",
   "duration": "00:40",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49170-let-there-be-flowers-",
+  "slug": "jev22-49170-let_there_be_flowers",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/G3FSJQ/",
   "title": "Let there be flowers!",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Eine meiner aktuellen N\u00e4hbesessenheiten: Stoffreste zum Erbl\u00fchen bringen. Faszinierend, wie aus ein paar simplen Stoffst\u00fcckchen - und mit wenigen Stichen - innerhalb weniger Minuten wundersch\u00f6ne Bl\u00fcten werden. Aus ihnen k\u00f6nnen Applikationen f\u00fcr Kleidung, Deko, Broschen oder Haarspangen entstehen. \r\nThe workshop will be in German language, but questions in English are no problem.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

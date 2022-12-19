@@ -6,11 +6,11 @@
   "start": "21:30",
   "duration": "01:45",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49226-operation-mindfuck-vol-6",
+  "slug": "jev22-49226-operation_mindfuck_vol_6",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/",
   "title": "Operation Mindfuck Vol. 6",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "en",
   "abstract": "For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

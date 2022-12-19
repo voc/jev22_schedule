@@ -6,11 +6,11 @@
   "start": "12:00",
   "duration": "02:20",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49234-hacking-in-parallel",
+  "slug": "jev22-49234-hacking_in_parallel",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/",
   "title": "Hacking in Parallel",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "In this workshop, we quickly go over the various fields of IT-Security and how small, brain teaser-like challenges can assist you in learning about them.\r\nAs an example of such a field, we will teach you the basics of Reverse Engineering, the art of understanding what code does.",
@@ -42,6 +42,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

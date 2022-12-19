@@ -6,12 +6,12 @@
   "start": "13:00",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49294-tba",
+  "slug": "jev22-49294-tba",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/",
   "title": "tba",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "tba",
   "description": "tba",
@@ -42,6 +42,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

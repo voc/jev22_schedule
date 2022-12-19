@@ -6,11 +6,11 @@
   "start": "17:30",
   "duration": "01:00",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49104-hack-yourself-digitale-selbstverteidigung",
+  "slug": "jev22-49104-hack_yourself_digitale_selbstverteidigung",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GNXXZ9/",
   "title": "Hack yourself - Digitale Selbstverteidigung",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Was f\u00fcr Infos gebe ich preis, wof\u00fcr sind diese Daten \u00fcberhaupt relevant und was k\u00f6nnen Kriminelle damit machen? In diesem interaktiven Workshop lernen die Teilnehmer*innen die Grundlagen der digitalen Selbstverteidigung. Wie lernen gemeinsam Schwachstellen zu erkennen und zu beheben, damit sie zuk\u00fcnftig vermieden werden k\u00f6nnen. Dieser Workshop eignet sich f\u00fcr jedes Alter und jeden Kenntnisstand, f\u00fcr newbies und digital natives, aber auch f\u00fcr DICH, wenn du mal eine Auffrischung in diesem Bereich gebrauchen kannst.",
@@ -42,6 +42,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

@@ -6,12 +6,12 @@
   "start": "11:00",
   "duration": "01:00",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49229-an-ontology-of-hope-cognitive-and-blind",
+  "slug": "jev22-49229-an_ontology_of_hope",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBSLXU/",
   "title": "An ontology of hope: cognitive and blind",
   "subtitle": "",
-  "track": "Track 2 Room 2",
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "We define and explore two versions of hope: blind and cognitive. What's the difference between them and do we need\u2014or can we even have\u2014a version of those? In other words: is there hope for this world?",
   "description": "When bad things happen some people come up and say we should remain hopeful. Even if everything looks black and depressing and they can't really justify why\u2014they still claim we should be hopeful.\r\n\r\nLet's call this blind hope. Other people critique blind faith (and possibly blind hope?) as part of a middle ages style demeanor. Doesn't blind hope imply blind faith, which, in its turn, imply messianism and lack of ideology critique?\r\n\r\nHow can we remain hopeful, then, if hope doesn't make sense? This is what we attempt to address in this talk.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

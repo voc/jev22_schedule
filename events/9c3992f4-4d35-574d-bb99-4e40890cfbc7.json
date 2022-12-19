@@ -6,11 +6,11 @@
   "start": "18:30",
   "duration": "00:15",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49172--ccs-chaotischer-catalysator-stipendien",
+  "slug": "jev22-49172-ccs_chaotischer_catalysator_stipendien",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/",
   "title": "#CCS - Chaotischer Catalysator Stipendien",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Wir suchen nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grunds\u00e4tzen der Hacker*innen-Ethik verbesserbar ist.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

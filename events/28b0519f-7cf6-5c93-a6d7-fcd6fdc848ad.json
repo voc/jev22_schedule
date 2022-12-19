@@ -6,11 +6,11 @@
   "start": "21:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49088-how-to-become-an-openstreetmap-pro",
+  "slug": "jev22-49088-how_to_become_an_openstreetmap_pro",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/",
   "title": "How to become an OpenStreetMap pro",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "en",
   "abstract": "This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

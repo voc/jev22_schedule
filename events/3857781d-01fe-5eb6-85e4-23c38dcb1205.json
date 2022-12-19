@@ -1,12 +1,12 @@
 {
-  "id": 9,
+  "id": 3857,
   "guid": "3857781d-01fe-5eb6-85e4-23c38dcb1205",
   "logo": "/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png",
   "date": "2022-12-28T20:00:00+01:00",
   "start": "20:00",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-9-wir-knnen-dich-durchschauen-bildgebung-in-der-medizin",
+  "slug": "jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin",
   "url": "https://cfp.ccc-p.org/rtc22/talk/UGPT9B/",
   "title": "Wir k\u00f6nnen dich durchschauen - Bildgebung in der Medizin",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

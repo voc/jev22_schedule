@@ -6,11 +6,11 @@
   "start": "22:00",
   "duration": "00:50",
   "room": "c-base mainhall",
-  "slug": "hip-berlin-2022-49145-eigenform",
+  "slug": "jev22-49145-eigenform",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/",
   "title": "Eigenform",
   "subtitle": "",
-  "track": "mainhall stage - c-base",
+  "track": "c-base",
   "type": "Music/Performance/Art/Other Cool stuff",
   "language": "en",
   "abstract": "Live music set by Eigenform, an electronic music and multimedia project.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
   "origin": "pretalx.c3voc.de"
 }

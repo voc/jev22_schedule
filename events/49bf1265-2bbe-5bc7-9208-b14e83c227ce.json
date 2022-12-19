@@ -6,11 +6,11 @@
   "start": "19:00",
   "duration": "00:17",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49293-erklrhaj-experimentiert",
+  "slug": "jev22-49293-erklaerhaj_experimentiert",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/",
   "title": "Erkl\u00e4rhaj experimentiert",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

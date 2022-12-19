@@ -6,11 +6,11 @@
   "start": "15:15",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49116-datenschutzrechte-zum-mitmachen-dsgvo-anfragen-stellen-mit-datenanfragen-de",
+  "slug": "jev22-49116-datenschutzrechte_zum_mitmachen_dsgvo_anfragen_stellen_mit_datenanfragen_de",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/TBBNKB/",
   "title": "Datenschutzrechte zum Mitmachen \u2013 DSGVO-Anfragen stellen mit Datenanfragen.de",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Die DSGVO ist in aller Munde, aber was bedeutet sie eigentlich f\u00fcr Dich? Wir wollen uns die Rechte, die Dir durch die DSGVO zugesichert werden, einmal genauer anschauen und \u2013 vor allem \u2014 ausprobieren. In unserem Workshop lernst Du, mit Datenanfragen.de Anfragen zu stellen, um an Deine Daten zu kommen, sie l\u00f6schen zu lassen, zu berichtigen oder Widerspruch gegen Direktwerbung einzulegen.",
@@ -42,6 +42,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

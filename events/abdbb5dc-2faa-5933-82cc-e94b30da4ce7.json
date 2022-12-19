@@ -6,11 +6,11 @@
   "start": "15:00",
   "duration": "01:15",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49086-informationen-bewerten-eine-zeitreise-durch-die-welt-der-propaganda-fake-news-und-desinformation",
+  "slug": "jev22-49086-informationen_bewerten_eine_zeitreise_durch_die_welt_der_propaganda_fake_news_und_desinformation",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/8XTUNF/",
   "title": "Informationen bewerten \u2014 Eine Zeitreise durch die Welt der Propaganda, Fake News und Desinformation",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Propaganda, Fake News und Desinformation erkennen lernen, anhand von Quellen aus der j\u00fcngeren und ferneren Vergangenheit. A trip down the historical memory lane.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

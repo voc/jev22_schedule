@@ -6,12 +6,12 @@
   "start": "13:30",
   "duration": "00:55",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49182-an-introduction-to-scientific-journalism",
+  "slug": "jev22-49182-an_introduction_to_scientific_journalism",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/",
   "title": "An Introduction to Scientific Journalism",
   "subtitle": "",
-  "track": "Track 2 Room 2",
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "The History, State, and Potential of Scientific Journalism, For a More Accountable and Reproducible Media Ecosystem.",
   "description": "Scientific journalism (not to be confused with 'Wissenschaftsjournalismus') is essentially the application of the principles of the scientific method to the process and presentation of journalistic work. This presentation will further define and recall the history -- from Philip Meyer's precision journalism, to WikiLeaks -- of the concept, how it has been practiced in the past, and how it could be practiced in the future. I will also outline my own model of revision-controlled journalism (RCJ) as a further extension that draws on the benefits of open-source intelligence and version control systems.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

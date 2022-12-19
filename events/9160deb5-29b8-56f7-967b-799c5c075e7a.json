@@ -6,11 +6,11 @@
   "start": "18:30",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49119-netzwerken-haecksen-only-",
+  "slug": "jev22-49119-netzwerken_haecksen_only",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/HTG8AZ/",
   "title": "Netzwerken (Haecksen only)",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Lerne Haecksen kennen!",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

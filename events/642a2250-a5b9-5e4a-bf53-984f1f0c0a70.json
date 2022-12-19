@@ -6,11 +6,11 @@
   "start": "11:55",
   "duration": "01:45",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49154-platform-system-interface-design-und-evaluation-holistischer-computerarchitektur",
+  "slug": "jev22-49154-platform_system_interface_design_und_evaluation_holistischer_computerarchitektur",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/",
   "title": "Platform System Interface - Design und Evaluation holistischer Computerarchitektur",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "en",
   "abstract": "Konnten wir sie je verstehen, und begreifen wir Computer heute noch wirklich?\r\nAuf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

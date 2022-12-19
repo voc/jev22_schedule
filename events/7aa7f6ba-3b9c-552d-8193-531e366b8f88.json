@@ -6,11 +6,11 @@
   "start": "11:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49230-opening",
+  "slug": "jev22-49230-opening",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/",
   "title": "Opening",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Veranstaltungsbeginn mit Einf\u00fchrung",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

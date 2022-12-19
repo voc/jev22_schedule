@@ -6,12 +6,12 @@
   "start": "11:30",
   "duration": "00:45",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49261-taping-out-a-systolic-array-with-an-opensource-pdk",
+  "slug": "jev22-49261-taping_out_a_systolic_array_with_an_opensource_pdk",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MJSGGS/",
   "title": "Taping out a systolic array with an opensource PDK",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Introduction to open source PDKs for making custom Asics and the work involved in taping out a small systolic array using only open-source tooling, and also applications to systolic arrays",
   "description": "During this talk, I will give an introduction to open-source PDKs for making custom Asics and my work on taping out a small systolic array using only open-source tools, my work is part of the zero to ASIC community https://www.zerotoasiccourse.com/. All of the content to be presented is from the perspective of an embedded software engineer learning digital design in his free time, without previous knowledge of digital design.\r\n\r\nThe related work can be found at https://github.com/tucanae47/etpu and https://github.com/tucanae47/wrapped_etpu",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

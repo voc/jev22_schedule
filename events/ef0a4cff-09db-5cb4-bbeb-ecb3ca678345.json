@@ -1,12 +1,12 @@
 {
-  "id": 1,
+  "id": 409,
   "guid": "ef0a4cff-09db-5cb4-bbeb-ecb3ca678345",
   "logo": "",
   "date": "2022-12-27T18:00:00+01:00",
   "start": "18:00",
   "duration": "00:30",
   "room": "Sparti",
-  "slug": "rtc22-1-opening",
+  "slug": "jev22-409-opening",
   "url": "https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/",
   "title": "Opening",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

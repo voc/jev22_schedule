@@ -6,12 +6,12 @@
   "start": "17:00",
   "duration": "00:30",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49107-a-beginner-s-guide-to-unexpected-input-",
+  "slug": "jev22-49107-a_beginner_s_guide_to_unexpected_input",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WJBNAN/",
   "title": "A beginner's guide to unexpected input \ud83e\udde8",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Are you the kind of person who enjoys putting weird stuff into web forms and watching them try to handle that? Would you put yourself on the chaotic side of an alignment chart? Is your reaction to \"there be dragons\" to invite the dragons in?  \r\nIn that case, this talk may be for you. I want to explain some of the most common kinds of unexpected input on a level that beginners should be able to understand.",
   "description": "I somehow can't stop myself from talking about emoji at conferences. And I don't even use those things that much. Well, I don't use them that much for what they're for. I generally put them in places where they are unexpected and watch stuff break.  \r\nHowever, I don't only want to be \"that emoji person\", so for this talk, I want to start with some info about emoji, and some developments that have happened since my [talk at this year's GPN](https://media.ccc.de/v/gpn20-6-breaking-things-with-emoji-), but then move on to some more advanced topics like SQL injections, XSS and buffer overflows. All of that explained on a somewhat surface level so that people who don't know much about hacking can still follow and get some value out of the talk.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

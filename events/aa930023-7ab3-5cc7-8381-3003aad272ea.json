@@ -6,11 +6,11 @@
   "start": "19:00",
   "duration": "01:00",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49105-betreutes-hacken-senior-und-die-juniorcrew",
+  "slug": "jev22-49105-betreutes_hacken_senior_und_die_juniorcrew",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/TGCYWB/",
   "title": "Betreutes Hacken - Senior und die Juniorcrew",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Helft Hetti die Box Challenge zu meistern.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

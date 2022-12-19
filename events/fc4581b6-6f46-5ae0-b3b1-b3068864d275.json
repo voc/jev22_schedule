@@ -6,12 +6,12 @@
   "start": "13:30",
   "duration": "00:30",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49208-librevents-liberating-data-from-big-tech",
+  "slug": "jev22-49208-librevents",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YKXPH7/",
   "title": "Librevents: \u201cliberating\u201d data from Big Tech",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Librevent is a browser extension allowing any user to copy and republish (\u201cscrape\u201d) data about events posted on proprietary platforms onto free libre and open source decentralized networks. \r\n\r\nFor now, Librevents focuses on liberating events data (description, date and time, location) from Facebook onto Mobilizon, an event-management platform alternative part of the Fediverse*.\r\n\r\nThe intention behind Librevents is to feed alternative ethical platforms like Mobilizon with content, in order to help them counter the \u201cnetwork effect\u201d (users staying on Facebook because the information is only available there). The concept of \u201cdata liberation\u201d could later be applied to other types of contents and platforms.\r\n\r\nThe data we liberate is initially posted as a \u201cpublic event\u201d by the organizer. We make this data truly \u201cpublic\u201d and available on free platforms, without violating the organizer\u2019s original intentions.",
   "description": "*Fediverse: a federated network of free libre and open source alternatives to Twitter, Facebook, Youtube. The networks within the Fediverse communicate together through the ActivityPub protocol.\r\n\r\nIn 2021, we have been developing Mobilize.Berlin, an event platform based on Mobilizon, intended for the club and music scene in Berlin. \r\nIn 2022, we have kept improving Librevents within our Mobilize.Berlin community, organizing two hackathons at the c-base hackerspace in Berlin.\r\n\r\nIn this talk we will present the browser extension Librevents, available to download and allowing any user to scrape and republish themselves events onto a Mobilizon instance. \r\n\r\nOur goal is to grow our community of developers, event organizers, and Mobilizon instance administrators in order to improve Librevents, to promote Mobilizon and the Fediverse, and make data liberation happen.\r\n\r\nkeywords: Fediverse, Mobilizon, data liberation, adversarial interoperability",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

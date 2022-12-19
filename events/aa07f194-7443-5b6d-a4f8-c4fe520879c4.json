@@ -1,12 +1,12 @@
 {
-  "id": 6,
+  "id": 719,
   "guid": "aa07f194-7443-5b6d-a4f8-c4fe520879c4",
   "logo": "",
   "date": "2022-12-28T14:00:00+01:00",
   "start": "14:00",
   "duration": "01:30",
   "room": "Seminarraum 1 (25)",
-  "slug": "rtc22-6-sketchnotes-workshop",
+  "slug": "jev22-719-sketchnotes_workshop",
   "url": "https://cfp.ccc-p.org/rtc22/talk/77ZGHR/",
   "title": "Sketchnotes Workshop",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
   "origin": "cfp.ccc-p.org"
 }

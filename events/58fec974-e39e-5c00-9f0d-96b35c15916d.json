@@ -6,11 +6,11 @@
   "start": "15:00",
   "duration": "01:00",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49280-weaving-old-and-new-technology-from-design-concept-to-diva-fashion",
+  "slug": "jev22-49280-weaving_old_and_new_technology",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LADFAB/",
   "title": "Weaving, Old and New Technology: from Design Concept to Diva Fashion",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "Have you ever wondered how fabric is actually woven? In this discussion i will take you along for the journey from initial concept to final wearable product of a high-fashion modern-designed wool scarf. Topics from the chemistry science of fiber and dyeing to the utilization of computer-assisted pattern design will be covered.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

@@ -6,12 +6,12 @@
   "start": "17:00",
   "duration": "01:00",
   "room": "c-base mainhall",
-  "slug": "hip-berlin-2022-49197--das-war-ich-nicht-mein-handy-wurde-gehackt-sollten-beweise-aus-smartphones-vor-gericht-verwendbar-sein-",
+  "slug": "jev22-49197-das_war_ich_nicht_mein_handy_wurde_gehackt_sollten_beweise_aus_smartphones_vor_gericht_verwendbar_sein",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FCWFK9/",
   "title": "\"Das war ich nicht, mein Handy wurde gehackt!\" - Sollten Beweise aus Smartphones vor Gericht verwendbar sein?",
   "subtitle": "",
-  "track": "mainhall stage - c-base",
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "c-base",
+  "type": "Talk",
   "language": "de",
   "abstract": "Nach wie vor ist der ein Handel mit noch unbekannten Schwachstellen (Zero-Day Exploits) m\u00f6glich und \u00fcblich. Aber was bedeutet das f\u00fcr die gerichtliche Verwertbarkeit von den inhalten von Smartphones? Kann man Vorg\u00e4nge auf einem Ger\u00e4t technisch einwandfrei nachweisen, wenn es f\u00fcr dieses Ger\u00e4t k\u00e4ufliche Schwachstellen gibt?",
   "description": "Von einer rein technischen Perspektive betrachtet, kann der Integrit\u00e4t von Daten in einem IT-System nicht mehr vertraut werden, wenn: 1.  Es in diesen System offene Schwachstellen gibt und 2. von einer Angreifer*in ausgegangen wird, die mit einem vollen Systemzugriff ausreichend gut Spuren von Zugriffen und Manipulationen verwischen kann.\r\nJe besser die internen Details eines Systems bekannt sind, desto leichter f\u00e4llt das Finden und Aufkl\u00e4ren von eventuellen Manipulationen.\r\nAber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um vor Gericht Handlugen von Angeklagten nachzuvollziehen? In diesem Talk versuche ich zuerst einen Einblick in die Gebiete von Smartphone-Forensik, Zeroday-M\u00e4rkten und Smartphone-IT-Security zu geben und dann zu Analysieren, was das f\u00fcr die Verwendung von Smartphones in Gerichtsverfahren bedeutet.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
   "origin": "pretalx.c3voc.de"
 }

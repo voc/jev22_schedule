@@ -6,11 +6,11 @@
   "start": "12:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49284-barrierefrei-posten-bildbeschreibungen-auf-social-media",
+  "slug": "jev22-49284-barrierefrei_posten",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/",
   "title": "Barrierefrei posten: Bildbeschreibungen auf Social Media",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

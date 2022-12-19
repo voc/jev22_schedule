@@ -6,12 +6,12 @@
   "start": "11:00",
   "duration": "00:30",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49283-opening-event",
+  "slug": "jev22-49283-opening_event",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/K8FAFL/",
   "title": "Opening Event",
   "subtitle": "",
-  "track": "Theater Hall - E.T.I. (HiP main stage)",
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Welcome to Hacking in Parallel. \r\n\r\nLets fire this up.",
   "description": "The opening event of this event.",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

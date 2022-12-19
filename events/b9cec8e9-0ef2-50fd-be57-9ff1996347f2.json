@@ -6,11 +6,11 @@
   "start": "15:30",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49279-barrierearme-datenvisualisierungen-im-web",
+  "slug": "jev22-49279-barrierearme_datenvisualisierungen_im_web",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/QPBDTA/",
   "title": "Barrierearme Datenvisualisierungen im Web",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Wie k\u00f6nnen Datenvisualisierungen so gestaltet werden, dass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden k\u00f6nnen. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die pr\u00e4sentierten Daten zum Download anzubieten und wie ein Diagramm f\u00fcr Screenreader-Nutzer:innen beschrieben werden kann.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

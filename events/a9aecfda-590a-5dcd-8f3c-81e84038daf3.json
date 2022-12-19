@@ -6,12 +6,12 @@
   "start": "16:00",
   "duration": "00:45",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49143-us-government-demands-direct-police-access-to-european-biometric-data",
+  "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
   "title": "US government demands direct police access to European biometric data",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "The \"Enhanced Border Security Partnership\" poses an unprecedented threat to civil liberties in Europe.",
   "description": "Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

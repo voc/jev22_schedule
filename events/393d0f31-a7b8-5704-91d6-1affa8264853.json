@@ -6,11 +6,11 @@
   "start": "16:30",
   "duration": "01:45",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49227-strmungen-kontroversen-und-paradoxien-im-anarchismus",
+  "slug": "jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/",
   "title": "Str\u00f6mungen, Kontroversen und Paradoxien im Anarchismus",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Der Anarchismus ist \u00e4u\u00dferst plural, was sich in seinen verschiedenen Str\u00f6mungen, anhaltenden Kontroversen und paradoxen Denkweisen zeigt. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erkl\u00e4rt und in einen Zusammenhang gebracht werden kann.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

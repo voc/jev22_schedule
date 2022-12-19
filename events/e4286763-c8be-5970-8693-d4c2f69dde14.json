@@ -6,12 +6,12 @@
   "start": "14:30",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49228-are-you-old-enough-to-buy-this-zero-knowledge-age-restriction-with-gnu-taler-",
+  "slug": "jev22-49228-are_you_old_enough_to_buy_this_zero_knowledge_age_restriction_with_gnu_taler",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GRBLDD/",
   "title": "Are you old enough to buy this? (Zero-knowledge age restriction with GNU Taler)",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Today, age verification in e-commerce implies identity verification, one way or the other.  In this talk, we first look at existing solutions for age restriction and their shortcomings. We then present a design for a privacy-friendly method that binds age restriction to the ability to pay (rather than identification) and that is aligned with the [principle of subsidiarity](https://en.wikipedia.org/wiki/Subsidiarity).  We show how this scheme is integrated with the [GNU Taler](https://taler.net) payment system, making it the first fully privacy-friendly payment system with age restriction.",
   "description": "Privacy in e-commerce is currently a sad story, especially with respect to age-restriction and -verification.  Existing commercial solutions are mostly implemented by identity verification. Even privacy-friendly approaches, using attribute-based credentials, anchor on an external, higher authority which verifies the identity of the consumer before issuing a certificate.\r\n\r\nThe [principle of subsidiarity](https://en.wikipedia.org/wiki/Subsidiarity) suggests that the appropriate level of authority to set age restriction is the level of parents and caretakers - not merchants, banks or governmental institutions.  Our design for an age verification scheme fully aligns with this principle.\r\n\r\nThe design is presented as an extension of [GNU Taler](https://taler.net), a privacy-friendly payment protocol. The extension augments the protocol with a zero-knowledge scheme for age verification that cryptographically augments coins for this purpose. Our scheme enables buyers to prove to be of sufficient age for a particular transaction without disclosing the age. The modification preserves the privacy and security properties of GNU Taler, in particular the anonymity of buyers and unlinkability of transactions.\r\n\r\nWe show how our scheme can be instantiated with various cryptographic signature schemes, how it is integrated with the GNU Taler payment system and what work is left to do.\r\n\r\nThis work is funded by the project [_Concrete Contracts_](https://concretecontracts.codeblau.de) by the [German Federal Ministry of Education and Research](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/concrete-contracts).",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

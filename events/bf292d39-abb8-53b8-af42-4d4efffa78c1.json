@@ -6,11 +6,11 @@
   "start": "16:00",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49146-gemtliches-stricktreffen",
+  "slug": "jev22-49146-gemuetliches_stricktreffen",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/G7BASV/",
   "title": "Gem\u00fctliches Stricktreffen",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Gem\u00fctliches gemeinsames Stricktreffen f\u00fcr alle zum Austausch, sowohl f\u00fcr Anf\u00e4nger*innen als auch f\u00fcr Fortgeschittene",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

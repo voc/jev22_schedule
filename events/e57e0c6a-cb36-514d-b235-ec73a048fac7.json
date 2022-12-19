@@ -1,0 +1,33 @@
+{
+  "id": 49303,
+  "guid": "e57e0c6a-cb36-514d-b235-ec73a048fac7",
+  "logo": "/media/xrelog-2022/submissions/97JC77/15ThemenBereichePico_m5205Tr.jpg",
+  "date": "2022-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "03:00",
+  "room": "icc|bs",
+  "slug": "jev22-49303-xr_barcamp",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/97JC77/",
+  "title": "XR.Barcamp",
+  "subtitle": "",
+  "track": "So Dies und Das",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "[EN] XR Barcamp: All Things VR / AR / MR / DR = XR. Come unprepared with / without VR-Gadgets. Let's talk about bullshit-free meta- and multiverse, aka Social VR, and maybe visit some of them. Maybe we will build our own VRooms from scratch, argue about good taste, researching solutions to connect the dots & worlds, ... and / or find our poster of \"15 Topic-Tracks\" as an inspiration of ideas.\r\n\r\n---\r\n\r\n[DE] XR Barcamp - Alles rund um VR / AR / MR / DR = XR. Kommt gerne komplett unvorbereitet mit / ohne VR-Gadgets. Lasst uns \u00fcber Bullshit-freies Meta- und Multiverse, aka Social VR, sprechen und es ggf. auch besuchen. Vielleicht bauen wir eigene VRooms, streiten \u00fcber guten Geschmack, finden L\u00f6sungen Welten zu vernetzen (Connecting the Dots), ... Siehe auch unser Poster der \u201e15 Themenbeieichen\u201c als m\u00f6glichen Ideengeber.",
+  "description": "[DEJ Je nach teilnehmenden Wesen wollen wir das Barcamp deutschsprachig oder in englisch halten.\r\n\r\nVier Phasen:\r\n1. Kennenlernen, Ideen-Sammling\r\n1. Ideen-Voting, Mini-Fahrplan bauen (15 Minuten Pause oder Spontan Impuls)\r\n1. Breakout-Sessions je nach Anzahl der Themen evt. 1-3 Timeslots mit 1-n parallelen Breakouts\r\n1. Was war, was wird. Die besten Takeaways aus den Sessions\r\n\r\n---\r\n\r\n[EN] Depending on the participants, the Barcamp will be held in German or in English. \r\n\r\nfour parts:\r\n1. Getting to know each other, collecting ideas\r\n1. Voting of ideas, building mini-timetable (~15-minute break or spontaneous impulse)\r\n1. Breakout sessions, depending on the number of topics, possibly 1-3 time slots with 1-n parallel breakouts\r\n1. What was, what will be. The best takeaways from the session",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3509,
+      "code": "LWRUVR",
+      "public_name": "XR.Labs Operation Group",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
+  "origin": "pretalx.c3voc.de"
+}

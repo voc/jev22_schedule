@@ -1,12 +1,12 @@
 {
-  "id": 11,
+  "id": 4704,
   "guid": "e4704ea5-8683-563c-8fec-4ec3b1f36cd3",
   "logo": "",
   "date": "2022-12-29T15:30:00+01:00",
   "start": "15:30",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-11-die-mikroarchitektur-moderner-prozessoren-ein-crashkurs",
+  "slug": "jev22-4704-die_mikroarchitektur_moderner_prozessoren",
   "url": "https://cfp.ccc-p.org/rtc22/talk/FEWKFR/",
   "title": "Die Mikroarchitektur moderner Prozessoren: ein Crashkurs",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

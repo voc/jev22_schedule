@@ -6,11 +6,11 @@
   "start": "19:30",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49231-closing",
+  "slug": "jev22-49231-closing",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VR8FJG/",
   "title": "Closing",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Veranstaltung beenden",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

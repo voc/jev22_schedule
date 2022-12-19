@@ -6,12 +6,12 @@
   "start": "11:45",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49253-crushed-by-the-wheels-industry",
+  "slug": "jev22-49253-crushed_by_the_wheels_industry",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EAXPTT/",
   "title": "Crushed by the Wheels Industry",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "We'll look at the role IT and software play in modern manufacturing, with a twist on the semiconductor industry. Since I'm a security guy, we'll mostly focus on the sorry state of that.",
   "description": "Semiconductor fabrication has been in the news  a lot lately, not only because of the US government pulling the reigns down on American companies providing know-how and services to China. The actual manufacturing technology is controlled by a rather small playing field of companies. When it comes to software and IT architecture, some of them are stuck in the mid-90s, while others have apparently had some wake-up calls. \r\nSecurity wise, the field is equally heterogeneous, but the manufacturers who are clearly oblivious to any security requirements greatly outnumber those with more solid precautions. \r\nWith average run times of machines and their software of 15-20 years the consequences can be drastic. We'll look at the state of things (with partially anonymized examples) , and some perspectives for the future.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

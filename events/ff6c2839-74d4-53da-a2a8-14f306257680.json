@@ -6,11 +6,11 @@
   "start": "20:30",
   "duration": "01:30",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49213-designing-and-making-stencils",
+  "slug": "jev22-49213-designing_and_making_stencils",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/",
   "title": "Designing and making stencils",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "In this workshop I'll walk you through the process of designing and making stencils using a laser/vinyl cutter. Come if you've ever wanted to cover something in paint. No arts skills needed!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

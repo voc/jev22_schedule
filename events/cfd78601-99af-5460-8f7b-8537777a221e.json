@@ -1,12 +1,12 @@
 {
-  "id": 5,
+  "id": 7860,
   "guid": "cfd78601-99af-5460-8f7b-8537777a221e",
   "logo": "",
   "date": "2022-12-30T13:30:00+01:00",
   "start": "13:30",
   "duration": "00:30",
   "room": "Sparti",
-  "slug": "rtc22-5-infrastructure-review",
+  "slug": "jev22-7860-infrastructure_review",
   "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
   "title": "Infrastructure Review",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

@@ -1,0 +1,33 @@
+{
+  "id": 49237,
+  "guid": "cd2ee48f-a433-5abc-b9ec-9b4cffef03b8",
+  "logo": "",
+  "date": "2022-12-29T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:30",
+  "room": "xrelog22 - Stream",
+  "slug": "jev22-49237-mafifa_wm_2030_2",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/",
+  "title": "mafifa - WM 2030 (2: Gruppenphase)",
+  "subtitle": "",
+  "track": "Activism",
+  "type": "Live Session (30)",
+  "language": "de",
+  "abstract": "mafifa - WM 2030 (2: Gruppenphase)",
+  "description": "Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptfrei; Hust. Mate z\u00e4hlt nicht als W\u00e4hrung.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3253,
+      "code": "TEGQXR",
+      "public_name": "CodeFreezR",
+      "biography": "Bassist & Enterprise Engineer & Think Tanker. Fullstack Architect, Polyglot No|Coder & MultiCloud DevOpsian. Driven by #dnb, #ikigai, #lifelonglearning & #100DaysOfCode.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ad28953f-122e-4293-836d-860320183a1c",
+  "origin": "pretalx.c3voc.de"
+}

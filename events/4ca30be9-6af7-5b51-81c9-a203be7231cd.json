@@ -6,11 +6,11 @@
   "start": "14:00",
   "duration": "00:20",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49114-text-embeddings-fr-anfnger",
+  "slug": "jev22-49114-text_embeddings_fuer_anfaenger",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/",
   "title": "Text Embeddings f\u00fcr Anf\u00e4nger",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Von nat\u00fcrlicher Sprache in einer sch\u00f6nen, linearisierten Welt und was man dort tun kann.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

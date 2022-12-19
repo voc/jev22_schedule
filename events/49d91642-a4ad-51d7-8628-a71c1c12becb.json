@@ -6,11 +6,11 @@
   "start": "22:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49109-die-bequemsten-gepckablagen-im-fernverkehr-der-deutschen-bahn",
+  "slug": "jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/",
   "title": "Die bequemsten Gep\u00e4ckablagen im Fernverkehr der Deutschen Bahn",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Wer kennt das nicht... der Zug ist mal wieder voll, und es kein Sitzplatz mehr frei. hexchen kl\u00e4rt auf \u00fcber die bequemsten Gep\u00e4ckablagen, die trotzdem ein Sitzplatz darstellen k\u00f6nnen.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

@@ -6,12 +6,12 @@
   "start": "20:15",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49142-open-source-und-cloud-native-die-zielarchitektur-der-deutschen-verwaltungscloud",
+  "slug": "jev22-49142-open_source_und_cloud_native_die_zielarchitektur_der_deutschen_verwaltungscloud",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/",
   "title": "Open Source und Cloud Native - Die  Zielarchitektur der deutschen Verwaltungscloud",
   "subtitle": "",
-  "track": "Theater Hall - E.T.I. (HiP main stage)",
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "de",
   "abstract": "Am 10. November hat der IT Planungsrat  das Rahmenwerk f\u00fcr die deutsche Verwaltungscloud beschlossen. Wir schauen uns den Inhalt an und diskutieren die Konsequenzen f\u00fcr die Infrastruktur der IT in den Beh\u00f6rden.",
   "description": "Die Strategie ist auf Public Money, Public Code ausgerichtet. Sie ist aber auch Cloud Native, wenn auch in   Private betriebenen Multi Clouds. Implizit verlangt sie DevSecOps, GitOps und auch Agilieierung.\r\n\r\nWas bedeutet die Strategie f\u00fcr Anwendungen in der Verwaltung? Der \u00f6ffentliche Sektor ist KRITIS, k\u00f6nnen die Sicherheitsanforderungen erf\u00fcllt werden? \r\n\r\nIst Security by Design in dieser Umgebung m\u00f6glich? L\u00e4sst sich damit die viel beschworene Souver\u00e4nit\u00e4t wieder herstellen? Wie stellt sich sich das ganze technisch dar?\r\n\r\nWir gehen durch https://www.it-planungsrat.de/beschluss/beschluss-2022-47",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

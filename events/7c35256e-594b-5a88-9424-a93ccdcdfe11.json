@@ -1,12 +1,12 @@
 {
-  "id": 12,
+  "id": 7352,
   "guid": "7c35256e-594b-5a88-9424-a93ccdcdfe11",
   "logo": "",
   "date": "2022-12-27T18:45:00+01:00",
   "start": "18:45",
   "duration": "00:30",
   "room": "Sparti",
-  "slug": "rtc22-12-how-to-find-the-norwegian-prime-minister-in-an-anonymized-contact-tracing-dataset",
+  "slug": "jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset",
   "url": "https://cfp.ccc-p.org/rtc22/talk/3SS7L8/",
   "title": "How to find the Norwegian prime minister in an \"anonymized\" contact tracing dataset",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

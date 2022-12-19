@@ -6,11 +6,11 @@
   "start": "13:00",
   "duration": "02:00",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49095-philosophinnen-workshop",
+  "slug": "jev22-49095-philosophinnen_workshop",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VXRENU/",
   "title": "Philosophinnen Workshop",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verst\u00e4ndlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen f\u00fcr die k\u00fcnstlerische Ausgestaltung sammeln.",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

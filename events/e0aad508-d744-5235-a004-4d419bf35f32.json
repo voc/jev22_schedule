@@ -6,11 +6,11 @@
   "start": "13:00",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49091-barrierefrei-posten-bildbeschreibungen-auf-social-media",
+  "slug": "jev22-49091-barrierefrei_posten",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VVKN3B/",
   "title": "Barrierefrei posten: Bildbeschreibungen auf Social Media",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig. Wir schauen uns eure eigenen Seiten an und schauen, an welchen Schrauben wir drehen k\u00f6nnen!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

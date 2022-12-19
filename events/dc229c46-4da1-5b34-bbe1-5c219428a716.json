@@ -6,11 +6,11 @@
   "start": "17:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49164-oreboot-auf-risc-v-vergleichende-analyse-zweier-implementierungen",
+  "slug": "jev22-49164-oreboot_auf_risc_v_vergleichende_analyse_zweier_implementierungen",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/",
   "title": "oreboot auf RISC-V - Vergleichende Analyse zweier Implementierungen",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den\r\nJH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

@@ -6,12 +6,12 @@
   "start": "22:00",
   "duration": "00:45",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49211-pacman-can-have-the-cookies-and-eat-the-ghosts-too",
+  "slug": "jev22-49211-pacman_can_have_the_cookies_and_eat_the_ghosts_too",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/HCNL3V/",
   "title": "Pacman can have the cookies and eat the ghosts too",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "A look into present and upcoming binary package repository management tooling for pacman\r\nbased distributions such as Arch Linux, which can also be used by individuals\r\nhosting their private repositories.",
   "description": "How software gets to the user plays a very centric and important role on Linux\r\ndistributions.\r\n\r\nDistributions based on binary package managers such as pacman require not only\r\ntooling to build the packages, but also software to maintain the repository\r\ninfrastructure of the resulting packages, so that users can install them.\r\n\r\nIn this talk we will investigate the use of different pieces of software, that\r\nare currently employed for maintaining the official repositories on Arch Linux.\r\n\r\nRepod [1] - the upcoming tooling - is evaluated in regards to its current\r\nfeature set, its design goals and planned integration with the existing\r\npackaging ecosystem.\r\n\r\n[1] https://gitlab.archlinux.org/archlinux/repod",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

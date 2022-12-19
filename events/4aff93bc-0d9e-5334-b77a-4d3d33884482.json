@@ -6,11 +6,11 @@
   "start": "14:00",
   "duration": "01:30",
   "room": "soldering room 7",
-  "slug": "hip-berlin-2022-49163-led-strips-everywhere-for-everyone-",
+  "slug": "jev22-49163-led_strips_everywhere_for_everyone",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MVZST3/",
   "title": "LED Strips Everywhere for Everyone!",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "''Learn how to program LED strips.<br>It's super easy and fun to make your life trippy and beautiful.<br>For total beginners.''",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
   "origin": "pretalx.c3voc.de"
 }

@@ -1,0 +1,17 @@
+{
+  "guid": "1ca0f00e-f061-4f80-b94e-59807d66b73b",
+  "title": "Raspberry Pi Pico mit CircuitPy",
+  "subtitle": null,
+  "abstract": "Christian \"CWB\" Wenzel-Benner",
+  "date": "2022-12-28T04:00:00+01:00",
+  "start": "04:00",
+  "duration": "1:00",
+  "room": "ChilyConChaos",
+  "persons": [],
+  "track": null,
+  "type": "Other",
+  "id": 1007,
+  "slug": "jev22-1007-raspberry_pi_pico_mit_circuitpy",
+  "room_id": null,
+  "origin": "ramac.mudbyte.de"
+}

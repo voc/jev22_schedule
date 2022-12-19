@@ -1,12 +1,12 @@
 {
-  "id": 4,
+  "id": 5374,
   "guid": "5a374648-e0bf-53ff-84f6-998fdeefce9b",
   "logo": "",
   "date": "2022-12-28T22:00:00+01:00",
   "start": "22:00",
   "duration": "01:00",
   "room": "Sparti",
-  "slug": "rtc22-4-cursedin-drum-n-bass-",
+  "slug": "jev22-5374-cursedin_drum_n_bass",
   "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
   "title": "cursedin (Drum'n'Bass)",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

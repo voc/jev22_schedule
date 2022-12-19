@@ -6,12 +6,12 @@
   "start": "17:00",
   "duration": "00:30",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49196-what-i-learned-from-making-an-1836-led-dodecahedron",
+  "slug": "jev22-49196-what_i_learned_from_making_an_1836_led_dodecahedron",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3D3JF9/",
   "title": "What I learned from making an 1836 LED dodecahedron",
   "subtitle": "",
-  "track": "Track 2 Room 2",
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Going through the reasoning and design decisions made while creating pentagon shaped PCBs and a case for a 12 sided platonic solid.",
   "description": "Inspired by a huge dodecahedron installation by xHain hack+makespace and seeing Greg Davill's D20 LED cube at #36C3, davedarko swore to himself to make an LED covered dodecahedron. \r\n\r\nTwo years later the design process started, by deciding on a way to distribute LEDs. Then the next questions formed. How many LEDs can I put on it? How do you control 1836 LEDs that are spread over 12 PCBs? Do you chose neopixels or find an LED controller? What size is the angle between sides and what is it even called? How do you power it? Can I make new friends with it?\r\n\r\nBe warned: This talk will cover enough information to make you consider building a platonic solid covered in LEDs yourself!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

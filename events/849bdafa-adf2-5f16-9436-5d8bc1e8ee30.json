@@ -6,11 +6,11 @@
   "start": "19:45",
   "duration": "01:15",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49085-leben-mit-borderline",
+  "slug": "jev22-49085-leben_mit_borderline",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/",
   "title": "Leben mit Borderline",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Einblick in Leben und Symptome der Borderline-Pers\u00f6nlichkeitsst\u00f6rung - Talk erg\u00e4nzt um die Themen Favorite Persons bei Borderline und detaillierte Beschreibung der Diagnosekriterien und Skills\r\nTrigger versuche ich zu vermeiden",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

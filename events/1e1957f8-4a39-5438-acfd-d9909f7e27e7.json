@@ -6,11 +6,11 @@
   "start": "14:00",
   "duration": "01:15",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49102-10-000-seiten-spter-welche-spuren-der-klimabericht-bei-mir-hinterlassen-hat",
+  "slug": "jev22-49102-10_000_seiten_spaeter_welche_spuren_der_klimabericht_bei_mir_hinterlassen_hat",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/",
   "title": "10.000 Seiten sp\u00e4ter \u2013 Welche Spuren der Klimabericht bei mir hinterlassen hat",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat ver\u00f6ffentlicht sind, liest Claudia ihn Kapitel f\u00fcr Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation \u2013 doch was ist 10.000 Seiten sp\u00e4ter (so lang ist der Klimabericht) davon \u00fcbrig geblieben?",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

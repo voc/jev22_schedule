@@ -6,12 +6,12 @@
   "start": "14:30",
   "duration": "01:00",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49210-what-if-xss-was-a-browser-bug-",
+  "slug": "jev22-49210-what_if_xss_was_a_browser_bug",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/",
   "title": "What if XSS was a browser bug?",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 45 min + 10 min Q&A (55 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "Cross-Site Scripting (XSS) is still the most common security issue on the web - with no easy way to be prevented. The talk will provide the necessary background on XSS and where previous approaches failed. Then we will present the Sanitizer API, a new and upcoming browser API that solves this issue.",
   "description": "We\u2019ll talk about mXSS and HTML parsing as background and then also explain why the XSS Auditor didn\u2019t work (as a prime example of a browser-controlled XSS mitigation). Using examples from recent mXSS attacks against sanitizers, we are explaining the root cause of these issues and the solution: Parsing needs to be done within a context-element. Then we will explain how a built-in Sanitizer API can fill the existing gap and what it can and can not protect against, looking at more recent attacks like DOM Clobbering and script gadgets.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

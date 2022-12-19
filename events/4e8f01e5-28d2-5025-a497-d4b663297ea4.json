@@ -6,11 +6,11 @@
   "start": "13:00",
   "duration": "00:40",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49153-logrotten-it-s-not-a-bug-",
+  "slug": "jev22-49153-logrotten_it_s_not_a_bug",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/",
   "title": "Logrotten - \"It's not a bug\"",
   "subtitle": "",
-  "track": "R3S - Remote Rhein Ruhr Stage",
+  "track": "R3S",
   "type": "Talk",
   "language": "de",
   "abstract": "Logrotate, ein Tool zum Verwalten von Logdateien, verf\u00fcgt \u00fcber eine Sicherheitsl\u00fccke, die das Ausweiten der Rechte \u00fcber eine Race Condition erlaubt. Die Sicherheitl\u00fccke \u2013 \u201cLogrotten\u201d -  kann dann ausgenutzt werden, wenn ein*e unprivilegierte*r Benutzer*in das Logverzeichnis unter Kontrolle hat. \r\nIn diesem Vortrag wird gezeigt, wie einfach es ist, diese Sicherheitsl\u00fccke auszunutzen, und es wird gezeigt, welche Auswirkungen und Reichweite diese Sicherheitsl\u00fccke hat, z.B. auf andere Softwarepakete wie gitlab. Am Ende wird der aktuelle Stand von Logrotate aufgezeigt.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

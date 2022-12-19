@@ -6,11 +6,11 @@
   "start": "15:30",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49118-haecksen-frhstck",
+  "slug": "jev22-49118-haecksen_fruehstueck",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/3KMN8W/",
   "title": "Haecksen-Fr\u00fchst\u00fcck",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Haecksenfr\u00fchst\u00fcck f\u00fcr interessierte FINTA-Personen",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

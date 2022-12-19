@@ -6,11 +6,11 @@
   "start": "17:00",
   "duration": "00:45",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49269-quantenverschlsselung-in-einer-box",
+  "slug": "jev22-49269-quantenverschluesselung_in_einer_box",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
   "title": "Quantenverschl\u00fcsselung in einer Box",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "de",
   "abstract": "Da zuk\u00fcnftige Quantencomputer besonders gut darin sind, klassische Verschl\u00fcsselungen zu knacken, werden andere Formen der Schl\u00fcsselgenerierung ben\u00f6tigt.\r\nEine m\u00f6gliche L\u00f6sung ist die Erzeugung von sogenannten Quantenschl\u00fcsseln, die eine besondere Eigenheit der Quantenmechanik ausnutzen.\r\nStatt mit einzelnen Photonen werden wir im Workshop einen Schl\u00fcssel mit dem extra daf\u00fcr entwickelten Quantenschl\u00fcsselgenerator, kurz Qey-Gen, erzeugen. So kann jeder direkt hands-on das Verfahren ausprobieren und verstehen.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }

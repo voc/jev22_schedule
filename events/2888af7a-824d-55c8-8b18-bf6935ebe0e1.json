@@ -6,12 +6,12 @@
   "start": "12:00",
   "duration": "00:30",
   "room": "Theater Hall E.T.I.",
-  "slug": "hip-berlin-2022-49173-securing-name-resolution-in-the-iot-dns-over-coap",
+  "slug": "jev22-49173-securing_name_resolution_in_the_iot",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/",
   "title": "Securing Name Resolution in the IoT: DNS over CoAP",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 30 min",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "DNS over CoAP is a new Internet protocol that enables constrained IoT devices similar name resolution security as DNS over HTTPS. This talks presents the protocol and discusses its benefits over other DNS solutions.",
   "description": "I present the design, implementation, and analysis of DNS over CoAP (DoC), a new proposal for secure and privacy-friendly name resolution of constrained IoT devices. This protocol is currently discussed within the Internet Engineering Task Force (IETF), a standardization body for Internet protocols: https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/. We implemented different design choices of DoC in RIOT, an open-source operating system for the IoT, evaluate performance measures in a testbed, compare with DNS over UDP and DNS over DTLS, and validate our protocol design based on empirical DNS IoT data. Our findings indicate that plain DoC is on par with common DNS solutions for the\r\nconstrained IoT but significantly outperforms when additional, CoAP standard features are used such as block-wise transfer or caching.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
   "origin": "pretalx.c3voc.de"
 }

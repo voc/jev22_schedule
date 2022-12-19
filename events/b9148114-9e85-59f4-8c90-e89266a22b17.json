@@ -6,12 +6,12 @@
   "start": "11:00",
   "duration": "01:25",
   "room": "Track 2 room 2",
-  "slug": "hip-berlin-2022-49190--mostly-homebrewn-metal-am",
+  "slug": "jev22-49190-mostly_homebrewn_metal_am",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
   "title": "(mostly) homebrewn metal AM",
   "subtitle": "",
-  "track": null,
-  "type": "Talk/panel 75 min + 10 min Q&A (85 Minuten)",
+  "track": "E.T.I.",
+  "type": "Talk",
   "language": "en",
   "abstract": "A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)",
   "description": "After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
   "origin": "pretalx.c3voc.de"
 }

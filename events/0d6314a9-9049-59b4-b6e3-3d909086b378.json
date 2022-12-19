@@ -1,12 +1,12 @@
 {
-  "id": 14,
+  "id": 631,
   "guid": "0d6314a9-9049-59b4-b6e3-3d909086b378",
   "logo": "/media/rtc22/submissions/MCVSWU/Logo_blue_f148DRv.png",
   "date": "2022-12-28T13:00:00+01:00",
   "start": "13:00",
   "duration": "00:30",
   "room": "Sparti",
-  "slug": "rtc22-14-machen-wir-die-elektronik-durch-hardware-as-a-service-kreislauffhiger",
+  "slug": "jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger",
   "url": "https://cfp.ccc-p.org/rtc22/talk/MCVSWU/",
   "title": "Machen wir die Elektronik durch \"Hardware as a service\" kreislauff\u00e4higer",
   "subtitle": "",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
   "origin": "cfp.ccc-p.org"
 }

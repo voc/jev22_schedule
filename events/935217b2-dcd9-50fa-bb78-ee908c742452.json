@@ -6,11 +6,11 @@
   "start": "17:15",
   "duration": "02:30",
   "room": "Fireshonks-Workshop",
-  "slug": "fire-shonks-2022-49166-wir-wollen-mit-euren-avataren-2d-schach-spielen",
+  "slug": "jev22-49166-wir_wollen_mit_euren_avataren_2d_schach_spielen",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CGJWCH/",
   "title": "Wir wollen mit euren Avataren (2D-)Schach spielen",
   "subtitle": "",
-  "track": "Haecksen Tracks",
+  "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
   "abstract": "Wir wollen in unserem virtuellen Garten eine Partie Schach spielen. Das Brett haben wir schon ausgelegt, die Figuren seid ihr! Bis zu 32 Mitspieler:innen koordinieren sich zu zwei Teams in einem BigBlueButton und bewegen sich dann Zug um Zug auf unserer Garten-Map im WorkAdventure (die rC3 l\u00e4sst gr\u00fc\u00dfen).",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
   "origin": "pretalx.c3voc.de"
 }

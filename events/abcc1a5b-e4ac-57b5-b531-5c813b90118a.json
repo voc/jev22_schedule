@@ -6,11 +6,11 @@
   "start": "14:00",
   "duration": "02:30",
   "room": "soldering room 7",
-  "slug": "hip-berlin-2022-49162-learn-to-solder-digital-music-synthesis-workshop-with-ardutouch-music-synthesizer-kit",
+  "slug": "jev22-49162-learn_to_solder_digital_music_synthesis_workshop_with_ardutouch_music_synthesizer_kit",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/8TQBMA/",
   "title": "Learn to Solder - Digital Music Synthesis workshop with ArduTouch music synthesizer kit",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "''Learn to solder by making a cool, powerful music synthesizer,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and learn to generate cool music, sound, and noise! with computer chips -- for total newbies''",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
   "origin": "pretalx.c3voc.de"
 }

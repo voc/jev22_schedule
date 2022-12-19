@@ -6,7 +6,7 @@
   "start": "21:30",
   "duration": "01:45",
   "room": "Fireshonks-Stream",
-  "slug": "fire-shonks-2022-49177-von-der-mailbox-bis-zum-fediverse-kamingesprch-",
+  "slug": "jev22-49177-von_der_mailbox_bis_zum_fediverse_kamingespraech",
   "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/A8J8AF/",
   "title": "Von der Mailbox bis zum Fediverse (Kamingespr\u00e4ch)",
   "subtitle": "",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
   "origin": "pretalx.c3voc.de"
 }

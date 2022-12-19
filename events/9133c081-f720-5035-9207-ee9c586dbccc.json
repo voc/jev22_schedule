@@ -6,11 +6,11 @@
   "start": "17:00",
   "duration": "03:00",
   "room": "workshop room 3",
-  "slug": "hip-berlin-2022-49191-programming-games-in-go-for-pretty-much-all-platforms",
+  "slug": "jev22-49191-programming_games_in_go_for_pretty_much_all_platforms",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/",
   "title": "Programming Games in Go for Pretty Much All Platforms",
   "subtitle": "",
-  "track": "Workshop - E.T.I.",
+  "track": "E.T.I.",
   "type": "Workshop",
   "language": "en",
   "abstract": "Over the past couple of years, I've grown a new hobby of programming retro puzzle games in the Go programming language. This led to my first commercial puzzle adventure game, Dr. Kobushi's Labyrinthine Laboratory, being published on Nintendo Switch while being written fully in Go!\r\n\r\nBut isn't Go a network applications language? Can you really have fun creating all sorts of games in Go? Not only is the answer a resounding \"yes\", but you can then easily compile your game to ship it for Windows, Mac (including notarized, Universal apps), Linux, iPhone, Android and even Nintendo Switch!\r\n\r\nIn this workshop, we'll create a simple arcade game together using Go and the Ebitengine game library for Go. Basic knowledge of the Go programming language is recommended, but not much else!",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
   "origin": "pretalx.c3voc.de"
 }
