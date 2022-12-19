@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-19 12:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
+  <version>2022-12-19 13:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2598,7 +2598,7 @@ Wir gehen durch https://www.it-planungsrat.de/beschluss/beschluss-2022-47</descr
         <language>de</language>
         <abstract>Seit Mai 2022 laufen die Verhandlungen über ein umfassendes neues Überwachungsprogramm der Europäischen Union, das als 'Chatkontrolle' bereits zu zweifelhaftem Ruhm gekommen ist. Nach den Plänen der EU-Kommission sollen unter dem Deckmantel des Kinder- und Jugendschutzes künftig Kommunikations- und Hostingdienste, ob verschlüsselt oder nicht, dazu verpflichtet werden sämtliche Inhalte zu durchleuchten und verdächtiges Material und 'Grooming' an eine eng an Europol angebundene zentrale Stelle weiterzuleiten. Das bundesweite Bündnis Chatkontrolle Stoppen! sowie die europäische Kampagne StopScanningMe.eu versuchen diese dystopischen Pläne zu verhindern.</abstract>
         <description>Die Pläne der EU zur Chatkontrolle, die im konkreten Entwurf auf das Auffinden von Material der sexuellen Ausbeutung von Kindern und Jugendlichen sowie sexuellen Annäherungsversuchen durch Erwachsene beschränkt bleiben, sehen unter anderem vor, dass Kommunikations- und Hostingdienste zum Scannen sämtlicher Inhalte verpflichtet werden können. Nicht nur soll dabei auch mittels machine learning bislang unbekanntes Bild- und Videomaterial gefunden und gemeldet werden, sondern auch Textnachrichten analysiert und nach verdächtigem Verhalten gesucht werden. Verschlüsselte Kommunikation ist nicht ausgenommen, so dass eine Umsetzung der Pläne einen massiven Angriff auf Ende-zu-Ende Verschlüsselung darstellt und zur umfassenden Verbreitung von Client-Side-Scanning führen wird. Dass der Einsatz dieser dystopischen Überwachungsinstrumente mittelfristig nicht auf Missbrauchsdarstellungen von Kindern und Jugendlichen beschränkt bliebe, liegt auf der Hand.&#13;
-Nachdem die EU-Kommisson im Mai ihre Pläne vorgelegt hat, beschäftigen sich nun die zuständigen Ausschüsse des Europäische Parlaments sowie des EU-Rates mit dem Thema. Dabei stoßen die Pläne zwar auf Skepsis einiger Abgeordneter, aber insbesondere die Regierungen der meisten Nationalstaaten unterstützen diesen Angriff auf vertrauliche und sichere Kommunikation. &#13;
+Nachdem die EU-Kommisson im Mai ihre Pläne vorgelegt hat, beschäftigen sich nun die zuständigen Ausschüsse des Europäische Parlaments sowie des EU-Rates mit dem Thema. Dabei stoßen die Pläne zwar auf Skepsis einiger Abgeordneter, aber insbesondere die Regierungen der meisten Nationalstaaten unterstützen diesen Angriff auf vertrauliche und sichere Kommunikation. Aktuell läuft die Positionierung der deutschen Bundesregierung, die einen entscheidenden Einfluss im Rat hat.&#13;
 Um die Pläne noch zu verhindern müssen wir jetzt aktiv werden.</description>
         <recording>
           <license/>
@@ -2606,7 +2606,7 @@ Um die Pläne noch zu verhindern müssen wir jetzt aktiv werden.</description>
         </recording>
         <persons>
           <person id="302">Konstantin Macher (Digitalcourage)</person>
-          <person id="3046">Tom (Digitale Gesellschaft)</person>
+          <person id="3046">Tom Jennissen (Digitale Gesellschaft)</person>
         </persons>
         <links/>
         <attachments/>
