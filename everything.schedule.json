@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-19 17:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
+    "version": "2022-12-19 18:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1282,6 +1282,13 @@
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
+                  {
+                    "id": 40,
+                    "code": "GYVPAZ",
+                    "public_name": "Viktor",
+                    "biography": "Bisschen Musik mit Systemabsturz, bisschen Datenschutz mit dem CCC, bisschen Security f\u00fcr Aktivist*innen und bisschen Smartphone-Forensik",
+                    "answers": []
+                  },
                   {
                     "id": 3396,
                     "code": "9VCUF8",
