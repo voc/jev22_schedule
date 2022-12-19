@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-19 17:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
+  <version>2022-12-19 17:30; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1198,7 +1198,7 @@ Topics and tools we present are:&#13;
 &#13;
     * Indicator of Compromise (IoC) Management (MISP).&#13;
     * Mobile Verification Toolkit (MVT)&#13;
-    * Sysdiagnosis exports: analyze processes&#13;
+    * Sysdiagnose exports: analyze processes&#13;
     * PCAP evaluation (TinyCheck)&#13;
     * Linking of data, creation of timelines&#13;
 &#13;
