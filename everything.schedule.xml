@@ -1,5 +1,5 @@
 <schedule>
-  <version>2022-12-19 13:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
+  <version>2022-12-19 17:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1179,7 +1179,7 @@ keywords: Fediverse, Mobilizon, data liberation, adversarial interoperability</d
         <subtitle/>
         <track>Theater Hall - E.T.I. (HiP main stage)</track>
         <type>Talk/panel 75 min + 10 min Q&amp;A (85 Minuten)</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Not only since the Pegasus Project, which exposed the surveillance of numerous activists, journalists and opposition figures by the NSO Group's Pegasus state malware, state malware have posed a threat to the privacy of those affected and their contacts. In order to make such attacks visible and provable, analyses are needed using methods and tools similar to those used by security agencies, but which should be open source and adhere to ethical standards of consensual forensics. In our workshop we want to give an overview of what approaches, methods, and tools are suitable for these analyses to best perform forensic data extraction in a civilian context and present what tools and scripts we have developed ourselves. We all work in civil forensics ourselves and want to share our experiences on what has worked for us and what has not.&#13;
 The presented tools are of course not only suitable for the search of state malware, but also for any other malware such as stalkerware or ransomware.</abstract>
         <description>Not only since the Pegasus Project, which exposed the surveillance of numerous activists, journalists and opposition figures by the NSO Group's Pegasus state malware, state malware have posed a threat to the privacy of those affected and their contacts. In order to make such attacks visible and provable, analyses are needed using methods and tools similar to those used by security agencies, but which should be open source and adhere to ethical standards of consensual forensics. In our workshop we want to give an overview of what approaches, methods, and tools are suitable for these analyses to best perform forensic data extraction in a civilian context and present what tools and scripts we have developed ourselves. We all work in civil forensics ourselves and want to share our experiences on what has worked for us and what has not.&#13;
@@ -1188,11 +1188,14 @@ The presented tools are of course not only suitable for the search of state malw
 &#13;
 Topics and tools we present are:&#13;
 &#13;
-    * Collecting data:&#13;
+**Collecting data:**&#13;
+&#13;
     * Android/iOS: Mobile Verification Toolkit (MVT), android-qf.&#13;
     * HDD/SSD Image: guymager&#13;
     * Windows/Mac: pc-qf&#13;
-    * Evaluate data:&#13;
+&#13;
+**Evaluating data:**&#13;
+&#13;
     * Indicator of Compromise (IoC) Management (MISP).&#13;
     * Mobile Verification Toolkit (MVT)&#13;
     * Sysdiagnosis exports: analyze processes&#13;
