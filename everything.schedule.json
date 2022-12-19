@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "2022-12-19 10:50; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
+    "version": "2022-12-19 11:10; Hacking in Parallel 0.4; xrelog22: Independent Multiverses 1.5; Reconnect To Chaos! 0.1340; FireShonks 0.11",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -803,9 +803,9 @@
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "Fireshonks-Stream",
-                "slug": "fire-shonks-2022-49194-how-to-prepare-files-for-lasercutting-a-brief-introduction-",
+                "slug": "fire-shonks-2022-49194-how-to-prepare-files-for-lasercutting-talk-",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/",
-                "title": "How to prepare files for lasercutting (a brief introduction)",
+                "title": "How to prepare files for lasercutting (talk)",
                 "subtitle": "",
                 "track": "R3S - Remote Rhein Ruhr Stage",
                 "type": "Talk",
@@ -1043,7 +1043,7 @@
                 "track": "Haecksen Tracks",
                 "type": "Workshop",
                 "language": "en",
-                "abstract": "Wie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im vorangestellten Lightning-Talk erhaltet ihr eine kleine \u00dcbersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download).\r\n\r\nHow do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the preceding lightning talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download).",
+                "abstract": "Wie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im vorangestellten Talk erhaltet ihr eine kleine \u00dcbersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download) und schaue dir meinen Talk vor dem Workshop an.\r\n\r\nHow do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the preceding talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download) and watch my talk before the workshop.",
                 "description": "This workshop can be held bilingually in English/German upon request. German by default.\r\nThis is an interactive workshop in BBB, nothing is recorded, but you can participate a lot!\r\n\r\nDieser Workshop findet auf Anfrage zweisprachig auf Englisch/Deutsch statt, sonst auf deutsch.\r\nDies ist ein interaktiver Workshop im BBB, es wird nichts aufgezeichnet, daf\u00fcr darf viel mitgemacht werden!",
                 "recording_license": "",
                 "do_not_record": true,
