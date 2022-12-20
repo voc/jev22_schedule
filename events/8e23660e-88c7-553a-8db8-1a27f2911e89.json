@@ -1,0 +1,33 @@
+{
+  "id": 49233,
+  "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
+  "logo": "",
+  "date": "2022-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:00",
+  "room": "Salon",
+  "slug": "jev22-49233-massage_workshop",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/VMUVNM/",
+  "title": "Massage Workshop",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Du wolltest schon immer mal wissen, wie du massieren kannst, ohne gro\u00dfen Schaden anzurichten und das es auch noch gut tut ? \r\nNa dann los!",
+  "description": "In dem Workshop soll es vor allem um Entspannung gehen. Eine sch\u00f6ne entspannende R\u00fcckenmassage lernen, so das nichts kaputt geht :) \r\nEin paar Grundlagen und ein paar sch\u00f6ne Handgriffe zum mitnehmen quasi !",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3350,
+      "code": "EKYCBU",
+      "public_name": "\u00c4n",
+      "biography": "Ich bin \u00c4n, 29 Jahre und Physiotherapeutin und habe auch einiges an Entspannungsfort- und Weiterbildungen. \r\nZus\u00e4tzlich arbeite ich noch mit Kindern.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6a427063-66f2-4353-b582-65bd53390b22",
+  "origin": "pretalx.c3voc.de"
+}

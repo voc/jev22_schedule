@@ -1,0 +1,33 @@
+{
+  "id": 6627,
+  "guid": "6627cded-2d56-58d5-a152-491fbb8ce447",
+  "logo": "/media/rtc22/submissions/GD8EVV/mastodonhintergrundbreit-e6533fc4_CeenZwL.png",
+  "date": "2022-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/GD8EVV/",
+  "title": "Geschichten aus dem Leben einer Mastodon-Moderatorin",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Die beiden Twitter-Fluchtwellen dieses Jahr haben das Fediverse, vor allem Mastodon, ganz sch\u00f6n aufgewirbelt. Wie war das eigentlich so f\u00fcr die Menschen, die die Server in dem dezentralen Netzwerk betreiben?",
+  "description": "In diesem Vortrag m\u00f6chte ich einen kurzen Einblick in die Arbeit als Moderatorin auf der Instanz dresden.network geben, davon berichten, wie der Austausch zwischen den verschiedenen Teams der Server im Fediverse l\u00e4uft und nat\u00fcrlich auch dar\u00fcber sprechen, was sich aktuell ver\u00e4ndert.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 17,
+      "code": "JXYBBU",
+      "public_name": "\u00dcck\u00fcck",
+      "biography": "Hallo ihr da drau\u00dfen!\r\n\r\nIch bin \u00dcck\u00fcck bzw. Stehanie Henkel und in der Piratenpartei aktiv, Moderatorin bei dresden.network und Podcasterin.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
+  "origin": "cfp.ccc-p.org"
+}

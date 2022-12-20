@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-20 21:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 21:40",
+    "version": "2022-12-20 22:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 22:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -105,6 +105,27 @@
           "description": null,
           "capacity": null,
           "location": "Potsdam, Chaostreff"
+        },
+        {
+          "name": "Bierschoine",
+          "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+          "description": "Gro\u00dfer Vortragsr\u00e4um mit B\u00fchne und integriertem Hackcenter",
+          "capacity": null,
+          "location": "Brandenburg, Alte H\u00f6lle"
+        },
+        {
+          "name": "Salon",
+          "guid": "6a427063-66f2-4353-b582-65bd53390b22",
+          "description": "Gasthaus 1. OG. Raum f\u00fcr kleiner Sofarunden und die Lagerfeuervortr\u00e4ge.",
+          "capacity": null,
+          "location": "Brandenburg, Alte H\u00f6lle"
+        },
+        {
+          "name": "Bastelstube",
+          "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
+          "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
+          "capacity": null,
+          "location": "Brandenburg, Alte H\u00f6lle"
         },
         {
           "name": "xrelog22 - Stream",
@@ -1212,8 +1233,8 @@
                 "id": 7352,
                 "guid": "7c35256e-594b-5a88-9424-a93ccdcdfe11",
                 "logo": "",
-                "date": "2022-12-27T18:45:00+01:00",
-                "start": "18:45",
+                "date": "2022-12-27T19:00:00+01:00",
+                "start": "19:00",
                 "duration": "00:30",
                 "room": "Sparti",
                 "slug": "jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset",
@@ -1276,6 +1297,41 @@
             "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
+            "Bierschoine": [],
+            "Salon": [],
+            "Bastelstube": [
+              {
+                "id": 49223,
+                "guid": "ebe79622-1243-52c4-b111-b5eae6441a61",
+                "logo": "",
+                "date": "2022-12-27T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "13:20",
+                "room": "Bastelstube",
+                "slug": "jev22-49223-bastelstube_tag_1",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/7ZBY88/",
+                "title": "Bastelstube Tag 1",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "N\u00e4hen, sticken, stricken, H\u00fcte basteln und Siebdruck.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3347,
+                    "code": "A3CG7Y",
+                    "public_name": "Leo",
+                    "biography": "chaotic",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
@@ -2613,8 +2669,8 @@
                 "id": 2482,
                 "guid": "a2482fb7-b3b9-51a4-b0d5-75e251fa6fce",
                 "logo": "/media/rtc22/submissions/3QSJYT/3d-pentagame-gegenlicht-klein_qlwOLCS.jpg",
-                "date": "2022-12-28T18:45:00+01:00",
-                "start": "18:45",
+                "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-2482-neues_aus_der_pentagame_forschung",
@@ -2651,8 +2707,8 @@
                 "id": 3857,
                 "guid": "3857781d-01fe-5eb6-85e4-23c38dcb1205",
                 "logo": "/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png",
-                "date": "2022-12-28T20:00:00+01:00",
-                "start": "20:00",
+                "date": "2022-12-28T19:30:00+01:00",
+                "start": "19:30",
                 "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin",
@@ -2679,11 +2735,42 @@
                 "attachments": []
               },
               {
+                "id": 7282,
+                "guid": "a72ea826-ff65-5267-b8ad-f916698ab19a",
+                "logo": "/media/rtc22/submissions/EXAGFT/6CC33200-3954-4A59-8D6A-F167CB0F3866_R5lGEkK.png",
+                "date": "2022-12-28T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "01:00",
+                "room": "Sparti",
+                "slug": "jev22-7282-antiverschwurbeltes_axiom",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/EXAGFT/",
+                "title": "antiverschwurbeltes axiom",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Echsenmenschen pr\u00e4sentieren ihre Aktionen und teilen Ihre Skills. Taucht mit uns in die faszinierende Welt der Schwurbel.\r\n\r\nFR\u00dcHERE BOTSCHAFTEN DER REPTILOIDEn AN DIE MENSCHHEIT\r\n\r\n\u23e9 zur kritischen einf\u00fchrungswoche tu-berlin 2020:   https://youtu.be/dpPrUPpm5pI?t=1018\r\n\r\n\u23e9 rcc im //aboutblank berlin: https://media.ccc.de/v/rc3-11498-schwurbeldemos_der_neuen_rechten_und_gegenprotest\r\n\r\n\u23e9 rc3 in der c-base berlin:  https://kolektiva.media/w/okL7ACMAVt52hHn2Q1nMf7",
+                "description": "Videobeitr\u00e4ge: lustige Reaktionen der Schwurbel auf Gegenprotest, \u201ePest of 2022\u201c, Sitcom, Marschmusik gendern, How-to-mit-Schwurbel-reden, Schwurbel reagieren auf Gegenprotest, Q+A\r\n\r\nhttps://antiverschwurbelte-aktion.de/\r\n\r\nprogramm folgt...",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 13,
+                    "code": "CB3YVA",
+                    "public_name": "Schnappi",
+                    "biography": "echsenmenschen geben sich nur ungern zu erkennen. das aggresive auftreten der erwachten, die unsere verschw\u00f6rung aufdecken, zwingt uns allerdings mit offenen karten zu spielen. das ist auch garnicht so schlecht, denn das ganze weltbeherrschen von einigen echsenmenschen ist ziemlich \u00f6de geworden und haut ehrlich gesagt auch gar nicht hin... wir haben uns mit den menschen irgendwie angefreundet und denken, dass es zeit ist, mit der geheimnis-kr\u00e4merei und den ganzen ECHSzessen aufzuh\u00f6ren.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 5374,
                 "guid": "5a374648-e0bf-53ff-84f6-998fdeefce9b",
                 "logo": "",
-                "date": "2022-12-28T22:00:00+01:00",
-                "start": "22:00",
+                "date": "2022-12-28T22:30:00+01:00",
+                "start": "22:30",
                 "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-5374-cursedin_drum_n_bass",
@@ -2747,6 +2834,252 @@
             ],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
+            "Bierschoine": [
+              {
+                "id": 49310,
+                "guid": "31c55a8e-77c7-569e-818e-22a7b9c9edf5",
+                "logo": "",
+                "date": "2022-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49310-opening",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/",
+                "title": "Opening",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Herzlich Willkommen bei Hellarious - Hacking in Hell!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 265,
+                    "code": "HQZJFN",
+                    "public_name": "Carina Haupt",
+                    "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49292,
+                "guid": "cb77f0fa-6037-568c-b6b0-d3da3ff8d593",
+                "logo": "/media/hacking-in-hell-2022/submissions/AKSLWC/IMG_20200918_193952_XB6Lw6P.jpg",
+                "date": "2022-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:45",
+                "room": "Bierschoine",
+                "slug": "jev22-49292-intro_to_show_laz0rs_hacken",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/AKSLWC/",
+                "title": "Intro to Show-Laz0rs hacken",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Talk \u00fcber Showlaser: Wie funktionieren die Dinger, mit was f\u00fcr Daten werden die angesteuert, mit welchen Programmen geht das, und etwas Demo mit der nodebasierten Programmierumgebung TouchDesigner.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3400,
+                    "code": "8LXMT8",
+                    "public_name": "Moritz Hilscher",
+                    "biography": "Eigentlich Software Engineer, im mal Master Computer Vision / Machine Learning gemacht.\r\nJetzt bei LaserAnimation Sollinger GmbH, R&D von Software/Firmware/Custom Laser-Installationen.\r\nNebenbei Multimediakunstkramgebastel. :)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49309,
+                "guid": "be6ac95c-94b1-5c0d-aa06-b5980ba33111",
+                "logo": "",
+                "date": "2022-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49309-mach_dein_softwareprojekt_nutzbar_fuer_andere",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/",
+                "title": "Mach dein Softwareprojekt nutzbar f\u00fcr andere!",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Damit andere deinen Code ausf\u00fchren, verstehen und vielleicht sogar erweitern k\u00f6nnen, braucht es nicht viel. Ein bisschen aufr\u00e4umen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was geh\u00f6rt eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? \r\nIn diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 265,
+                    "code": "HQZJFN",
+                    "public_name": "Carina Haupt",
+                    "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Salon": [
+              {
+                "id": 49299,
+                "guid": "6c541374-a564-5c57-b30f-714261c4b1c5",
+                "logo": "",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-49299-showlaser_workshop_for_beginners",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/TAXSNM/",
+                "title": "Showlaser Workshop for Beginners",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Lecker Laser!\r\nBunte Bilder mit Licht in die Luft malen. Laser und Ansteuerungssoftware sind vor Ort und alle d\u00fcrfen sich kreativ mit dem Equipment austoben.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3400,
+                    "code": "8LXMT8",
+                    "public_name": "Moritz Hilscher",
+                    "biography": "Eigentlich Software Engineer, im mal Master Computer Vision / Machine Learning gemacht.\r\nJetzt bei LaserAnimation Sollinger GmbH, R&D von Software/Firmware/Custom Laser-Installationen.\r\nNebenbei Multimediakunstkramgebastel. :)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49276,
+                "guid": "4dd2d3f6-167f-509d-804c-4b6073137a7e",
+                "logo": "",
+                "date": "2022-12-28T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-49276-cyborgs_cochlear_implantate_und_fledermausis",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/XCWRPJ/",
+                "title": "Cyborgs, Cochlear Implantate und Fledermausis",
+                "subtitle": "",
+                "track": null,
+                "type": "Lagerfeuervortrag",
+                "language": "de",
+                "abstract": "Krek erz\u00e4hlt von der Forschung im Rahmen seiner Masterarbeit. Kernthema ist Sinneserweiterung durch Technik. Anhand des dabei entwickelten Prototypen wird erkl\u00e4rt, wie man ein Cochlear Implantat (oder ein akustisches Ohr) so erweitert, dass man Ultraschall damit wahrnehmen kann, um zum Beispiel Fledermausis zu h\u00f6ren.\r\nDas ganze ist als offene Gespr\u00e4chsrunde angedacht, in der alle Teilnehmenden Fragen und Gedanken direkt einbringen k\u00f6nnen. Nebenthemen wie DIY Cyborgs, wie funktionieren Cochlear Implantate, welche gesellschaftlichen Auswirkungen werden kybernetische Implantate in Zukunft haben, Pitch Shifting Algorithmen und Umgang mit H\u00f6rbehinderungen k\u00f6nnen dabei in beliebiger Tiefe er\u00f6rtert werden :)",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3384,
+                    "code": "RFUD8R",
+                    "public_name": "Krek",
+                    "biography": "Ich mach gerne Dinge mit Computern und Zukunft.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 51232,
+                "guid": "8d221f6b-6d07-59dd-be5d-5b368add2bc1",
+                "logo": "",
+                "date": "2022-12-28T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "01:30",
+                "room": "Salon",
+                "slug": "jev22-51232-film",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RDJX9Y/",
+                "title": "Film: \"Alles ist eins. Au\u00dfer der 0.\"",
+                "subtitle": "",
+                "track": null,
+                "type": "Sonstiges (120)",
+                "language": "de",
+                "abstract": "Erz\u00e4hlt wird die Geschichte des legend\u00e4ren Chaos Computer Club (CCC) und seiner Gr\u00fcnderseele Wau Holland (Dr. Wau). Vom Computer-Nerd zum Datenk\u00fcnstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die gro\u00dfen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Bastelstube": [
+              {
+                "id": 49295,
+                "guid": "d4a74fe4-a9f8-5ad2-8c02-9b28e5b2922b",
+                "logo": "/media/hacking-in-hell-2022/submissions/M3XFAT/22_12_nahmaschinenberby_bademantel_CLUm2VU.jpg",
+                "date": "2022-12-28T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "02:00",
+                "room": "Bastelstube",
+                "slug": "jev22-49295-naehmaschinenderby",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/M3XFAT/",
+                "title": "n\u00e4hmaschinenderby",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "3 Tage einfache Schnittmuster & \u2028ulkige Schneider:innen Spa\u00df teilen\r\n\t\u2022\tBademantel aus \u00fcberfl\u00fcssigen Handt\u00fcchern\r\n\t\u2022\tFestival-Kimono; Picknickdecke und FetenPoncho",
+                "description": "Hast du auch noch ein Schneider:innen Projekt in der Schublade liegen und Bock das dieses Jahr noch zu schlie\u00dfen?\r\n\t\u2022\t1 Bademantel aus \u00fcberfl\u00fcssigen Handt\u00fcchern n\u00e4hen. dazu wollen wir gerne alle soviele Handt\u00fccher mitbringen, wie es nur geht! (3-4m'' und mehr)\u2028\r\n\t\u2022\tFestival-Kimono; 2-3m'' Stoffe mitbringen auf die du Lust hast (ich werde 1 PolsterStoff einmal gewaschen, damit 's nicht mehr eingehen, mitbringen) und mich vorher mit Schnittmustern besch\u00e4ftigen.\r\n\t\u2022\tHast du noch eine N\u00e4hmaschine zu hause? bring gerne mit. Bisher sind etwa 4 Maschinen da da tarraaaa-tata",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3405,
+                    "code": "BY93KC",
+                    "public_name": "lele",
+                    "biography": "bisher leipzigbased Fan von der Alten H\u00f6lle",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 51219,
+                "guid": "20df4369-a652-5d02-ad21-e777c9a0a9aa",
+                "logo": "",
+                "date": "2022-12-28T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "07:30",
+                "room": "Bastelstube",
+                "slug": "jev22-51219-bastelstube_tag_2",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/MCTGAE/",
+                "title": "Bastelstube Tag 2",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "N\u00e4hen, sticken, stricken, H\u00fcte basteln und Siebdruck.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3347,
+                    "code": "A3CG7Y",
+                    "public_name": "Leo",
+                    "biography": "chaotic",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "xrelog22 - Stream": [
               {
                 "id": 49308,
@@ -3964,11 +4297,42 @@
                 "attachments": []
               },
               {
+                "id": 6627,
+                "guid": "6627cded-2d56-58d5-a152-491fbb8ce447",
+                "logo": "/media/rtc22/submissions/GD8EVV/mastodonhintergrundbreit-e6533fc4_CeenZwL.png",
+                "date": "2022-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "Sparti",
+                "slug": "jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/GD8EVV/",
+                "title": "Geschichten aus dem Leben einer Mastodon-Moderatorin",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Die beiden Twitter-Fluchtwellen dieses Jahr haben das Fediverse, vor allem Mastodon, ganz sch\u00f6n aufgewirbelt. Wie war das eigentlich so f\u00fcr die Menschen, die die Server in dem dezentralen Netzwerk betreiben?",
+                "description": "In diesem Vortrag m\u00f6chte ich einen kurzen Einblick in die Arbeit als Moderatorin auf der Instanz dresden.network geben, davon berichten, wie der Austausch zwischen den verschiedenen Teams der Server im Fediverse l\u00e4uft und nat\u00fcrlich auch dar\u00fcber sprechen, was sich aktuell ver\u00e4ndert.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 17,
+                    "code": "JXYBBU",
+                    "public_name": "\u00dcck\u00fcck",
+                    "biography": "Hallo ihr da drau\u00dfen!\r\n\r\nIch bin \u00dcck\u00fcck bzw. Stehanie Henkel und in der Piratenpartei aktiv, Moderatorin bei dresden.network und Podcasterin.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 4704,
                 "guid": "e4704ea5-8683-563c-8fec-4ec3b1f36cd3",
                 "logo": "",
-                "date": "2022-12-29T15:30:00+01:00",
-                "start": "15:30",
+                "date": "2022-12-29T16:00:00+01:00",
+                "start": "16:00",
                 "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-4704-die_mikroarchitektur_moderner_prozessoren",
@@ -3998,8 +4362,8 @@
                 "id": 3191,
                 "guid": "31916d57-f27c-5fa7-9b8f-760311966f4a",
                 "logo": "",
-                "date": "2022-12-29T18:30:00+01:00",
-                "start": "18:30",
+                "date": "2022-12-29T18:15:00+01:00",
+                "start": "18:15",
                 "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-3191-misconceptions_about_energy_assessment",
@@ -4019,6 +4383,37 @@
                     "code": "NCEZ93",
                     "public_name": "tzwenn",
                     "biography": "Sven is a Ph.D. student at the Operating Systems and Middleware Group at the HPI Potsdam. His interest is energy-aware computing and operating system support for accelerators.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 780,
+                "guid": "07804012-cb4e-563a-949d-1a4ab50f92e1",
+                "logo": "",
+                "date": "2022-12-29T19:45:00+01:00",
+                "start": "19:45",
+                "duration": "00:30",
+                "room": "Sparti",
+                "slug": "jev22-780-vitamin_d_versus_sonnenbrand",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/NVKBLS/",
+                "title": "Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Der n\u00e4chste Sommer kommt bestimmt! In diesem \"Live-Hack\"-Talk geht es darum: Wie optimiere ich mein Verhalten in der Sonne f\u00fcr den maximalen Vitamin D-Aufbau und die Vermeidung von Sonnenbrand?",
+                "description": "Die Sonne (ja, sie ist nach dem dunklen Winter wieder da) tut uns gut. Sie w\u00e4rmt uns, wir sehen ihr Licht und ihre UV-Strahlung sorgt f\u00fcr Vitamin D-Aufbau - und leider auch Sonnenbrand und damit auch erh\u00f6htes Hautkrebs-Risiko. Im Talk geht es um ein wissenschaftlich fundiertes Projekt, das hilft, den Aufenthalt in der Sonne zu optimieren. Ziel: Vitamin D-Aufbau maximieren und die Risiken minimieren.  Kern ist die Umsetzung der von 20 bundesdeutschen Institutionen getragenen \"konsentierten Empfehlung zu UV-Strahlung und Vitamin D\". Nebenbei werden zahlreiche weitere Aspekte zum Thema UV diskutiert, \u00e0 la \"Nachcremen\", \"UV und Untergrund\", \"UV in der Stadt\" und \"sollte ich zur Vermeidung von Sonnenbrand schnorcheln\".",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 28,
+                    "code": "LRDUYA",
+                    "public_name": "Julian Meyer-Arnek",
+                    "biography": "Wissenschaftler am DLR Oberpfaffenhofen im Bereich Informationstechnologie; langj\u00e4hrig im Bereich Atmosph\u00e4renforschung t\u00e4tig; Mitgr\u00fcnder der ajuma GmbH, die den UV-Bodyguard entwickelt und vermarktet. Papa einer Tochter.",
                     "answers": []
                   }
                 ],
@@ -4062,6 +4457,167 @@
             "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
+            "Bierschoine": [
+              {
+                "id": 49289,
+                "guid": "8b87caeb-8133-58f9-947a-5106630a29b3",
+                "logo": "",
+                "date": "2022-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49289-the_state_of_the_state_die_wichtigsten_themen_der_digitalen_verwaltung",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/",
+                "title": "The state of the state - die wichtigsten Themen der digitalen Verwaltung",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Verwaltungsdigitalisierung is trodding on.",
+                "description": "Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3395,
+                    "code": "CF7BY7",
+                    "public_name": "Spyro",
+                    "biography": "Hat hauptberuflich und privat starke Meinungen zu Verwaltungsdigitalisierung.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49302,
+                "guid": "8e57baa4-ef35-5128-a04d-c5e461322fc5",
+                "logo": "",
+                "date": "2022-12-29T20:30:00+01:00",
+                "start": "20:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49302-iridium_reverse_engineering",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/",
+                "title": "Iridium reverse engineering: News seit 2016",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.",
+                "description": "Dieser Vortrag gibt eine Uebersicht zu den Verbessungen der Tools, neu verfuegbarer Hardware und zum Verstaendnis der Daten die sich ueber das Netzwerk sammeln lassen.\r\n\r\nSeit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 379,
+                    "code": "XUSLJP",
+                    "public_name": "schneider",
+                    "biography": "I usually deal with topics that involve stuff. Can be blinky things, noisy things, radiating things, receving things...\r\n\r\nYou might associate me with the following terms: r0ket, rad1o, card10, Iridium, SDR, muccc",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Salon": [
+              {
+                "id": 49233,
+                "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
+                "logo": "",
+                "date": "2022-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-49233-massage_workshop",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/VMUVNM/",
+                "title": "Massage Workshop",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Du wolltest schon immer mal wissen, wie du massieren kannst, ohne gro\u00dfen Schaden anzurichten und das es auch noch gut tut ? \r\nNa dann los!",
+                "description": "In dem Workshop soll es vor allem um Entspannung gehen. Eine sch\u00f6ne entspannende R\u00fcckenmassage lernen, so das nichts kaputt geht :) \r\nEin paar Grundlagen und ein paar sch\u00f6ne Handgriffe zum mitnehmen quasi !",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3350,
+                    "code": "EKYCBU",
+                    "public_name": "\u00c4n",
+                    "biography": "Ich bin \u00c4n, 29 Jahre und Physiotherapeutin und habe auch einiges an Entspannungsfort- und Weiterbildungen. \r\nZus\u00e4tzlich arbeite ich noch mit Kindern.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 50978,
+                "guid": "a47f9a39-dbcd-532c-a299-4d9a5447784d",
+                "logo": "",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-50978-impro_experiment_dingsi",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YM8TTV/",
+                "title": "Impro-Experiment-Dingsi",
+                "subtitle": "",
+                "track": null,
+                "type": "Lagerfeuervortrag",
+                "language": "de",
+                "abstract": "Mit dem Input des Publikums m\u00f6chte ich mich gerne das erste Mal an so etwas wie Impro-Theater versuchen. Ihr gebt Stichw\u00f6rter, und sp\u00e4ter vielleicht noch andere Regeln, vor und ich spinne daraus jeweils eine Geschichte. Wenn sich Personen aus dem Publikum inspiriert f\u00fchlen mitzuspinnen, geht das auch. Wir improvisieren da schon was.",
+                "description": "W\u00e4hrend meiner Therapielaufbahn habe ich wiederentdeckt, wie gut es tut Kreativ zu sein und insbesondere Geschichten auf Basis von wenigen Stichworten zu schreiben, die dann w\u00e4hrend des Schreibens ihre endg\u00fcltige Form annehmen.\r\nGerne m\u00f6chte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leben zu erwecken. Ihr gebt die Stichw\u00f6rter vor und ich erz\u00e4hle euch einen vom Pferd. Nach Lust und Laune k\u00f6nnen wir auch andere Regeln festlegen. Wenn jemand w\u00e4hrenddessen auch Lust bekommt zu Erz\u00e4hlen, ist das auch super. Es kann auch ein Dialog draus werden oder ein Wettstreit um die bessere Geschichte. Lasst uns einfach was improvisieren.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3517,
+                    "code": "BJCYCK",
+                    "public_name": "Lutz",
+                    "biography": "Ich bin der Lutz a.k.a. frau_lutzn und schon l\u00e4nger im/am Rande des CCC-Kontextes unterwegs und seit 2021 ein H\u00f6llentier.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Bastelstube": [
+              {
+                "id": 51225,
+                "guid": "3e4666a3-0418-54bb-b341-5f52e67c9b0e",
+                "logo": "",
+                "date": "2022-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "11:00",
+                "room": "Bastelstube",
+                "slug": "jev22-51225-bastelstube_tag_3",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/T8TZ7L/",
+                "title": "Bastelstube Tag 3",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "N\u00e4hen, sticken, stricken, H\u00fcte basteln und Siebdruck.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3347,
+                    "code": "A3CG7Y",
+                    "public_name": "Leo",
+                    "biography": "chaotic",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "xrelog22 - Stream": [
               {
                 "id": 49306,
@@ -4900,9 +5456,9 @@
                 "id": 5754,
                 "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
                 "logo": "",
-                "date": "2022-12-30T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "00:30",
+                "date": "2022-12-30T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "01:00",
                 "room": "Sparti",
                 "slug": "jev22-5754-technikphilosophische_jahresendgala",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
@@ -4931,8 +5487,8 @@
                 "id": 7860,
                 "guid": "cfd78601-99af-5460-8f7b-8537777a221e",
                 "logo": "",
-                "date": "2022-12-30T13:30:00+01:00",
-                "start": "13:30",
+                "date": "2022-12-30T13:00:00+01:00",
+                "start": "13:00",
                 "duration": "00:30",
                 "room": "Sparti",
                 "slug": "jev22-7860-infrastructure_review",
@@ -4957,6 +5513,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 4292,
+                "guid": "4292c24c-d93e-5782-8fa6-bccaa9654778",
+                "logo": "",
+                "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:30",
+                "room": "Sparti",
+                "slug": "jev22-4292-closing_ceremony",
+                "url": "https://cfp.ccc-p.org/rtc22/talk/XQSHAS/",
+                "title": "Closing Ceremony",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Closing Ceremony",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 4,
+                    "code": "7KU3YH",
+                    "public_name": "cyroxx",
+                    "biography": "my little bio",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Haus 2": [],
@@ -4964,6 +5551,104 @@
             "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
+            "Bierschoine": [
+              {
+                "id": 49297,
+                "guid": "853d5d9f-2f71-50db-8161-d92b0ed3c099",
+                "logo": "",
+                "date": "2022-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:45",
+                "room": "Bierschoine",
+                "slug": "jev22-49297-kolonialismus_in_europaeischen_museen_was_hat_das_mit_deutschland_zu_tun_eine_kleine_einfuehrung",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/",
+                "title": "Kolonialismus in europ\u00e4ischen Museen - was hat das mit Deutschland zu tun? Eine kleine Einf\u00fchrung",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Die Veranstaltung wird eine kleine Einf\u00fchrung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3411,
+                    "code": "HNYEWZ",
+                    "public_name": "alpha",
+                    "biography": "tba",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49296,
+                "guid": "b0cffb21-4e47-587e-84e5-935ec342afb4",
+                "logo": "",
+                "date": "2022-12-30T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49296-misinfo_hacks_desinformationskampagnen_auf_der_spur",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YEKWDD/",
+                "title": "Misinfo Hacks - Desinformationskampagnen auf der Spur",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Der Vortrag gibt einen \u00dcberblick \u00fcber Methoden der Informationswissenschaft zur Erkennung von Fehlinformation. Ph\u00e4nomene wie Echokammern und die soziopolitischen Auswirkungen werden untersucht und diskutiert. Systembasierte Ans\u00e4tze sind in der Lage, Fehlinformationen, ihre Urheber und Plattformschwachstellen zu erkennen.",
+                "description": "Der Vortrag gibt einen \u00dcberblick \u00fcber Methoden der Informationswissenschaft zur Erkennung von Fehlinformation auf Online-Plattformen.\r\n\r\nDie damit verbundenen Aspekte und Begriffe wie Fake News, Fehlinformation und Desinformation m\u00fcssen definiert und differenziert werden. Die Problematik der sozialen Medien und deren Ph\u00e4nomene wie Echokammern werden untersucht und die gesellschaftspolitischen Auswirkungen diskutiert.\r\n\r\nNeben rein intellektuellen Ans\u00e4tzen wie journalistischen Faktenchecks werden zunehmend algorithmische Methoden aus der Informatik eingesetzt, um eine leistungsf\u00e4hige Erkennung von Fehlinformationen zu gew\u00e4hrleisten. Verschiedene Ans\u00e4tze wie Data Mining, Machine Learning, Natural Language Processing oder Social Computing k\u00f6nnen zur Identifizierung von Fehlinformationen eingesetzt werden. Die Summe der vorgestellten Methoden kann grob in inhalts-, kontext- und systembasierte Ans\u00e4tze unterschieden werden.\r\n\r\nEs werden Beispiele aus der gegenw\u00e4rtigen Forschung aufgezeigt. Hybride, sogenannte \"systembasierte Ans\u00e4tze\" bieten die M\u00f6glichkeit, sowohl Fehlinformation, deren Urheber:innen als auch Schwachstellen der Plattformen zu erkennen. Der Vortrag schlie\u00dft mit einer Diskussion der Ergebnisse und einem Ausblick auf zuk\u00fcnftige Entwicklungen in Technologie und Gesellschaft.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3242,
+                    "code": "NJSQFD",
+                    "public_name": "Patrick Schmelmer",
+                    "biography": "Patrick Schmelmer ist wissenschaftlicher Mitarbeiter in der Forschungsgruppe Human-Computer-Interaction und Visual Analytics und wissenschaftlicher Angestellter am Fachbereich Wirtschaft der Hochschule Darmstadt (h_da).\r\n\r\nW\u00e4hrend seines Studiums der Information Science M. Sc. an der h_da erwarb er Kenntnisse in den Bereichen Webentwicklung, Natural Language Processing und Visual Analytics. Dar\u00fcber hinaus sammelte Schmelmer einschl\u00e4gige praktische Erfahrungen sowohl im Informationsmanagement f\u00fcr GLAM-Einrichtungen wie Bibliotheken als auch im technischen Marketing.\r\n\r\nSchmelmers Interessen gehen auch in Richtung Digital Humanities und Sozioinformatik, weshalb er sich in seiner Masterarbeit 2022 mit dem Vergleich von Data-Mining-Studien zur Erkennung von Desinformationskampagnen besch\u00e4ftigte.\r\n\r\nDerzeit plant er ein interdisziplin\u00e4res Promotionsprojekt zwischen Informationswissenschaft und Betriebswirtschaftslehre.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Salon": [],
+            "Bastelstube": [
+              {
+                "id": 51226,
+                "guid": "487f8b6b-efa0-554c-a965-4555fd57daf7",
+                "logo": "",
+                "date": "2022-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "11:00",
+                "room": "Bastelstube",
+                "slug": "jev22-51226-bastelstube_tag_4",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/PSM9WA/",
+                "title": "Bastelstube Tag 4",
+                "subtitle": "",
+                "track": null,
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "N\u00e4hen, sticken, stricken, H\u00fcte basteln und Siebdruck.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3347,
+                    "code": "A3CG7Y",
+                    "public_name": "Leo",
+                    "biography": "chaotic",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "xrelog22 - Stream": [
               {
                 "id": 49238,

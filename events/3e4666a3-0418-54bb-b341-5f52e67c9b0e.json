@@ -1,0 +1,33 @@
+{
+  "id": 51225,
+  "guid": "3e4666a3-0418-54bb-b341-5f52e67c9b0e",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "11:00",
+  "room": "Bastelstube",
+  "slug": "jev22-51225-bastelstube_tag_3",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/T8TZ7L/",
+  "title": "Bastelstube Tag 3",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "N\u00e4hen, sticken, stricken, H\u00fcte basteln und Siebdruck.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3347,
+      "code": "A3CG7Y",
+      "public_name": "Leo",
+      "biography": "chaotic",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
+  "origin": "pretalx.c3voc.de"
+}

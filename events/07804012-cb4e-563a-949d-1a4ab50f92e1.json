@@ -1,0 +1,33 @@
+{
+  "id": 780,
+  "guid": "07804012-cb4e-563a-949d-1a4ab50f92e1",
+  "logo": "",
+  "date": "2022-12-29T19:45:00+01:00",
+  "start": "19:45",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "jev22-780-vitamin_d_versus_sonnenbrand",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/NVKBLS/",
+  "title": "Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Der n\u00e4chste Sommer kommt bestimmt! In diesem \"Live-Hack\"-Talk geht es darum: Wie optimiere ich mein Verhalten in der Sonne f\u00fcr den maximalen Vitamin D-Aufbau und die Vermeidung von Sonnenbrand?",
+  "description": "Die Sonne (ja, sie ist nach dem dunklen Winter wieder da) tut uns gut. Sie w\u00e4rmt uns, wir sehen ihr Licht und ihre UV-Strahlung sorgt f\u00fcr Vitamin D-Aufbau - und leider auch Sonnenbrand und damit auch erh\u00f6htes Hautkrebs-Risiko. Im Talk geht es um ein wissenschaftlich fundiertes Projekt, das hilft, den Aufenthalt in der Sonne zu optimieren. Ziel: Vitamin D-Aufbau maximieren und die Risiken minimieren.  Kern ist die Umsetzung der von 20 bundesdeutschen Institutionen getragenen \"konsentierten Empfehlung zu UV-Strahlung und Vitamin D\". Nebenbei werden zahlreiche weitere Aspekte zum Thema UV diskutiert, \u00e0 la \"Nachcremen\", \"UV und Untergrund\", \"UV in der Stadt\" und \"sollte ich zur Vermeidung von Sonnenbrand schnorcheln\".",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 28,
+      "code": "LRDUYA",
+      "public_name": "Julian Meyer-Arnek",
+      "biography": "Wissenschaftler am DLR Oberpfaffenhofen im Bereich Informationstechnologie; langj\u00e4hrig im Bereich Atmosph\u00e4renforschung t\u00e4tig; Mitgr\u00fcnder der ajuma GmbH, die den UV-Bodyguard entwickelt und vermarktet. Papa einer Tochter.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
+  "origin": "cfp.ccc-p.org"
+}

@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-20 21:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 21:40",
+    "version": "2022-12-20 22:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 22:40",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -306,6 +306,18 @@
       {
         "guid": "9d6724e4-a5ff-4fca-b4da-1fc28b59882a",
         "schedule_name": "Seminarraum 3 (21)"
+      },
+      {
+        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+        "schedule_name": "Bierschoine"
+      },
+      {
+        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
+        "schedule_name": "Salon"
+      },
+      {
+        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
+        "schedule_name": "Bastelstube"
       },
       {
         "guid": "ad28953f-122e-4293-836d-860320183a1c",

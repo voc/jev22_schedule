@@ -1,0 +1,33 @@
+{
+  "id": 4292,
+  "guid": "4292c24c-d93e-5782-8fa6-bccaa9654778",
+  "logo": "",
+  "date": "2022-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Sparti",
+  "slug": "jev22-4292-closing_ceremony",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/XQSHAS/",
+  "title": "Closing Ceremony",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Closing Ceremony",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 4,
+      "code": "7KU3YH",
+      "public_name": "cyroxx",
+      "biography": "my little bio",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
+  "origin": "cfp.ccc-p.org"
+}
