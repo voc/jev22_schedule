@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-20 12:40; FireShonks 0.12; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 12:40",
+    "version": "2022-12-20 13:20; FireShonks 0.13; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 13:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1159,8 +1159,8 @@
                 "track": "c-base",
                 "type": "Workshop",
                 "language": "en",
-                "abstract": "stand up hacking - 8 dynamic allocated Slots(5min presentation + 5min conversation with the audience)\r\nPast hacks here: https://berlinhackandtell.rocks",
-                "description": "Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at c-base space station every(ish) last Tuesday of the month.\r\nThis time the last Tuesday of the month is in parallel to HIP as a special edition.\r\nYou have five minutes followed by up to five minutes of interaction with the audience. \r\nShow us code or other cool stuff, not slides or a sales pitch! Show off a silly/hobby project that you can\u2019t present elsewhere. Do some software archaeology and dig in ancient code. Show some code that makes your life a little better. As long as it is interesting and/or fun and not pitch-y you are welcome to present kind of anything that can be considered hack in a wider scope you are invited to show it.\r\nThink of it like \u201cstand up hacking\u201d. \r\nCheck out the past projects here: \r\nhttps://berlinhackandtell.rocks",
+                "abstract": "stand up hacking - 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)\r\nPast hacks here: https://berlinhackandtell.rocks",
+                "description": "Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at c-base space station every(ish) last Tuesday of the month.\r\nThis time the last Tuesday of the month is in parallel to HIP as a special edition.\r\nYou have five minutes followed by up to five minutes of interaction with the audience. \r\nShow us code or other cool stuff, not slides or a sales pitch! Show off a silly/hobby project that you can\u2019t present elsewhere. Do some software archaeology and dig in ancient code. Show some code that makes your life a little better. As long as it is interesting and/or fun and not pitch-y you are welcome to present kind of anything that can be considered hack in a wider scope you are invited to show it.\r\nThink of it like \u201cstand up hacking\u201d. \r\nCheck out the past projects here: \r\nhttps://berlinhackandtell.rocks\r\nReserve a slot by dropping a mail to mail@berlinhackandtell.rocks",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -4347,6 +4347,44 @@
                     "code": "KVVQAP",
                     "public_name": "MoniKa (cyber4EDU e.V.)",
                     "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49270,
+                "guid": "47b2d2c7-e59c-554c-97a2-ec80ecb640ba",
+                "logo": "/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png",
+                "date": "2022-12-30T11:05:00+01:00",
+                "start": "11:05",
+                "duration": "00:40",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-49270-geschlechtergerechtigkeit_und_making",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/",
+                "title": "Geschlechtergerechtigkeit und Making",
+                "subtitle": "",
+                "track": "R3S",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten k\u00f6nnen. Ausgehend von unserem Projekt namens \"Critical Making\" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt pr\u00e4sentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und \u00fcberschneidende Ungleichheitsdimensionen \u00fcberwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielf\u00e4ltiger und einladender f\u00fcr diejenigen werden k\u00f6nnen, die sich in der Maker-Bewegung und ihrer Community unterrepr\u00e4sentiert und weniger sichtbar f\u00fchlen. Unser Ziel ist es, einen Dialog zu er\u00f6ffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschl\u00e4ge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.",
+                "description": "Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue M\u00f6glichkeiten bieten k\u00f6nnen, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .\r\n\r\nIm Zuge dessen haben wir Ma\u00dfnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein f\u00fcr Machtungleichgewichte in Maker- und Online Spaces st\u00e4rken sollen.\r\n\r\nAuf unserer Website https://criticalmaking.eu/gender-equality/ finden sich erste Ergebnisse unserer Aktivit\u00e4ten, die auch w\u00e4hrend der Veranstaltung pr\u00e4sentiert werden: In den Inspirational Stories about Gender-Inclusive Making k\u00f6nnen spannende Menschen aus der ganzen Welt kennengelernt werden, die ihre inspirierenden Geschichten teilen, wie sie zu Making gefunden haben.\r\n\r\nIn der Introduction to Inlcusive Making finden sich verst\u00e4ndliche Erkl\u00e4rungen zu einigen Begriffen und Theorien rund um inklusives Making. Die Recommendations to Inclusive Making bieten praktische Empfehlungen, wie ein Makerspace offen und einladend werden kann. Gemeinsam k\u00f6nnen wir diese Dokumente lebendig machen \u2013 Feedback, Erfahrungen und Empfehlungen k\u00f6nnen gerne \u00fcber die Kommentarfunktion \u00fcbermittelt werden, und so das gemeinsame Wissen vergr\u00f6\u00dfern.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3379,
+                    "code": "MH9C3P",
+                    "public_name": "Teresa Schaefer",
+                    "biography": "Ich bin Sozialwissenschaftlerin am Zentrum f\u00fcr Soziale Innovation",
+                    "answers": []
+                  },
+                  {
+                    "id": 3388,
+                    "code": "7FRCYR",
+                    "public_name": "LMS",
+                    "biography": "I am a social scientist and aspiring kindergarten teacher, currently working at the Centre for Social Innovation (ZSI) at Vienna. My pronouns are they/them (and I do not use pronouns in German).",
                     "answers": []
                   }
                 ],

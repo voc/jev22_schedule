@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-20 12:40; FireShonks 0.12; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 12:40</version>
+  <version>2022-12-20 13:20; FireShonks 0.13; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 13:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -950,7 +950,7 @@ Taught by [http://en.wikipedia.org/wiki/Mitch_Altman Mitch Altman]. Participants
         <track>c-base</track>
         <type>Workshop</type>
         <language>en</language>
-        <abstract>stand up hacking - 8 dynamic allocated Slots(5min presentation + 5min conversation with the audience)&#13;
+        <abstract>stand up hacking - 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)&#13;
 Past hacks here: https://berlinhackandtell.rocks</abstract>
         <description>Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at c-base space station every(ish) last Tuesday of the month.&#13;
 This time the last Tuesday of the month is in parallel to HIP as a special edition.&#13;
@@ -958,7 +958,8 @@ You have five minutes followed by up to five minutes of interaction with the aud
 Show us code or other cool stuff, not slides or a sales pitch! Show off a silly/hobby project that you can’t present elsewhere. Do some software archaeology and dig in ancient code. Show some code that makes your life a little better. As long as it is interesting and/or fun and not pitch-y you are welcome to present kind of anything that can be considered hack in a wider scope you are invited to show it.&#13;
 Think of it like “stand up hacking”. &#13;
 Check out the past projects here: &#13;
-https://berlinhackandtell.rocks</description>
+https://berlinhackandtell.rocks&#13;
+Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <recording>
           <license/>
           <optout>true</optout>
@@ -3912,6 +3913,38 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
           <person id="3304">pnrd</person>
           <person id="3305">AG_Barrierefreiheit</person>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49270" guid="47b2d2c7-e59c-554c-97a2-ec80ecb640ba">
+        <logo>/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png</logo>
+        <date>2022-12-30T11:05:00+01:00</date>
+        <start>11:05</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
+        <title>Geschlechtergerechtigkeit und Making</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.</abstract>
+        <description>Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue Möglichkeiten bieten können, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .&#13;
+&#13;
+Im Zuge dessen haben wir Maßnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein für Machtungleichgewichte in Maker- und Online Spaces stärken sollen.&#13;
+&#13;
+Auf unserer Website https://criticalmaking.eu/gender-equality/ finden sich erste Ergebnisse unserer Aktivitäten, die auch während der Veranstaltung präsentiert werden: In den Inspirational Stories about Gender-Inclusive Making können spannende Menschen aus der ganzen Welt kennengelernt werden, die ihre inspirierenden Geschichten teilen, wie sie zu Making gefunden haben.&#13;
+&#13;
+In der Introduction to Inlcusive Making finden sich verständliche Erklärungen zu einigen Begriffen und Theorien rund um inklusives Making. Die Recommendations to Inclusive Making bieten praktische Empfehlungen, wie ein Makerspace offen und einladend werden kann. Gemeinsam können wir diese Dokumente lebendig machen – Feedback, Erfahrungen und Empfehlungen können gerne über die Kommentarfunktion übermittelt werden, und so das gemeinsame Wissen vergrößern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3379">Teresa Schaefer</person>
+          <person id="3388">LMS</person>
         </persons>
         <links/>
         <attachments/>
