@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3252,
-      "code": "KW9PQN",
-      "public_name": "Waldseenixe",
-      "biography": "Ich bin Mathematikerin und war 30 Jahre bei einem IT Konzern als Entwicklerin, wissenschaftliche Mitarbeiterin und Beraterin t\u00e4tig. Heute bin ich Pension\u00e4rin und freie Dozentin und besch\u00e4ftige mich mehr und mehr mit Philosophie.",
-      "answers": []
-    },
-    {
       "id": 3316,
       "code": "BZL3QV",
       "public_name": "Smettbo",
       "biography": "Hallo ich bin Smettbo und seit 2021 bei den Haecksen aktiv. Mit Waldseenixe und Piko habe ich die Philhaecksen ins Leben gerufen. Dort sprechen wir \u00fcber das Spannungsfeld Philosophie und Technik. Ich bin Ingenieurin f\u00fcr Luft-und Raumfahrttechnik und studiere nebenberuflich Philosophie.",
+      "answers": []
+    },
+    {
+      "id": 3252,
+      "code": "KW9PQN",
+      "public_name": "Waldseenixe",
+      "biography": "Ich bin Mathematikerin und war 30 Jahre bei einem IT Konzern als Entwicklerin, wissenschaftliche Mitarbeiterin und Beraterin t\u00e4tig. Heute bin ich Pension\u00e4rin und freie Dozentin und besch\u00e4ftige mich mehr und mehr mit Philosophie.",
       "answers": []
     }
   ],

@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3379,
-      "code": "MH9C3P",
-      "public_name": "Teresa Schaefer",
-      "biography": "Ich bin Sozialwissenschaftlerin am Zentrum f\u00fcr Soziale Innovation",
-      "answers": []
-    },
-    {
       "id": 3388,
       "code": "7FRCYR",
       "public_name": "LMS",
       "biography": "I am a social scientist and aspiring kindergarten teacher, currently working at the Centre for Social Innovation (ZSI) at Vienna. My pronouns are they/them (and I do not use pronouns in German).",
+      "answers": []
+    },
+    {
+      "id": 3379,
+      "code": "MH9C3P",
+      "public_name": "Teresa Schaefer",
+      "biography": "Ich bin Sozialwissenschaftlerin am Zentrum f\u00fcr Soziale Innovation",
       "answers": []
     }
   ],

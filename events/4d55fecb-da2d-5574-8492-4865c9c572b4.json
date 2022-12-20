@@ -26,17 +26,17 @@
       "answers": []
     },
     {
-      "id": 3357,
-      "code": "3SKZ9S",
-      "public_name": "Janik Besendorf",
-      "biography": "I study computer science at FU Berlin and work at the Digital Security Lab of RSF. I am also a freedom of information and privacy activist.\r\nMy blog: https://besendorf.org\r\nMy FragDenStaat profile: https://fragdenstaat.de/profil/j.besendorf/\r\nMastodon: @besendorf@chaos.social",
-      "answers": []
-    },
-    {
       "id": 3396,
       "code": "9VCUF8",
       "public_name": "Niclas Schwarzlose",
       "biography": "I work as a \"Werkstudent\" at Reporter ohne Grenzen (RSF) on digital forensics. I'm also currently still studying for my master's degree at the Freie Universit\u00e4t (FU) Berlin.",
+      "answers": []
+    },
+    {
+      "id": 3357,
+      "code": "3SKZ9S",
+      "public_name": "Janik Besendorf",
+      "biography": "I study computer science at FU Berlin and work at the Digital Security Lab of RSF. I am also a freedom of information and privacy activist.\r\nMy blog: https://besendorf.org\r\nMy FragDenStaat profile: https://fragdenstaat.de/profil/j.besendorf/\r\nMastodon: @besendorf@chaos.social",
       "answers": []
     }
   ],

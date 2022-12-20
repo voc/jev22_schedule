@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-20 13:20; FireShonks 0.13; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 13:20",
+    "version": "2022-12-20 15:00; FireShonks 0.14; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 15:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -219,17 +219,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 387,
-                    "code": "UXT9SH",
-                    "public_name": "Leena Simon",
-                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
-                    "answers": []
-                  },
-                  {
                     "id": 393,
                     "code": "NSTENV",
                     "public_name": "padeluun",
                     "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
+                    "answers": []
+                  },
+                  {
+                    "id": 387,
+                    "code": "UXT9SH",
+                    "public_name": "Leena Simon",
+                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
                     "answers": []
                   }
                 ],
@@ -381,17 +381,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 387,
-                    "code": "UXT9SH",
-                    "public_name": "Leena Simon",
-                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
-                    "answers": []
-                  },
-                  {
                     "id": 393,
                     "code": "NSTENV",
                     "public_name": "padeluun",
                     "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
+                    "answers": []
+                  },
+                  {
+                    "id": 387,
+                    "code": "UXT9SH",
+                    "public_name": "Leena Simon",
+                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
                     "answers": []
                   }
                 ],
@@ -616,10 +616,10 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 41,
-                    "code": "UZTVSX",
-                    "public_name": "kantorkel",
-                    "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
+                    "id": 3407,
+                    "code": "KPTLGM",
+                    "public_name": "snoopy",
+                    "biography": "Stoppt Kameras und andere \u00dcberwachungsma\u00dfnahmen, f\u00f6rdert OpenSource und ist im C4 zuhause.",
                     "answers": []
                   },
                   {
@@ -630,10 +630,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3407,
-                    "code": "KPTLGM",
-                    "public_name": "snoopy",
-                    "biography": "Stoppt Kameras und andere \u00dcberwachungsma\u00dfnahmen, f\u00f6rdert OpenSource und ist im C4 zuhause.",
+                    "id": 41,
+                    "code": "UZTVSX",
+                    "public_name": "kantorkel",
+                    "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
                     "answers": []
                   }
                 ],
@@ -1357,17 +1357,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3262,
-                    "code": "GEKZYM",
-                    "public_name": "Fuzzy Leapfrog",
-                    "biography": "Mein Name ist Claudia und ich interessiere mich f\u00fcr Wissenschaftskommunikation, Klimaforschung, Gaming und Bibliotheken.",
-                    "answers": []
-                  },
-                  {
                     "id": 3403,
                     "code": "UJREAV",
                     "public_name": "Joliyea",
                     "biography": "Julia hat viel gelesen f\u00fcr ein Soziologie-, Germanistik- und Informatikstudium - jetzt fragt sie gerne andere Menschen aus. Diesmal Fuzzy Leapfrog.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3262,
+                    "code": "GEKZYM",
+                    "public_name": "Fuzzy Leapfrog",
+                    "biography": "Mein Name ist Claudia und ich interessiere mich f\u00fcr Wissenschaftskommunikation, Klimaforschung, Gaming und Bibliotheken.",
                     "answers": []
                   }
                 ],
@@ -1683,10 +1683,10 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 43,
-                    "code": "7NGZ9Q",
-                    "public_name": "C_ristina",
-                    "biography": "Defense Haeckse, Gynformation, geekfem, Cryptoparty HH, hat Pony-gro\u00dfe Hunde und \u00fcberall wo es Pommes gibt.",
+                    "id": 3377,
+                    "code": "YVPD3T",
+                    "public_name": "Lunikell",
+                    "biography": "Nordlicht im s\u00fcddeutschen Exil, macht tags\u00fcber was mit Mechatronik und abends lieber Kram an Computern",
                     "answers": []
                   },
                   {
@@ -1697,10 +1697,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3377,
-                    "code": "YVPD3T",
-                    "public_name": "Lunikell",
-                    "biography": "Nordlicht im s\u00fcddeutschen Exil, macht tags\u00fcber was mit Mechatronik und abends lieber Kram an Computern",
+                    "id": 43,
+                    "code": "7NGZ9Q",
+                    "public_name": "C_ristina",
+                    "biography": "Defense Haeckse, Gynformation, geekfem, Cryptoparty HH, hat Pony-gro\u00dfe Hunde und \u00fcberall wo es Pommes gibt.",
                     "answers": []
                   }
                 ],
@@ -1766,10 +1766,10 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3268,
-                    "code": "XRGBVW",
-                    "public_name": "Sandzwerg",
-                    "biography": "Seit 2012 in Hackspaces aktiv besch\u00e4ftige ich mit seit l\u00e4ngeren mit Code of Conducts.",
+                    "id": 3270,
+                    "code": "WTXR9Z",
+                    "public_name": "buecherwurm",
+                    "biography": "mag Awareness und Code of Conduct",
                     "answers": []
                   },
                   {
@@ -1780,10 +1780,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3270,
-                    "code": "WTXR9Z",
-                    "public_name": "buecherwurm",
-                    "biography": "mag Awareness und Code of Conduct",
+                    "id": 3268,
+                    "code": "XRGBVW",
+                    "public_name": "Sandzwerg",
+                    "biography": "Seit 2012 in Hackspaces aktiv besch\u00e4ftige ich mit seit l\u00e4ngeren mit Code of Conducts.",
                     "answers": []
                   }
                 ],
@@ -1920,17 +1920,17 @@
                     "answers": []
                   },
                   {
-                    "id": 3357,
-                    "code": "3SKZ9S",
-                    "public_name": "Janik Besendorf",
-                    "biography": "I study computer science at FU Berlin and work at the Digital Security Lab of RSF. I am also a freedom of information and privacy activist.\r\nMy blog: https://besendorf.org\r\nMy FragDenStaat profile: https://fragdenstaat.de/profil/j.besendorf/\r\nMastodon: @besendorf@chaos.social",
-                    "answers": []
-                  },
-                  {
                     "id": 3396,
                     "code": "9VCUF8",
                     "public_name": "Niclas Schwarzlose",
                     "biography": "I work as a \"Werkstudent\" at Reporter ohne Grenzen (RSF) on digital forensics. I'm also currently still studying for my master's degree at the Freie Universit\u00e4t (FU) Berlin.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3357,
+                    "code": "3SKZ9S",
+                    "public_name": "Janik Besendorf",
+                    "biography": "I study computer science at FU Berlin and work at the Digital Security Lab of RSF. I am also a freedom of information and privacy activist.\r\nMy blog: https://besendorf.org\r\nMy FragDenStaat profile: https://fragdenstaat.de/profil/j.besendorf/\r\nMastodon: @besendorf@chaos.social",
                     "answers": []
                   }
                 ],
@@ -2177,17 +2177,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3325,
-                    "code": "B9H7KB",
-                    "public_name": "yvmqznrm",
-                    "biography": "I am a trans dude in my early twenties who makes video games in college and art and likes to learn all sorts of cool things about tech :)",
-                    "answers": []
-                  },
-                  {
                     "id": 3326,
                     "code": "KTDY8Q",
                     "public_name": "DarioACG",
                     "biography": "I'm a EEE student, and I'm really interested in electronics, and both the hardware and software level of computing, although I'm a complete novice.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3325,
+                    "code": "B9H7KB",
+                    "public_name": "yvmqznrm",
+                    "biography": "I am a trans dude in my early twenties who makes video games in college and art and likes to learn all sorts of cool things about tech :)",
                     "answers": []
                   }
                 ],
@@ -2341,10 +2341,10 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3354,
-                    "code": "GNZHLA",
-                    "public_name": "Daniel (D_K)",
-                    "biography": "IT Security Student and Researcher. Member of ALLES!",
+                    "id": 3367,
+                    "code": "QFERWH",
+                    "public_name": "Nils Ole Timm",
+                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
                     "answers": []
                   },
                   {
@@ -2355,10 +2355,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3367,
-                    "code": "QFERWH",
-                    "public_name": "Nils Ole Timm",
-                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
+                    "id": 3354,
+                    "code": "GNZHLA",
+                    "public_name": "Daniel (D_K)",
+                    "biography": "IT Security Student and Researcher. Member of ALLES!",
                     "answers": []
                   }
                 ],
@@ -2386,17 +2386,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3354,
-                    "code": "GNZHLA",
-                    "public_name": "Daniel (D_K)",
-                    "biography": "IT Security Student and Researcher. Member of ALLES!",
-                    "answers": []
-                  },
-                  {
                     "id": 3355,
                     "code": "TPLUP7",
                     "public_name": "Felipe (localo)",
                     "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 3354,
+                    "code": "GNZHLA",
+                    "public_name": "Daniel (D_K)",
+                    "biography": "IT Security Student and Researcher. Member of ALLES!",
                     "answers": []
                   },
                   {
@@ -2947,10 +2947,10 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3263,
-                    "code": "HBWQ7Q",
-                    "public_name": "Benjamin Altpeter",
-                    "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
+                    "id": 3286,
+                    "code": "87XSHM",
+                    "public_name": "Malte Wessels",
+                    "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
                     "answers": []
                   },
                   {
@@ -2961,10 +2961,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3286,
-                    "code": "87XSHM",
-                    "public_name": "Malte Wessels",
-                    "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
+                    "id": 3263,
+                    "code": "HBWQ7Q",
+                    "public_name": "Benjamin Altpeter",
+                    "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
                     "answers": []
                   }
                 ],
@@ -3116,17 +3116,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3360,
-                    "code": "LXNMNN",
-                    "public_name": "Tanja Lange",
-                    "biography": "Tanja is a professor in Eindhoven and has been working on cryptography for many years.",
-                    "answers": []
-                  },
-                  {
                     "id": 3361,
                     "code": "XD9BP3",
                     "public_name": "D. J. Bernstein",
                     "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 3360,
+                    "code": "LXNMNN",
+                    "public_name": "Tanja Lange",
+                    "biography": "Tanja is a professor in Eindhoven and has been working on cryptography for many years.",
                     "answers": []
                   }
                 ],
@@ -3218,17 +3218,17 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3239,
-                    "code": "BGKNHG",
-                    "public_name": "merline",
-                    "biography": "Haeckse und Macherin // Haeckse and maker",
-                    "answers": []
-                  },
-                  {
                     "id": 3287,
                     "code": "7VZLH3",
                     "public_name": "dakoraa",
                     "biography": "To queer to write a biography.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3239,
+                    "code": "BGKNHG",
+                    "public_name": "merline",
+                    "biography": "Haeckse und Macherin // Haeckse and maker",
                     "answers": []
                   }
                 ],
@@ -3256,10 +3256,10 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3263,
-                    "code": "HBWQ7Q",
-                    "public_name": "Benjamin Altpeter",
-                    "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
+                    "id": 3286,
+                    "code": "87XSHM",
+                    "public_name": "Malte Wessels",
+                    "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
                     "answers": []
                   },
                   {
@@ -3270,10 +3270,10 @@
                     "answers": []
                   },
                   {
-                    "id": 3286,
-                    "code": "87XSHM",
-                    "public_name": "Malte Wessels",
-                    "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
+                    "id": 3263,
+                    "code": "HBWQ7Q",
+                    "public_name": "Benjamin Altpeter",
+                    "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
                     "answers": []
                   }
                 ],
@@ -4329,6 +4329,13 @@
                 "do_not_record": false,
                 "persons": [
                   {
+                    "id": 3345,
+                    "code": "KVVQAP",
+                    "public_name": "MoniKa (cyber4EDU e.V.)",
+                    "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
+                    "answers": []
+                  },
+                  {
                     "id": 3304,
                     "code": "AU3Z9E",
                     "public_name": "pnrd",
@@ -4340,13 +4347,6 @@
                     "code": "FFZY8G",
                     "public_name": "AG_Barrierefreiheit",
                     "biography": "**Vortragende:**\r\n- Chris, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Hendrik, Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- MoniKa, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Irmhild, cyber4EDU AG Barrierefreiheit, im rl: Wissenschaftlerin, Projektleiterin und Teamleiterin eines sehr diversen Teams;\r\n- JoLa, Wissenschaftlerin und Designerin, Mitglied eines sehr diversen Teams\r\n- Silke, Bildungswissenschaftlerin, Mitglied eines sehr diversen Teams und Vollzeitautistin\r\n\r\n\r\nDie AG Barrierefreiheit und die AG Inklusion von [cyber4EDU e.V.](https://cyber4edu.org/c4e/wiki/start) arbeiten derzeit eng zusammen.\r\n\r\nBei uns steht aktuell das Thema \"Barrierefreie Videokonferenzsysteme\" im Fokus. Gerne w\u00fcrden wir langfristig einen Austausch der verschiedenen Personengruppen - Nutzende, Entwickelnde, Admins, Assistierende, \u2026 - etablieren.\r\n\r\n**Was wir so machen:**\r\nhttps://cyber4edu.org/c4e/wiki/workshops/rc3-nowhere-assembly-day2#uhr1\r\n\r\n**Zu unseren Treffen:**\r\nhttps://cyber4edu.org/c4e/wiki/unsere_arbeitsgruppen#barrierefreiheit",
-                    "answers": []
-                  },
-                  {
-                    "id": 3345,
-                    "code": "KVVQAP",
-                    "public_name": "MoniKa (cyber4EDU e.V.)",
-                    "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
                     "answers": []
                   }
                 ],
@@ -4374,17 +4374,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3379,
-                    "code": "MH9C3P",
-                    "public_name": "Teresa Schaefer",
-                    "biography": "Ich bin Sozialwissenschaftlerin am Zentrum f\u00fcr Soziale Innovation",
-                    "answers": []
-                  },
-                  {
                     "id": 3388,
                     "code": "7FRCYR",
                     "public_name": "LMS",
                     "biography": "I am a social scientist and aspiring kindergarten teacher, currently working at the Centre for Social Innovation (ZSI) at Vienna. My pronouns are they/them (and I do not use pronouns in German).",
+                    "answers": []
+                  },
+                  {
+                    "id": 3379,
+                    "code": "MH9C3P",
+                    "public_name": "Teresa Schaefer",
+                    "biography": "Ich bin Sozialwissenschaftlerin am Zentrum f\u00fcr Soziale Innovation",
                     "answers": []
                   }
                 ],
@@ -4662,17 +4662,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3252,
-                    "code": "KW9PQN",
-                    "public_name": "Waldseenixe",
-                    "biography": "Ich bin Mathematikerin und war 30 Jahre bei einem IT Konzern als Entwicklerin, wissenschaftliche Mitarbeiterin und Beraterin t\u00e4tig. Heute bin ich Pension\u00e4rin und freie Dozentin und besch\u00e4ftige mich mehr und mehr mit Philosophie.",
-                    "answers": []
-                  },
-                  {
                     "id": 3316,
                     "code": "BZL3QV",
                     "public_name": "Smettbo",
                     "biography": "Hallo ich bin Smettbo und seit 2021 bei den Haecksen aktiv. Mit Waldseenixe und Piko habe ich die Philhaecksen ins Leben gerufen. Dort sprechen wir \u00fcber das Spannungsfeld Philosophie und Technik. Ich bin Ingenieurin f\u00fcr Luft-und Raumfahrttechnik und studiere nebenberuflich Philosophie.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3252,
+                    "code": "KW9PQN",
+                    "public_name": "Waldseenixe",
+                    "biography": "Ich bin Mathematikerin und war 30 Jahre bei einem IT Konzern als Entwicklerin, wissenschaftliche Mitarbeiterin und Beraterin t\u00e4tig. Heute bin ich Pension\u00e4rin und freie Dozentin und besch\u00e4ftige mich mehr und mehr mit Philosophie.",
                     "answers": []
                   }
                 ],
@@ -4700,17 +4700,17 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3304,
-                    "code": "AU3Z9E",
-                    "public_name": "pnrd",
-                    "biography": "Mitglied bei cyber4EDU - ein Verein aus Eltern, P\u00e4dagog*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
-                    "answers": []
-                  },
-                  {
                     "id": 3345,
                     "code": "KVVQAP",
                     "public_name": "MoniKa (cyber4EDU e.V.)",
                     "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3304,
+                    "code": "AU3Z9E",
+                    "public_name": "pnrd",
+                    "biography": "Mitglied bei cyber4EDU - ein Verein aus Eltern, P\u00e4dagog*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
                     "answers": []
                   }
                 ],
@@ -4802,17 +4802,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 181,
-                    "code": "KWLW8R",
-                    "public_name": "cven",
-                    "biography": "Organizers",
-                    "answers": []
-                  },
-                  {
                     "id": 3393,
                     "code": "YPRCZQ",
                     "public_name": "pandora",
                     "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 181,
+                    "code": "KWLW8R",
+                    "public_name": "cven",
+                    "biography": "Organizers",
                     "answers": []
                   }
                 ],

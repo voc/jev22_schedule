@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-20 13:20; FireShonks 0.13; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 13:20</version>
+  <version>2022-12-20 15:00; FireShonks 0.14; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 15:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -87,8 +87,8 @@ Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wi
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="387">Leena Simon</person>
           <person id="393">padeluun</person>
+          <person id="387">Leena Simon</person>
         </persons>
         <links/>
         <attachments/>
@@ -226,8 +226,8 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="387">Leena Simon</person>
           <person id="393">padeluun</person>
+          <person id="387">Leena Simon</person>
         </persons>
         <links/>
         <attachments/>
@@ -446,9 +446,9 @@ With average run times of machines and their software of 15-20 years the consequ
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="41">kantorkel</person>
-          <person id="3404">Starbug</person>
           <person id="3407">snoopy</person>
+          <person id="3404">Starbug</person>
+          <person id="41">kantorkel</person>
         </persons>
         <links/>
         <attachments/>
@@ -1142,8 +1142,8 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3262">Fuzzy Leapfrog</person>
           <person id="3403">Joliyea</person>
+          <person id="3262">Fuzzy Leapfrog</person>
         </persons>
         <links/>
         <attachments/>
@@ -1451,9 +1451,9 @@ Der Workshop soll Personen dabei helfen, mehr über ihr Verhalten im Internet ra
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="43">C_ristina</person>
-          <person id="3342">Catrin (sie/ihr)</person>
           <person id="3377">Lunikell</person>
+          <person id="3342">Catrin (sie/ihr)</person>
+          <person id="43">C_ristina</person>
         </persons>
         <links/>
         <attachments/>
@@ -1516,9 +1516,9 @@ Aber Vorsicht: Das wird kein Vortrag, Austausch ist ernst gemeint ;)</descriptio
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3268">Sandzwerg</person>
-          <person id="3269">qch3n</person>
           <person id="3270">buecherwurm</person>
+          <person id="3269">qch3n</person>
+          <person id="3268">Sandzwerg</person>
         </persons>
         <links/>
         <attachments/>
@@ -1664,8 +1664,8 @@ For these steps and typical attack patterns we explain reasonable approaches and
         </recording>
         <persons>
           <person id="40">Viktor</person>
-          <person id="3357">Janik Besendorf</person>
           <person id="3396">Niclas Schwarzlose</person>
+          <person id="3357">Janik Besendorf</person>
         </persons>
         <links/>
         <attachments/>
@@ -1905,8 +1905,8 @@ Just so you know: The video game is still in development, so I will not be able 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3325">yvmqznrm</person>
           <person id="3326">DarioACG</person>
+          <person id="3325">yvmqznrm</person>
         </persons>
         <links/>
         <attachments/>
@@ -2060,9 +2060,9 @@ You need to bring some kind of notebook running Linux, some programming experien
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3354">Daniel (D_K)</person>
-          <person id="3355">Felipe (localo)</person>
           <person id="3367">Nils Ole Timm</person>
+          <person id="3355">Felipe (localo)</person>
+          <person id="3354">Daniel (D_K)</person>
         </persons>
         <links/>
         <attachments/>
@@ -2094,8 +2094,8 @@ Throughout the workshop, at certain intervals, challenges will be solved togethe
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3354">Daniel (D_K)</person>
           <person id="3355">Felipe (localo)</person>
+          <person id="3354">Daniel (D_K)</person>
           <person id="3367">Nils Ole Timm</person>
         </persons>
         <links/>
@@ -2604,9 +2604,9 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3263">Benjamin Altpeter</person>
-          <person id="3276">Lorenz Sieben (zner0L)</person>
           <person id="3286">Malte Wessels</person>
+          <person id="3276">Lorenz Sieben (zner0L)</person>
+          <person id="3263">Benjamin Altpeter</person>
         </persons>
         <links/>
         <attachments/>
@@ -2737,8 +2737,8 @@ deployment of post-quantum cryptography have been going wrong.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3360">Tanja Lange</person>
           <person id="3361">D. J. Bernstein</person>
+          <person id="3360">Tanja Lange</person>
         </persons>
         <links/>
         <attachments/>
@@ -2815,8 +2815,8 @@ deployment of post-quantum cryptography have been going wrong.</abstract>
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3239">merline</person>
           <person id="3287">dakoraa</person>
+          <person id="3239">merline</person>
         </persons>
         <links/>
         <attachments/>
@@ -2847,9 +2847,9 @@ In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu mach
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3263">Benjamin Altpeter</person>
-          <person id="3276">Lorenz Sieben (zner0L)</person>
           <person id="3286">Malte Wessels</person>
+          <person id="3276">Lorenz Sieben (zner0L)</person>
+          <person id="3263">Benjamin Altpeter</person>
         </persons>
         <links/>
         <attachments/>
@@ -3910,9 +3910,9 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
           <person id="3304">pnrd</person>
           <person id="3305">AG_Barrierefreiheit</person>
-          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
         </persons>
         <links/>
         <attachments/>
@@ -3943,8 +3943,8 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3379">Teresa Schaefer</person>
           <person id="3388">LMS</person>
+          <person id="3379">Teresa Schaefer</person>
         </persons>
         <links/>
         <attachments/>
@@ -4192,8 +4192,8 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3252">Waldseenixe</person>
           <person id="3316">Smettbo</person>
+          <person id="3252">Waldseenixe</person>
         </persons>
         <links/>
         <attachments/>
@@ -4226,8 +4226,8 @@ Ablauf:&#13;
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3304">pnrd</person>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
+          <person id="3304">pnrd</person>
         </persons>
         <links/>
         <attachments/>
@@ -4316,8 +4316,8 @@ Finally, I'll give a broad overview of the possible solutions currently being di
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="181">cven</person>
           <person id="3393">pandora</person>
+          <person id="181">cven</person>
         </persons>
         <links/>
         <attachments/>

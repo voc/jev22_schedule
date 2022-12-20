@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3360,
-      "code": "LXNMNN",
-      "public_name": "Tanja Lange",
-      "biography": "Tanja is a professor in Eindhoven and has been working on cryptography for many years.",
-      "answers": []
-    },
-    {
       "id": 3361,
       "code": "XD9BP3",
       "public_name": "D. J. Bernstein",
       "biography": null,
+      "answers": []
+    },
+    {
+      "id": 3360,
+      "code": "LXNMNN",
+      "public_name": "Tanja Lange",
+      "biography": "Tanja is a professor in Eindhoven and has been working on cryptography for many years.",
       "answers": []
     }
   ],

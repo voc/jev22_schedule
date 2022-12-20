@@ -19,10 +19,10 @@
   "do_not_record": true,
   "persons": [
     {
-      "id": 3263,
-      "code": "HBWQ7Q",
-      "public_name": "Benjamin Altpeter",
-      "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
+      "id": 3286,
+      "code": "87XSHM",
+      "public_name": "Malte Wessels",
+      "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
       "answers": []
     },
     {
@@ -33,10 +33,10 @@
       "answers": []
     },
     {
-      "id": 3286,
-      "code": "87XSHM",
-      "public_name": "Malte Wessels",
-      "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
+      "id": 3263,
+      "code": "HBWQ7Q",
+      "public_name": "Benjamin Altpeter",
+      "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nhttps://benjamin-altpeter.de/",
       "answers": []
     }
   ],

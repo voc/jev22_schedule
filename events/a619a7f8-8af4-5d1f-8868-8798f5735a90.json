@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3325,
-      "code": "B9H7KB",
-      "public_name": "yvmqznrm",
-      "biography": "I am a trans dude in my early twenties who makes video games in college and art and likes to learn all sorts of cool things about tech :)",
-      "answers": []
-    },
-    {
       "id": 3326,
       "code": "KTDY8Q",
       "public_name": "DarioACG",
       "biography": "I'm a EEE student, and I'm really interested in electronics, and both the hardware and software level of computing, although I'm a complete novice.",
+      "answers": []
+    },
+    {
+      "id": 3325,
+      "code": "B9H7KB",
+      "public_name": "yvmqznrm",
+      "biography": "I am a trans dude in my early twenties who makes video games in college and art and likes to learn all sorts of cool things about tech :)",
       "answers": []
     }
   ],

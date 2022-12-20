@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 181,
-      "code": "KWLW8R",
-      "public_name": "cven",
-      "biography": "Organizers",
-      "answers": []
-    },
-    {
       "id": 3393,
       "code": "YPRCZQ",
       "public_name": "pandora",
       "biography": null,
+      "answers": []
+    },
+    {
+      "id": 181,
+      "code": "KWLW8R",
+      "public_name": "cven",
+      "biography": "Organizers",
       "answers": []
     }
   ],

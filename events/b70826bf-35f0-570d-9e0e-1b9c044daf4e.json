@@ -19,10 +19,10 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 41,
-      "code": "UZTVSX",
-      "public_name": "kantorkel",
-      "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
+      "id": 3407,
+      "code": "KPTLGM",
+      "public_name": "snoopy",
+      "biography": "Stoppt Kameras und andere \u00dcberwachungsma\u00dfnahmen, f\u00f6rdert OpenSource und ist im C4 zuhause.",
       "answers": []
     },
     {
@@ -33,10 +33,10 @@
       "answers": []
     },
     {
-      "id": 3407,
-      "code": "KPTLGM",
-      "public_name": "snoopy",
-      "biography": "Stoppt Kameras und andere \u00dcberwachungsma\u00dfnahmen, f\u00f6rdert OpenSource und ist im C4 zuhause.",
+      "id": 41,
+      "code": "UZTVSX",
+      "public_name": "kantorkel",
+      "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
       "answers": []
     }
   ],
