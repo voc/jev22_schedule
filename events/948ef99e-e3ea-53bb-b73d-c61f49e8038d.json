@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 393,
-      "code": "NSTENV",
-      "public_name": "padeluun",
-      "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
-      "answers": []
-    },
-    {
       "id": 387,
       "code": "UXT9SH",
       "public_name": "Leena Simon",
       "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
+      "answers": []
+    },
+    {
+      "id": 393,
+      "code": "NSTENV",
+      "public_name": "padeluun",
+      "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
       "answers": []
     }
   ],

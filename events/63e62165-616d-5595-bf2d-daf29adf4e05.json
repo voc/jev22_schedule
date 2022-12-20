@@ -2,8 +2,8 @@
   "id": 49225,
   "guid": "63e62165-616d-5595-bf2d-daf29adf4e05",
   "logo": "",
-  "date": "2022-12-30T15:00:00+01:00",
-  "start": "15:00",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
   "duration": "01:30",
   "room": "Fireshonks-Workshop",
   "slug": "jev22-49225-neurodivers_treffen_von_haecksen_fuer_finta",
@@ -19,17 +19,17 @@
   "do_not_record": true,
   "persons": [
     {
-      "id": 3287,
-      "code": "7VZLH3",
-      "public_name": "dakoraa",
-      "biography": "To queer to write a biography.",
-      "answers": []
-    },
-    {
       "id": 3239,
       "code": "BGKNHG",
       "public_name": "merline",
       "biography": "Haeckse und Macherin // Haeckse and maker",
+      "answers": []
+    },
+    {
+      "id": 3287,
+      "code": "7VZLH3",
+      "public_name": "dakoraa",
+      "biography": "To queer to write a biography.",
       "answers": []
     }
   ],

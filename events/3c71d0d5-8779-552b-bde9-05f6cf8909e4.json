@@ -19,13 +19,6 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3345,
-      "code": "KVVQAP",
-      "public_name": "MoniKa (cyber4EDU e.V.)",
-      "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
-      "answers": []
-    },
-    {
       "id": 3304,
       "code": "AU3Z9E",
       "public_name": "pnrd",
@@ -37,6 +30,13 @@
       "code": "FFZY8G",
       "public_name": "AG_Barrierefreiheit",
       "biography": "**Vortragende:**\r\n- Chris, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Hendrik, Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- MoniKa, (Gr\u00fcndungs-)Mitglied bei cyber4EDU e.V. und aktiv u.a. bei der AG Barrierefreiheit.\r\n- Irmhild, cyber4EDU AG Barrierefreiheit, im rl: Wissenschaftlerin, Projektleiterin und Teamleiterin eines sehr diversen Teams;\r\n- JoLa, Wissenschaftlerin und Designerin, Mitglied eines sehr diversen Teams\r\n- Silke, Bildungswissenschaftlerin, Mitglied eines sehr diversen Teams und Vollzeitautistin\r\n\r\n\r\nDie AG Barrierefreiheit und die AG Inklusion von [cyber4EDU e.V.](https://cyber4edu.org/c4e/wiki/start) arbeiten derzeit eng zusammen.\r\n\r\nBei uns steht aktuell das Thema \"Barrierefreie Videokonferenzsysteme\" im Fokus. Gerne w\u00fcrden wir langfristig einen Austausch der verschiedenen Personengruppen - Nutzende, Entwickelnde, Admins, Assistierende, \u2026 - etablieren.\r\n\r\n**Was wir so machen:**\r\nhttps://cyber4edu.org/c4e/wiki/workshops/rc3-nowhere-assembly-day2#uhr1\r\n\r\n**Zu unseren Treffen:**\r\nhttps://cyber4edu.org/c4e/wiki/unsere_arbeitsgruppen#barrierefreiheit",
+      "answers": []
+    },
+    {
+      "id": 3345,
+      "code": "KVVQAP",
+      "public_name": "MoniKa (cyber4EDU e.V.)",
+      "biography": "Mitglied bei cyber4EDU e.V. - einem Verein aus Eltern, P\u00e4dagog\\*innen und Nerds. Wir wollen die Digitalisierung von Schulen unterst\u00fctzen - mit Kompetenz, aber ohne Profit.",
       "answers": []
     }
   ],

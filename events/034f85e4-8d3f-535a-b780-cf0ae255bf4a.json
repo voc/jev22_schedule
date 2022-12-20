@@ -19,10 +19,10 @@
   "do_not_record": true,
   "persons": [
     {
-      "id": 3367,
-      "code": "QFERWH",
-      "public_name": "Nils Ole Timm",
-      "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
+      "id": 3354,
+      "code": "GNZHLA",
+      "public_name": "Daniel (D_K)",
+      "biography": "IT Security Student and Researcher. Member of ALLES!",
       "answers": []
     },
     {
@@ -33,10 +33,10 @@
       "answers": []
     },
     {
-      "id": 3354,
-      "code": "GNZHLA",
-      "public_name": "Daniel (D_K)",
-      "biography": "IT Security Student and Researcher. Member of ALLES!",
+      "id": 3367,
+      "code": "QFERWH",
+      "public_name": "Nils Ole Timm",
+      "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
       "answers": []
     }
   ],

@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3403,
-      "code": "UJREAV",
-      "public_name": "Joliyea",
-      "biography": "Julia hat viel gelesen f\u00fcr ein Soziologie-, Germanistik- und Informatikstudium - jetzt fragt sie gerne andere Menschen aus. Diesmal Fuzzy Leapfrog.",
-      "answers": []
-    },
-    {
       "id": 3262,
       "code": "GEKZYM",
       "public_name": "Fuzzy Leapfrog",
       "biography": "Mein Name ist Claudia und ich interessiere mich f\u00fcr Wissenschaftskommunikation, Klimaforschung, Gaming und Bibliotheken.",
+      "answers": []
+    },
+    {
+      "id": 3403,
+      "code": "UJREAV",
+      "public_name": "Joliyea",
+      "biography": "Julia hat viel gelesen f\u00fcr ein Soziologie-, Germanistik- und Informatikstudium - jetzt fragt sie gerne andere Menschen aus. Diesmal Fuzzy Leapfrog.",
       "answers": []
     }
   ],

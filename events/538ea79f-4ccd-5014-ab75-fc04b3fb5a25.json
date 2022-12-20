@@ -19,17 +19,17 @@
   "do_not_record": false,
   "persons": [
     {
-      "id": 3355,
-      "code": "TPLUP7",
-      "public_name": "Felipe (localo)",
-      "biography": null,
-      "answers": []
-    },
-    {
       "id": 3354,
       "code": "GNZHLA",
       "public_name": "Daniel (D_K)",
       "biography": "IT Security Student and Researcher. Member of ALLES!",
+      "answers": []
+    },
+    {
+      "id": 3355,
+      "code": "TPLUP7",
+      "public_name": "Felipe (localo)",
+      "biography": null,
       "answers": []
     },
     {

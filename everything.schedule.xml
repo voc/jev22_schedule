@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-20 10:20; FireShonks 0.11; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 10:20</version>
+  <version>2022-12-20 12:40; FireShonks 0.12; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 12:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -87,8 +87,8 @@ Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wi
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="393">padeluun</person>
           <person id="387">Leena Simon</person>
+          <person id="393">padeluun</person>
         </persons>
         <links/>
         <attachments/>
@@ -177,7 +177,7 @@ Aktuell arbeitet er bei Digitalcourage in Bielefeld.</description>
         <logo/>
         <date>2022-12-27T19:45:00+01:00</date>
         <start>19:45</start>
-        <duration>01:15</duration>
+        <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49085-leben_mit_borderline</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/</url>
@@ -226,8 +226,8 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="393">padeluun</person>
           <person id="387">Leena Simon</person>
+          <person id="393">padeluun</person>
         </persons>
         <links/>
         <attachments/>
@@ -446,9 +446,9 @@ With average run times of machines and their software of 15-20 years the consequ
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3407">snoopy</person>
-          <person id="3404">Starbug</person>
           <person id="41">kantorkel</person>
+          <person id="3404">Starbug</person>
+          <person id="3407">snoopy</person>
         </persons>
         <links/>
         <attachments/>
@@ -1141,8 +1141,8 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3403">Joliyea</person>
           <person id="3262">Fuzzy Leapfrog</person>
+          <person id="3403">Joliyea</person>
         </persons>
         <links/>
         <attachments/>
@@ -1450,9 +1450,9 @@ Der Workshop soll Personen dabei helfen, mehr über ihr Verhalten im Internet ra
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3377">Lunikell</person>
-          <person id="3342">Catrin (sie/ihr)</person>
           <person id="43">C_ristina</person>
+          <person id="3342">Catrin (sie/ihr)</person>
+          <person id="3377">Lunikell</person>
         </persons>
         <links/>
         <attachments/>
@@ -1515,9 +1515,9 @@ Aber Vorsicht: Das wird kein Vortrag, Austausch ist ernst gemeint ;)</descriptio
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3270">buecherwurm</person>
-          <person id="3269">qch3n</person>
           <person id="3268">Sandzwerg</person>
+          <person id="3269">qch3n</person>
+          <person id="3270">buecherwurm</person>
         </persons>
         <links/>
         <attachments/>
@@ -1663,8 +1663,8 @@ For these steps and typical attack patterns we explain reasonable approaches and
         </recording>
         <persons>
           <person id="40">Viktor</person>
-          <person id="3396">Niclas Schwarzlose</person>
           <person id="3357">Janik Besendorf</person>
+          <person id="3396">Niclas Schwarzlose</person>
         </persons>
         <links/>
         <attachments/>
@@ -1904,8 +1904,8 @@ Just so you know: The video game is still in development, so I will not be able 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3326">DarioACG</person>
           <person id="3325">yvmqznrm</person>
+          <person id="3326">DarioACG</person>
         </persons>
         <links/>
         <attachments/>
@@ -2059,9 +2059,9 @@ You need to bring some kind of notebook running Linux, some programming experien
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3367">Nils Ole Timm</person>
-          <person id="3355">Felipe (localo)</person>
           <person id="3354">Daniel (D_K)</person>
+          <person id="3355">Felipe (localo)</person>
+          <person id="3367">Nils Ole Timm</person>
         </persons>
         <links/>
         <attachments/>
@@ -2093,8 +2093,8 @@ Throughout the workshop, at certain intervals, challenges will be solved togethe
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3355">Felipe (localo)</person>
           <person id="3354">Daniel (D_K)</person>
+          <person id="3355">Felipe (localo)</person>
           <person id="3367">Nils Ole Timm</person>
         </persons>
         <links/>
@@ -2603,9 +2603,9 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3286">Malte Wessels</person>
-          <person id="3276">Lorenz Sieben (zner0L)</person>
           <person id="3263">Benjamin Altpeter</person>
+          <person id="3276">Lorenz Sieben (zner0L)</person>
+          <person id="3286">Malte Wessels</person>
         </persons>
         <links/>
         <attachments/>
@@ -2736,8 +2736,8 @@ deployment of post-quantum cryptography have been going wrong.</abstract>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3361">D. J. Bernstein</person>
           <person id="3360">Tanja Lange</person>
+          <person id="3361">D. J. Bernstein</person>
         </persons>
         <links/>
         <attachments/>
@@ -2794,28 +2794,28 @@ deployment of post-quantum cryptography have been going wrong.</abstract>
       </event>
     </room>
     <room name="Fireshonks-Workshop" guid="ed7a9e51-8a51-402a-bcf9-1068fac7dd6c">
-      <event id="49095" guid="f10f5d46-4aac-5b6c-88bc-42d7be28a6de">
+      <event id="49225" guid="63e62165-616d-5595-bf2d-daf29adf4e05">
         <logo/>
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
-        <duration>02:00</duration>
+        <duration>01:30</duration>
         <room>Fireshonks-Workshop</room>
-        <slug>jev22-49095-philosophinnen_workshop</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VXRENU/</url>
-        <title>Philosophinnen Workshop</title>
+        <slug>jev22-49225-neurodivers_treffen_von_haecksen_fuer_finta</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UBEXMV/</url>
+        <title>Neurodivers-Treffen von Haecksen für FINTA</title>
         <subtitle/>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verständlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen für die künstlerische Ausgestaltung sammeln.</abstract>
-        <description>In der Philosophie gibt es wenig bekannte Frauen. Wir, die Philohaecksen, sind daher daran interessiert herauszufinden, welchen Beitrag Frauen zur Philosophie beigetragen haben. Zusätzlich möchten wir die Arbeiten und Ideen von Philosphinnen verständlich darstellen. Am einfachsten zugänglich sind die Philosophinnen der Gegenwart. Durch Entwicklungen in der KI stellt sich in der Philosophie auch die Frage nach der Stellung des Menschen im Universum neu. Donna Haraway ist durch ihr Cyborg Manifest bekannt geworden. Martha Nussbaum hat mit ihrem Befähigungsansatz ein Konzept für alle fühlenden Wesen (Menschen + Tiere + ?) entwickelt. Erste Skizzen zu diesen beiden Philosophinnen haben wir schon. Diese wollen wir Euch vorstellen und mit Euch weiterentwickeln. Insbesondere brauchen wir Ideen und Mitstreitende für die künstlerische Ausgestaltung.</description>
+        <abstract>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</abstract>
+        <description>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
-          <person id="3316">Smettbo</person>
-          <person id="3252">Waldseenixe</person>
+          <person id="3239">merline</person>
+          <person id="3287">dakoraa</person>
         </persons>
         <links/>
         <attachments/>
@@ -2846,9 +2846,9 @@ In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu mach
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3286">Malte Wessels</person>
-          <person id="3276">Lorenz Sieben (zner0L)</person>
           <person id="3263">Benjamin Altpeter</person>
+          <person id="3276">Lorenz Sieben (zner0L)</person>
+          <person id="3286">Malte Wessels</person>
         </persons>
         <links/>
         <attachments/>
@@ -3909,9 +3909,9 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
           <person id="3304">pnrd</person>
           <person id="3305">AG_Barrierefreiheit</person>
+          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
         </persons>
         <links/>
         <attachments/>
@@ -4139,28 +4139,28 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <links/>
         <attachments/>
       </event>
-      <event id="49225" guid="63e62165-616d-5595-bf2d-daf29adf4e05">
+      <event id="49095" guid="f10f5d46-4aac-5b6c-88bc-42d7be28a6de">
         <logo/>
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
-        <duration>01:30</duration>
+        <duration>02:00</duration>
         <room>Fireshonks-Workshop</room>
-        <slug>jev22-49225-neurodivers_treffen_von_haecksen_fuer_finta</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UBEXMV/</url>
-        <title>Neurodivers-Treffen von Haecksen für FINTA</title>
+        <slug>jev22-49095-philosophinnen_workshop</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VXRENU/</url>
+        <title>Philosophinnen Workshop</title>
         <subtitle/>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</abstract>
-        <description>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</description>
+        <abstract>Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verständlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen für die künstlerische Ausgestaltung sammeln.</abstract>
+        <description>In der Philosophie gibt es wenig bekannte Frauen. Wir, die Philohaecksen, sind daher daran interessiert herauszufinden, welchen Beitrag Frauen zur Philosophie beigetragen haben. Zusätzlich möchten wir die Arbeiten und Ideen von Philosphinnen verständlich darstellen. Am einfachsten zugänglich sind die Philosophinnen der Gegenwart. Durch Entwicklungen in der KI stellt sich in der Philosophie auch die Frage nach der Stellung des Menschen im Universum neu. Donna Haraway ist durch ihr Cyborg Manifest bekannt geworden. Martha Nussbaum hat mit ihrem Befähigungsansatz ein Konzept für alle fühlenden Wesen (Menschen + Tiere + ?) entwickelt. Erste Skizzen zu diesen beiden Philosophinnen haben wir schon. Diese wollen wir Euch vorstellen und mit Euch weiterentwickeln. Insbesondere brauchen wir Ideen und Mitstreitende für die künstlerische Ausgestaltung.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
-          <person id="3287">dakoraa</person>
-          <person id="3239">merline</person>
+          <person id="3252">Waldseenixe</person>
+          <person id="3316">Smettbo</person>
         </persons>
         <links/>
         <attachments/>
@@ -4193,8 +4193,8 @@ Ablauf:&#13;
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
           <person id="3304">pnrd</person>
+          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
         </persons>
         <links/>
         <attachments/>
@@ -4283,8 +4283,8 @@ Finally, I'll give a broad overview of the possible solutions currently being di
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3393">pandora</person>
           <person id="181">cven</person>
+          <person id="3393">pandora</person>
         </persons>
         <links/>
         <attachments/>
