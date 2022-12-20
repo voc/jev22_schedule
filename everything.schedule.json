@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-20 22:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 22:40",
+    "version": "2022-12-21 00:00; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 00:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -65,10 +65,17 @@
           "location": "Berlin, c-base"
         },
         {
-          "name": "Sparti",
+          "name": "RTC-B\u00fchne (Sparti)",
           "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
           "description": "Haupt-Raum .. Streaming-B\u00fchne mit (kleinem) Publikum",
           "capacity": 50,
+          "location": "Potsdam, Chaostreff"
+        },
+        {
+          "name": "RTC-Workshop 1 (Sem1)",
+          "guid": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
+          "description": null,
+          "capacity": 25,
           "location": "Potsdam, Chaostreff"
         },
         {
@@ -81,13 +88,6 @@
         {
           "name": "Theaterraum (22)",
           "guid": "0ba794eb-69bb-4381-9ce6-422529fc8291",
-          "description": null,
-          "capacity": null,
-          "location": "Potsdam, Chaostreff"
-        },
-        {
-          "name": "Seminarraum 1 (25)",
-          "guid": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
           "description": null,
           "capacity": null,
           "location": "Potsdam, Chaostreff"
@@ -213,44 +213,6 @@
                     "code": "BGKNHG",
                     "public_name": "merline",
                     "biography": "Haeckse und Macherin // Haeckse and maker",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 49181,
-                "guid": "948ef99e-e3ea-53bb-b73d-c61f49e8038d",
-                "logo": "/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg",
-                "date": "2022-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "01:00",
-                "room": "Fireshonks-Stream",
-                "slug": "jev22-49181-best_of_digitalzwangmelder",
-                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
-                "title": "Best-of Digitalzwangmelder",
-                "subtitle": "",
-                "track": "Digitalcourage",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Wir verlesen die besten \u00dcberwachungsbl\u00fcten aus dem Digitalzwangmelder.",
-                "description": "\"... geht nur mit App.\"\r\n\"... nur noch online.\"\r\n\"... laden Sie im Google-Play-Store ...\"\r\nImmer h\u00e4ufiger sto\u00dfen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wir dazu aufgerufen uns Situationen zu schildern in denen Teilhabe am Leben nur noch mittels digitaler Mittel m\u00f6glich war. Wir verlesen die besten Einsendungen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 393,
-                    "code": "NSTENV",
-                    "public_name": "padeluun",
-                    "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
-                    "answers": []
-                  },
-                  {
-                    "id": 387,
-                    "code": "UXT9SH",
-                    "public_name": "Leena Simon",
-                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
                     "answers": []
                   }
                 ],
@@ -1197,7 +1159,7 @@
                 "attachments": []
               }
             ],
-            "Sparti": [
+            "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 409,
                 "guid": "ef0a4cff-09db-5cb4-bbeb-ecb3ca678345",
@@ -1205,7 +1167,7 @@
                 "date": "2022-12-27T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-409-opening",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/",
                 "title": "Opening",
@@ -1236,7 +1198,7 @@
                 "date": "2022-12-27T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/3SS7L8/",
                 "title": "How to find the Norwegian prime minister in an \"anonymized\" contact tracing dataset",
@@ -1267,7 +1229,7 @@
                 "date": "2022-12-27T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-8149-technikgebrauch_damals_tm",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/P8HTXA/",
                 "title": "Technikgebrauch damals(tm)",
@@ -1292,9 +1254,9 @@
                 "attachments": []
               }
             ],
+            "RTC-Workshop 1 (Sem1)": [],
             "Haus 2": [],
             "Theaterraum (22)": [],
-            "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
             "Bierschoine": [],
@@ -2602,7 +2564,7 @@
                 "attachments": []
               }
             ],
-            "Sparti": [
+            "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 631,
                 "guid": "0d6314a9-9049-59b4-b6e3-3d909086b378",
@@ -2610,7 +2572,7 @@
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/MCVSWU/",
                 "title": "Machen wir die Elektronik durch \"Hardware as a service\" kreislauff\u00e4higer",
@@ -2641,7 +2603,7 @@
                 "date": "2022-12-28T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "01:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-7505-ipv6_einfach_nutzen",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/",
                 "title": "IPv6 einfach nutzen",
@@ -2672,7 +2634,7 @@
                 "date": "2022-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-2482-neues_aus_der_pentagame_forschung",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/3QSJYT/",
                 "title": "Neues aus der Pentagame-Forschung",
@@ -2710,7 +2672,7 @@
                 "date": "2022-12-28T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/UGPT9B/",
                 "title": "Wir k\u00f6nnen dich durchschauen - Bildgebung in der Medizin",
@@ -2741,7 +2703,7 @@
                 "date": "2022-12-28T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-7282-antiverschwurbeltes_axiom",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/EXAGFT/",
                 "title": "antiverschwurbeltes axiom",
@@ -2772,7 +2734,7 @@
                 "date": "2022-12-28T22:30:00+01:00",
                 "start": "22:30",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-5374-cursedin_drum_n_bass",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
                 "title": "cursedin (Drum'n'Bass)",
@@ -2797,9 +2759,7 @@
                 "attachments": []
               }
             ],
-            "Haus 2": [],
-            "Theaterraum (22)": [],
-            "Seminarraum 1 (25)": [
+            "RTC-Workshop 1 (Sem1)": [
               {
                 "id": 719,
                 "guid": "aa07f194-7443-5b6d-a4f8-c4fe520879c4",
@@ -2807,7 +2767,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:30",
-                "room": "Seminarraum 1 (25)",
+                "room": "RTC-Workshop 1 (Sem1)",
                 "slug": "jev22-719-sketchnotes_workshop",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/77ZGHR/",
                 "title": "Sketchnotes Workshop",
@@ -2832,6 +2792,8 @@
                 "attachments": []
               }
             ],
+            "Haus 2": [],
+            "Theaterraum (22)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
             "Bierschoine": [
@@ -3386,7 +3348,7 @@
                 "logo": "/media/fire-shonks-2022/submissions/WP8DB3/abrei%C3%9Fen_aufbauen_QQhOJDb.jpg",
                 "date": "2022-12-29T16:30:00+01:00",
                 "start": "16:30",
-                "duration": "01:45",
+                "duration": "01:30",
                 "room": "Fireshonks-Stream",
                 "slug": "jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/",
@@ -4233,7 +4195,7 @@
                 "attachments": []
               }
             ],
-            "Sparti": [
+            "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 8920,
                 "guid": "ad8d9204-0bca-55b0-8733-956fd2127b77",
@@ -4241,7 +4203,7 @@
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-8920-owasp_raider",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/",
                 "title": "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions",
@@ -4272,7 +4234,7 @@
                 "date": "2022-12-29T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-5773-trust_in_digital_communication",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/K7J8PF/",
                 "title": "Trust in digital communication",
@@ -4303,7 +4265,7 @@
                 "date": "2022-12-29T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/GD8EVV/",
                 "title": "Geschichten aus dem Leben einer Mastodon-Moderatorin",
@@ -4334,7 +4296,7 @@
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-4704-die_mikroarchitektur_moderner_prozessoren",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/FEWKFR/",
                 "title": "Die Mikroarchitektur moderner Prozessoren: ein Crashkurs",
@@ -4365,7 +4327,7 @@
                 "date": "2022-12-29T18:15:00+01:00",
                 "start": "18:15",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-3191-misconceptions_about_energy_assessment",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/FEK7VC/",
                 "title": "Misconceptions about Energy Assessment",
@@ -4396,7 +4358,7 @@
                 "date": "2022-12-29T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-780-vitamin_d_versus_sonnenbrand",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/NVKBLS/",
                 "title": "Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne",
@@ -4427,7 +4389,7 @@
                 "date": "2022-12-29T20:45:00+01:00",
                 "start": "20:45",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-1707-exploring_social_media_reactions_to_conflicts_in_2022",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/",
                 "title": "Exploring social media reactions to conflicts in 2022",
@@ -4452,9 +4414,9 @@
                 "attachments": []
               }
             ],
+            "RTC-Workshop 1 (Sem1)": [],
             "Haus 2": [],
             "Theaterraum (22)": [],
-            "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
             "Bierschoine": [
@@ -5451,7 +5413,7 @@
             ],
             "soldering room 7": [],
             "c-base mainhall": [],
-            "Sparti": [
+            "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 5754,
                 "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
@@ -5459,7 +5421,7 @@
                 "date": "2022-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "01:00",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-5754-technikphilosophische_jahresendgala",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
                 "title": "Technikphilosophische Jahresendgala",
@@ -5490,7 +5452,7 @@
                 "date": "2022-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-7860-infrastructure_review",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
                 "title": "Infrastructure Review",
@@ -5521,7 +5483,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:30",
-                "room": "Sparti",
+                "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-4292-closing_ceremony",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/XQSHAS/",
                 "title": "Closing Ceremony",
@@ -5546,9 +5508,9 @@
                 "attachments": []
               }
             ],
+            "RTC-Workshop 1 (Sem1)": [],
             "Haus 2": [],
             "Theaterraum (22)": [],
-            "Seminarraum 1 (25)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
             "Bierschoine": [
