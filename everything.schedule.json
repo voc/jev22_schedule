@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-20 18:20; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 18:20",
+    "version": "2022-12-20 21:40; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 21:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1549,6 +1549,13 @@
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
+                  {
+                    "id": 514,
+                    "code": "RTVRS9",
+                    "public_name": "bleeptrack",
+                    "biography": "bleeptrack is a Creative Technologist. Her main interests lie in the areas of generative or AI art, digital fabrication and DIY electronics. Her generative artworks have been presented at several international exhibitions. In November 2019, she received the \u201cF\u00f6rderpreis junge Ulmer Kunst\u201d art award for young artists and had her first solo exhibition at Museum Ulm. Currently, she is artist in residence at 42 Heilbronn, working on generative visualizations of data streams.",
+                    "answers": []
+                  },
                   {
                     "id": 293,
                     "code": "7G8QBA",
