@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-20 16:20; FireShonks 0.14; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 16:20</version>
+  <version>2022-12-20 18:20; FireShonks 0.15; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 18:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2578,10 +2578,42 @@ four parts:&#13;
   </day>
   <day index="3" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+      <event id="49270" guid="47b2d2c7-e59c-554c-97a2-ec80ecb640ba">
+        <logo>/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png</logo>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
+        <title>Geschlechtergerechtigkeit und Making</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.</abstract>
+        <description>Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue Möglichkeiten bieten können, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .&#13;
+&#13;
+Im Zuge dessen haben wir Maßnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein für Machtungleichgewichte in Maker- und Online Spaces stärken sollen.&#13;
+&#13;
+Auf unserer Website https://criticalmaking.eu/gender-equality/ finden sich erste Ergebnisse unserer Aktivitäten, die auch während der Veranstaltung präsentiert werden: In den Inspirational Stories about Gender-Inclusive Making können spannende Menschen aus der ganzen Welt kennengelernt werden, die ihre inspirierenden Geschichten teilen, wie sie zu Making gefunden haben.&#13;
+&#13;
+In der Introduction to Inlcusive Making finden sich verständliche Erklärungen zu einigen Begriffen und Theorien rund um inklusives Making. Die Recommendations to Inclusive Making bieten praktische Empfehlungen, wie ein Makerspace offen und einladend werden kann. Gemeinsam können wir diese Dokumente lebendig machen – Feedback, Erfahrungen und Empfehlungen können gerne über die Kommentarfunktion übermittelt werden, und so das gemeinsame Wissen vergrößern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3388">LMS</person>
+          <person id="3379">Teresa Schaefer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49115" guid="51e7515c-4fd7-5c96-9e00-0e26edb4f416">
         <logo/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
+        <date>2022-12-29T13:15:00+01:00</date>
+        <start>13:15</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49115-tracking_in_apps</slug>
@@ -3913,38 +3945,6 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
           <person id="3304">pnrd</person>
           <person id="3305">AG_Barrierefreiheit</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49270" guid="47b2d2c7-e59c-554c-97a2-ec80ecb640ba">
-        <logo>/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png</logo>
-        <date>2022-12-30T11:05:00+01:00</date>
-        <start>11:05</start>
-        <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
-        <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
-        <title>Geschlechtergerechtigkeit und Making</title>
-        <subtitle/>
-        <track>R3S</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.</abstract>
-        <description>Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue Möglichkeiten bieten können, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .&#13;
-&#13;
-Im Zuge dessen haben wir Maßnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein für Machtungleichgewichte in Maker- und Online Spaces stärken sollen.&#13;
-&#13;
-Auf unserer Website https://criticalmaking.eu/gender-equality/ finden sich erste Ergebnisse unserer Aktivitäten, die auch während der Veranstaltung präsentiert werden: In den Inspirational Stories about Gender-Inclusive Making können spannende Menschen aus der ganzen Welt kennengelernt werden, die ihre inspirierenden Geschichten teilen, wie sie zu Making gefunden haben.&#13;
-&#13;
-In der Introduction to Inlcusive Making finden sich verständliche Erklärungen zu einigen Begriffen und Theorien rund um inklusives Making. Die Recommendations to Inclusive Making bieten praktische Empfehlungen, wie ein Makerspace offen und einladend werden kann. Gemeinsam können wir diese Dokumente lebendig machen – Feedback, Erfahrungen und Empfehlungen können gerne über die Kommentarfunktion übermittelt werden, und so das gemeinsame Wissen vergrößern.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3388">LMS</person>
-          <person id="3379">Teresa Schaefer</person>
         </persons>
         <links/>
         <attachments/>
