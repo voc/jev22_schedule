@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-19 22:27:04.734020; FireShonks 0.11; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-19 22:27:04.734020</version>
+  <version>2022-12-20 10:20; FireShonks 0.11; Hacking in Parallel 0.4; Reconnect To Chaos! 0.1340; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-20 10:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1947,14 +1947,15 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Track 2 room 2</room>
-        <slug>jev22-49198-it_sicherheit_fuer_aktivist_innen</slug>
+        <slug>jev22-49198-it_security_for_activists</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/</url>
-        <title>IT-Sicherheit für Aktivist*innen</title>
+        <title>It security for activists</title>
         <subtitle/>
         <track>E.T.I.</track>
         <type>Talk</type>
-        <language>de</language>
-        <abstract>Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedrohtheit von Aktivist*innen. Aber für Menschen  ohne Computerhintergrund wirkt das Thema IT-Sicherheit oft sehr überfordernd und frustrierend. Deshalb versuche ich deshalb einen anschaulichen Überblick mit konkreten Handlungsanweisungen zu geben, wie du dich selber besser schützen kannst.</abstract>
+        <language>en</language>
+        <abstract>[Talk description will be translated in a few days]&#13;
+Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedrohtheit von Aktivist*innen. Aber für Menschen  ohne Computerhintergrund wirkt das Thema IT-Sicherheit oft sehr überfordernd und frustrierend. Deshalb versuche ich deshalb einen anschaulichen Überblick mit konkreten Handlungsanweisungen zu geben, wie du dich selber besser schützen kannst.</abstract>
         <description>In diesem Votrag gebe ich einen Überblick wie man sich als Aktivist*in for digitalen Angriffen schützen kann und stelle eine Methode vor, mit dem man für aktivistische Projekte die richtigen Sicherheitsvorkehrungen findet, ohne sich selber tief in das Thema IT-Sicherheit einzuarbeiten.</description>
         <recording>
           <license/>
