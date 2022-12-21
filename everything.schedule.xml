@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 21:54; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 21:54; Winterchaos 0.1</version>
+  <version>2022-12-21 23:10; FireShonks 0.18; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:10; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3010,8 +3010,8 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
       </event>
       <event id="49115" guid="51e7515c-4fd7-5c96-9e00-0e26edb4f416">
         <logo/>
-        <date>2022-12-29T13:15:00+01:00</date>
-        <start>13:15</start>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49115-tracking_in_apps</slug>
@@ -3253,8 +3253,8 @@ deployment of post-quantum cryptography have been going wrong.</abstract>
       </event>
       <event id="49116" guid="9ebf813b-dc3f-5c65-bf30-98fcf3d3f184">
         <logo/>
-        <date>2022-12-29T15:15:00+01:00</date>
-        <start>15:15</start>
+        <date>2022-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
         <duration>01:30</duration>
         <room>Fireshonks-Workshop</room>
         <slug>jev22-49116-datenschutzrechte_zum_mitmachen_dsgvo_anfragen_stellen_mit_datenanfragen_de</slug>
