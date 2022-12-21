@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "0a789"
     },
-    "version": "2022-12-21 13:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 13:10; Winterchaos 0.1",
+    "version": "2022-12-21 14:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 14:10; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5965,7 +5965,7 @@
               {
                 "id": 49296,
                 "guid": "b0cffb21-4e47-587e-84e5-935ec342afb4",
-                "logo": "",
+                "logo": "/media/hacking-in-hell-2022/submissions/YEKWDD/misinfohacks__Gv7p4KC.png",
                 "date": "2022-12-30T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "00:30",
