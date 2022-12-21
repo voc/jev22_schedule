@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "0a789"
     },
-    "version": "2022-12-21 10:34; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 10:34; Winterchaos 0.1",
+    "version": "2022-12-21 12:30; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 12:30; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2015,7 +2015,7 @@
                 "type": "Talk",
                 "language": "en",
                 "abstract": "Most bug bounty platforms list subdomain takeover as \"not in scope\", but could it be interesting anyways? Yes! This talk will show you what this kind of problem is and how it can be mitigated at scale (and where it isn't).",
-                "description": "On a boring evening, I thought of playing around with automated scanning using long bash one-liners. The next morning, a one-liner consisting of 17 pipes was born which found a few hundred valid subdomains prone to subdomain takeover. This wasn't really complicated, but by automating such a process, I had the chance to dive deeper into the whole topic and found quite a weird ecosystem.\r\n\r\nThis talk is there to give you the whole context: from the basic \"what is subdomain takeover?\" to further \"well how can it be found?\" until the essential \"well how to we solve this once and for all?\".",
+                "description": "On a boring evening, I thought of playing around with automated scanning using long bash one-liners. The next morning, a one-liner consisting of 17 pipes was born which found a few hundred valid subdomains prone to subdomain takeover. This wasn't really complicated, but by automating such a process, I had the chance to dive deeper into the whole topic and found quite a weird ecosystem.\r\n\r\nThis talk is there to give you the whole context: from the basic \"what is subdomain takeover?\" to further \"well how can it be found?\" until the essential \"well how do we solve this once and for all?\".",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
