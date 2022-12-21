@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 10:30; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 10:30; Winterchaos 0.1</version>
+  <version>2022-12-21 10:34; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 10:34; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2855,6 +2855,7 @@ four parts:&#13;
         <links/>
         <attachments/>
         <slug>jev22-2814-internal_penetration_testing_basics</slug>
+        <start>14:00</start>
       </event>
       <event id="2815" guid="817c5786-774b-4f36-a5e6-0f33b815d042">
         <logo/>
@@ -2879,6 +2880,7 @@ four parts:&#13;
         <links/>
         <attachments/>
         <slug>jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie</slug>
+        <start>15:00</start>
       </event>
       <event id="2817" guid="ca1422da-d66a-4aff-844e-79d6857fad3b">
         <logo/>
@@ -2903,6 +2905,7 @@ four parts:&#13;
         <links/>
         <attachments/>
         <slug>jev22-2817-automating_and_managing_an_iot_fleet_using_git</slug>
+        <start>17:00</start>
       </event>
       <event id="2818" guid="27881104-a658-4bf2-87bf-6e291740863d">
         <logo/>
@@ -2927,6 +2930,7 @@ four parts:&#13;
         <links/>
         <attachments/>
         <slug>jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause</slug>
+        <start>18:00</start>
       </event>
       <event id="2820" guid="20246891-b312-4256-a144-3732a2a3cdca">
         <logo/>
@@ -2952,6 +2956,7 @@ four parts:&#13;
         <links/>
         <attachments/>
         <slug>jev22-2820-how_we_founded_a_citizen_television_station</slug>
+        <start>20:00</start>
       </event>
     </room>
   </day>
@@ -4500,6 +4505,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2914-random_intro_to_vsphere</slug>
+        <start>14:00</start>
       </event>
       <event id="2915" guid="54120711-57e2-41ab-94a6-71125030d476">
         <logo/>
@@ -4524,6 +4530,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser</slug>
+        <start>15:00</start>
       </event>
       <event id="2917" guid="a99625f5-6693-4e63-a07d-213f72e343cd">
         <logo/>
@@ -4549,6 +4556,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2917-ausweiszwang</slug>
+        <start>17:00</start>
       </event>
       <event id="2918" guid="32e05682-5e39-420b-8252-1b8ff98a77e8">
         <logo/>
@@ -4575,6 +4583,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte</slug>
+        <start>18:00</start>
       </event>
       <event id="2920" guid="73973273-b52b-4637-aeb2-c20c86efb1a9">
         <logo/>
@@ -4599,6 +4608,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2920-der_frosch_im_wasserglas</slug>
+        <start>20:00</start>
       </event>
       <event id="2921" guid="9ad0a444-4e4b-4107-a18e-24ee9cca1327">
         <logo/>
@@ -4623,6 +4633,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
         <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>
+        <start>21:00</start>
       </event>
     </room>
   </day>
@@ -5455,6 +5466,7 @@ You can also spectate the event on PeerTube.</description>
         <links/>
         <attachments/>
         <slug>jev22-3014-diy_ledcubes</slug>
+        <start>14:00</start>
       </event>
       <event id="3015" guid="d6adf2b3-ba6b-47da-8344-3831c5f50902">
         <logo/>
@@ -5480,6 +5492,7 @@ You can also spectate the event on PeerTube.</description>
         <links/>
         <attachments/>
         <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
+        <start>15:00</start>
       </event>
       <event id="3017" guid="96d06944-d987-47ab-87cf-8e8292e36489">
         <logo/>
@@ -5504,6 +5517,7 @@ You can also spectate the event on PeerTube.</description>
         <links/>
         <attachments/>
         <slug>jev22-3017-what_we_have_lost</slug>
+        <start>17:00</start>
       </event>
       <event id="3018" guid="74cd86b8-ae98-4906-8e7e-bc6f18977a80">
         <logo/>
@@ -5528,6 +5542,7 @@ You can also spectate the event on PeerTube.</description>
         <links/>
         <attachments/>
         <slug>jev22-3018-git</slug>
+        <start>18:00</start>
       </event>
       <event id="3020" guid="98cb6023-46d6-41dd-85d8-17d43dcaf8a0">
         <logo/>
@@ -5552,6 +5567,7 @@ You can also spectate the event on PeerTube.</description>
         <links/>
         <attachments/>
         <slug>jev22-3020-modular_synth</slug>
+        <start>20:00</start>
       </event>
     </room>
   </day>

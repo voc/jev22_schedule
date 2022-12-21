@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "659a8"
+      "version": "0a789"
     },
-    "version": "2022-12-21 10:30; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 10:30; Winterchaos 0.1",
+    "version": "2022-12-21 10:34; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 10:34; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3255,7 +3255,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2814-internal_penetration_testing_basics"
+                "slug": "jev22-2814-internal_penetration_testing_basics",
+                "start": "14:00"
               },
               {
                 "id": "2815",
@@ -3285,7 +3286,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie"
+                "slug": "jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie",
+                "start": "15:00"
               },
               {
                 "id": "2817",
@@ -3315,7 +3317,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git"
+                "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git",
+                "start": "17:00"
               },
               {
                 "id": "2818",
@@ -3345,7 +3348,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause"
+                "slug": "jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause",
+                "start": "18:00"
               },
               {
                 "id": "2820",
@@ -3382,7 +3386,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2820-how_we_founded_a_citizen_television_station"
+                "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
+                "start": "20:00"
               }
             ]
           }
@@ -5063,7 +5068,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2914-random_intro_to_vsphere"
+                "slug": "jev22-2914-random_intro_to_vsphere",
+                "start": "14:00"
               },
               {
                 "id": "2915",
@@ -5093,7 +5099,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser"
+                "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser",
+                "start": "15:00"
               },
               {
                 "id": "2917",
@@ -5130,7 +5137,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2917-ausweiszwang"
+                "slug": "jev22-2917-ausweiszwang",
+                "start": "17:00"
               },
               {
                 "id": "2918",
@@ -5174,7 +5182,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte"
+                "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte",
+                "start": "18:00"
               },
               {
                 "id": "2920",
@@ -5204,7 +5213,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2920-der_frosch_im_wasserglas"
+                "slug": "jev22-2920-der_frosch_im_wasserglas",
+                "start": "20:00"
               },
               {
                 "id": "2921",
@@ -5234,7 +5244,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown"
+                "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown",
+                "start": "21:00"
               }
             ]
           }
@@ -6177,7 +6188,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-3014-diy_ledcubes"
+                "slug": "jev22-3014-diy_ledcubes",
+                "start": "14:00"
               },
               {
                 "id": "3015",
@@ -6214,7 +6226,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen"
+                "slug": "jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen",
+                "start": "15:00"
               },
               {
                 "id": "3017",
@@ -6244,7 +6257,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-3017-what_we_have_lost"
+                "slug": "jev22-3017-what_we_have_lost",
+                "start": "17:00"
               },
               {
                 "id": "3018",
@@ -6274,7 +6288,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-3018-git"
+                "slug": "jev22-3018-git",
+                "start": "18:00"
               },
               {
                 "id": "3020",
@@ -6304,7 +6319,8 @@
                 ],
                 "links": [],
                 "attachments": [],
-                "slug": "jev22-3020-modular_synth"
+                "slug": "jev22-3020-modular_synth",
+                "start": "20:00"
               }
             ]
           }
