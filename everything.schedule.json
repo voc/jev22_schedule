@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "0a789"
     },
-    "version": "2022-12-21 12:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 12:50; Winterchaos 0.1",
+    "version": "2022-12-21 13:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 13:10; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -4592,6 +4592,37 @@
             "Seminarraum 3 (21)": [],
             "Bierschoine": [
               {
+                "id": 49291,
+                "guid": "ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8",
+                "logo": "",
+                "date": "2022-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49291-ueberwacht_mehr_insekten",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/",
+                "title": "\u00dcberwacht mehr Insekten!",
+                "subtitle": "",
+                "track": null,
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Entomolog:innen sind eine aussterbende Spezies mit einem krassen F\u00e4higkeitspektrum. Die zur\u00fcckgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur f\u00fcr die Tierchen selber, sondern letztendlich auch f\u00fcr uns und die uns umgebenden \u00d6kosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.",
+                "description": "Nach einem gem\u00fctlichen Input zur \u00f6kologischen Situation der Wildbienen (v. A. in Europa) und warum uns diese interessieren sollte, werden ein paar verschiedene Projekte/Ans\u00e4tze vorgestellt, welche M\u00f6glichkeiten zur Verbesserung der Situation versucht werden und wie man sich einbringen kann, bevor wir in den offenen Austausch einsteigen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3399,
+                    "code": "9NFMXH",
+                    "public_name": "curtisanne",
+                    "biography": "\u2026von fast allem ein bisschen. Schlie\u00dflich will ich wissen, was die Welt im Innersten zusammenh\u00e4lt.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49289,
                 "guid": "8b87caeb-8133-58f9-947a-5106630a29b3",
                 "logo": "",
@@ -5934,7 +5965,7 @@
               {
                 "id": 49296,
                 "guid": "b0cffb21-4e47-587e-84e5-935ec342afb4",
-                "logo": "/media/hacking-in-hell-2022/submissions/YEKWDD/Screenshot_20221221_124404_wbPLfBw.png",
+                "logo": "",
                 "date": "2022-12-30T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "00:30",
@@ -5956,6 +5987,44 @@
                     "code": "NJSQFD",
                     "public_name": "Patrick Schmelmer",
                     "biography": "Patrick Schmelmer ist wissenschaftlicher Mitarbeiter in der Forschungsgruppe Human-Computer-Interaction und Visual Analytics und wissenschaftlicher Angestellter am Fachbereich Wirtschaft der Hochschule Darmstadt (h_da).\r\n\r\nW\u00e4hrend seines Studiums der Information Science M. Sc. an der h_da erwarb er Kenntnisse in den Bereichen Webentwicklung, Natural Language Processing und Visual Analytics. Dar\u00fcber hinaus sammelte Schmelmer einschl\u00e4gige praktische Erfahrungen sowohl im Informationsmanagement f\u00fcr GLAM-Einrichtungen wie Bibliotheken als auch im technischen Marketing.\r\n\r\nSchmelmers Interessen gehen auch in Richtung Digital Humanities und Sozioinformatik, weshalb er sich in seiner Masterarbeit 2022 mit dem Vergleich von Data-Mining-Studien zur Erkennung von Desinformationskampagnen besch\u00e4ftigte.\r\n\r\nDerzeit plant er ein interdisziplin\u00e4res Promotionsprojekt zwischen Informationswissenschaft und Betriebswirtschaftslehre.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49301,
+                "guid": "3b0de8b2-71a0-5178-90d9-75474acc1a14",
+                "logo": "",
+                "date": "2022-12-30T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Bierschoine",
+                "slug": "jev22-49301-hack_tell",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/",
+                "title": "Hack && Tell",
+                "subtitle": "",
+                "track": null,
+                "type": "Sonstiges (60)",
+                "language": "de",
+                "abstract": "Hier habt ihr die M\u00f6glichkeit eure Hacks und Projekte im Rahmen einer F\u00fcnfminutenpr\u00e4sentation der Community vorzustellen. \r\n\r\nThis is your chance to show your hacks or projects in 5-minute-presentations to the community.",
+                "description": "Ich werde w\u00e4hrend der Veranstaltung umherlaufen und euch auf eure Projekte ansprechen. Ihr werdet die M\u00f6glichkeit bekommen eure Hacks und Projekte als F\u00fcnfminutenpr\u00e4sentation der Community vorstellen zu k\u00f6nnen. Ich werde die Beitr\u00e4ge sammeln und sortieren, sowie den Slot moderieren. Wir freuen uns auf eure Beitr\u00e4ge.\r\n\r\nI will wander around the event and ask you about your project. If you are interested you can show your work to the community in a 5-minute-presentation. I will collect your works and put them in order to moderate the slot. We are happy about your contributions.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3419,
+                    "code": "B9LDFP",
+                    "public_name": "Mayo Freude",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 3416,
+                    "code": "M3Q7TL",
+                    "public_name": "Christoph G\u00f6bel",
+                    "biography": "Ich bin Sympathisant der Alten H\u00f6lle und ein guter Freund der Teufelin.\r\nIch hatte noch eine Rechnung mit ihr offen und l\u00f6se diese nun ein. Als Erlebnisp\u00e4dagoge ist es meine Aufgabe Menschen dazu zu bewegen sich zu zeigen, sich zu \u00f6ffnen und auch \u00fcber sich hinauszuwachsen. Diese F\u00e4higkeit kommt mir zu gute, denn ich werde dieses Jahr zusammen mit meiner Partnerin Marika den \"hack&tell\" moderieren und euch dazu bewegen der Community zu zeigen, was auf euren Bildschirmen, in euren Laboren oder eurer Werkstatt abgeht.",
                     "answers": []
                   }
                 ],

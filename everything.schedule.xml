@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 12:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 12:50; Winterchaos 0.1</version>
+  <version>2022-12-21 13:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 13:10; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -4087,6 +4087,31 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49291" guid="ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49291-ueberwacht_mehr_insekten</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
+        <title>Überwacht mehr Insekten!</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Entomolog:innen sind eine aussterbende Spezies mit einem krassen Fähigkeitspektrum. Die zurückgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur für die Tierchen selber, sondern letztendlich auch für uns und die uns umgebenden Ökosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.</abstract>
+        <description>Nach einem gemütlichen Input zur ökologischen Situation der Wildbienen (v. A. in Europa) und warum uns diese interessieren sollte, werden ein paar verschiedene Projekte/Ansätze vorgestellt, welche Möglichkeiten zur Verbesserung der Situation versucht werden und wie man sich einbringen kann, bevor wir in den offenen Austausch einsteigen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3399">curtisanne</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49289" guid="8b87caeb-8133-58f9-947a-5106630a29b3">
         <logo/>
         <date>2022-12-29T17:30:00+01:00</date>
@@ -5247,7 +5272,7 @@ Premiere&#13;
         <attachments/>
       </event>
       <event id="49296" guid="b0cffb21-4e47-587e-84e5-935ec342afb4">
-        <logo>/media/hacking-in-hell-2022/submissions/YEKWDD/Screenshot_20221221_124404_wbPLfBw.png</logo>
+        <logo/>
         <date>2022-12-30T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
@@ -5273,6 +5298,36 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         </recording>
         <persons>
           <person id="3242">Patrick Schmelmer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49301" guid="3b0de8b2-71a0-5178-90d9-75474acc1a14">
+        <logo/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49301-hack_tell</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/</url>
+        <title>Hack &amp;&amp; Tell</title>
+        <subtitle/>
+        <track/>
+        <type>Sonstiges (60)</type>
+        <language>de</language>
+        <abstract>Hier habt ihr die Möglichkeit eure Hacks und Projekte im Rahmen einer Fünfminutenpräsentation der Community vorzustellen. &#13;
+&#13;
+This is your chance to show your hacks or projects in 5-minute-presentations to the community.</abstract>
+        <description>Ich werde während der Veranstaltung umherlaufen und euch auf eure Projekte ansprechen. Ihr werdet die Möglichkeit bekommen eure Hacks und Projekte als Fünfminutenpräsentation der Community vorstellen zu können. Ich werde die Beiträge sammeln und sortieren, sowie den Slot moderieren. Wir freuen uns auf eure Beiträge.&#13;
+&#13;
+I will wander around the event and ask you about your project. If you are interested you can show your work to the community in a 5-minute-presentation. I will collect your works and put them in order to moderate the slot. We are happy about your contributions.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3419">Mayo Freude</person>
+          <person id="3416">Christoph Göbel</person>
         </persons>
         <links/>
         <attachments/>
