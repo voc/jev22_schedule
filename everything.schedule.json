@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "0a789"
     },
-    "version": "2022-12-21 14:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 14:50; Winterchaos 0.1",
+    "version": "2022-12-21 17:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 17:50; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3863,9 +3863,9 @@
                 "start": "12:00",
                 "duration": "00:30",
                 "room": "Theater Hall E.T.I.",
-                "slug": "jev22-49173-securing_name_resolution_in_the_iot",
+                "slug": "jev22-49173-dns_over_coap",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/",
-                "title": "Securing Name Resolution in the IoT: DNS over CoAP",
+                "title": "DNS over CoAP: Securing Name Resolution in the Internet of Things",
                 "subtitle": "",
                 "track": "E.T.I.",
                 "type": "Talk",
