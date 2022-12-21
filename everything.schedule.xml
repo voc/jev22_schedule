@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 12:30; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 12:30; Winterchaos 0.1</version>
+  <version>2022-12-21 12:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 12:50; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -5247,7 +5247,7 @@ Premiere&#13;
         <attachments/>
       </event>
       <event id="49296" guid="b0cffb21-4e47-587e-84e5-935ec342afb4">
-        <logo/>
+        <logo>/media/hacking-in-hell-2022/submissions/YEKWDD/Screenshot_20221221_124404_wbPLfBw.png</logo>
         <date>2022-12-30T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
