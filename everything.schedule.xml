@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 03:20; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 03:20</version>
+  <version>2022-12-21 06:00; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 06:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2787,7 +2787,7 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         <description>[DEJ Je nach teilnehmenden Wesen wollen wir das Barcamp deutschsprachig oder in englisch halten.&#13;
 &#13;
 Vier Phasen:&#13;
-1. Kennenlernen, Ideen-Sammling&#13;
+1. Kennenlernen, Ideen-Sammlung&#13;
 1. Ideen-Voting, Mini-Fahrplan bauen (15 Minuten Pause oder Spontan Impuls)&#13;
 1. Breakout-Sessions je nach Anzahl der Themen evt. 1-3 Timeslots mit 1-n parallelen Breakouts&#13;
 1. Was war, was wird. Die besten Takeaways aus den Sessions&#13;
