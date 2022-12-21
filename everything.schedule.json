@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "583ec"
     },
-    "version": "2022-12-21 00:40; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 00:40",
+    "version": "2022-12-21 02:40; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 02:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3497,7 +3497,7 @@
                     "id": 183,
                     "code": "UYSXKG",
                     "public_name": "jomo",
-                    "biography": "- \ud83d\udc18 [@jomo@mstdn.io](https://mstdn.io/@jomo])\r\n- \ud83c\udf10 [jomo.tv](https://jomo.tv)\r\n- \ud83d\udc8c [r3s\u24d0jomo.tv](mailto:r3s\ud83d\udc8cjomo.tv)\r\n- #\ufe0f\u20e3 jomo { hackint, libera, oftc, ircnet, freenode }",
+                    "biography": "- \ud83d\udc18 [@jomo@mstdn.io](https://mstdn.io/@jomo])\r\n- \ud83c\udf10 [jomo.tv](https://jomo.tv)\r\n- \ud83d\udc8c [r3s\u24d0jomo.tv](mailto:r3s\ud83d\udc8cjomo.tv)\r\n- \\#\ufe0f\u20e3 jomo { hackint, libera, oftc, ircnet, freenode }",
                     "answers": []
                   }
                 ],
