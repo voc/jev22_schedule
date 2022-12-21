@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 17:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 17:50; Winterchaos 0.1</version>
+  <version>2022-12-21 19:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 19:10; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -824,6 +824,7 @@ Die Laser-Cut-Dateien findet man unter https://tueftelakademie.de/quanten1x1/qua
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="3771">Franz Sitzmann</person>
           <person id="3372">Tobias Schubert</person>
         </persons>
         <links/>

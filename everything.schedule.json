@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "0a789"
     },
-    "version": "2022-12-21 17:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 17:50; Winterchaos 0.1",
+    "version": "2022-12-21 19:10; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 19:10; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1054,6 +1054,13 @@
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
+                  {
+                    "id": 3771,
+                    "code": "KQWRER",
+                    "public_name": "Franz Sitzmann",
+                    "biography": "Franz is a natural-born technology enthusiast. As a teenager, he was already accidentally locked up at school for tinkering with his robots for too long. He loves learning and wants to understand how technology works. As a mentor in digital education for young people and adults, he thinks up crazy gadgets and shows others how they can develop some themselves. That's why he leads the project Quanten1x1 at Junge T\u00fcftler in cooperation with TU Berlin and the Einstein Center. His great passion is making complex technologies easily accessible. He has already developed a whole series of workshops and infogames on the topic of artificial intelligence. As part of the BMBF project \u201cQuantum Aktiv\u201d, he has been on an adventure into the quantum world for the last year. In the process, he interviewed more than 20 experts and made his way through the quantum jungle to IBM's quantum computer in Zurich.",
+                    "answers": []
+                  },
                   {
                     "id": 3372,
                     "code": "JWENKQ",
