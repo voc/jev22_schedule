@@ -1,0 +1,32 @@
+{
+  "id": "2818",
+  "guid": "27881104-a658-4bf2-87bf-6e291740863d",
+  "logo": "",
+  "date": "2022-12-28T18:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2818-opensource-luftqualitaets-monitoring-fuer-zuhause",
+  "title": "Open Source Luftqualit\u00e4ts-Monitoring f\u00fcr Zuhause",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Hast du dich jemals gewundert, wie sich die Temperatur und Luftqualit\u00e4t in deinem Zuhause \u00fcber den Tag hinweg ver\u00e4ndert? In diesem Vortrag m\u00f6chte euch zeigen, wie ich mit sehr g\u00fcnstiger Hardware und open source Software ein eigenes System zur Raumluftqualit\u00e4ts\u00fcberwachung gebaut habe.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3,
+      "code": "SEB3",
+      "public_name": "Sebastian",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

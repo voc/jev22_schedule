@@ -1,0 +1,32 @@
+{
+  "id": "3014",
+  "guid": "fdfad7ee-e1ed-48e0-8f52-0946315b5d38",
+  "logo": "",
+  "date": "2022-12-30T14:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3014-diy-ledcubes",
+  "title": "DIY LedCubes",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Talk \u00fcber selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des W\u00fcrfel, die Firmware und auch das PCB.<br /><br />![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 13,
+      "code": "CYR13",
+      "public_name": "Cyrill",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-3014-diy_ledcubes",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

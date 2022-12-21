@@ -1,0 +1,39 @@
+{
+  "id": "2820",
+  "guid": "20246891-b312-4256-a144-3732a2a3cdca",
+  "logo": "",
+  "date": "2022-12-28T20:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station",
+  "title": "How We Founded a Citizen Television Station",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "When the pandemic started back then in 2020 we wanted to start something new and inspiring for ourself and mostly for the audience in our town. We had no idea how techie and timeconsuming it would be to produce a television show which lasts around 20 minute. So we jumped into this adventure.",
+  "description": "Was braucht es eigentlich wirklich um auf YouTube einen Clip zu stellen? Ein Konto, ein Clip und das wars. Okay, so weit so gut. Aber wer schaut denn diesen Clip an? Habe ich ob der schieren Menge an Videos \u00fcberhaupt noch etwas wichtiges beizutragen? Ist die Webcam scharf genug und brauche ich nicht erst noch das teure Mikrofon, damit man mich satt und gut h\u00f6rt? Wer hat sich diese und weitere Fragen nicht auch schon gestellt und ist dann zum Schluss gekommen, lieber doch kein YouTube Video zu produzieren? Mit RheinfeldenLive haben wir zur Zeit von Covid19 und Containement-Massnahmen einen guten Grund gefunden live zu gehen \u2013 mit oder ohne KnowHow! Das lokale Fernsehen von Rheinfelden f\u00fcr Rheinfelden ist geboren. Heute sind wir mit modernem Equipement ausger\u00fcstet. Unsere Engagements reichen von Kleinkunstauftritten \u00fcber musikalische Darbietungen bis hin zu Firmenpr\u00e4sentationen und Kongressanl\u00e4ssen.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 4,
+      "code": "CLA4",
+      "public_name": "Claus",
+      "bibliography": "",
+      "answers": []
+    },
+    {
+      "id": 5,
+      "code": "STE5",
+      "public_name": "Stephan",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

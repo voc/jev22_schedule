@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 06:00; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 06:00</version>
+  <version>2022-12-21 09:20; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.1; xrelog22: Independent Multiverses 1.5; ChilyConChaos 2022-12-21 09:20; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1092,6 +1092,7 @@ anonymised.</abstract>
         <slug>jev22-1007-raspberry_pi_pico_mit_circuitpy</slug>
       </event>
     </room>
+    <room name="Winterchaos"/>
   </day>
   <day index="2" date="2022-12-28" start="2022-12-28T09:00:00+01:00" end="2022-12-28T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -2828,6 +2829,129 @@ four parts:&#13;
         <slug>jev22-1002-schafkopf_lernen</slug>
       </event>
     </room>
+    <room name="Winterchaos">
+      <event id="2814" guid="7a0fc001-e587-47e1-b378-b6ec7e666337">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2814-internal-network-penetration-testing-basics</url>
+        <title>Internal Penetration Testing Basics</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Dieser Talk zeigt einige Basics zu internal Network Penetration Testing. Es wird gezeigt, wie typische Active Directory Umgebungen auf ihre Sicherheit hin analysiert werden können. Eine Mischung aus Theorie und Live Demos erklärt den Weg von einem Low Privileged User zum Domain Admin.</abstract>
+        <description>Dieser Talk zeigt einige Basics zu internal Network Penetration Testing in typischen Active Directory Umgebungen von Firmen. Es wird gezeigt, wie Active Directory Umgebungen auf ihre Sicherheit hin analysiert, und wie die dabei identifizierten Schwachstellen ausgenützt werden können.&lt;br /&gt;&lt;br /&gt;Eine Mischung aus Theorie und Live Demos erklärt den Weg wie es möglich ist, seine Privilegien im Netzwerk zu erhöhen um schlussendlich die ganze Domain unter Kontrolle zu bringen.&lt;br /&gt;&lt;br /&gt;Dabei werden unter anderem folgende Themen vorgestellt:&lt;br /&gt;&lt;br /&gt;* Einführung ins Active Directory&lt;br /&gt;* Analyse von Active Directory Umgebungen&lt;br /&gt;* Local Privilege Escalation auf Windows Systemen&lt;br /&gt;* Credential Dumping&lt;br /&gt;* Lateral Movement in Windows Umgebungen&lt;br /&gt;&lt;br /&gt;Dies ist ein Beginners Talk für Personen, welche an typischen Schwachstellen in Active Directory Umgebungen interessiert sind. Grundlegend technisches Verständnis von Netzwerken, Active Directory oder Windows ist sicher nützlich, aber es ist kein tiefes Know-How bzgl. Netzwerk- und Systemsicherheit nötig.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="0">Mänu</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2814-internal_penetration_testing_basics</slug>
+      </event>
+      <event id="2815" guid="817c5786-774b-4f36-a5e6-0f33b815d042">
+        <logo/>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2815-eine-einfuehrung-in-post-quantum-kryptographie</url>
+        <title>Eine Einführung in Post-Quantum Kryptographie</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Möglicherweise schon bald werden Quantencomputer unsere Welt verändern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose.</abstract>
+        <description>Möglicherweise schon bald werden Quantencomputer unsere Welt verändern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose. Anschliessend betrachten wir, wie wir uns heute schon auf Post-Quantum Ära vorbereiten können und gehen auf Themen wie Cryptographic Agility ein.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="1">Zöpfe</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie</slug>
+      </event>
+      <event id="2817" guid="ca1422da-d66a-4aff-844e-79d6857fad3b">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss</url>
+        <title>Automating and Managing an IoT Fleet Using Git</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>During this presentation, the listener will learn how software dinosaurs (meant positively) like Debian can be combined with modern tools like Ansible, git and Mender by applying best practices like GitOps and infrastructure as code. The outcome will be a highly scalable, robust and traceable embedded fleet setup that is easy to operate with a reduced number of tools at a global scale using a modest server infrastructure. During the presentation a concrete example of managing an individual IoT device will be shown. The IoT device will furthermore receive an automatically built OS image that gets dispatched over the air. Hardware-in-the-loop testing guarantees the quality of the OS image. Finally a sample IoT fleet of seven devices (5 Raspberry Pis, 1 Compulab IoT gateway, 1 Variscite SOM on a development board) will be managed using a git repository instead of a typical IoT fleet management tool. The presentation done by Matthias Lüscher shall encourage the audience to discover tools and best practices from other domains and apply them successfully to embedded projects.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="2">Matthias</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2817-automating_and_managing_an_iot_fleet_using_git</slug>
+      </event>
+      <event id="2818" guid="27881104-a658-4bf2-87bf-6e291740863d">
+        <logo/>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2818-opensource-luftqualitaets-monitoring-fuer-zuhause</url>
+        <title>Open Source Luftqualitäts-Monitoring für Zuhause</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hast du dich jemals gewundert, wie sich die Temperatur und Luftqualität in deinem Zuhause über den Tag hinweg verändert? In diesem Vortrag möchte euch zeigen, wie ich mit sehr günstiger Hardware und open source Software ein eigenes System zur Raumluftqualitätsüberwachung gebaut habe.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3">Sebastian</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause</slug>
+      </event>
+      <event id="2820" guid="20246891-b312-4256-a144-3732a2a3cdca">
+        <logo/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station</url>
+        <title>How We Founded a Citizen Television Station</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>When the pandemic started back then in 2020 we wanted to start something new and inspiring for ourself and mostly for the audience in our town. We had no idea how techie and timeconsuming it would be to produce a television show which lasts around 20 minute. So we jumped into this adventure.</abstract>
+        <description>Was braucht es eigentlich wirklich um auf YouTube einen Clip zu stellen? Ein Konto, ein Clip und das wars. Okay, so weit so gut. Aber wer schaut denn diesen Clip an? Habe ich ob der schieren Menge an Videos überhaupt noch etwas wichtiges beizutragen? Ist die Webcam scharf genug und brauche ich nicht erst noch das teure Mikrofon, damit man mich satt und gut hört? Wer hat sich diese und weitere Fragen nicht auch schon gestellt und ist dann zum Schluss gekommen, lieber doch kein YouTube Video zu produzieren? Mit RheinfeldenLive haben wir zur Zeit von Covid19 und Containement-Massnahmen einen guten Grund gefunden live zu gehen – mit oder ohne KnowHow! Das lokale Fernsehen von Rheinfelden für Rheinfelden ist geboren. Heute sind wir mit modernem Equipement ausgerüstet. Unsere Engagements reichen von Kleinkunstauftritten über musikalische Darbietungen bis hin zu Firmenpräsentationen und Kongressanlässen.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">Claus</person>
+          <person id="5">Stephan</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2820-how_we_founded_a_citizen_television_station</slug>
+      </event>
+    </room>
   </day>
   <day index="3" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -4223,7 +4347,7 @@ Conclusions and outlook&lt;br&gt;</description>
         <type>Live Session (30)</type>
         <language>de</language>
         <abstract>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt.</abstract>
-        <description>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich zumindest die meisten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt. &#13;
+        <description>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt. &#13;
 In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktiken von Facebook/Meta den einzelnen Menschenrechten zu. Es soll deutlich werden, warum es dringend notwendig ist, dass eine solch globale und allgemeine Kommunikationsinfrastruktur wesentlich freier und selbstbestimmter zugänglich sein müsste. &#13;
 (Hinweis: Wir waren für diesen Vortrag nicht selbst investigativ tätig, wir fassen lediglich die Ergebnisse aus verschiedenen Enthüllungen wie z.B. den Facebook-Papers, Cambridge Analytica u.a. vor einem neuen Kontext zusammen.)</description>
         <recording>
@@ -4342,6 +4466,155 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <track/>
         <type>(auch auf dem Rücken)? (Vortrag)</type>
         <slug>jev22-1009-warum_fliegt_ein_flugzeug</slug>
+      </event>
+    </room>
+    <room name="Winterchaos">
+      <event id="2914" guid="3bf66ab7-1209-4f67-acd4-0fc919dba150">
+        <logo/>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2914-random-intro-to-vsphere</url>
+        <title>Random Intro to vSphere</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction to VMware’s ESXi and vCenter Basics, brief coverage of storage, network topics and availability, including a quick demonstration of replication and fault tolerance.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">Josh</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2914-random_intro_to_vsphere</slug>
+      </event>
+      <event id="2915" guid="54120711-57e2-41ab-94a6-71125030d476">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser</url>
+        <title>Nitratauswaschung aus der Landwirtschaft ins Grundwasser</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Verlust von Stickstoff (N) aus Agrarökosystemen ist eines der größten ungelösten Umweltprobleme unserer Zeit.</abstract>
+        <description>Der Verlust von Stickstoff (N) aus Agrarökosystemen ist eines der größten ungelösten&lt;br /&gt;Umweltprobleme unserer Zeit. Einerseits ist Stickstoff ein kritischer ertragsbeschränkender Nährstoff,&lt;br /&gt;und daher ist die N-Versorgung in der Landwirtschaft in Form von Dünger entscheidend für die&lt;br /&gt;Gewährleistung der Ernährungssicherheit. Andererseits geht ein Teil dieses Stickstoffdüngers verloren,&lt;br /&gt;z. B. durch Auswaschung in Form von mobilem Nitrat durch den Boden in den Grundwasserleiter.&lt;br /&gt;Aufgrund dieser Verunreinigung werden heute in vielen Regionen die Trinkwassergrenzwerte für&lt;br /&gt;Nitrat überschritten.&lt;br /&gt;&lt;br /&gt;In dieser Studie untersuchten wir die N-Transport- und Kreislaufprozesse während drei Anbauperioden&lt;br /&gt;(2017-21) auf 11 Feldern im Gäu im Schweizer Mittelland. Die Fruchtfolgen umfassten Silomais,&lt;br /&gt;Wintergetreide und Raps. Die Ziele waren, verschiedene Monitoringmethoden für die&lt;br /&gt;Nitratauswaschung zu vergleichen und die Haupteinflussfaktoren für die Nitratauswaschung aus der&lt;br /&gt;Wurzelzone zu bestimmen.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="7">Hannah</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser</slug>
+      </event>
+      <event id="2917" guid="a99625f5-6693-4e63-a07d-213f72e343cd">
+        <logo/>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2917-ausweiszwang</url>
+        <title>Ausweiszwang</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>In der Herbstsession wurde ein grösstenteils unbeachtetes, aber brandgefährliches Gesetz verabschiedet: Das Jugendschutzgesetz.&lt;br /&gt;In diesem ist eine Altersverifikation für Gaming- und Videoplattformen vorgeschrieben. Vor der ersten Nutzung. Unabhängig vom Content (also auch für u18/u12 Material). Dies bedeutet de facto ein Ausweiszwang auf diesen Plattformen.&lt;br /&gt;Und als nächstes auf SocialMedia? Auf Nachrichtenseiten? Für jeden Klick im Internet?&lt;br /&gt;Das Gesetz muss verhindert werden. Das Referendum läuft nur noch ein paar Tage. &lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="8">Pascal</person>
+          <person id="9">Jorgo</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2917-ausweiszwang</slug>
+      </event>
+      <event id="2918" guid="32e05682-5e39-420b-8252-1b8ff98a77e8">
+        <logo/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data</url>
+        <title>«Thank you for your data» oder weshalb uns das Thema Data Analytics interessieren sollte</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Welche Daten lassen sich eigentlich von unseren Geräten abgreifen, wenn wir digitale Räume betreten? Der interaktive Apparat «iC-U» geht dieser Frage spielerisch nach, indem er Informationen seiner User sammelt und als individuelle Datenblätter ausdruckt. Der mechanisch-digitale Hybrid ist für die Designbiennale Zürich 2021 entstanden und hat an bisher drei Standorten mehrere tausend Besuchende erreicht.&lt;br /&gt;Studio absurda zeigt den Entstehungsprozess von «iC-U» auf und gibt von Konzeption bis Softwareprogrammierung Einblicke, wie experimentelles Design drängende Gesellschaftsfragen an ein breites Publikum bringen kann.&lt;br /&gt;&lt;br /&gt;  - [Zum Projekt auf der Webseite der Designbiennale Zürich](https://www.designbiennalezurich.ch/datenbank-projekte-2021/absurda)&lt;br /&gt;  - [Studio absurda*](https://absurda.ch/)&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="10">Basil</person>
+          <person id="11">Nadja</person>
+          <person id="12">Sean</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte</slug>
+      </event>
+      <event id="2920" guid="73973273-b52b-4637-aeb2-c20c86efb1a9">
+        <logo/>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas</url>
+        <title>Der Frosch im Wasserglas</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Der &amp;quot;Frosch im Wasserglas&amp;quot; beschreibt, wie er im warmen Wasser sitzt und nicht bemerkt, wie die Temperatur langsam erhöht wird, bis er bei lebendigem Leibe gekocht wird.&lt;br /&gt;Genau so werden bei einer Vielzahl von (geplanten) Gesetzen und Verordnungen die Daumenschrauben langsam aber stetig angezogen und die Überwachung ausgebaut, Strafen verschärft, Datensammlungen vergrössert. Es ist schwierig, die Übersicht zu behalten. Wir bringen euch auf den neuesten Stand der Grundrechtseingriffe (wie z.B. E-ID, BÜPF, VÜPF, NDG, PMT, GwV-FINMA, Mobility Pricing, Flugpassagierdatengesetz, Jugendschutzgesetz) &lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="8">Pascal</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2920-der_frosch_im_wasserglas</slug>
+      </event>
+      <event id="2921" guid="9ad0a444-4e4b-4107-a18e-24ee9cca1327">
+        <logo/>
+        <date>2022-12-29T21:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden</url>
+        <title>Real citizens of Rheinfelden living in an AI painted model of Jakob Strassers hometown</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>How I used several techniques to invent a working time machine. In 2018, I was asked by the local tourism office to create a VR installation for their 125th anniversary celebration. A Drone footage, photogrammetry 3D processing, repro photography and AI spectacle.</abstract>
+        <description>Frisch aus dem Studium entlassen habe ich meine künstlerischen Skills für VR-Installationen in dieses Projekt einfliessen lassen. Die Geschäftsführerin der lokalen Tourismusvereinigung wollte für das 125 jährige bestehen etwas besonderes haben. Mir schwebte vor, dass ich die Bürgerinnen und Bürger von Rheinfelden von Beginn an bei der Entstehung dabei haben wollte. In meinem Fotostudio scannte ich die Konterfeis unserer Cervelat-Prominenz um später ihre Avatare in der Garderobe der Belle epoque als Statisten auftreten zu lassen. Mit einem Fullbody 3D Scanner, der Leihgabe von Theaterkostümen und ein paar Freiwilligen scannten wir einen Nachmittag lang um die Wette. Mit einem Drohnenflug durch die Altstadt von Rheinfelden zeichne ich mir das Ausgangsmaterial auf um später mit der Technik der Photogrammetrie ein begehbares 3D Model zu erstellen. 2018 war KI und Deepart gerade am Aufkommen. Ich installierte mir dazu extra auf einer externen und bootable disk eine Linuxversion um diese vielsagende Technik auszuloten. Mein zehnjähriges Engagement als Berufsfotograf im Verein des verstorbenen Kunstmalers Jakob Strasser und rund 5000 reprografierter Bilder seines Nachlasses sollten herhalten um die KI darauf zu trainieren, wie Stadt von heute wohl ausgesehen hätte, wenn sie Jakob Strasser gemalt hätte.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">Claus</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>
       </event>
     </room>
   </day>
@@ -5146,6 +5419,129 @@ You can also spectate the event on PeerTube.</description>
         <track/>
         <type>Other</type>
         <slug>jev22-1005-all_about_digitalcourage</slug>
+      </event>
+    </room>
+    <room name="Winterchaos">
+      <event id="3014" guid="fdfad7ee-e1ed-48e0-8f52-0946315b5d38">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/3014-diy-ledcubes</url>
+        <title>DIY LedCubes</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Talk über selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des Würfel, die Firmware und auch das PCB.&lt;br /&gt;&lt;br /&gt;![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="13">Cyrill</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-3014-diy_ledcubes</slug>
+      </event>
+      <event id="3015" guid="d6adf2b3-ba6b-47da-8344-3831c5f50902">
+        <logo/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger</url>
+        <title>CAD-Workshop für Anfänger - Modelle für 3D-Druck, CNC-Fräsen und Laser-Cutter designen</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Kurze Einführung in CAD mit Fusion 360 mit anschliessenden Beispielaufgaben und Übungen. Fokus liegt bei 3D-Druckbaren Designs.&lt;br /&gt;&lt;br /&gt;Der Workshop besteht aus vier Teilen: &lt;br /&gt;  - (Vortrag) Kurze Einführung in 3D Modelierung (CAD vs. 3D Modelierung, ca 5 Minuten) und Einführung in Fusion 360 (ca 20 Minuten)&lt;br /&gt;  - (Workshop) Gemeinsames Beispiel in Fusion erstellen (ca 15-20 Minuten) “Von der Skizze bis zum Druckbaren Model” &lt;br /&gt;  - (Vortrag) Tipps um Dinge einfacher Druckbar zu machen (10 Minuten) &lt;br /&gt;  - (Workshop) 5-10 Beispiel-Aufgaben zum modelieren. Jeder kann sich eine oder zwei aussuchen und für sich modelieren. Vortragende helfen bei Problemen, beantworten Fragen, etc. [Beispiele: Staubsauger-Werkzeug-Adapter, angepasste Haken oder Aufhänger, (einfache) Ersatzteile, Passgenaue Einschübe, etc.]&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="14">Raphi</person>
+          <person id="15">Ria</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
+      </event>
+      <event id="3017" guid="96d06944-d987-47ab-87cf-8e8292e36489">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project</url>
+        <title>What we have lost: The Japanese 5th Generation Computer Project</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Was wenn die Geschichte einen anderen Verlauf genommen hätte? Multicore Workstations bereits in den 80ern? Und warum hatte die Welt Angst, von Japan technologisch abgehängt zu werden? Von der Vision, die man vor 40 Jahren hatte, warum sie gescheitert ist und was heute von ihr übrig ist.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="16">Prokhor</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-3017-what_we_have_lost</slug>
+      </event>
+      <event id="3018" guid="74cd86b8-ae98-4906-8e7e-bc6f18977a80">
+        <logo/>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it</url>
+        <title>Git: Let's f*ck up history, and then restore it</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Oder: How to get rid of `my_git_project_bkp (copy1-10)`&lt;br /&gt;&lt;br /&gt;Ein kleiner Vortrag über fortgeschrittene Operationen im Git-Versionssystem: Wie macht man Rebasing, File Purging und Recovery via `git reflog`.&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="17">Oli</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-3018-git</slug>
+      </event>
+      <event id="3020" guid="98cb6023-46d6-41dd-85d8-17d43dcaf8a0">
+        <logo/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <duration>00:45</duration>
+        <room>Winterchaos</room>
+        <url>https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth</url>
+        <title>Modular Synth</title>
+        <subtitle/>
+        <track>Winterchaos</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ein kurzer Vortrag über modulare Synthesizer. Sofern die Geräte vor Ort sein können, werden interessierten Personen auch gerne auch selbst rumspielen dürfen.&lt;br /&gt;&lt;br /&gt;Meine Racks: &lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/2044207](https://www.modulargrid.net/e/racks/view/2044207)&lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/1885770](https://www.modulargrid.net/e/racks/view/1885770)&lt;br /&gt;</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="13">Cyrill</person>
+        </persons>
+        <links/>
+        <attachments/>
+        <slug>jev22-3020-modular_synth</slug>
       </event>
     </room>
   </day>

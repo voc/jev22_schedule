@@ -1,0 +1,32 @@
+{
+  "id": "3020",
+  "guid": "98cb6023-46d6-41dd-85d8-17d43dcaf8a0",
+  "logo": "",
+  "date": "2022-12-30T20:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth",
+  "title": "Modular Synth",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Ein kurzer Vortrag \u00fcber modulare Synthesizer. Sofern die Ger\u00e4te vor Ort sein k\u00f6nnen, werden interessierten Personen auch gerne auch selbst rumspielen d\u00fcrfen.<br /><br />Meine Racks: <br />  - [https://www.modulargrid.net/e/racks/view/2044207](https://www.modulargrid.net/e/racks/view/2044207)<br />  - [https://www.modulargrid.net/e/racks/view/1885770](https://www.modulargrid.net/e/racks/view/1885770)<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 13,
+      "code": "CYR13",
+      "public_name": "Cyrill",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-3020-modular_synth",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

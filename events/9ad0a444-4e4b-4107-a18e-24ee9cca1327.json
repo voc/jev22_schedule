@@ -1,0 +1,32 @@
+{
+  "id": "2921",
+  "guid": "9ad0a444-4e4b-4107-a18e-24ee9cca1327",
+  "logo": "",
+  "date": "2022-12-29T21:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden",
+  "title": "Real citizens of Rheinfelden living in an AI painted model of Jakob Strassers hometown",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "How I used several techniques to invent a working time machine. In 2018, I was asked by the local tourism office to create a VR installation for their 125th anniversary celebration. A Drone footage, photogrammetry 3D processing, repro photography and AI spectacle.",
+  "description": "Frisch aus dem Studium entlassen habe ich meine k\u00fcnstlerischen Skills f\u00fcr VR-Installationen in dieses Projekt einfliessen lassen. Die Gesch\u00e4ftsf\u00fchrerin der lokalen Tourismusvereinigung wollte f\u00fcr das 125 j\u00e4hrige bestehen etwas besonderes haben. Mir schwebte vor, dass ich die B\u00fcrgerinnen und B\u00fcrger von Rheinfelden von Beginn an bei der Entstehung dabei haben wollte. In meinem Fotostudio scannte ich die Konterfeis unserer Cervelat-Prominenz um sp\u00e4ter ihre Avatare in der Garderobe der Belle epoque als Statisten auftreten zu lassen. Mit einem Fullbody 3D Scanner, der Leihgabe von Theaterkost\u00fcmen und ein paar Freiwilligen scannten wir einen Nachmittag lang um die Wette. Mit einem Drohnenflug durch die Altstadt von Rheinfelden zeichne ich mir das Ausgangsmaterial auf um sp\u00e4ter mit der Technik der Photogrammetrie ein begehbares 3D Model zu erstellen. 2018 war KI und Deepart gerade am Aufkommen. Ich installierte mir dazu extra auf einer externen und bootable disk eine Linuxversion um diese vielsagende Technik auszuloten. Mein zehnj\u00e4hriges Engagement als Berufsfotograf im Verein des verstorbenen Kunstmalers Jakob Strasser und rund 5000 reprografierter Bilder seines Nachlasses sollten herhalten um die KI darauf zu trainieren, wie Stadt von heute wohl ausgesehen h\u00e4tte, wenn sie Jakob Strasser gemalt h\u00e4tte.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 4,
+      "code": "CLA4",
+      "public_name": "Claus",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3018",
+  "guid": "74cd86b8-ae98-4906-8e7e-bc6f18977a80",
+  "logo": "",
+  "date": "2022-12-30T18:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it",
+  "title": "Git: Let's f*ck up history, and then restore it",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Oder: How to get rid of `my_git_project_bkp (copy1-10)`<br /><br />Ein kleiner Vortrag \u00fcber fortgeschrittene Operationen im Git-Versionssystem: Wie macht man Rebasing, File Purging und Recovery via `git reflog`.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 17,
+      "code": "OLI17",
+      "public_name": "Oli",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-3018-git",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3017",
+  "guid": "96d06944-d987-47ab-87cf-8e8292e36489",
+  "logo": "",
+  "date": "2022-12-30T17:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project",
+  "title": "What we have lost: The Japanese 5th Generation Computer Project",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Was wenn die Geschichte einen anderen Verlauf genommen h\u00e4tte? Multicore Workstations bereits in den 80ern? Und warum hatte die Welt Angst, von Japan technologisch abgeh\u00e4ngt zu werden? Von der Vision, die man vor 40 Jahren hatte, warum sie gescheitert ist und was heute von ihr \u00fcbrig ist.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 16,
+      "code": "PRO16",
+      "public_name": "Prokhor",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-3017-what_we_have_lost",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

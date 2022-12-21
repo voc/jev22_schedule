@@ -1,0 +1,39 @@
+{
+  "id": "2917",
+  "guid": "a99625f5-6693-4e63-a07d-213f72e343cd",
+  "logo": "",
+  "date": "2022-12-29T17:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2917-ausweiszwang",
+  "title": "Ausweiszwang",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "In der Herbstsession wurde ein gr\u00f6sstenteils unbeachtetes, aber brandgef\u00e4hrliches Gesetz verabschiedet: Das Jugendschutzgesetz.<br />In diesem ist eine Altersverifikation f\u00fcr Gaming- und Videoplattformen vorgeschrieben. Vor der ersten Nutzung. Unabh\u00e4ngig vom Content (also auch f\u00fcr u18/u12 Material). Dies bedeutet de facto ein Ausweiszwang auf diesen Plattformen.<br />Und als n\u00e4chstes auf SocialMedia? Auf Nachrichtenseiten? F\u00fcr jeden Klick im Internet?<br />Das Gesetz muss verhindert werden. Das Referendum l\u00e4uft nur noch ein paar Tage. <br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 8,
+      "code": "PAS8",
+      "public_name": "Pascal",
+      "bibliography": "",
+      "answers": []
+    },
+    {
+      "id": 9,
+      "code": "JOR9",
+      "public_name": "Jorgo",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2917-ausweiszwang",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3015",
+  "guid": "d6adf2b3-ba6b-47da-8344-3831c5f50902",
+  "logo": "",
+  "date": "2022-12-30T15:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger",
+  "title": "CAD-Workshop f\u00fcr Anf\u00e4nger - Modelle f\u00fcr 3D-Druck, CNC-Fr\u00e4sen und Laser-Cutter designen",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Kurze Einf\u00fchrung in CAD mit Fusion 360 mit anschliessenden Beispielaufgaben und \u00dcbungen. Fokus liegt bei 3D-Druckbaren Designs.<br /><br />Der Workshop besteht aus vier Teilen: <br />  - (Vortrag) Kurze Einf\u00fchrung in 3D Modelierung (CAD vs. 3D Modelierung, ca 5 Minuten) und Einf\u00fchrung in Fusion 360 (ca 20 Minuten)<br />  - (Workshop) Gemeinsames Beispiel in Fusion erstellen (ca 15-20 Minuten) \u201cVon der Skizze bis zum Druckbaren Model\u201d <br />  - (Vortrag) Tipps um Dinge einfacher Druckbar zu machen (10 Minuten) <br />  - (Workshop) 5-10 Beispiel-Aufgaben zum modelieren. Jeder kann sich eine oder zwei aussuchen und f\u00fcr sich modelieren. Vortragende helfen bei Problemen, beantworten Fragen, etc. [Beispiele: Staubsauger-Werkzeug-Adapter, angepasste Haken oder Aufh\u00e4nger, (einfache) Ersatzteile, Passgenaue Einsch\u00fcbe, etc.]<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 14,
+      "code": "RAP14",
+      "public_name": "Raphi",
+      "bibliography": "",
+      "answers": []
+    },
+    {
+      "id": 15,
+      "code": "RIA15",
+      "public_name": "Ria",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

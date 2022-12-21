@@ -1,0 +1,32 @@
+{
+  "id": "2920",
+  "guid": "73973273-b52b-4637-aeb2-c20c86efb1a9",
+  "logo": "",
+  "date": "2022-12-29T20:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas",
+  "title": "Der Frosch im Wasserglas",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Der &quot;Frosch im Wasserglas&quot; beschreibt, wie er im warmen Wasser sitzt und nicht bemerkt, wie die Temperatur langsam erh\u00f6ht wird, bis er bei lebendigem Leibe gekocht wird.<br />Genau so werden bei einer Vielzahl von (geplanten) Gesetzen und Verordnungen die Daumenschrauben langsam aber stetig angezogen und die \u00dcberwachung ausgebaut, Strafen versch\u00e4rft, Datensammlungen vergr\u00f6ssert. Es ist schwierig, die \u00dcbersicht zu behalten. Wir bringen euch auf den neuesten Stand der Grundrechtseingriffe (wie z.B. E-ID, B\u00dcPF, V\u00dcPF, NDG, PMT, GwV-FINMA, Mobility Pricing, Flugpassagierdatengesetz, Jugendschutzgesetz) <br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 8,
+      "code": "PAS8",
+      "public_name": "Pascal",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2920-der_frosch_im_wasserglas",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

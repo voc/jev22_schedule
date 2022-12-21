@@ -1,0 +1,32 @@
+{
+  "id": "2815",
+  "guid": "817c5786-774b-4f36-a5e6-0f33b815d042",
+  "logo": "",
+  "date": "2022-12-28T15:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2815-eine-einfuehrung-in-post-quantum-kryptographie",
+  "title": "Eine Einf\u00fchrung in Post-Quantum Kryptographie",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "M\u00f6glicherweise schon bald werden Quantencomputer unsere Welt ver\u00e4ndern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose.",
+  "description": "M\u00f6glicherweise schon bald werden Quantencomputer unsere Welt ver\u00e4ndern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose. Anschliessend betrachten wir, wie wir uns heute schon auf Post-Quantum \u00c4ra vorbereiten k\u00f6nnen und gehen auf Themen wie Cryptographic Agility ein.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 1,
+      "code": "Z\u00d6P1",
+      "public_name": "Z\u00f6pfe",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

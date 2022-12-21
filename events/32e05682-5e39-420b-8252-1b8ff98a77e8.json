@@ -1,0 +1,46 @@
+{
+  "id": "2918",
+  "guid": "32e05682-5e39-420b-8252-1b8ff98a77e8",
+  "logo": "",
+  "date": "2022-12-29T18:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data",
+  "title": "\u00abThank you for your data\u00bb oder weshalb uns das Thema Data Analytics interessieren sollte",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "Welche Daten lassen sich eigentlich von unseren Ger\u00e4ten abgreifen, wenn wir digitale R\u00e4ume betreten? Der interaktive Apparat \u00abiC-U\u00bb geht dieser Frage spielerisch nach, indem er Informationen seiner User sammelt und als individuelle Datenbl\u00e4tter ausdruckt. Der mechanisch-digitale Hybrid ist f\u00fcr die Designbiennale Z\u00fcrich 2021 entstanden und hat an bisher drei Standorten mehrere tausend Besuchende erreicht.<br />Studio absurda zeigt den Entstehungsprozess von \u00abiC-U\u00bb auf und gibt von Konzeption bis Softwareprogrammierung Einblicke, wie experimentelles Design dr\u00e4ngende Gesellschaftsfragen an ein breites Publikum bringen kann.<br /><br />  - [Zum Projekt auf der Webseite der Designbiennale Z\u00fcrich](https://www.designbiennalezurich.ch/datenbank-projekte-2021/absurda)<br />  - [Studio absurda*](https://absurda.ch/)<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 10,
+      "code": "BAS10",
+      "public_name": "Basil",
+      "bibliography": "",
+      "answers": []
+    },
+    {
+      "id": 11,
+      "code": "NAD11",
+      "public_name": "Nadja",
+      "bibliography": "",
+      "answers": []
+    },
+    {
+      "id": 12,
+      "code": "SEA12",
+      "public_name": "Sean",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}

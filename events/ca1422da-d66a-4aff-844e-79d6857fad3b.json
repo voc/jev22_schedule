@@ -1,0 +1,32 @@
+{
+  "id": "2817",
+  "guid": "ca1422da-d66a-4aff-844e-79d6857fad3b",
+  "logo": "",
+  "date": "2022-12-28T17:00:00+01:00",
+  "duration": "00:45",
+  "room": "Winterchaos",
+  "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss",
+  "title": "Automating and Managing an IoT Fleet Using Git",
+  "subtitle": "",
+  "track": "Winterchaos",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "",
+  "description": "During this presentation, the listener will learn how software dinosaurs (meant positively) like Debian can be combined with modern tools like Ansible, git and Mender by applying best practices like GitOps and infrastructure as code. The outcome will be a highly scalable, robust and traceable embedded fleet setup that is easy to operate with a reduced number of tools at a global scale using a modest server infrastructure. During the presentation a concrete example of managing an individual IoT device will be shown. The IoT device will furthermore receive an automatically built OS image that gets dispatched over the air. Hardware-in-the-loop testing guarantees the quality of the OS image. Finally a sample IoT fleet of seven devices (5 Raspberry Pis, 1 Compulab IoT gateway, 1 Variscite SOM on a development board) will be managed using a git repository instead of a typical IoT fleet management tool. The presentation done by Matthias L\u00fcscher shall encourage the audience to discover tools and best practices from other domains and apply them successfully to embedded projects.<br />",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 2,
+      "code": "MAT2",
+      "public_name": "Matthias",
+      "bibliography": "",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git",
+  "room_id": null,
+  "origin": "laborluxeria.github.io"
+}
