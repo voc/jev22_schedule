@@ -10,7 +10,7 @@
   "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/",
   "title": "Mach dein Softwareprojekt nutzbar f\u00fcr andere!",
   "subtitle": "",
-  "track": null,
+  "track": "Hellarious",
   "type": "Talk",
   "language": "de",
   "abstract": "Damit andere deinen Code ausf\u00fchren, verstehen und vielleicht sogar erweitern k\u00f6nnen, braucht es nicht viel. Ein bisschen aufr\u00e4umen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was geh\u00f6rt eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? \r\nIn diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.",

@@ -10,7 +10,7 @@
   "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/",
   "title": "Iridium reverse engineering: News seit 2016",
   "subtitle": "",
-  "track": null,
+  "track": "Hellarious",
   "type": "Talk",
   "language": "de",
   "abstract": "Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.",

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 19:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 19:50; Winterchaos 0.1</version>
+  <version>2022-12-21 21:54; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 21:54; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1059,7 +1059,7 @@ anonymised.</abstract>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/7ZBY88/</url>
         <title>Bastelstube Tag 1</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Nähen, sticken, stricken, Hüte basteln und Siebdruck.</abstract>
@@ -1089,7 +1089,7 @@ anonymised.</abstract>
         <duration>1:00</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>Other</type>
         <slug>jev22-1007-raspberry_pi_pico_mit_circuitpy</slug>
       </event>
@@ -2462,7 +2462,7 @@ Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
         <title>Opening</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
@@ -2487,7 +2487,7 @@ Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/AKSLWC/</url>
         <title>Intro to Show-Laz0rs hacken</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Talk über Showlaser: Wie funktionieren die Dinger, mit was für Daten werden die angesteuert, mit welchen Programmen geht das, und etwas Demo mit der nodebasierten Programmierumgebung TouchDesigner.</abstract>
@@ -2512,7 +2512,7 @@ Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/</url>
         <title>Mach dein Softwareprojekt nutzbar für andere!</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Damit andere deinen Code ausführen, verstehen und vielleicht sogar erweitern können, braucht es nicht viel. Ein bisschen aufräumen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was gehört eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? &#13;
@@ -2540,7 +2540,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/TAXSNM/</url>
         <title>Showlaser Workshop for Beginners</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Lecker Laser!&#13;
@@ -2566,7 +2566,7 @@ Bunte Bilder mit Licht in die Luft malen. Laser und Ansteuerungssoftware sind vo
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/XCWRPJ/</url>
         <title>Cyborgs, Cochlear Implantate und Fledermausis</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Lagerfeuervortrag</type>
         <language>de</language>
         <abstract>Krek erzählt von der Forschung im Rahmen seiner Masterarbeit. Kernthema ist Sinneserweiterung durch Technik. Anhand des dabei entwickelten Prototypen wird erklärt, wie man ein Cochlear Implantat (oder ein akustisches Ohr) so erweitert, dass man Ultraschall damit wahrnehmen kann, um zum Beispiel Fledermausis zu hören.&#13;
@@ -2592,7 +2592,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RDJX9Y/</url>
         <title>Film: "Alles ist eins. Außer der 0."</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Sonstiges (120)</type>
         <language>de</language>
         <abstract>Erzählt wird die Geschichte des legendären Chaos Computer Club (CCC) und seiner Gründerseele Wau Holland (Dr. Wau). Vom Computer-Nerd zum Datenkünstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die großen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.</abstract>
@@ -2617,7 +2617,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/M3XFAT/</url>
         <title>nähmaschinenderby</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>3 Tage einfache Schnittmuster &amp;  ulkige Schneider:innen Spaß teilen&#13;
@@ -2647,7 +2647,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/MCTGAE/</url>
         <title>Bastelstube Tag 2</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Nähen, sticken, stricken, Hüte basteln und Siebdruck.</abstract>
@@ -2840,7 +2840,7 @@ It then breaks down roughly like this:&#13;
         <duration>1:00</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>Other</type>
         <slug>jev22-1002-schafkopf_lernen</slug>
       </event>
@@ -4111,7 +4111,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
         <title>Überwacht mehr Insekten!</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Entomolog:innen sind eine aussterbende Spezies mit einem krassen Fähigkeitspektrum. Die zurückgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur für die Tierchen selber, sondern letztendlich auch für uns und die uns umgebenden Ökosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.</abstract>
@@ -4136,7 +4136,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
         <title>The state of the state - die wichtigsten Themen der digitalen Verwaltung</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Verwaltungsdigitalisierung is trodding on.</abstract>
@@ -4161,7 +4161,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
         <title>Iridium reverse engineering: News seit 2016</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.</abstract>
@@ -4190,7 +4190,7 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/VMUVNM/</url>
         <title>Massage Workshop</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Du wolltest schon immer mal wissen, wie du massieren kannst, ohne großen Schaden anzurichten und das es auch noch gut tut ? &#13;
@@ -4217,7 +4217,7 @@ Ein paar Grundlagen und ein paar schöne Handgriffe zum mitnehmen quasi !</descr
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YM8TTV/</url>
         <title>Impro-Experiment-Dingsi</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Lagerfeuervortrag</type>
         <language>de</language>
         <abstract>Mit dem Input des Publikums möchte ich mich gerne das erste Mal an so etwas wie Impro-Theater versuchen. Ihr gebt Stichwörter, und später vielleicht noch andere Regeln, vor und ich spinne daraus jeweils eine Geschichte. Wenn sich Personen aus dem Publikum inspiriert fühlen mitzuspinnen, geht das auch. Wir improvisieren da schon was.</abstract>
@@ -4245,7 +4245,7 @@ Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leb
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/T8TZ7L/</url>
         <title>Bastelstube Tag 3</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Nähen, sticken, stricken, Hüte basteln und Siebdruck.</abstract>
@@ -4445,7 +4445,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <duration>0:30</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>(Vortrag)</type>
         <slug>jev22-1000-it_sicherheit_ist_kein_waschmittel</slug>
       </event>
@@ -4459,7 +4459,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <duration>0:30</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>Other</type>
         <slug>jev22-1003-was_ist_fragdenstaat_de</slug>
       </event>
@@ -4473,23 +4473,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <duration>7:00</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>(Workshop)</type>
         <slug>jev22-1004-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
-      </event>
-      <event guid="bd75d959-dad1-43b4-81fb-33dfb43c10ec" id="1006">
-        <title>Lötworkshop mit Lötchallenge</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>6:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track/>
-        <type>(Workshop)</type>
-        <slug>jev22-1006-loetworkshop_mit_loetchallenge</slug>
       </event>
       <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="1008">
         <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
@@ -4501,7 +4487,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <duration>0:30</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>(Vortrag)</type>
         <slug>jev22-1008-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
       </event>
@@ -4515,7 +4501,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <duration>0:30</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>(auch auf dem Rücken)? (Vortrag)</type>
         <slug>jev22-1009-warum_fliegt_ein_flugzeug</slug>
       </event>
@@ -5270,7 +5256,7 @@ Premiere&#13;
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
         <title>Kolonialismus in europäischen Museen - was hat das mit Deutschland zu tun? Eine kleine Einführung</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Die Veranstaltung wird eine kleine Einführung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.</abstract>
@@ -5295,7 +5281,7 @@ Premiere&#13;
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YEKWDD/</url>
         <title>Misinfo Hacks - Desinformationskampagnen auf der Spur</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Der Vortrag gibt einen Überblick über Methoden der Informationswissenschaft zur Erkennung von Fehlinformation. Phänomene wie Echokammern und die soziopolitischen Auswirkungen werden untersucht und diskutiert. Systembasierte Ansätze sind in der Lage, Fehlinformationen, ihre Urheber und Plattformschwachstellen zu erkennen.</abstract>
@@ -5326,7 +5312,7 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/</url>
         <title>Hack &amp;&amp; Tell</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Sonstiges (60)</type>
         <language>de</language>
         <abstract>Hier habt ihr die Möglichkeit eure Hacks und Projekte im Rahmen einer Fünfminutenpräsentation der Community vorzustellen. &#13;
@@ -5359,7 +5345,7 @@ I will wander around the event and ask you about your project. If you are intere
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/PSM9WA/</url>
         <title>Bastelstube Tag 4</title>
         <subtitle/>
-        <track/>
+        <track>Hellarious</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>Nähen, sticken, stricken, Hüte basteln und Siebdruck.</abstract>
@@ -5492,7 +5478,7 @@ You can also spectate the event on PeerTube.</description>
         <duration>1:00</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>(Votrag)</type>
         <slug>jev22-1001-securing_unsafe_rust_with_xrust</slug>
       </event>
@@ -5506,7 +5492,7 @@ You can also spectate the event on PeerTube.</description>
         <duration>0:30</duration>
         <room>ChilyConChaos</room>
         <persons/>
-        <track/>
+        <track>Gießen/Wetzlar</track>
         <type>Other</type>
         <slug>jev22-1005-all_about_digitalcourage</slug>
       </event>

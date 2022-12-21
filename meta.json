@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-21 19:50; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 19:50; Winterchaos 0.1",
+    "version": "2022-12-21 21:54; FireShonks 0.16; Hacking in Parallel 0.4; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 21:54; Winterchaos 0.1",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -32,7 +32,7 @@
       {
         "url": "https://pretalx.c3voc.de/hip-berlin-2022",
         "name": "Hacking in Parallel",
-        "location": "Berlin, c-base",
+        "location": "Berlin, ETI Schauspielschule + c-base",
         "links": [
           "https://wiki.hip-berlin.de/"
         ],
@@ -80,14 +80,6 @@
           }
         },
         "rooms": null
-      },
-      {
-        "url": "TBD",
-        "name": "dezentrale Chaos-Culture",
-        "location": "Bielefeld, Digitalcourage",
-        "links": [
-          "https://digitalcourage.de/"
-        ]
       },
       {
         "url": "https://pretalx.c3voc.de/hacking-in-hell-2022",
@@ -142,41 +134,6 @@
         "rooms": null
       },
       {
-        "url": "TBD",
-        "name": "localverse2022",
-        "location": "Leipzig",
-        "links": [
-          "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation/",
-          "https://matrix.to/#/#localverse2022:chat.dezentrale.space"
-        ]
-      },
-      {
-        "url": "https://forum.freiraeumen.jetzt/freiraumforum",
-        "name": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
-        "location": "M\u00fcnchen",
-        "links": [
-          "https://events.ccc.de/2022/11/18/ff22-cfp/"
-        ],
-        "meta": {
-          "name": {
-            "de": "Forum f\u00fcr Freiraum - Gib Uns Mehr!",
-            "en": "Forum for free spaces - Give Us More!"
-          },
-          "slug": "freiraumforum",
-          "is_public": true,
-          "date_from": "2022-12-26",
-          "date_to": "2022-12-31",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://forum.freiraeumen.jetzt/freiraumforum/",
-            "schedule": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/",
-            "login": "https://forum.freiraeumen.jetzt/freiraumforum/login/",
-            "feed": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/feed.xml"
-          }
-        },
-        "rooms": null
-      },
-      {
         "url": "webcals://ramac.mudbyte.de/remote.php/dav/public-calendars/YTtwyZcXsmZDfSoo/?export",
         "name": "ChilyConChaos",
         "location": "Gie\u00dfen/Wetzlar",
@@ -226,6 +183,32 @@
         ]
       },
       {
+        "url": "https://forum.freiraeumen.jetzt/freiraumforum",
+        "name": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
+        "location": "M\u00fcnchen",
+        "links": [
+          "https://events.ccc.de/2022/11/18/ff22-cfp/"
+        ],
+        "meta": {
+          "name": {
+            "de": "Forum f\u00fcr Freiraum - Gib Uns Mehr!",
+            "en": "Forum for free spaces - Give Us More!"
+          },
+          "slug": "freiraumforum",
+          "is_public": true,
+          "date_from": "2022-12-26",
+          "date_to": "2022-12-31",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://forum.freiraeumen.jetzt/freiraumforum/",
+            "schedule": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/",
+            "login": "https://forum.freiraeumen.jetzt/freiraumforum/login/",
+            "feed": "https://forum.freiraeumen.jetzt/freiraumforum/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
         "url": "https://pretalx.hackwerk.fun/jev-2022",
         "name": "End-of-Year event",
         "location": "Aalen, Hackwerk",
@@ -252,6 +235,15 @@
           }
         },
         "rooms": null
+      },
+      {
+        "url": "TBD",
+        "name": "localverse2022",
+        "location": "Leipzig",
+        "links": [
+          "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation/",
+          "https://matrix.to/#/#localverse2022:chat.dezentrale.space"
+        ]
       }
     ],
     "rooms": [
