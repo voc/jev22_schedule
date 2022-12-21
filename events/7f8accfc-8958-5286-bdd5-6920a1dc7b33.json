@@ -16,7 +16,7 @@
   "abstract": "Haecksenfr\u00fchst\u00fcck f\u00fcr interessierte FINTA-Personen",
   "description": "-",
   "recording_license": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "persons": [
     {
       "id": 43,

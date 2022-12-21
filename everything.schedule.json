@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-21 23:10; FireShonks 0.18; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:10; Winterchaos 0.1",
+    "version": "2022-12-21 23:50; FireShonks 0.19; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:50; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1680,7 +1680,7 @@
                 "abstract": "Haecksenfr\u00fchst\u00fcck f\u00fcr interessierte FINTA-Personen",
                 "description": "-",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 43,
@@ -1763,7 +1763,7 @@
                 "abstract": "Lerne Haecksen kennen!",
                 "description": "Bei 570 Haecksen kennst du sicherlich noch nicht alle. Komm vorbei, lerne in Kleingruppen Haecksen kennen und wer wei\u00df, vielleicht findest du Gleichgesinnte f\u00fcr eine n\u00e4chste Aktivit\u00e4t.\r\n\r\nDieser Workshop ist nur f\u00fcr Haecksen!\r\n\r\n(Gruppe teilen auf 15 Personen jeweils, davon nochmal 3er Gruppen bauen, in den Triplets Selbstvorstellung, in der 15er Gruppe Vorstellung durch eine andere Haeckse.)",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 43,

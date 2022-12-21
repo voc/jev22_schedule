@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 23:10; FireShonks 0.18; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:10; Winterchaos 0.1</version>
+  <version>2022-12-21 23:50; FireShonks 0.19; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:50; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1419,7 +1419,7 @@ Für die, die mitmachen möchten, benötigtes Material: &#13;
         <description>-</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="43">C_ristina</person>
@@ -1483,7 +1483,7 @@ Dieser Workshop ist nur für Haecksen!&#13;
 (Gruppe teilen auf 15 Personen jeweils, davon nochmal 3er Gruppen bauen, in den Triplets Selbstvorstellung, in der 15er Gruppe Vorstellung durch eine andere Haeckse.)</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="43">C_ristina</person>
