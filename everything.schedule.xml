@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 21:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
+  <version>2022-12-22 22:30; FireShonks 0.20; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 22:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -982,7 +982,7 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <subtitle/>
         <track/>
         <type>Talk</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>The first version of “Smittestopp”, the Norwegian Institute&#13;
 of Public Health’s (NIPH) contact tracing application, centrally stored&#13;
 data about the population’s contact patterns with reference to a static&#13;
@@ -5511,7 +5511,7 @@ Links to the project:&#13;
         <subtitle/>
         <track/>
         <type>Talk</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>The energy consumption of computer systems are of increasing interest. But it is easy to shoot yourself in the foot while measuring your software. In this talk you will learn about different ways of assessing your software's energy demand, basic mistakes in measurements and how to avoid them.</abstract>
         <description/>
         <recording>
@@ -5561,7 +5561,7 @@ Links to the project:&#13;
         <subtitle/>
         <track/>
         <type>Talk</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.</abstract>
         <description>2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.&#13;
 &#13;
