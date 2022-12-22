@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 15:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:10; Winterchaos 0.1</version>
+  <version>2022-12-22 15:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:30; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -398,18 +398,18 @@ With average run times of machines and their software of 15-20 years the consequ
         <attachments/>
       </event>
       <event id="49294" guid="b70826bf-35f0-570d-9e0e-1b9c044daf4e">
-        <logo/>
+        <logo>/media/hip-berlin-2022/submissions/V7UFTL/ohai_cpuGJwE.jpeg</logo>
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Theater Hall E.T.I.</room>
-        <slug>jev22-49294-tba</slug>
+        <slug>jev22-49294-hide_and_seek_ueber_die_biometrie_datenbank_des_us_militaers</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/</url>
-        <title>tba</title>
+        <title>Hide and seek ‒ über die Biometrie-Datenbank des US-Militärs</title>
         <subtitle/>
         <track>E.T.I.</track>
         <type>Talk</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>tba</abstract>
         <description>tba</description>
         <recording>
