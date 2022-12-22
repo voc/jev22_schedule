@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 16:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 16:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
+  <version>2022-12-22 17:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 17:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1689,9 +1689,9 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>08:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9053-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <slug>jev22-9053-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
         <track/>
         <type>Stand</type>
@@ -1717,9 +1717,9 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-7867-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <slug>jev22-7867-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
         <track/>
         <type>Stand</type>
@@ -4409,9 +4409,9 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <start>14:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8632-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <slug>jev22-8632-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
         <track/>
         <type>Stand</type>
@@ -6776,9 +6776,9 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <start>14:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-4122-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <slug>jev22-4122-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
         <track/>
         <type>Stand</type>
@@ -8396,9 +8396,9 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9100-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <slug>jev22-9100-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
         <track/>
         <type>Stand</type>
