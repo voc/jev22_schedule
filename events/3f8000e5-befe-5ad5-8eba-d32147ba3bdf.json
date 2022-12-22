@@ -1,0 +1,33 @@
+{
+  "id": 3800,
+  "guid": "3f8000e5-befe-5ad5-8eba-d32147ba3bdf",
+  "logo": "",
+  "date": "2022-12-30T16:20:00+01:00",
+  "start": "16:20",
+  "duration": "00:08",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/",
+  "title": "Cheers to 10 years! - 10 Jahre G\u00e4ngeviertel",
+  "subtitle": "",
+  "track": null,
+  "type": "Film",
+  "language": "de",
+  "abstract": "10 Jahre G\u00e4ngeviertel - Zum zehnj\u00e4hrigen Bestehen hat sich das G\u00e4ngeviertel mal einen fantastischen Film geg\u00f6nnt. Vielen Dank an Jana, Carsten, Lion und die Crew vom Kino-Kabaret f\u00fcr diese Produktion!\r\nKomm in die G\u00e4nge! Cheers to 10 years!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 145,
+      "code": "EWTBXE",
+      "public_name": "Dion",
+      "biography": "Mein Name ist Dion und ich bin Programmleitung im G\u00e4ngeviertel.\r\nKurzfilm: CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

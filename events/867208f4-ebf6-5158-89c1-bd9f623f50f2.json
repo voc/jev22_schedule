@@ -1,0 +1,33 @@
+{
+  "id": 8672,
+  "guid": "867208f4-ebf6-5158-89c1-bd9f623f50f2",
+  "logo": "",
+  "date": "2022-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-8672-kritische_maennlichkeit",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/",
+  "title": "Kritische M\u00e4nnlichkeit",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Wie beeinflussen patriarchale Vorstellungen von M\u00e4nnlichkeit unser Zusammenleben, und wie k\u00f6nnen wir im Austausch zwischen allen Geschlechtern neue Praktiken entwickeln?",
+  "description": "Wann wird von wem \"M\u00e4nnlichkeit\" erwartet? Was bedeutet das \u00fcberhaupt? Wie wirkt sich das auf unser Miteinander aus, und welche Probleme kann das bereiten? Mit welchen zwischenmenschlichen Praktiken k\u00f6nnen wir diesen entgegenwirken, und wie k\u00f6nnen wir uns diese aneignen?\r\n\r\nZiel des Workshops ist es, sich diesen Fragen durch zug\u00e4ngliche und strukturierte Diskussion und praktische \u00dcbungen zu \u00f6ffnen, und gemeinsam konkrete Handlungsoptionen zu entwickeln.\r\n\r\nDer Workshop ist explizit f\u00fcr alle Menschen unabh\u00e4ngig von ihrer Geschlechtsidentit\u00e4t angelegt.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 38,
+      "code": "XP7KZZ",
+      "public_name": "Martin Barner",
+      "biography": "Martin ist Coautor des Buches \"Tools for Men-with-Feminist-Ambitions\" (sabotage L.A. publishing). Er setzt sich in engem Austausch mit anderen damit auseinander, wie \"kritische M\u00e4nnlichkeit\" in konrekten zwischenmenschlichen Praktiken umgesetzt werden kann.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

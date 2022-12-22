@@ -1,0 +1,33 @@
+{
+  "id": 497,
+  "guid": "0ec497a0-547c-537c-9229-9b0ae01b7df6",
+  "logo": "",
+  "date": "2022-12-30T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:00",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-497-allesandersplatz",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/",
+  "title": "Allesandersplatz",
+  "subtitle": "",
+  "track": null,
+  "type": "Film",
+  "language": "de",
+  "abstract": "50.000 Quadratmeter Leerstand mitten in Berlin? Ein Film \u00fcber das Haus der Statistik am Alexanderplatz.",
+  "description": "Urbanisierung, Beton, Stein, verschwindendes Gr\u00fcn. Am zentralsten Punkt Berlins \u2013 am Alexanderplatz \u2013 steht das Haus der Statistik, das in den letzten 12 Jahren langsam zur Ruine verk\u00fcmmerte. In einer Protestaktion besetzen K\u00fcnstler*innen das Haus, in dem in der DDR die amtlichen Statistiken gemacht wurden. Langsam erwacht das Geb\u00e4ude aus dem Dornr\u00f6schenschlaf. Stadtverwaltung, Planer*innen, Kreative und Zivilgesellschaft tun sich zusammen, um Raum f\u00fcr Kunst, Kultur und Soziales zu schaffen. ALLESANDERSPLATZ begleitet den Prozess der Transformation dieses Ortes, der durch Pionier*innennutzungen versucht, ein alternatives, gemeinwohlorientiertes Konzept von Stadt zu entwickeln.\r\nGelingt es dem Allesandersplatz ein Vorbild f\u00fcr eine nachhaltige und diverse Zukunft der Stadt zu sein? Ein Ort, an dem alles anders ist?\r\nMehr Infos: https://www.allesandersplatz.berlin/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 147,
+      "code": "REUMEM",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
