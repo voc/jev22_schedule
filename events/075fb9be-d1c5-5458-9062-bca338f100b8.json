@@ -1,0 +1,33 @@
+{
+  "id": 759,
+  "guid": "075fb9be-d1c5-5458-9062-bca338f100b8",
+  "logo": "",
+  "date": "2022-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "01:30",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
+  "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)",
+  "subtitle": "",
+  "track": null,
+  "type": "Diskussion",
+  "language": "de",
+  "abstract": "Michael Hirsch: \u201eK \u2013 Kulturarbeit\u201c (Verlag.: Textem). Arbeit an der Kunst, Berufung statt Beruf?",
+  "description": "Hirsch pl\u00e4diert f\u00fcr das Anerkennen pluraler Arbeitsidentit\u00e4ten und ein Loslassen des Traums von der Festanstellung. Ein Abgesang auf die K\u00fcnstler:in als Genie und eine Verteidigung der konkreten Utopie des `wahren` Lebens.\r\nBuchpr\u00e4sentation, Vortrag und Diskussion von Dr. Michael Hirsch, Privatdozent f\u00fcr Politische Theorie und Ideengeschichte an der Uni Siegen und freier Autor, mit anschl. Diskussion \r\nhttps://www.michael-hirsch-archiv.de/\r\n\r\nModeration: Peter Arun Pfaff",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 139,
+      "code": "UMSJZX",
+      "public_name": "Peter Arun Pfaff",
+      "biography": "CV von Hirsch und Pfaff folgen",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

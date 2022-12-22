@@ -1,0 +1,40 @@
+{
+  "id": 8477,
+  "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
+  "logo": "",
+  "date": "2022-12-27T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:00",
+  "room": "Workshopraum 4 - H2-4.4",
+  "slug": "jev22-8477-aktionstraining",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
+  "title": "Aktionstraining",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Wir werden einige Beispiele zur Konfrontation mit Polizei, Beh\u00f6rden und politischen Gegnern besprechen und kurze praktische \u00dcbungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.",
+  "description": "Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 140,
+      "code": "BKX7AN",
+      "public_name": "Jonas",
+      "biography": "Ich bin seit mehreren Jahren aktiv in der Klimagerechtigkeitsbewegung und beteilige mich an Antifaaktionen. Derzeit konzentriere ich mich auf die st\u00e4rkung einer migrantischen Organisierung.",
+      "answers": []
+    },
+    {
+      "id": 9,
+      "code": "QKWW8T",
+      "public_name": "Emmi",
+      "biography": "Ich freu mich auf den Workshop!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

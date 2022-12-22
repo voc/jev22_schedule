@@ -1,0 +1,33 @@
+{
+  "id": 8601,
+  "guid": "b860bce1-5212-5627-b343-14c54314b856",
+  "logo": "",
+  "date": "2022-12-28T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "03:00",
+  "room": "Workshopraum 2 - H2-3.4",
+  "slug": "jev22-8601-organizing_moderation_kommunikation",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QQ8YLD/",
+  "title": "Organizing, Moderation & Kommunikation",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "In unserem Workshop geht\u00b4s um die Themen Transformative Organizing, Moderation und Kommunikation.",
+  "description": "In dem Workshop betrachten wir den theoretischen Ansatz aber auch praktische Methoden des \"Transformative Organizing\". Zudem tauschen wir uns in diesem Zusammenhang mit euch \u00fcber das Thema machtsensible \"Entscheidungsprozesse\" in Gruppen aus und besprechen, wie man gute Treffen organisiert und moderiert.\r\n\r\n\r\nRonia (DieAktion! Jugendbeteiligung M\u00fcnchen)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 12,
+      "code": "CX8GFA",
+      "public_name": "Ronia (Die Aktion)",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

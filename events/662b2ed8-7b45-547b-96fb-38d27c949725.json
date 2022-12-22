@@ -1,0 +1,33 @@
+{
+  "id": 6622,
+  "guid": "662b2ed8-7b45-547b-96fb-38d27c949725",
+  "logo": "",
+  "date": "2022-12-28T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "03:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/",
+  "title": "Lithotron - ein transdisziplin\u00e4res Klang-Workshop + Group-Performance",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplin\u00e4res Musik Workshop mit Kunst und Technik.\r\nTeil des Echokammer Takeovers.",
+  "description": "\"Lithotron\" sind Serpentinsteine im eigenen Dialog mit produzierten Zuspielungen elektronisch verfremdeter Schiefergranitplatten und Synthesizer.\r\nLive gespielte Patterns bestehend aus einer Reihung von zufa\u0308lligen To\u0308nen und Spaltkla\u0308ngen. Freie Tonfolgen mit authentischer Harmonie der Steine verzahnen sich mit der Zuspielung.\r\nDie Zuspielung ist eine Fortsetzung der beweglichen Klangskulptur \u201eSerpente Lithophonie\u201c, die eine elektronische Verwandlung erfa\u0308hrt und nun die Lautsprecher bedient.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 154,
+      "code": "QXSFUN",
+      "public_name": "Zoro Babel und Manuela Rzytki",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

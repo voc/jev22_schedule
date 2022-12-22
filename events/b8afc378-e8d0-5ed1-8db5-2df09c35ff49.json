@@ -1,0 +1,40 @@
+{
+  "id": 8378,
+  "guid": "b8afc378-e8d0-5ed1-8db5-2df09c35ff49",
+  "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
+  "date": "2022-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "10:00",
+  "room": "Austellungsraum 2 - H2-2.4",
+  "slug": "jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
+  "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
+  "subtitle": "",
+  "track": null,
+  "type": "Ausstellung",
+  "language": "de",
+  "abstract": "{Evros} \"Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.\u201c\r\n+ Ausstellung zum Thema Ankerzentren und einige Aufsteller rund um Abschiebehaft",
+  "description": "Evros, griechisch-t\u00fcrkische Grenze, Milit\u00e4rgebiet, Sch\u00fcsse und ein T\u00e4nzer. \r\nTanzen, da wo es m\u00f6glich ist zu filmen. In den Bergen an der Grenze, bis man hier gefunden wird, dauert es l\u00e4nger, die \u00dcberwachung ist nicht so engschichtig. Der T\u00e4nzer ist Ayinde. Selbst diese Grenze \u00fcberquert, damals gefunden vom Milit\u00e4r, wurde er ins Krankenhaus gebracht, Lebensgefahr. Jetzt, 11 Jahre sp\u00e4ter, das erste Mal wieder hier. Tanzend.\r\nKopfh\u00f6rer auf, kein Ger\u00e4usch von au\u00dfen soll rein. Tanzen auf dem Berg, im Feld und am Meer. Tanzen mit einer Mischung aus Leid und Stolz. Tanzen aus Frust und tanzen aus Erfolg. Tanzen f\u00fcr sich selbst und tanzen f\u00fcr alle, die nicht mehr tanzen k\u00f6nnen. \r\nTanzen, Schwei\u00df, Musik, Sch\u00fcsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 179,
+      "code": "DLHYQF",
+      "public_name": "Christian Oppl {Abschiebehaft in M\u00fcnchen und Bayern}",
+      "biography": "Christian Oppl ist Sozialp\u00e4dagoge und arbeitet bei der Fachstelle Asyl des M\u00fcnchner Fl\u00fcchtlingsrats. Er ist bei der Karawane M\u00fcnchen aktiv f\u00fcr gleiche Rechte f\u00fcr alle Menschen.",
+      "answers": []
+    },
+    {
+      "id": 94,
+      "code": "TQY9R8",
+      "public_name": "lislesso {Evros}",
+      "biography": "\"Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.\"",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

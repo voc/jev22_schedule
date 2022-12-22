@@ -1,0 +1,33 @@
+{
+  "id": 4766,
+  "guid": "4f766cdd-0db2-51c2-9479-9ba551617527",
+  "logo": "",
+  "date": "2022-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "Ruheraum - H1-2.1",
+  "slug": "jev22-4766-die_kunst_des_verschwindens",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/",
+  "title": "Die Kunst des Verschwindens",
+  "subtitle": "",
+  "track": null,
+  "type": "Concert",
+  "language": "de",
+  "abstract": "Sakral improvisierte Eintonmusik",
+  "description": "Entschleunigte Meditationsmusik im Kontext stabiler Instabilit\u00e4ten.\r\nSelbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.\r\nTiefenentspannung pur!",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 74,
+      "code": "A9P97E",
+      "public_name": "hwmueller",
+      "biography": "Musiker",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

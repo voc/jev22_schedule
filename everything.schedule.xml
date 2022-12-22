@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 15:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:30; Winterchaos 0.1</version>
+  <version>2022-12-22 16:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 16:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1096,6 +1096,678 @@ anonymised.</abstract>
       </event>
     </room>
     <room name="Winterchaos"/>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+        <logo/>
+        <date>2022-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
+        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Viola und Ich halten einen Vortrag, in dem wir die Zuhörenden anstiften unliebsame Zäune und andere Hindernisse in ihrer Umgebung zu überwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualität steigert.</abstract>
+        <description>Unser Anliegen besteht darin eine Aufmerksamkeit für die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern können. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir überzeugt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">François</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+        <logo/>
+        <date>2022-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:50</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
+        <title>Raum für die schöne Welt</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In diesem Vortrag möchte Tobias Budesheim Vorstandmitglied von Students for Ukraine Raum geben für die schöne Welt. Er präsentiert Hoffnungsbilder in einer Zeit in der es scheint, als ob die Welt aus den Fugen gerät. Was sind meine Freiheitsräume? Wo ist die Welt noch schön?</abstract>
+        <description>Wer ist wirklich frei? Ein Raum ist nur so groß, wie wir ihn uns erschaffen. Das gilt auch für unsere Gedanken. Wir füllen einen Raum mit Menschen, Möbeln, Bildern und Erinnerungen. Das gilt auch für das Menschliche Gehirn. Wann aber ist der Raum den wir erschaffen bedroht? Diese Frage stellten sich schon viele Autoren, Ökonomen, Wissenschaftler, Politiker und sogar Menschen in der Steinzeit. Was sind unsere Abwehrhandlungen? Wie gehen wir damit um? Und wie können wir mit unsere vielen sogenannten "Bias" umgehen? Schaffen wir es neue Räume zu gestalten? Oder bleiben wir in unseren alten Räume?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="123">Tobias Budesheim</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="759" guid="075fb9be-d1c5-5458-9062-bca338f100b8">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
+        <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)</title>
+        <subtitle/>
+        <track/>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Michael Hirsch: „K – Kulturarbeit“ (Verlag.: Textem). Arbeit an der Kunst, Berufung statt Beruf?</abstract>
+        <description>Hirsch plädiert für das Anerkennen pluraler Arbeitsidentitäten und ein Loslassen des Traums von der Festanstellung. Ein Abgesang auf die Künstler:in als Genie und eine Verteidigung der konkreten Utopie des `wahren` Lebens.&#13;
+Buchpräsentation, Vortrag und Diskussion von Dr. Michael Hirsch, Privatdozent für Politische Theorie und Ideengeschichte an der Uni Siegen und freier Autor, mit anschl. Diskussion &#13;
+https://www.michael-hirsch-archiv.de/&#13;
+&#13;
+Moderation: Peter Arun Pfaff</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter Arun Pfaff</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="6634" guid="f6634d3c-8085-54e2-8ace-e2d5f8601a7d">
+        <logo/>
+        <date>2022-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:20</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-6634-design_clubcult_dance</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/</url>
+        <title>Design Clubcult - Dance!</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>en</language>
+        <abstract>{Design Clubcult - Dance!} A short experimental documentary about the revolutionary potential of dance and clubculture.</abstract>
+        <description>{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="166">Emma Mann</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 1 - H2-2.5">
+      <event id="9351" guid="93e518fb-000b-5c0e-8325-27f0435ef007">
+        <logo/>
+        <date>2022-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-9351-mehr_inklusion_im_nachtleben</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/LTTQ9U/</url>
+        <title>Mehr Inklusion im Nachtleben</title>
+        <subtitle/>
+        <track/>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Eine Diskussionsrunde über Möglichkeiten für mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Veranstaltungskontext.</abstract>
+        <description>Um mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Rahmen von Veranstaltungen und im Nachtleben zu schaffen, bedarf es eines aktiven Austausches von Erfahrungen und Ideen um kollektiv für mehr Möglichkeiten zu sorgen. Die Diskussion soll dazu anregen, Hindernisse im Veranstaltungskontext wahrzunehmen und zu vermindern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="175">Palina Lanskaja</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 2 - H2-3.4">
+      <event id="3182" guid="3c1e82ad-29e2-5d9a-a5dd-5b8b48360fc1">
+        <logo/>
+        <date>2022-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-3182-der_elefant_im_verkehrs_raum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XCE7FP/</url>
+        <title>Der Elefant im Verkehrs-Raum: Warum wir über Autos reden müssen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Kein Verkehrsmittel schluckt so viel Fläche wie das Auto. Trotzdem ist Autoreduktion ein Tabuthema. Noch. Lasst uns darüber sprechen, wie eine Stadt aussieht, in der Autos höchstens als Statisten auftreten! Und lasst uns gemeinsam überlegen, was wir dafür tun können.</abstract>
+        <description>Das Auto ist der „Elefant im Verkehrs-Raum“. Es wird zwar schon viel über “Alternativen” geredet, aber noch viel zu wenig über das Problem “Auto” selbst. Wir wollen den Elefanten benennen, weil er die Ursache dafür ist, dass die beschlossene Mobilitätswende auf sich warten lässt.&#13;
+Dafür drehen wir mit euch eine imaginäre Runde durch München. Wir schauen uns an, wie das Auto den öffentlichen Raum dominiert und welche Folgen das für die Stadtgesellschaft hat. Dabei sehen wir über den Verkehrs-Tellerrand hinaus und fragen uns, was das für die Menschen bedeutet, die in München wohnen und mobil sein wollen. Wer kann öffentlichen (Verkehrs-)Raum nutzen? Wer verursacht welche Kosten mit seiner*ihrer Mobilität? Wer muss sie tragen?&#13;
+Danach bauen wir die Stadt neu. Wie viel Raum wird frei, wenn Autoverkehr nur eine Nebenrolle für notwendige Wege spielt? Was können wir mit dem immensen Flächengewinn anstellen? Wie können wir die Fläche besser nutzen? Wie können wir anders mobil sein? Und was hat es für Vorteile?&#13;
+Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in München für eine aktive Reduktion des Autoverkehrs einsetzen können.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="103">Katharina Mayer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 3 - H2-3.6">
+      <event id="5216" guid="eb52d160-76ce-5623-a02d-34ff077e5df1">
+        <logo>/media/freiraumforum/submissions/KT8Z37/4B21C585-4606-4EF5-9FE6-DC7A7A84ECF2_I5gNq4w.jpeg</logo>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-5216-experimentelle_fotografie</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KT8Z37/</url>
+        <title>Experimentelle Fotografie</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Theoretisches Wissen über experimentelle Fotografie, sowie praktisches Ausprobieren von verschieden Effekten und Elementen.</abstract>
+        <description>Allgemeines theoretisches Wissen über Fotografie und Ausprobieren von verschiedenen Elementen wie Folien, Langzeitbelichtung, Verzerrung durch zB Glas, oder Weitwinkel. Wie können bestimmte Effekte erlangt und richtig eingesetzt werden. Hierbei geht es auch um Teamwork und Ideenaustausch. Gerne Kamera mitbringen, aber Handykamera geht auch.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">Chiara</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7246" guid="cdca7b2c-463d-502d-8c8d-ee913ce6cedb">
+        <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
+        <date>2022-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-7246-anti_rassismus_critical_whiteness</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
+        <title>Anti-Rassismus &amp; Critical Whiteness</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>In diesem Workshop erlernt ihr eine Grund-Sensibilisierung über die Themen Anti-Rassismus, Diskriminierung und Kritisches Weißsein.</abstract>
+        <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="44">Waseem</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 4 - H2-4.4">
+      <event id="8477" guid="84d7733c-9fde-5629-9d5a-979046e821ea">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-8477-aktionstraining</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
+        <title>Aktionstraining</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
+        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="140">Jonas</person>
+          <person id="9">Emmi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5372" guid="5fd3f721-49d1-5342-b79f-ff67e9439d3f">
+        <logo/>
+        <date>2022-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-5372-scheiterhaufen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/33TDEK/</url>
+        <title>Scheiterhaufen</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>Rauhnächte-Ritual mit Räucherung &amp; Offener Austausch rund um glorreiches Scheitern und emanzipatorische Fehlerkultur</abstract>
+        <description>Herzlich willkommen liebe Hexen, Elfen und Feen, Seher*innen, Heiler*innen, Kobolde und Gnome, Lichtgestalten, Geister, Vampire, Untote und Wiedergeborene, liebe bisher ungenannten Wesen &#13;
+und übersinnlich Begabten, liebe Menschen.&#13;
+&#13;
+In den Rauhnächten steht das Tor zwischen den Welten weiter offen als sonst und lässt uns näher an unseren Ahnen sein. Wir wollen im gemeinsamen Austausch aus unseren und den Fehlern unserer Vorfahr*innen lernen statt sie zu verurteilen, um mit hilfreichen Lehren und neuem Mut in einen neuen Jahreskreis einzutreten.&#13;
+Mit dieser Feuer-Zeremonie verbrennen wir die Dinge, die wir hinter uns lassen möchten. Wir sehen, reflektieren, verstehen, lassen los und Veränderungen zu</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="2">P-T2</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Klangkeller - H1-U.1">
+      <event id="7822" guid="78227529-e5dd-5541-90f7-5408e2d0e69f">
+        <logo/>
+        <date>2022-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>02:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-7822-tontechnik_basic_workshop_schaufel_besen_und_zombie_sessions_takeover</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PHFQV9/</url>
+        <title>Tontechnik Basic Workshop - Schaufel &amp; Besen und Zombie Sessions Takeover</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Tontechnik Basic Workshop! Mehr Infos folgen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Schaufel &amp; Besen und Zombie Sessions</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5413" guid="5413a45e-6875-5817-9230-fe49a2cf2f95">
+        <logo/>
+        <date>2022-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>03:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-5413-schaufel_besen_und_zombie_sessions_takeover</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/UPP7XB/</url>
+        <title>Schaufel &amp; Besen und Zombie Sessions Takeover: LIVE</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>Es spielen: El Búbú, G.rag / zelig implosion deluxxe, Uschi und Frühstück im Bett!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="155">Schaufel &amp; Besen und Zombie Sessions</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ruheraum - H1-2.1">
+      <event id="4766" guid="4f766cdd-0db2-51c2-9479-9ba551617527">
+        <logo/>
+        <date>2022-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Ruheraum - H1-2.1</room>
+        <slug>jev22-4766-die_kunst_des_verschwindens</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
+        <title>Die Kunst des Verschwindens</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>Sakral improvisierte Eintonmusik</abstract>
+        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
+Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
+Tiefenentspannung pur!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">hwmueller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="107" guid="01c0704a-c326-5634-9789-5ed0b38e8200">
+        <logo/>
+        <date>2022-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Ruheraum - H1-2.1</room>
+        <slug>jev22-107-die_kunst_des_verschwindens</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
+        <title>Die Kunst des Verschwindens</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>Sakral improvisierte Eintonmusik</abstract>
+        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
+Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
+Tiefenentspannung pur!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">hwmueller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 1 - H2-1.3">
+      <event id="4522" guid="45d2a231-7753-5139-90b5-45bc6da3f3cd">
+        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 1 - H2-1.3</room>
+        <slug>jev22-4522-dazwischen_mischen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/</url>
+        <title>Dazwischen Mischen</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Wir, Lucie und Paula würden gerne Arbeiten von uns gemeinsam im Forum für Freiraum ausstellen. Wir würden unsere Arbeiten gerne installativ inszenieren, also auch in den Raum gehen. Unsere Arbeiten umfassen hauptsächlich Drucke von digitalen sowie analogen Bildern und einige Objekte.</abstract>
+        <description>Wir studieren ausserhalb von München. Paul in Weimar und Lucie In Offenbach. Dadurch dass unsere Arbeiten gerade in unterschiedlichen Städten entstehen, ist es für uns interessant, die Schnittstellen und Kontraste zu finden. Der Dialog zwischen uns, als auch die Vorstellung und Umsetzung interessieren uns besonders. Geprägt sind die Arbeiten von der Beschäftigung mit Themen, wie: Präsenz und Realitätsentfernung, Kontrolle, Druck, Zufälligkeit, Unsicherheit, und Uneffizienz, Schmutzigkeit, Vision und Traum. Als Platz wäre eine Ecke in einem Raum richtig toll oder ein eigener kleiner Raum. Wir bräuchten einen Platz von ca 5m2.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">Lucie Meyer</person>
+          <person id="55">Paula Kiermaier</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 2 - H2-2.4">
+      <event id="5938" guid="593867d4-c92d-5707-a8d9-53e3f7d216b6">
+        <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Austellungsraum 2 - H2-2.4</room>
+        <slug>jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
+        <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{Evros} "Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.“&#13;
++ Ausstellung zum Thema Ankerzentren und einige Aufsteller rund um Abschiebehaft</abstract>
+        <description>Evros, griechisch-türkische Grenze, Militärgebiet, Schüsse und ein Tänzer. &#13;
+Tanzen, da wo es möglich ist zu filmen. In den Bergen an der Grenze, bis man hier gefunden wird, dauert es länger, die Überwachung ist nicht so engschichtig. Der Tänzer ist Ayinde. Selbst diese Grenze überquert, damals gefunden vom Militär, wurde er ins Krankenhaus gebracht, Lebensgefahr. Jetzt, 11 Jahre später, das erste Mal wieder hier. Tanzend.&#13;
+Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Feld und am Meer. Tanzen mit einer Mischung aus Leid und Stolz. Tanzen aus Frust und tanzen aus Erfolg. Tanzen für sich selbst und tanzen für alle, die nicht mehr tanzen können. &#13;
+Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
+          <person id="94">lislesso {Evros}</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 3 - H2-2.7">
+      <event id="2493" guid="d2bcc4db-93ad-57c8-a789-0682611936c5">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 3 - H2-2.7</room>
+        <slug>jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
+        <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Ein Raum für Kunst der Magistra Daria (Gagaria) und des Gerhaner. Selbstreflexion, Affektverarbeitung und Bruchstücke von Traumbildern bedingen einen Ausstellungsraum der sich anfühlt wie das Wohnzimmer eines Melancholikers.</abstract>
+        <description>Setzt euch in das geborgene Zimmerchen und lasst euch von den Zeichnungen und Malereien der exzentrischen Freunde einlullen.&#13;
+&#13;
+Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kaltnadelstichdrucke die ich in den letzten zwei Monaten angefertigt habe. Die Arbeiten haben gemeinsam, dass ich mich in ihnen mit übereinanderliegenden Ebenen im ästhetischen-, sowie im Bedeutungskontext beschäftigt habe.&#13;
+&#13;
+Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="146">Daria Novikova</person>
+          <person id="71">Gerhana</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 4 - H2-3.3">
+      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
+        <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 4 - H2-3.3</room>
+        <slug>jev22-6575-seltsam_klein</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
+        <title>seltsam &amp; klein</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{seltsam &amp; klein} Ausstellung mit Arbeiten, die sich zwischen Grafik &amp; Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit &amp; Anwesenheit.</abstract>
+        <description>{seltsam &amp; klein}Wir beschäftigen uns mit graphischen, bildhauerischen und performativen Praktiken.&#13;
+Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesondere Musik, haben sich Parallelen in unserem Schaffen aufgetan. Die Ergebnisse erkunden einen Teil unserer seelischen und physischen Räume. Wir fühlen uns beide München und der kreativen Szene rund um das IMAL sehr verbunden. Antikommerzielle und gemeinnützige Projekte finden wir super wichtig und wir freuen uns ein Teil dessen sein zu dürfen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Charlotte Haufe</person>
+          <person id="130">Bruno Haas</person>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 5 - H1-3.1"/>
+    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
+    <room name="Kantine - H2-4.7">
+      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
+        <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
+        <date>2022-12-27T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
+        <title>Mittagessen - VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1099" guid="e1099d4e-4ec0-5145-9d9e-bd405dab6a1a">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-1099-abendessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
+        <title>Abendessen / VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Stände - H2-4.8">
+      <event id="1809" guid="180bc915-bedb-5f94-91b6-86bb368d9386">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>08:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-1809-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+&#13;
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9053" guid="9d05dc3c-8be6-53cf-8385-f6a1909692a4">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>08:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-9053-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7867" guid="78d67d67-abe9-544b-b917-536cc21df176">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-7867-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="116" guid="01ddea1d-6c6f-5ed2-8972-d458e36aad92">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-116-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+&#13;
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Timeout Raum - H2-5.1"/>
   </day>
   <day index="2" date="2022-12-28" start="2022-12-28T09:00:00+01:00" end="2022-12-28T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -2975,6 +3647,792 @@ It then breaks down roughly like this:&#13;
         <start>20:00</start>
       </event>
     </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+        <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
+        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Modi von konkreter Utopie aufdecken &amp; mit der Dystopie umgehen lernen &amp; zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beiträgen zu Polizeiforschung und Architektur stattfinden wird.</abstract>
+        <description>Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir fördern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabhängig vom bzw. über den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.&#13;
+&#13;
+Unser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext für gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkstätten und einem monatlichen Kolloquium. Wissen soll dabei für emanzipatorische Bewegungen zugänglich(er) werden.&#13;
+&#13;
+Zentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? &#13;
+&#13;
+Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+        <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
+        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Modi von konkreter Utopie aufdecken &amp; mit der Dystopie umgehen lernen &amp; zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beiträgen zu Polizeiforschung und Architektur stattfinden wird.</abstract>
+        <description>Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir fördern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabhängig vom bzw. über den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.&#13;
+&#13;
+Unser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext für gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkstätten und einem monatlichen Kolloquium. Wissen soll dabei für emanzipatorische Bewegungen zugänglich(er) werden.&#13;
+&#13;
+Zentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? &#13;
+&#13;
+Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3812" guid="3d8b12dd-02d1-57ac-8fc1-46693e923846">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/</url>
+        <title>Kunst und Kommerz, ein problematisches Verhältnis</title>
+        <subtitle/>
+        <track/>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
+        <description>Pravu Mazumdar (Philosoph) angefr.&#13;
+Rossana Pondorf (Artspace Rosa Stern) bestätigt&#13;
+&#13;
+Moderation: Peter Arun Pfaff</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter Arun Pfaff</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="8460" guid="84dd6041-a73f-5a96-875f-a32655b01747">
+        <logo/>
+        <date>2022-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-8460-programmieren_mit_satzbausteinen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/</url>
+        <title>Programmieren mit Satzbausteinen</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets ermöglicht, vorgestellt.</abstract>
+        <description>Programmieren ist vielfältig und so gibt es verschiedene Ansätze. Die menschliche Kommunikation läuft teilweise über Sprache und so ist es naheliegend, zu versuchen, natürliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es ermöglicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere natürliche Sprachen übersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschließend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets für weitere Programmiersprachen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="111">Hogü-456</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="729" guid="e072938b-803a-5ec2-a7c5-01e2e6920c9c">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/</url>
+        <title>Tabellenkalkulationsfunktionen in Quelltext umwandeln</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext ermöglicht, welcher die für unterstütze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enthält.</abstract>
+        <description>Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abhängigheit von Werten und auch von anderen Berechnungen vornehmen zu können und die Funktionen sind in mindestens 100 Sprachen teilweise übersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gewünscht, dass es möglich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf höhere Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverständnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das ermöglicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung ermöglichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren möglich ist und vielleicht hilft diese Möglichkeit, den Zugang zu Programmieren in höheren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="111">Hogü-456</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-958-alles_ist_1_ausser_der_0</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/</url>
+        <title>Alles ist 1. Außer der 0.</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>Die Geschichte des legendären Chaos Computer Club (CCC) und seiner Gründerseele Wau Holland (Dr. Wau).</abstract>
+        <description>Vom Computer-Nerd zum Datenkünstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die großen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.&#13;
+Mehr Infos: https://allesisteins.film/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4783" guid="478320e4-3feb-5594-8b47-3950f0edf5af">
+        <logo>/media/freiraumforum/submissions/EJRDFX/seebruecke_muenchen_logo_21_LpiNEFz.jpg</logo>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/</url>
+        <title>Brücken statt Mauern - grenzenlose Solidarität</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>Film und Gespräch über die europäischen Außengrenzen und was wir dem entgegensetzen können</abstract>
+        <description>Wir zeigen einen Kurzfilm polnischer Aktivist*innen zur Situation an der Grenze Polen/Belarus. Davon ausgehend können wir z.B. gemeinsam über folgende Themen sprechen:&#13;
+-sichere und legale Fluchtwege&#13;
+-Perspektiven globaler Solidarität&#13;
+-solidarische Stadt</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="144">Seebrücke München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 1 - H2-2.5">
+      <event id="9611" guid="96d1b1ff-e2fd-54b8-90c5-b4536f069fe7">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>04:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-9611-raum_einnehmen_im_patriarchat</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CRWYJS/</url>
+        <title>Raum einnehmen im Patriarchat?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wer nimmt im Patriarchat wo, welchen und wieviel Raum ein und was wäre, wenn es anders wäre?</abstract>
+        <description>Freiräume können mehr sein als nur freie Räume. Im Zuge des Freiraumforums stellen wir uns die Frage, wer wo im Patriarchat wieviel Raum einnimmt und wer nicht. Wie kann ich Raum einnehmen? Genau das wollen wir ausprobieren, in einem Safer Space die voerherrschenden Raumverhältnisse aktiv auf den Kopf drehen, mit ihnen experimentieren und uns darüber austauschen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="176">NoPatriarchy</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 2 - H2-3.4">
+      <event id="8601" guid="b860bce1-5212-5627-b343-14c54314b856">
+        <logo/>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>03:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-8601-organizing_moderation_kommunikation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QQ8YLD/</url>
+        <title>Organizing, Moderation &amp; Kommunikation</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>In unserem Workshop geht´s um die Themen Transformative Organizing, Moderation und Kommunikation.</abstract>
+        <description>In dem Workshop betrachten wir den theoretischen Ansatz aber auch praktische Methoden des "Transformative Organizing". Zudem tauschen wir uns in diesem Zusammenhang mit euch über das Thema machtsensible "Entscheidungsprozesse" in Gruppen aus und besprechen, wie man gute Treffen organisiert und moderiert.&#13;
+&#13;
+&#13;
+Ronia (DieAktion! Jugendbeteiligung München)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">Ronia (Die Aktion)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9388" guid="9388dd6a-2935-5ac6-a1c9-6ecef7b38c05">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-9388-kiezarbeit_und_awareness_bei_dw_co_enteignen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PATFZY/</url>
+        <title>Kiezarbeit und Awareness bei DW&amp;Co Enteignen: Eindrücke aus Berlin</title>
+        <subtitle/>
+        <track/>
+        <type>Gespräch</type>
+        <language>de</language>
+        <abstract>DeutscheWohnen&amp;Co Enteignen ist eine Kampagne zur Vergesellschaftung von Wohnraum in Berlin. Max engagiert sich im Kiezteam Kreuzberg und in der Ansprechgruppe sexualisierte Gewalt, und berichtet im offenen Austausch von seinen Erfahrungen.</abstract>
+        <description>Auf der Website schreibt DW&amp;Co Enteignen: &#13;
+&#13;
+"Unsere Initiative „Deutsche Wohnen &amp; Co enteignen“ wird von engagierten Einzelpersonen sowie Menschen aus Mieter:inneninitiativen, stadtpolitischen Gruppen und Parteien getragen. Wir haben ganz unterschiedliche Hintergründe. Wir wohnen an den grünen Rändern der Stadt oder im Herzen Kreuzbergs, in Hochhaussiedlungen und Gründerzeitquartieren, sind gerade erst hierhergezogen oder leben schon immer hier. Viele von uns engagieren sich schon lange Jahre für eine lebenswerte und bezahlbare Stadt für alle, andere haben gerade erst damit angefangen.&#13;
+&#13;
+Uns eint, dass wir uns die steigenden Mieten und den Ausverkauf Berlins auf den globalen Finanzmärkten nicht länger gefallen lassen. Der Wunsch nach einer echten Veränderung auf dem Wohnungsmarkt hat uns zusammengeführt. Wir wollen den explodierenden Mieten etwas entgegensetzen, damit auch Durchschnitts- und Geringverdiener:innen wieder eine Wohnung finden können."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Max</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 3 - H2-3.6">
+      <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
+        <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-4805-anti_rassismus_critical_whiteness</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
+        <title>Anti-Rassismus &amp; Critical Whiteness</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>In diesem Workshop erlernt ihr eine Grund-Sensibilisierung über die Themen Anti-Rassismus, Diskriminierung und Kritisches Weißsein.</abstract>
+        <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="44">Waseem</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9600" guid="9b60f057-befa-5f57-bbe1-911698395629">
+        <logo/>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>07:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-9600-awareness_workshop_fuer_kollektive_und_interessierte</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YUKFNB/</url>
+        <title>Awareness Workshop für Kollektive und Interessierte</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Um ein kompetentes Awareness Team für die Kollektiv-Szene aufbauen zu können, möchten wir für alle Interessent*innen eine Fortbildung anbieten um sich mit der Thematik „Awareness und typische medizinische Notfälle auf Raves“ auseinanderzusetzen und sich so eine Handlungskompetenz anzueignen.</abstract>
+        <description>Dieser Workshop ist für alle Interessierte, die sich mit Thematik "Awareness" im Nachtleben der Techno-Szene beschäftigen möchten. Kollektivis e.V. möchte zudem den Kollektiven, ihren Mitgliedern und allen Neugierigen ein kostenlosen Workshop anbieten, mit der Möglichkeit beim Awareness Team des Vereins tätig zu sein. &#13;
+&#13;
+Politische Awareness Arbeit (3,5 h)&#13;
+Politische Awareness Arbeit umfasst vor allem Diskriminierungspräventionsarbeit, gewaltfreie Kommunikation und Grundlagen im Umgang mit Betroffenen von jeder Form von Gewalt, sei es Sexismus, Rasissmus ö.ä. &#13;
+&#13;
+Drogeninterventionsarbeit (2 h)&#13;
+Drogeninterventionsarbeit gibt einen Überblick über Substanzen, und welche Maßnahmen bei welcher Substanz angemessen sind. Ein wesentlicher Bestandteil ist dabei die Gesprächsführung mit Bedürftigen. &#13;
+&#13;
+Erste Hilfe im Eventkontext (1,5 h)&#13;
+Der abgekürzte Erste-Hilfe Kurs gibt grundlegende Auskunft welche Fälle explizit nicht vom Awareness Team behandelt werden können und welche Maßnahmen das Awareness Team als Ersthelfer bis zum Eintreffen der Rettungskräfte durchführen kann.&#13;
+Die Teilnahme am Workshop ist leider nur auf 30 Personen beschränkt. Anmeldung unter http://kollektivis.de/awa/</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="108">Abdullah Khan</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 4 - H2-4.4">
+      <event id="4349" guid="ca43e4f9-c37d-5a7d-84aa-f55cd5d7be34">
+        <logo/>
+        <date>2022-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-4349-das_barrio_olga_benario_vorstellung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EVHNA7/</url>
+        <title>Das Barrio Olga Benario - Vorstellung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Das Barrio Olga Benario ist ein selbstorganisierter, spendenfinanzierter linker Raum für politische und soziale Veranstaltungen. Seit vier Jahren ist es die Heimat von mittlerweile sechs offenen Treffen und inzwischen eines der Zentren politischer Arbeit in München. Wir stellen uns vor!</abstract>
+        <description>Das Barrio Olga Benario ist ein selbstorganisierter, spendenfinanzierter linker Raum für politische und soziale Veranstaltungen. Seit vier Jahren ist es die Heimat von mittlerweile sechs offenen Treffen. Inzwischen hat es sich als eines der Zentren politischer Arbeit in München etabliert. &#13;
+&#13;
+Nicht nur die Plena von mittlerweile sechs offenen Treffen (Antifa Stammtisch, Offenes Frauentreffen, Offenes Antikapitalistisches Klimatreffen, Zukunft Erkämpfen, Ni Una Menos, In Aktion gegen Krieg und Militarisierung) finden dort statt: Der wöchentliche Barabend wird ergänzt durch Filmvorführungen, Vorträge, Familiencafe und sogar Kunstausstellungen. Seit diesem Jahr mietet das Kollektiv einen zweiten Raum an, weil der Platz einfach nicht mehr ausreichte für die zahllosen AG-Treffen.&#13;
+&#13;
+Wie ist der Raum entstanden? Wie wird er organisiert und wer ist dort aktiv? Wie sehen die Pläne für die Zukunft aus und wie kann man sich einbringen?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="88">Barrio Olga Benario</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2" guid="a000229b-63fd-5ce9-9417-a9ad43d97011">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:30</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-2-freiwilligenkoordination_im_kulturmanagement_der_sub_und_soziokultur</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/9P3DCV/</url>
+        <title>Freiwilligenkoordination im Kulturmanagement der Sub- und Soziokultur</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Dieser Workshop verspricht keinen Masterplan für Freiwilligen Koordination, sondern gibt viel mehr Impulse, welche in eurem Projekt eingesetzt werden können. In 90 Minuten behandeln wir die Fragen&#13;
+&#13;
+- Wie erreiche ich Ehrenamtliche für mein Projekt&#13;
+&#13;
+- Wir halte ich Ehrenamtliche in meinem Projekt</abstract>
+        <description>Dieser Workshop verspricht keinen Masterplan für Freiwilligen Koordination, sondern gibt viel mehr Impulse, welche in eurem Projekt eingesetzt werden können. In 2,5 Stunden behandeln wir die Fragen:&#13;
+&#13;
+- Wie erreiche ich Ehrenamtliche für mein Projekt?&#13;
+&#13;
+- Wir halte ich Ehrenamtliche in meinem Projekt?&#13;
+&#13;
+Wir tauschen uns aus über eure Erfahrungen und versuchen uns dem Thema anhand dessen uns dem Thema anzunähern.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Klangkeller - H1-U.1">
+      <event id="6622" guid="662b2ed8-7b45-547b-96fb-38d27c949725">
+        <logo/>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/</url>
+        <title>Lithotron - ein transdisziplinäres Klang-Workshop + Group-Performance</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplinäres Musik Workshop mit Kunst und Technik.&#13;
+Teil des Echokammer Takeovers.</abstract>
+        <description>"Lithotron" sind Serpentinsteine im eigenen Dialog mit produzierten Zuspielungen elektronisch verfremdeter Schiefergranitplatten und Synthesizer.&#13;
+Live gespielte Patterns bestehend aus einer Reihung von zufälligen Tönen und Spaltklängen. Freie Tonfolgen mit authentischer Harmonie der Steine verzahnen sich mit der Zuspielung.&#13;
+Die Zuspielung ist eine Fortsetzung der beweglichen Klangskulptur „Serpente Lithophonie“, die eine elektronische Verwandlung erfährt und nun die Lautsprecher bedient.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Zoro Babel und Manuela Rzytki</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4718" guid="efa47185-d189-561b-ad83-b990c650daf7">
+        <logo/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>04:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-4718-echokammer_takeover</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/LL377K/</url>
+        <title>Echokammer Takeover: LIVE</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>The Munich Underground Label takes over the forum with wild sounds, from experimental electronics to surf rock to rebetiko to noise. More infos soon.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="153">Echokammer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ruheraum - H1-2.1">
+      <event id="352" guid="d03ac525-1644-505b-b66d-fc53f1fa17cb">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Ruheraum - H1-2.1</room>
+        <slug>jev22-352-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/</url>
+        <title>SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION FÜR FLINTA MUSIKER*INNEN</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Vortrag und Diskussionsrunde zum Thema Geschlechtergerechtigkeit in der Musikindustrie&#13;
+und Songwritingsession für FLINTA*-Musiker*innen</abstract>
+        <description>Die Veranstaltung soll Teilnehmer*innen eine Möglichkeit geben, das Kollektiv Sie ist kein Genre kennenzulernen und auszuprobieren. Desweiteren bietet das Event einen Saferspace für FLINTA* Musiker*innen aus München und Umgebung sich auszutauschen, kennenzulernen, zu diskutieren und zu musizieren. Inhalt der Veranstaltung sind eine Diskussionsrunde und ein Vortrag zum Thema Geschlechtergerechtigkeit in der Musikindustrie, sowie eine Songwritingsession.&#13;
+Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument mitbringen könntest und uns Bescheid gibst.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="84">Sie ist kein Genre</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 1 - H2-1.3">
+      <event id="6058" guid="6a0dd58c-b89a-50a8-88ef-2e633055a9df">
+        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 1 - H2-1.3</room>
+        <slug>jev22-6058-dazwischen_mischen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/</url>
+        <title>Dazwischen Mischen</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Wir, Lucie und Paula würden gerne Arbeiten von uns gemeinsam im Forum für Freiraum ausstellen. Wir würden unsere Arbeiten gerne installativ inszenieren, also auch in den Raum gehen. Unsere Arbeiten umfassen hauptsächlich Drucke von digitalen sowie analogen Bildern und einige Objekte.</abstract>
+        <description>Wir studieren ausserhalb von München. Paul in Weimar und Lucie In Offenbach. Dadurch dass unsere Arbeiten gerade in unterschiedlichen Städten entstehen, ist es für uns interessant, die Schnittstellen und Kontraste zu finden. Der Dialog zwischen uns, als auch die Vorstellung und Umsetzung interessieren uns besonders. Geprägt sind die Arbeiten von der Beschäftigung mit Themen, wie: Präsenz und Realitätsentfernung, Kontrolle, Druck, Zufälligkeit, Unsicherheit, und Uneffizienz, Schmutzigkeit, Vision und Traum. Als Platz wäre eine Ecke in einem Raum richtig toll oder ein eigener kleiner Raum. Wir bräuchten einen Platz von ca 5m2.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">Lucie Meyer</person>
+          <person id="55">Paula Kiermaier</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 2 - H2-2.4">
+      <event id="6374" guid="6374d4a8-3ed3-5b2b-b09a-b47f7caa462f">
+        <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Austellungsraum 2 - H2-2.4</room>
+        <slug>jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
+        <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{Evros} "Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.“&#13;
++ Ausstellung zum Thema Ankerzentren und einige Aufsteller rund um Abschiebehaft</abstract>
+        <description>Evros, griechisch-türkische Grenze, Militärgebiet, Schüsse und ein Tänzer. &#13;
+Tanzen, da wo es möglich ist zu filmen. In den Bergen an der Grenze, bis man hier gefunden wird, dauert es länger, die Überwachung ist nicht so engschichtig. Der Tänzer ist Ayinde. Selbst diese Grenze überquert, damals gefunden vom Militär, wurde er ins Krankenhaus gebracht, Lebensgefahr. Jetzt, 11 Jahre später, das erste Mal wieder hier. Tanzend.&#13;
+Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Feld und am Meer. Tanzen mit einer Mischung aus Leid und Stolz. Tanzen aus Frust und tanzen aus Erfolg. Tanzen für sich selbst und tanzen für alle, die nicht mehr tanzen können. &#13;
+Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
+          <person id="94">lislesso {Evros}</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 3 - H2-2.7">
+      <event id="9346" guid="f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5">
+        <logo/>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 3 - H2-2.7</room>
+        <slug>jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
+        <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Ein Raum für Kunst der Magistra Daria (Gagaria) und des Gerhaner. Selbstreflexion, Affektverarbeitung und Bruchstücke von Traumbildern bedingen einen Ausstellungsraum der sich anfühlt wie das Wohnzimmer eines Melancholikers.</abstract>
+        <description>Setzt euch in das geborgene Zimmerchen und lasst euch von den Zeichnungen und Malereien der exzentrischen Freunde einlullen.&#13;
+&#13;
+Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kaltnadelstichdrucke die ich in den letzten zwei Monaten angefertigt habe. Die Arbeiten haben gemeinsam, dass ich mich in ihnen mit übereinanderliegenden Ebenen im ästhetischen-, sowie im Bedeutungskontext beschäftigt habe.&#13;
+&#13;
+Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="146">Daria Novikova</person>
+          <person id="71">Gerhana</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 4 - H2-3.3">
+      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
+        <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 4 - H2-3.3</room>
+        <slug>jev22-1508-seltsam_klein</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
+        <title>seltsam &amp; klein</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{seltsam &amp; klein} Ausstellung mit Arbeiten, die sich zwischen Grafik &amp; Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit &amp; Anwesenheit.</abstract>
+        <description>{seltsam &amp; klein}Wir beschäftigen uns mit graphischen, bildhauerischen und performativen Praktiken.&#13;
+Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesondere Musik, haben sich Parallelen in unserem Schaffen aufgetan. Die Ergebnisse erkunden einen Teil unserer seelischen und physischen Räume. Wir fühlen uns beide München und der kreativen Szene rund um das IMAL sehr verbunden. Antikommerzielle und gemeinnützige Projekte finden wir super wichtig und wir freuen uns ein Teil dessen sein zu dürfen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Charlotte Haufe</person>
+          <person id="130">Bruno Haas</person>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 5 - H1-3.1"/>
+    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
+      <event id="6364" guid="c6364e5a-5727-509a-8d11-0013ce310f31">
+        <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2</room>
+        <slug>jev22-6364-siebdruck</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/</url>
+        <title>Siebdruck</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Live Siebdruck // Bring your own shirt! // DIY // Skillshare // GängeUtopie</abstract>
+        <description>Siebdruck ist eine leichte Technik und macht so gut wie jede*r*m Spaß — wir bringen eine Auswahl an Motiven aus dem Hamburger Gängeviertel-Projekt mit und drucken, was ihr wollt in Community!&#13;
+&#13;
+Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="186">r r r</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kantine - H2-4.7">
+      <event id="2009" guid="bc20091c-92a7-524c-b7b8-5769d44caa19">
+        <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
+        <date>2022-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-2009-mittagessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
+        <title>Mittagessen - VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2348" guid="2348e047-f1ff-5dfa-8571-4194aa93ee41">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-2348-abendessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
+        <title>Abendessen / VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4339" guid="fec433ac-918a-55d5-b672-b06e67051803">
+        <logo>/media/freiraumforum/submissions/GMDB8G/bingo-win_1_aS3ku3o.jpg</logo>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-4339-tunten_bingo</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GMDB8G/</url>
+        <title>Tunten Bingo</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>Ella Trixi Thät Gitta Stähbe Hüterin der Hütertin des Goldenen Stöckels™ ist eine Hamburger Polittunte und spielt mit euch eine schäbig schöne Runde Bingo. Es gibt Tolle und weniger Tolle Preise. Racers, Start your engine and may the best bingo queen win.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Stände - H2-4.8">
+      <event id="8239" guid="8239fa77-7734-5442-81be-aa66d5d14585">
+        <logo/>
+        <date>2022-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-8239-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+&#13;
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8632" guid="c8632de1-9961-5498-b0c2-ab73f1e7f7d5">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>06:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-8632-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Timeout Raum - H2-5.1"/>
   </day>
   <day index="3" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -4689,6 +6147,659 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>21:00</start>
       </event>
     </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
+        <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3706-slapp</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/</url>
+        <title>SLAPP: Rechtsmissbrauch zulasten der kritischen Öffentlichkeit - und was dagegen getan werden kann.</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Immer mehr Unternehmen, staatliche Akteure und reiche Einzelpersonen nutzen rechtliche Mittel, um Kritiker*innen zum Schweigen zu bringen. Blueprint for Free Speech und RA Dr. Jasper Prigge stellen das Phänomen der “Strategic Lawsuits Against Public Participation” und mögliche Gegenmaßnahmen vor.</abstract>
+        <description>Die Kurzform SLAPP kommt aus den USA: Übermächtige Player, die Journalisti oder Aktivisti mit juristischen “Ohrfeigen” zum schweigen bringen wollen. Nicht immer sind die Forderungen juristisch unbegründet, aber in jedem Fall haben sie einen einschüchternden Effekt. Weil SLAPPs ein strategisches Mittel in der Auseinandersetzung um für die Öffentlichkeit wesentliche Themen sind, handelt es sich nicht zuletzt um Ohrfeigen für die Demokratie.&#13;
+&#13;
+SLAPPs sind darauf gerichtet, öffentliche Partizipation zu schwächen, indem sie Kritiker:innen einschüchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfläche so klein wie möglich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. &#13;
+&#13;
+Blueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge in die Thematik einführen, inkl. Q&amp;A.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="163">Blueprint For Free Speech</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8094" guid="fd80f9bc-4e06-5c0f-a133-73602c90e9f1">
+        <logo/>
+        <date>2022-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
+        <title>Das Unbehagen, als "links" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</title>
+        <subtitle/>
+        <track/>
+        <type>Gespräch</type>
+        <language>de</language>
+        <abstract>Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.</abstract>
+        <description>Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei persönlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?&#13;
+&#13;
+Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beiträgen zu Beginn der Sessions einige Hintergrundinformationen und mögliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachspüren, was den Weg zu einer befreiten Gesellschaft versperrt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="170">Kathi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="755" guid="e0d7fd5b-5fd5-59f4-a508-e21c3c99251e">
+        <logo/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:31</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-755-kampf_um_die_a49</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/</url>
+        <title>Kampf um die A49</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>en</language>
+        <abstract>Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten müssen den Weg frei machen für die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.</abstract>
+        <description>Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse führt durch jahrhundertealte Wälder, vorbei an verschlafenen Dörfern. Über 600 Aktivisten haben in Dannenrod in Mittelhessen 7 "Barrios" mit bis zu 100 Baumhäusern in schwindelerregender Höhe gebaut. Die Räumung durch Spezialeinsatzkräfte der Polizei steht unmittelbar bevor. &#13;
+In Planung ist die A 49 schon seit über 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten über Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GRÜNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der grüne Verkehrsminister, nämlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-grünen Landesregierung politisch durchsetzen. &#13;
+Klaus Stern und Frank Pfeiffer begleiten Befürworter der Autobahn, langjährige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister während des Rodungs- und Bauprozesses. &#13;
+Wie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.&#13;
+Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 1 - H2-2.5">
+      <event id="7864" guid="786d4948-efcb-5490-a4ef-8aabead71fd6">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-7864-awareness_diversitaet</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/A7WNKV/</url>
+        <title>Awareness &amp; Diversität: Theorie &amp; Performanz für(s) Freiräume(n). by FF22 AG Awareness</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Offener Austausch über Geschichte, Theorie und Praxis von Awareness. Mit der FF22 AG Awareness &amp; Blackdefinitionmatters 🚧 PlusXKollektiv &amp; Assoziation:E &amp; allen, die spontan Lust haben.</abstract>
+        <description>ASPEKTE&#13;
+&#13;
+1 Geschichten von Safer Spaces &amp; Awareness Arbeit in München &amp; beyond: Black Definition Matters&#13;
+Black Feminism, afrikanische Selbstermächtigungen&#13;
+→ Blackdefinitionmatters // PlusXKollektiv&#13;
+&#13;
+2 Weitere Verständnisse von Awareness&#13;
+--&gt; Raum für weitere Geschichte(n) zum Thema&#13;
+ &#13;
+3 Gesellschaftstheorie der gruppenbezogenen Abwertung&#13;
+→ Assoziation:E&#13;
+&#13;
+4 Umgang mit diskriminierenden Strukturen: Theorie&amp;Praxis&#13;
+→ AG Awareness Freiraumforum: Grundsätze &amp; Manyfest&#13;
+→ Offene Diskussion</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 2 - H2-3.4">
+      <event id="1784" guid="178a4cd0-520e-53cf-9dbe-8235d07efeae">
+        <logo/>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-1784-flaechengerechtigkeit_iaa_2023</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZAYXUB/</url>
+        <title>Flächengerechtigkeit - IAA 2023</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>2021 zeigte uns die Stadt ihre Prioritäten: Autowerbeflächen noch und nöcher, während das Mobilitätswendecamp um seine Daseinsberechtigung kämpfen musste. Warum macht eine Stadt, die 2019 den Klimanotstand ausgerufen hat, den Autokonzernen so den Hof?&#13;
+Eine kapitalismuskritische Auseinandersetzung.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="72">Lisa Poettinger</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2765" guid="276abf53-006b-537b-a810-e8f25ebb808a">
+        <logo/>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-2765-zur_geschichte_des_automobilen_freistaats_bayern_by_no_future_for_repression</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZZGR8M/</url>
+        <title>Zur Geschichte des Automobilen Freistaats Bayern. by No future for repression</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>IAA-Proteste, Klimademos, Letzte Generation: Linke Klima-Aktivist*innen sehen sich massiver staatlicher Repression ausgesetzt. Wir möchten ein paar Überlegungen zur Geschichte und Gegenwart dieser Misere teilen. Und gemeinsam Möglichkeiten und Potentiale eruieren, sich deshalb nicht zurückzuziehen.</abstract>
+        <description>Im Vortrag werden wir über die aktuelle Repressionswelle gegen linke Klima-Aktivist*innen informieren, aber auch einen Rückblick auf die Proteste gegen die IAA 2021 werfen. &#13;
+&#13;
+Außerdem wollen wir ein paar Überlegungen teilen, was diese Repression gegen die Klimagerechtigkeitsbewegung über den Zusammenhang von Staat und Industriekapital insbesondere in Deutschland und Bayern verrät und was das mit der Geschichte des Freistaats Bayern zu tun hat. &#13;
+&#13;
+Darüber hinaus werden wir erläutern, weshalb die Antwort auf die Repression nicht sein kann, sich aus diesen Kämpfen zurückzuziehen und weshalb wir weiterhin eine große Notwendigkeit, aber auch ein viel größeres Potential in den Kämpfen um die öffentliche Mobilität erkennen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3371" guid="3c3bb71a-dff1-5743-8212-5396b9b73b13">
+        <logo/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-3371-onboarding_der_anti_iaa_camp_orga</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZEE9MQ/</url>
+        <title>Onboarding der Anti-IAA-Camp-Orga</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>Die Anti-IAA-Camp-Orga lädt ein, Teil der Struktur zu werden und bei dem Camp 2023 mitzuorganisieren. Dafür wird erst ein wenig über das Camp 2021 erzählt und dann die Struktur und der Planungsprozess für 2023 vorgestellt.</abstract>
+        <description>Die Internationale Autoausstellung hat letztes Jahr ganz München in eine einzige Verkaufsfläche für Straßenkreuzer und Supersportwagen verwandelt. Allem Greenwashing zum Trotz ist klar, dass auch die nächste IAA wieder zum Symbol für die kapitalistische Ausbeutung auf Kosten von Mensch und Natur zugunsten der Superreichen wird.&#13;
+&#13;
+Wie auch 2021 wird es 2023 wieder vielfältigen Protest und Gegenkultur geben. Die sollen wiederum von einem freien, ökologischen und sozialen Protest- und Aktionscamp ausgehen, in dem verschiedenste Aktionsgruppen und auch Bildungs- und Kulturveranstaltungen aufeinandertreffen können. Das braucht Menschen, die es organisieren! Komm zum ersten OnBoarding und werde Teil der Orga-Struktur!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7173" guid="71f7d32c-b942-50c7-ac87-89ddfd3b8e85">
+        <logo/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-7173-gegen_die_automobile_stadt_den_oeffentlichen_raum_aneignen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KU8ZL9/</url>
+        <title>Gegen die Automobile Stadt - den öffentlichen Raum aneignen!</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Letztes Jahr wurde während der IAA ein leerstehendes Haus besetzt, doch die Polizei stürmte dieses in Kürze. Diese Reaktion zeigte, dass der Schutz von Eigentum oberste Priorität hat. Doch warum ist das so? Wir wollen die Frage stellen, wem die Stadt eigentlich gehören sollte.</abstract>
+        <description>Im September letzten Jahres wurde, im Zuge der NO-IAA Proteste in München, ein seit Jahren leerstehendes Haus besetzt. Mit unseren Aktionen haben wir die räumliche und symbolische Besetzung der Stadt durch die Autokonzerne der IAA kritisiert. Denn eine klimagerechte Stadt muss für alle Menschen leistbar sein. Doch in kürzester Zeit stürmte die Polizei das Gebäude und führte die Aktivist*innen ab. Auch die Reaktionen auf einige Scheinbesetzungen vor ein paar Jahren zeigten, dass der Schutz von Eigentum oberste Priorität hat. Doch warum ist das so? Warum schützt der Staat leerstehende Häuser mit allen Mitteln und kriminalisiert Menschen, die diese nutzen und mit Leben füllen wollen? Wir wollen uns anschauen, welche Mechanismen dahinterstehen und die Frage stellen, wem die Stadt eigentlich gehört.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 3 - H2-3.6">
+      <event id="9419" guid="9d41c928-b040-5a44-9714-ad1236b77cdc">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-9419-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
+        <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ziel der Schulung ist es, in die junge und neue Partyszene das Wissen über Substanzen, Safer-Use,&#13;
+Deeskalation, Awareness, Erste Hilfe und Jugendschutz zu tragen. Die Teilnehmenden sollen die gelernten&#13;
+Inhalte selbst anwenden und multiplikatorisch weitergeben.</abstract>
+        <description>Sozialarbeiter*innen von Mindzone und ConAction  wollem Informationen zum „sauber feiern“ nicht nur in ihrer alltäglichen Arbeit an Partygänger*innen sondern auch Veranstaltende im privaten oder öffentlichen Raum weitergeben. Durch den Workshop sollen sie theoretische Inputs und praktische Tipps bekommen, um einen sicheren Umgang mit den teils konsumierenden Partygästen zu erlernen und sich hierfür ein geschärftes Risikobewusstsein anzueignen. Die Teilnehmer*innen dieser Schulungen&#13;
+können zum einen die Inhalte selbst auf den Partys umsetzen und gleichzeitig aber auch als Szene-&#13;
+Multiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen Schulungen nur ein Grundstock an Wissen vermittelt werden kann und auch danach die Teilnehmenden keine Expert*innen auf den Themengebieten sind. Es ist zumindest jedoch ein Anfang in der Szene auf wichtige Themen aufmerksam zu machen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="78">Patrick Dresen und Sarah Lelle</person>
+          <person id="90">Mindzone</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2241" guid="224ecd16-80d4-55e1-8e68-cfdaa5099801">
+        <logo/>
+        <date>2022-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:15</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-2241-supporting_resilience_with_mindfulness_an_introduction_to_mindfulness_practice</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DALED8/</url>
+        <title>Supporting Resilience with Mindfulness - an introduction to mindfulness practice</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>How can we support activism by learning how stress impacts our systems? How can we generate spaces that are safe and nourishing? Mindfulness can be a central tool in supporting healthy resistance - this is an introduction. &gt;&gt; love-ethics.eu</abstract>
+        <description>Impulsvortrag: Supporting Resilience with Mindfulness - Connecting with body as a resource &#13;
+&#13;
+&#13;
+Many activists are highly engaged and identified with their work and often carry their worry and thoughts with them through every day life, way beyond their actual work. How can we support activism by learning how stress impacts our systems? How can we generate spaces that are safe and nourishing? &#13;
+Mindfulness is a tool that can be used way further then as personal relaxation method but actually supports resilient movements of resistance, nourish communities with establishing habits of pausing and caring and learning to be with what is. MBSR is a method that was developed in working with pain patients and takes a close look at the phenomenon of stress as well as physiogical and emotional pain. &#13;
+&#13;
+&#13;
+Presentation - What is stress?&#13;
+How does stress impact our physical and emotional health?&#13;
+How does mindfulness impact our stress reactions.&#13;
+How could I start to practice?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="126">Lara Loehr</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 4 - H2-4.4">
+      <event id="5495" guid="54f9f5a8-511a-5420-afed-2caf4bfa1dd9">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>03:30</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-5495-potentiale_und_kritik_von_konsens_als_feministische_praxis</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HBEN73/</url>
+        <title>Potentiale und Kritik von Konsens als feministische Praxis</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>In diesem Workshop geht es darum sich herrschenden Diskursen rund um das Thema Konsens &amp; Sexualität zu widmen. Ziel es ist herauszufinden wo das Konzept von Konsens ansetzt, wofür wir es brauchen, wo es aber auch an seine Grenzen kommt &amp; inwiefern wir es als feministische Praxis verstehen können.</abstract>
+        <description>Konsens – eines der zentralen Themen in den aktuellen Diskursen rund um Sexualität, Lust und Beziehungen; und das ist auch gut so, weil immer noch viel zu wenig Menschen gelernt haben ihre Sexualität konsensuell zu gestalten und zu leben. Es mangelt an entsprechender Kommunikation, ehrlich und offen über eigene Bedürfnisse und Grenzen ins Gespräch zu kommen. Gleichzeitig fehlt es meist überhaupt an einem Bewusstsein für die Notwendigkeit dessen und Räumen, um über damit verbundene Fragen oder Unsicherheiten ins Gespräch zu kommen. &#13;
+Ziel es Workshops ist es daher, abseits von neoliberalen Logiken, die nur auf die Veränderung von individuellem Verhalten abzielen, machtkritische und emanzipatorische Perspektiven auf das Thema Konsens zu entwickeln und sowohl auf theoretischer als auch auf praktischer Ebene neue Zugänge zu dem Thema zu ermöglichen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="174">Consent Calling</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Klangkeller - H1-U.1">
+      <event id="4781" guid="e4781953-42ea-5494-8042-556d33c71f0e">
+        <logo>/media/freiraumforum/submissions/9PJK9F/Filmstill_BodyOfOz_KlausErikaDietl_RagTreasure_TQaBiUB.jpg</logo>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>03:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-4781-alligator_gozaimasu</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/9PJK9F/</url>
+        <title>Alligator Gozaimasu: Open Music Video Recording</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>During the Alligator Gozaimasu music video recording participants are invited to dive into the collective's colourful universe. Based on "How To Kiss A Shiver", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded.</abstract>
+        <description>Alligator Gozaimasu is a band of many voices and noises. The international music collective counts more than 60 members. Some of them are based in Munich or live nearby, others are spread all over the globe.&#13;
+During the Open Music Video Recording participants are heartily invited to dive into the collective's colourful universe. Based on "How To Kiss A Shiver", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded. The idea is to question binary frameworks and try other perspectives together. Sound artist and fashion designer Stephanie Müller aka Rag*Treasure offers a selection of handmade costumes and props. Participants can freely choose if they'd like to slip into one of the costumes and masks. Queerfeminist filmmaker and artist Klaus Erika Dietl provides DIY camera and light equipment. Minimum is maximum Rock'n'Roll: we'll focus on tiny image details and on small gestures. Let's do it together.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Alligator Gozaimasu</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7454" guid="bd74cdb5-41c2-59c9-aeff-4d07758ac49b">
+        <logo>/media/freiraumforum/submissions/Q7PRJS/AlligatorGo_Festival_KINO_uVeOguv.jpg</logo>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-7454-alligator_gozaimasu_kino</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/Q7PRJS/</url>
+        <title>Alligator Gozaimasu KINO: experimental short film screening</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>A selection of short films created by artists from the Alligator Gozaimasu collective will be screened in a miniature cinema installation. Includes animations and video art produced in Munich, Sapporo (Japan) and Bandung (Indonesia).</abstract>
+        <description>Alligator Gozaimasu is a fluid audio-visual body that consists of artists based in Munich, nearby and spread all over the world. The collective's KINO is a cosy miniature cinema installation that offers a delicate selection of experimental short films and animations. Amongst others works by Thomas Glatz (Munich), Yuko Fukasawa (Sapporo), Aoi Maeda (Tokyo), Mediendienst Leistungshölle (Munich), Deidra Mesayu (Bandung), ReguRegu (Sapporo), Mikio Saito (Sapporo), Birgit Scholin (Vienna), Lina Zylla (Munich).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Alligator Gozaimasu</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1232" guid="ff12a325-db0d-532d-904d-9647405859a6">
+        <logo>/media/freiraumforum/submissions/UVYJCH/Alligator_AoiSwimming_Credits_KlausErikaDietl_9TjN6cO.jpg</logo>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-1232-alligator_gozaimasu_takeover</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/UVYJCH/</url>
+        <title>Alligator Gozaimasu Takeover: LIVE</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>en</language>
+        <abstract>Experimental live sessions by Alligator Gozaimasu and friends. Alligator Gozaimasu is an art and sound collective with about 60 members spread all over the world.</abstract>
+        <description>In 2014 beißpony's percussionist and songwriter Stephanie Müller and queerfeminist filmmaker and artist Klaus Erika Dietl had the chance to dive deep into Japan's underground music scene. There they started Alligator Gozaimasu. During the pandemic lots of further sound lovers and artists joined the international art and music collective. On December 29th 2022 Alligator Gozaimasu artists and friends of the collective who are based in Munich and nearby will be part of the live session. &#13;
+Line-Up: Klaus Erika Dietl, Sebastian Giussani, Andrea Lesjak, Stephanie Müller Bernadette Stadler, Karin Weixler, Carlotta Wirtl &amp; Jim, Lina Zylla.&#13;
+www.alligatorgozaimasu.bandcamp.com</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="156">Alligator Gozaimasu</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ruheraum - H1-2.1"/>
+    <room name="Ausstellungsraum 1 - H2-1.3">
+      <event id="5929" guid="a59295db-415e-590c-903e-3d00b1038154">
+        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 1 - H2-1.3</room>
+        <slug>jev22-5929-dazwischen_mischen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/</url>
+        <title>Dazwischen Mischen</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Wir, Lucie und Paula würden gerne Arbeiten von uns gemeinsam im Forum für Freiraum ausstellen. Wir würden unsere Arbeiten gerne installativ inszenieren, also auch in den Raum gehen. Unsere Arbeiten umfassen hauptsächlich Drucke von digitalen sowie analogen Bildern und einige Objekte.</abstract>
+        <description>Wir studieren ausserhalb von München. Paul in Weimar und Lucie In Offenbach. Dadurch dass unsere Arbeiten gerade in unterschiedlichen Städten entstehen, ist es für uns interessant, die Schnittstellen und Kontraste zu finden. Der Dialog zwischen uns, als auch die Vorstellung und Umsetzung interessieren uns besonders. Geprägt sind die Arbeiten von der Beschäftigung mit Themen, wie: Präsenz und Realitätsentfernung, Kontrolle, Druck, Zufälligkeit, Unsicherheit, und Uneffizienz, Schmutzigkeit, Vision und Traum. Als Platz wäre eine Ecke in einem Raum richtig toll oder ein eigener kleiner Raum. Wir bräuchten einen Platz von ca 5m2.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">Lucie Meyer</person>
+          <person id="55">Paula Kiermaier</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 2 - H2-2.4">
+      <event id="8928" guid="e8c9c285-1753-5a30-bf1c-e92744a91aac">
+        <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Austellungsraum 2 - H2-2.4</room>
+        <slug>jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
+        <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{Evros} "Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.“&#13;
++ Ausstellung zum Thema Ankerzentren und einige Aufsteller rund um Abschiebehaft</abstract>
+        <description>Evros, griechisch-türkische Grenze, Militärgebiet, Schüsse und ein Tänzer. &#13;
+Tanzen, da wo es möglich ist zu filmen. In den Bergen an der Grenze, bis man hier gefunden wird, dauert es länger, die Überwachung ist nicht so engschichtig. Der Tänzer ist Ayinde. Selbst diese Grenze überquert, damals gefunden vom Militär, wurde er ins Krankenhaus gebracht, Lebensgefahr. Jetzt, 11 Jahre später, das erste Mal wieder hier. Tanzend.&#13;
+Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Feld und am Meer. Tanzen mit einer Mischung aus Leid und Stolz. Tanzen aus Frust und tanzen aus Erfolg. Tanzen für sich selbst und tanzen für alle, die nicht mehr tanzen können. &#13;
+Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
+          <person id="94">lislesso {Evros}</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 3 - H2-2.7">
+      <event id="5338" guid="5afaf3d3-829f-5d31-b632-830dd40888a1">
+        <logo/>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 3 - H2-2.7</room>
+        <slug>jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
+        <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Ein Raum für Kunst der Magistra Daria (Gagaria) und des Gerhaner. Selbstreflexion, Affektverarbeitung und Bruchstücke von Traumbildern bedingen einen Ausstellungsraum der sich anfühlt wie das Wohnzimmer eines Melancholikers.</abstract>
+        <description>Setzt euch in das geborgene Zimmerchen und lasst euch von den Zeichnungen und Malereien der exzentrischen Freunde einlullen.&#13;
+&#13;
+Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kaltnadelstichdrucke die ich in den letzten zwei Monaten angefertigt habe. Die Arbeiten haben gemeinsam, dass ich mich in ihnen mit übereinanderliegenden Ebenen im ästhetischen-, sowie im Bedeutungskontext beschäftigt habe.&#13;
+&#13;
+Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="146">Daria Novikova</person>
+          <person id="71">Gerhana</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 4 - H2-3.3">
+      <event id="3595" guid="b3c5b954-24e6-59a9-bed5-e8e65a7cc19f">
+        <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 4 - H2-3.3</room>
+        <slug>jev22-3595-seltsam_klein</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
+        <title>seltsam &amp; klein</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{seltsam &amp; klein} Ausstellung mit Arbeiten, die sich zwischen Grafik &amp; Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit &amp; Anwesenheit.</abstract>
+        <description>{seltsam &amp; klein}Wir beschäftigen uns mit graphischen, bildhauerischen und performativen Praktiken.&#13;
+Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesondere Musik, haben sich Parallelen in unserem Schaffen aufgetan. Die Ergebnisse erkunden einen Teil unserer seelischen und physischen Räume. Wir fühlen uns beide München und der kreativen Szene rund um das IMAL sehr verbunden. Antikommerzielle und gemeinnützige Projekte finden wir super wichtig und wir freuen uns ein Teil dessen sein zu dürfen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Charlotte Haufe</person>
+          <person id="130">Bruno Haas</person>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 5 - H1-3.1"/>
+    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
+      <event id="8127" guid="c812c79f-df86-541c-a77e-512e83a86d1c">
+        <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2</room>
+        <slug>jev22-8127-siebdruck</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/</url>
+        <title>Siebdruck</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Live Siebdruck // Bring your own shirt! // DIY // Skillshare // GängeUtopie</abstract>
+        <description>Siebdruck ist eine leichte Technik und macht so gut wie jede*r*m Spaß — wir bringen eine Auswahl an Motiven aus dem Hamburger Gängeviertel-Projekt mit und drucken, was ihr wollt in Community!&#13;
+&#13;
+Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="186">r r r</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Kantine - H2-4.7">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+        <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
+        <date>2022-12-29T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
+        <title>Mittagessen - VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3058" guid="3fc0b582-2893-521b-bc84-0cb547decbf1">
+        <logo/>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-3058-abendessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
+        <title>Abendessen / VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Stände - H2-4.8">
+      <event id="4122" guid="412203a1-2ddd-5cea-95a4-6a23a8b15f70">
+        <logo/>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>06:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-4122-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Timeout Raum - H2-5.1"/>
   </day>
   <day index="4" date="2022-12-30" start="2022-12-30T09:00:00+01:00" end="2022-12-30T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -5652,6 +7763,718 @@ You can also spectate the event on PeerTube.</description>
         <attachments/>
         <slug>jev22-3020-modular_synth</slug>
         <start>20:00</start>
+      </event>
+    </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
+        <logo>/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-1708-oberlab_ein_fablab_im_oberland</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/</url>
+        <title>Oberlab - Ein FabLab im Oberland</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Gemeinnützige Nutzungsalternativen von zentral gelegenen Räumlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. Möbelgeschaftes in Gmund am Tegernsee in einen gemeinnützigen **Makerspace** inkl. MINT Förderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).</abstract>
+        <description>Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-Förderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.&#13;
+&#13;
+Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist unter https://oberlab.de/ zu finden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">Lukas Lischke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3801" guid="a3ecb801-4ef2-50c0-9ad0-9b6777826df6">
+        <logo>/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png</logo>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/</url>
+        <title>Wohnheim Collegium Academicum - Selbstverwaltet, ökologisch, bezahlbar</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, für über 250 Menschen bezahlbaren, selbstverwalteten und ökologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir präsentieren, wie Freiräume zum Leben und Entfalten geschaffen werden können - auch auf angespannten Wohnungsmärkten.</abstract>
+        <description>Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem &lt;a href="https://collegiumacademicum.de/"&gt;Collegium Academicum (CA)&lt;/a&gt; wird in Heidelberg ein etwas anderes Großprojekt geschaffen. Als Teil des &lt;a href="https://collegiumacademicum.de/"&gt;Mietshäuser Syndikats&lt;/a&gt; gehört das Gebäude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.&#13;
+Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das Projekt planen und finanzieren, erfährst du in diesem Vortrag.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="107">Jojo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="183" guid="0bb18303-6daa-56b6-8b83-13530ca96311">
+        <logo>/media/freiraumforum/submissions/D9NJMY/Foto_CareWerkstatt_i6S4PZd.jpg</logo>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/</url>
+        <title>Care Werkstatt // Who Cares? Werkstatt für Fürsorge(praktiken). by Assoziation:E</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Who cares ist Bildungsangebot und Anlaufstelle für Menschen, die für andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren möchten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bewältigung eurer Fürsorgearbeit!</abstract>
+        <description>Who Cares (ist) konzipiert (für) soziale Räume, in denen Menschen emanzipatorische Ansätze zur praktischen Bewältigung von Fürsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum können verschiedene Ansätze für radikal zärtliche Beziehungsweisen entwickelt und reflektiert werden. &#13;
+&#13;
+Verschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und Überwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Außerdem können verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) Fürsorge herstellen. &#13;
+&#13;
+Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlungsfähigkeit in solidarischen, zärtlichen Beziehungsweisen ermöglichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben für alle Menschen greifbar machen. Und gemeinsam die Abhängigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu überwinden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8684" guid="86dfbd8c-47d1-5c2a-bbc6-1ff2da203924">
+        <logo/>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
+        <title>WdZwo - Wir squatten das Outback</title>
+        <subtitle/>
+        <track/>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns über Austausch auch allgemein zum Thema Besetzung.</abstract>
+        <description>Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem öffentlich-werden erfolgte die Räumung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="142">Aaron</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+        <logo/>
+        <date>2022-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
+        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Viola und Ich halten einen Vortrag, in dem wir die Zuhörenden anstiften unliebsame Zäune und andere Hindernisse in ihrer Umgebung zu überwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualität steigert.</abstract>
+        <description>Unser Anliegen besteht darin eine Aufmerksamkeit für die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern können. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir überzeugt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">François</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1324" guid="132f4a45-1f42-5695-b7dd-02765afb08bd">
+        <logo>/media/freiraumforum/submissions/PPKXXZ/20221018_145703_lq_t6DK9IJ.jpg</logo>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-1324-treibgut_die_materialquelle_fuer_projekte</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/</url>
+        <title>treibgut - Die Materialquelle für Projekte</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>treibgut ist eine Materialinitiative, die dafür sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugeführt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verfügung.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="172">treibgut</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7917" guid="79b17ad3-ce71-53d5-9512-d7b31343c73c">
+        <logo/>
+        <date>2022-12-30T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:17</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/</url>
+        <title>CULTURE IS NOT DEAD - DOKU Kultursommer 2021@Gängeviertel</title>
+        <subtitle/>
+        <track/>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>„Culture is not dead!“ ist eine kritische Kurzdoku über den Kultursommer 2021 im Gängeviertel / Hamburg.</abstract>
+        <description>„Culture is not dead!“ ist eine kritische Kurzdoku über den Kultursommer 2021 im Gängeviertel.&#13;
+Um den Auswirkungen der Coronakrise auf die Kultur etwas entgegenzusetzen, förderte die Behörde für Kultur und Medien unter dem Motto „PLAY OUT LOUD“ über 100 Kulturveranstaltungen in Hamburg. Dieser sogenannte Kultursommer fand vom 15. Juli bis 16. August mit über 1.800 Veranstaltungen statt. Auch im Gängeviertel, einem der letzten Freiräume inmitten von Hamburgs gentrifizierter Innenstadt, gab es eine ganze Reihe von Veranstaltungen. Hört sich toll an! War es auch. Es gab sehr viel zu sehen, das seht ihr in der Doku. Doch wie nachhaltig ist so eine Förderung eigentlich für die Künstler*Innen? Und wie war das für die Kulturbetriebe, speziell das Gängeviertel?  Was sagen die Menschen, die daran beteiligt waren? &#13;
+&#13;
+Falls ihr gerne mehr über das Gängeviertel wissen möchtet, schaut doch hier vorbei:&#13;
+https://das-gaengeviertel.info/&#13;
+&#13;
+Wollt ihr mehr über das Filmkollektiv hinter dem Film wissen, dann schaut hier:&#13;
+https://shittypants.de/&#13;
+Insta: shittypantsproductions&#13;
+&#13;
+und auch hier:&#13;
+https://www.jonas-albrecht.de/&#13;
+Insta: zwischensequenzen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
+        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
+        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
+        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
+&#13;
+Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
+&#13;
+Die meisten lassen das natürlich bleiben. &#13;
+Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Johannes Schricker (Kulturator)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 1 - H2-2.5">
+      <event id="1958" guid="1958714c-732a-5007-8474-26df6a0e60d3">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-1958-muenchner_fluechtlingsrat_vortrag_30_12</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FTEW8W/</url>
+        <title>Münchner Flüchtlingsrat Vortrag (30.12.)</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Münchner Flüchtlingsrat</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="160">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 2 - H2-3.4">
+      <event id="5977" guid="5ad9777b-747a-5d50-baac-4f3ab0578cfc">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:40</duration>
+        <room>Workshopraum 2 - H2-3.4</room>
+        <slug>jev22-5977-erste_hilfe_auf_partys_und_veranstaltungen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/MCUGXQ/</url>
+        <title>Erste Hilfe auf Partys und Veranstaltungen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Ob auf Raves, Großveranstaltungen oder Demostrationen. Wo sich viele Menschen treffen um aktiv zu werden oder zu feiern, kommt es häufig zu Verletzungen. Was wir präventiv tun können was im Ernstfall zu tun ist, soll in diesem Workshop gemeinsam erlernt und praktisch geübt werden.</abstract>
+        <description>Der Workshop untergliedert sich in verschiedene Bereiche. Zuerst wird auf allgemeine Erste Hilfe Basics eingegangen und das Wissen aus dem Erste Hilfe Kurs aufgefrischt. Alles jedoch im Bezug auf Großveranstaltungen und Demonstrationen. Im zweiten Teil wird explizit auf Partys, Raves, Festivals etc eingegangen. Dabei sollen sowohl Gäste als auch Veranstalter*innen geschult werden was bei Intoxikation mit verschiedenen Substanzen akut zu tun ist und was präventiv sinnvoll wäre.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="159">Sami Messmer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 3 - H2-3.6">
+      <event id="2601" guid="d2bd6011-9e50-566c-8c1a-0ab0727ae3b7">
+        <logo/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-2601-abriss_party_crashen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XF9S7Q/</url>
+        <title>Abriss-Party-Crashen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Impulsvortrag, Diskussion und Workshop gegen gemeinwohlschädigenden Abriss. Viel zu viele Gebäude werden abgerissen. Das ist klimaschädlich, bringt Verdrängung und Getrifizierung mit sich. Welche Mechanismen ermöglichen das und was sind resultierende Effekte? Welche Forderungen können wir stellen?</abstract>
+        <description>2021 wurde von Architects for Future die MusterUMbauordnung als offener Brief verfasst. &#13;
+Im September 2022 hat ein breites Bündnis von Fachleuten das „Abrissmoratorium“ als offnen Brief an die Politik verfasst. Beide Fordern einen Wandel der gängigen Praxis, welcher immer noch sehr viele bestehende Gebäude zum Opfer fallen. Häufig werden Gebäude kurzerhand abgerissen. Dadurch wird jede Menge „grauer Energie“ und funktionierender Elemente zu Schutt gemacht und Unmengen an Abfall erzeugt, häufig um mit energieaufwändigen Materialien teuer neu zu bauen. Gentrifizierung und Verdrängung sind die soziale Folge, zudem werden potentielle Flächen der Aneignung und (Sub-) Kultur zerstört. Diese ökologischen, sozialen und kulturellen Schäden trägt die Allgemeinheit, häufig für die Bereicherung weniger. &#13;
+Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf welcher Ebene gibt es, Abrisse zu verhindern? Wie kann ich aktiv werden? Wie könnte ein Notfallplan zur Rettung von bedrohten Gebäuden aussehen?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="116">Jakob Bahret</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1394" guid="acdaf1b3-941c-53f0-ba9b-9f8df1442ec8">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 3 - H2-3.6</room>
+        <slug>jev22-1394-abriss_party_crashen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XF9S7Q/</url>
+        <title>Abriss-Party-Crashen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Impulsvortrag, Diskussion und Workshop gegen gemeinwohlschädigenden Abriss. Viel zu viele Gebäude werden abgerissen. Das ist klimaschädlich, bringt Verdrängung und Getrifizierung mit sich. Welche Mechanismen ermöglichen das und was sind resultierende Effekte? Welche Forderungen können wir stellen?</abstract>
+        <description>2021 wurde von Architects for Future die MusterUMbauordnung als offener Brief verfasst. &#13;
+Im September 2022 hat ein breites Bündnis von Fachleuten das „Abrissmoratorium“ als offnen Brief an die Politik verfasst. Beide Fordern einen Wandel der gängigen Praxis, welcher immer noch sehr viele bestehende Gebäude zum Opfer fallen. Häufig werden Gebäude kurzerhand abgerissen. Dadurch wird jede Menge „grauer Energie“ und funktionierender Elemente zu Schutt gemacht und Unmengen an Abfall erzeugt, häufig um mit energieaufwändigen Materialien teuer neu zu bauen. Gentrifizierung und Verdrängung sind die soziale Folge, zudem werden potentielle Flächen der Aneignung und (Sub-) Kultur zerstört. Diese ökologischen, sozialen und kulturellen Schäden trägt die Allgemeinheit, häufig für die Bereicherung weniger. &#13;
+Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf welcher Ebene gibt es, Abrisse zu verhindern? Wie kann ich aktiv werden? Wie könnte ein Notfallplan zur Rettung von bedrohten Gebäuden aussehen?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="116">Jakob Bahret</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Workshopraum 4 - H2-4.4">
+      <event id="2233" guid="22d33ac3-1cc2-55e1-8288-d4caac89da2c">
+        <logo>/media/freiraumforum/submissions/SE9L9V/Logo_kpn0WA5.png</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-2233-presse_und_oeffentlichkeit_wie_wird_man_sichtbar</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SE9L9V/</url>
+        <title>Presse und Öffentlichkeit - Wie wird man sichtbar?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Workshop zu Presse- und Öffentlichkeitsarbeit mit der Jungen Presse Bayern. Betrachtung verschiedener Kanäle und Möglichkeiten Öffentlichkeit zu generieren mit Erläuterung und Diskussion verschiedener Pläne hierfür</abstract>
+        <description>Die Junge Presse Bayern e.V. ist ein über 50 Jahre alter Verband, der sich seit jeher für die Belange von jungen Medieninteressierten und angehender Journalisten einsetzt sowie tatkräftig in der bayrischen Jugendverbandsarbeit aktiv ist. Unsere Erfahrung im Umgang mit Medien traditionell redaktioneller Art genauso wie digitalen und sozialen Medien möchten wir gerne an engagierte junge Menschen weitergeben.&#13;
+Daher sind Workshops wie dieser dafür gedacht, verschiedenste Herangehensweisen an Öffentlichkeitsarbeit zu beleuchten und einen möglichst simplen Plan zu bieten, diese selbst umzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="141">Emanuel Hellwich</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-527-aktionstraining</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
+        <title>Aktionstraining</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
+        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="140">Jonas</person>
+          <person id="9">Emmi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Klangkeller - H1-U.1">
+      <event id="7353" guid="7db3eb5a-3cca-545e-b201-60170350eda6">
+        <logo/>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-7353-ausstellung_und_mitmachen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/AZPCAW/</url>
+        <title>Ausstellung und MItmachen: DIY Musik - Räume im digitalen Zeitalter</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>Was bedeutet DIY Musik? Was bedeutet es für die lokale Szene und in welchen Räumen findet sie statt? Was hat und tut immer noch zu ihrer Wandlung beitragen? Warum spricht man von Lo-Fi? Wie sick ist ein Synthesizer? Warum sind Effektpedale das beste, das es gibt, und darf ich sie mal ausprobieren?</abstract>
+        <description>Solchen und auch anderen Fragen und Wünschen versuchen wir (New Basement) in unserem Raum nachzugehen. Eine Ausstellung zur DIY Musik und ihren lokalen Räumen, sowie ein Vortrag bzw. eine Führung dazu werden bei uns stattfinden, um dieses Thema darzustellen und Diskussionen anzuregen.&#13;
+Der Raum soll gleichzeitig auch zum Ausprobieren und Experimentieren anregen: Synthesizer und Gitarren, sowie ein riesiges Board mit Effektpedalen sollen die wildesten Soundfantasien wahr werden lassen. Zur „richtigen“ bzw. empfohlenen Anwendung wird es zudem eine kurze Live-Looping Demonstration geben.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">New Basement</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3167" guid="d31cb67a-f508-5080-8ed2-f111f6cc6c14">
+        <logo/>
+        <date>2022-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Klangkeller - H1-U.1</room>
+        <slug>jev22-3167-hoellenfrau_und_institution_fuer_kontemplation_leistungsabfall_takeover</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLFR89/</url>
+        <title>Höllenfrau und Institution für Kontemplation &amp; Leistungsabfall Takeover</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>en</language>
+        <abstract>Let there be noise. More Infos soon.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="157">Höllenfrau und Institution für Kontemplation &amp; Leistungsabfall</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ruheraum - H1-2.1"/>
+    <room name="Ausstellungsraum 1 - H2-1.3">
+      <event id="7033" guid="7c0f3c31-7312-5818-b8e2-98412415337a">
+        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 1 - H2-1.3</room>
+        <slug>jev22-7033-dazwischen_mischen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/</url>
+        <title>Dazwischen Mischen</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Wir, Lucie und Paula würden gerne Arbeiten von uns gemeinsam im Forum für Freiraum ausstellen. Wir würden unsere Arbeiten gerne installativ inszenieren, also auch in den Raum gehen. Unsere Arbeiten umfassen hauptsächlich Drucke von digitalen sowie analogen Bildern und einige Objekte.</abstract>
+        <description>Wir studieren ausserhalb von München. Paul in Weimar und Lucie In Offenbach. Dadurch dass unsere Arbeiten gerade in unterschiedlichen Städten entstehen, ist es für uns interessant, die Schnittstellen und Kontraste zu finden. Der Dialog zwischen uns, als auch die Vorstellung und Umsetzung interessieren uns besonders. Geprägt sind die Arbeiten von der Beschäftigung mit Themen, wie: Präsenz und Realitätsentfernung, Kontrolle, Druck, Zufälligkeit, Unsicherheit, und Uneffizienz, Schmutzigkeit, Vision und Traum. Als Platz wäre eine Ecke in einem Raum richtig toll oder ein eigener kleiner Raum. Wir bräuchten einen Platz von ca 5m2.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="143">Lucie Meyer</person>
+          <person id="55">Paula Kiermaier</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 2 - H2-2.4">
+      <event id="8378" guid="b8afc378-e8d0-5ed1-8db5-2df09c35ff49">
+        <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Austellungsraum 2 - H2-2.4</room>
+        <slug>jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
+        <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{Evros} "Hopefulness becomes hopelessness. You become broken. It's the place where the fight for actual freedom and equal rights starts from. You fight everyday.“&#13;
++ Ausstellung zum Thema Ankerzentren und einige Aufsteller rund um Abschiebehaft</abstract>
+        <description>Evros, griechisch-türkische Grenze, Militärgebiet, Schüsse und ein Tänzer. &#13;
+Tanzen, da wo es möglich ist zu filmen. In den Bergen an der Grenze, bis man hier gefunden wird, dauert es länger, die Überwachung ist nicht so engschichtig. Der Tänzer ist Ayinde. Selbst diese Grenze überquert, damals gefunden vom Militär, wurde er ins Krankenhaus gebracht, Lebensgefahr. Jetzt, 11 Jahre später, das erste Mal wieder hier. Tanzend.&#13;
+Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Feld und am Meer. Tanzen mit einer Mischung aus Leid und Stolz. Tanzen aus Frust und tanzen aus Erfolg. Tanzen für sich selbst und tanzen für alle, die nicht mehr tanzen können. &#13;
+Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
+          <person id="94">lislesso {Evros}</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 3 - H2-2.7">
+      <event id="4070" guid="4f0705af-050d-59c1-8615-40ce30f562de">
+        <logo/>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 3 - H2-2.7</room>
+        <slug>jev22-4070-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
+        <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
+        <subtitle/>
+        <track/>
+        <type>Kunst</type>
+        <language>de</language>
+        <abstract>Ein Raum für Kunst der Magistra Daria (Gagaria) und des Gerhaner. Selbstreflexion, Affektverarbeitung und Bruchstücke von Traumbildern bedingen einen Ausstellungsraum der sich anfühlt wie das Wohnzimmer eines Melancholikers.</abstract>
+        <description>Setzt euch in das geborgene Zimmerchen und lasst euch von den Zeichnungen und Malereien der exzentrischen Freunde einlullen.&#13;
+&#13;
+Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kaltnadelstichdrucke die ich in den letzten zwei Monaten angefertigt habe. Die Arbeiten haben gemeinsam, dass ich mich in ihnen mit übereinanderliegenden Ebenen im ästhetischen-, sowie im Bedeutungskontext beschäftigt habe.&#13;
+&#13;
+Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="146">Daria Novikova</person>
+          <person id="71">Gerhana</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Ausstellungsraum 4 - H2-3.3">
+      <event id="8802" guid="88026b80-3567-5af8-843b-d7d221803dcd">
+        <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>10:00</duration>
+        <room>Ausstellungsraum 4 - H2-3.3</room>
+        <slug>jev22-8802-seltsam_klein</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
+        <title>seltsam &amp; klein</title>
+        <subtitle/>
+        <track/>
+        <type>Ausstellung</type>
+        <language>de</language>
+        <abstract>{seltsam &amp; klein} Ausstellung mit Arbeiten, die sich zwischen Grafik &amp; Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit &amp; Anwesenheit.</abstract>
+        <description>{seltsam &amp; klein}Wir beschäftigen uns mit graphischen, bildhauerischen und performativen Praktiken.&#13;
+Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesondere Musik, haben sich Parallelen in unserem Schaffen aufgetan. Die Ergebnisse erkunden einen Teil unserer seelischen und physischen Räume. Wir fühlen uns beide München und der kreativen Szene rund um das IMAL sehr verbunden. Antikommerzielle und gemeinnützige Projekte finden wir super wichtig und wir freuen uns ein Teil dessen sein zu dürfen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="129">Charlotte Haufe</person>
+          <person id="130">Bruno Haas</person>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Austellungsraum 5 - H1-3.1"/>
+    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
+    <room name="Kantine - H2-4.7">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+        <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
+        <date>2022-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
+        <title>Mittagessen - VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="945" guid="e09bcdaa-d4bb-5a44-a633-a66b04c2b15b">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Kantine - H2-4.7</room>
+        <slug>jev22-945-abendessen_volxkueche_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
+        <title>Abendessen / VolxKüche München</title>
+        <subtitle/>
+        <track/>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>dieVokuekocht</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="162">VolxKüche München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Stände - H2-4.8">
+      <event id="9100" guid="b9100420-0099-5a56-a006-e4b480a45c8c">
+        <logo/>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-9100-no_future_for_iaa_solistand_frei_raum_im_kontext_des_speziesismus_stand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA - Solistand; "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Timeout Raum - H2-5.1">
+      <event id="5833" guid="5ee83318-5313-5326-b621-9864b85662a3">
+        <logo>/media/freiraumforum/submissions/8ZZMXT/Plattenregal_77s46zo.jpg</logo>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Timeout Raum - H2-5.1</room>
+        <slug>jev22-5833-techno</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8ZZMXT/</url>
+        <title>Techno: Geschichte, Sound, Politisches – ein Soundseminar mit Lutema</title>
+        <subtitle/>
+        <track/>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Ein Soundseminar mit Diskussion mit ausführlichen Musikbeispielen über die Entstehungsgeschichten von Techno als Musik, das Ausbrechen aus Identitäten und die Frage, was daran politisch ist.</abstract>
+        <description>Techno ist ein Fall für die Geschichtsbücher geworden, die Dokus auf einschlägigen Plattformen sind abendfüllend, in Frankfurt wurde ein eigenes Museum errichtet. Vielfach wird eine Erzählung geliefert, die Techno mit einer Aufbruchsstimmung in Richtung unpolitischem Hedonismus assoziiert und die bestrebt ist Techno als originär deutsche Musik- und Feierkultur festzuschreiben. In diesem Vortrag wird eine andere Geschichte erzählt, eine in der den Deutschen Techno weggenommen und eine andere, oftmals marginalisierte Perspektiven gestärkt werden. &#13;
+Zentral wird dabei die Frage sein, wie sich die Geschichte von Techno erzählen lässt ohne dabei Sehnsüchte nach Ursprüngen, nach Identität oder Originären zu bedienen. In der Veranstaltung wird ein Blick auf Techno vorgeschlagen, der die dieser Musik innewohnenden Momenten des Uneindeutigen, des Hybriden und Vermischten betont.&#13;
+Diese Inhalte und die damit verbundenen Praktiken müssen als gesellschaftskritisch betrachtet und dabei herkömmliche, verengte Verständnisse des Politischen erweitert werden. Tatkräftig unterstützt durch diverse Plattenbeispiele soll so Verständnis und Leidenschaft für diese Musikkultur intensiviert werden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="102">Lutema</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1711" guid="ed17118c-fde4-5a4b-94ea-7cb073b9aa0f">
+        <logo>/media/freiraumforum/submissions/KJAG3Q/noiseinthewires_lVIINYN.png</logo>
+        <date>2022-12-30T18:25:00+01:00</date>
+        <start>18:25</start>
+        <duration>01:30</duration>
+        <room>Timeout Raum - H2-5.1</room>
+        <slug>jev22-1711-noise_on_the_wires_jam_session</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KJAG3Q/</url>
+        <title>Noise on the Wires Jam Session</title>
+        <subtitle/>
+        <track/>
+        <type>Concert</type>
+        <language>en</language>
+        <abstract>Synthesizer Jam Session. Bring a piece of your favorite analog gear (synth, drum machine, sampler, modular) and let’s jam together.</abstract>
+        <description>We will bring amp, mixer and provide a central MIDI clock. Bring a piece of your favorite analog gear (synths, drum machines, modular) and let’s jam together. Please bring your own midi and audio cable. Musicians, gear geeks as well as electronic music lovers are welcome!&#13;
+&#13;
+If you are a musician and know about your participation beforehand then please drop me a line either via https://www.meetup.com/synth-jams-munich/ or https://www.instagram.com/deergardenjams/.&#13;
+&#13;
+Otherwise be spontaneous and just drop by.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="151">Alec</person>
+        </persons>
+        <links/>
+        <attachments/>
       </event>
     </room>
   </day>

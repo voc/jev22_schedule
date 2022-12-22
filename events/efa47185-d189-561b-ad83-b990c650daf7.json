@@ -1,0 +1,33 @@
+{
+  "id": 4718,
+  "guid": "efa47185-d189-561b-ad83-b990c650daf7",
+  "logo": "",
+  "date": "2022-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "04:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-4718-echokammer_takeover",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/LL377K/",
+  "title": "Echokammer Takeover: LIVE",
+  "subtitle": "",
+  "track": null,
+  "type": "Concert",
+  "language": "de",
+  "abstract": "The Munich Underground Label takes over the forum with wild sounds, from experimental electronics to surf rock to rebetiko to noise. More infos soon.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 153,
+      "code": "EBQBP7",
+      "public_name": "Echokammer",
+      "biography": "M\u00fcnchner Musik Label",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

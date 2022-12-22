@@ -1,0 +1,33 @@
+{
+  "id": 729,
+  "guid": "e072938b-803a-5ec2-a7c5-01e2e6920c9c",
+  "logo": "",
+  "date": "2022-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/",
+  "title": "Tabellenkalkulationsfunktionen in Quelltext umwandeln",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext erm\u00f6glicht, welcher die f\u00fcr unterst\u00fctze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enth\u00e4lt.",
+  "description": "Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abh\u00e4ngigheit von Werten und auch von anderen Berechnungen vornehmen zu k\u00f6nnen und die Funktionen sind in mindestens 100 Sprachen teilweise \u00fcbersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gew\u00fcnscht, dass es m\u00f6glich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf h\u00f6here Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverst\u00e4ndnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das erm\u00f6glicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung erm\u00f6glichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren m\u00f6glich ist und vielleicht hilft diese M\u00f6glichkeit, den Zugang zu Programmieren in h\u00f6heren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 111,
+      "code": "UDXCLM",
+      "public_name": "Hog\u00fc-456",
+      "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

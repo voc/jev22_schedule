@@ -1,0 +1,33 @@
+{
+  "id": 1958,
+  "guid": "1958714c-732a-5007-8474-26df6a0e60d3",
+  "logo": "",
+  "date": "2022-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Workshopraum 1 - H2-2.5",
+  "slug": "jev22-1958-muenchner_fluechtlingsrat_vortrag_30_12",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FTEW8W/",
+  "title": "M\u00fcnchner Fl\u00fcchtlingsrat Vortrag (30.12.)",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "en",
+  "abstract": "M\u00fcnchner Fl\u00fcchtlingsrat",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

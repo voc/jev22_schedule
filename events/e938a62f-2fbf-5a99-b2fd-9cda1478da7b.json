@@ -1,0 +1,40 @@
+{
+  "id": 9386,
+  "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+  "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
+  "date": "2022-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
+  "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beitr\u00e4gen zu Polizeiforschung und Architektur stattfinden wird.",
+  "description": "Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nUnser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext f\u00fcr gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkst\u00e4tten und einem monatlichen Kolloquium. Wissen soll dabei f\u00fcr emanzipatorische Bewegungen zug\u00e4nglich(er) werden.\r\n\r\nZentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? \r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "code": "8UNDWN",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    },
+    {
+      "id": 158,
+      "code": "Y9XTHZ",
+      "public_name": "Assoziation:E e.V.",
+      "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

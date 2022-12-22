@@ -1,0 +1,33 @@
+{
+  "id": 5655,
+  "guid": "5655ac27-0e1a-5bb2-97f6-807f3812c57e",
+  "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
+  "date": "2022-12-27T11:30:00+01:00",
+  "start": "11:30",
+  "duration": "03:00",
+  "room": "Kantine - H2-4.7",
+  "slug": "jev22-5655-mittagessen_volxkueche_muenchen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
+  "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
+  "subtitle": "",
+  "track": null,
+  "type": "Weiteres",
+  "language": "de",
+  "abstract": "dieVokuekocht",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 162,
+      "code": "ESQCC8",
+      "public_name": "VolxK\u00fcche M\u00fcnchen",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1708,
+  "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
+  "logo": "/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg",
+  "date": "2022-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-1708-oberlab_ein_fablab_im_oberland",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
+  "title": "Oberlab - Ein FabLab im Oberland",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Gemeinn\u00fctzige Nutzungsalternativen von zentral gelegenen R\u00e4umlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. M\u00f6belgeschaftes in Gmund am Tegernsee in einen gemeinn\u00fctzigen **Makerspace** inkl. MINT F\u00f6rderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).",
+  "description": "Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-F\u00f6rderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.\r\n\r\nEine \u00dcbersicht zu dem Projekt getragen durch einen gemeinn\u00fctzigen Verein ist unter https://oberlab.de/ zu finden.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 97,
+      "code": "AHMGBT",
+      "public_name": "Lukas Lischke",
+      "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

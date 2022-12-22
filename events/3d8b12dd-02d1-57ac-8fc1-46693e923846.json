@@ -1,0 +1,33 @@
+{
+  "id": 3812,
+  "guid": "3d8b12dd-02d1-57ac-8fc1-46693e923846",
+  "logo": "",
+  "date": "2022-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "01:30",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/",
+  "title": "Kunst und Kommerz, ein problematisches Verh\u00e4ltnis",
+  "subtitle": "",
+  "track": null,
+  "type": "Diskussion",
+  "language": "de",
+  "abstract": "Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
+  "description": "Pravu Mazumdar (Philosoph) angefr.\r\nRossana Pondorf (Artspace Rosa Stern) best\u00e4tigt\r\n\r\nModeration: Peter Arun Pfaff",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 139,
+      "code": "UMSJZX",
+      "public_name": "Peter Arun Pfaff",
+      "biography": "CV von Hirsch und Pfaff folgen",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8460,
+  "guid": "84dd6041-a73f-5a96-875f-a32655b01747",
+  "logo": "",
+  "date": "2022-12-28T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:30",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-8460-programmieren_mit_satzbausteinen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/",
+  "title": "Programmieren mit Satzbausteinen",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets erm\u00f6glicht, vorgestellt.",
+  "description": "Programmieren ist vielf\u00e4ltig und so gibt es verschiedene Ans\u00e4tze. Die menschliche Kommunikation l\u00e4uft teilweise \u00fcber Sprache und so ist es naheliegend, zu versuchen, nat\u00fcrliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es erm\u00f6glicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere nat\u00fcrliche Sprachen \u00fcbersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschlie\u00dfend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets f\u00fcr weitere Programmiersprachen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 111,
+      "code": "UDXCLM",
+      "public_name": "Hog\u00fc-456",
+      "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

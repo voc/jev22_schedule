@@ -1,0 +1,40 @@
+{
+  "id": 183,
+  "guid": "0bb18303-6daa-56b6-8b83-13530ca96311",
+  "logo": "/media/freiraumforum/submissions/D9NJMY/Foto_CareWerkstatt_i6S4PZd.jpg",
+  "date": "2022-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "02:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/",
+  "title": "Care Werkstatt // Who Cares? Werkstatt f\u00fcr F\u00fcrsorge(praktiken). by Assoziation:E",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Who cares ist Bildungsangebot und Anlaufstelle f\u00fcr Menschen, die f\u00fcr andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren m\u00f6chten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bew\u00e4ltigung eurer F\u00fcrsorgearbeit!",
+  "description": "Who Cares (ist) konzipiert (f\u00fcr) soziale R\u00e4ume, in denen Menschen emanzipatorische Ans\u00e4tze zur praktischen Bew\u00e4ltigung von F\u00fcrsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum k\u00f6nnen verschiedene Ans\u00e4tze f\u00fcr radikal z\u00e4rtliche Beziehungsweisen entwickelt und reflektiert werden. \r\n\r\nVerschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und \u00dcberwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Au\u00dferdem k\u00f6nnen verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) F\u00fcrsorge herstellen. \r\n\r\nWho cares m\u00f6chte angesichts versch\u00e4rfter sozialer Notlagen individuelle Handlungsf\u00e4higkeit in solidarischen, z\u00e4rtlichen Beziehungsweisen erm\u00f6glichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben f\u00fcr alle Menschen greifbar machen. Und gemeinsam die Abh\u00e4ngigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu \u00fcberwinden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "code": "8UNDWN",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    },
+    {
+      "id": 158,
+      "code": "Y9XTHZ",
+      "public_name": "Assoziation:E e.V.",
+      "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

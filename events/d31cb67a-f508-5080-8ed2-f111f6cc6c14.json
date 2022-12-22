@@ -1,0 +1,33 @@
+{
+  "id": 3167,
+  "guid": "d31cb67a-f508-5080-8ed2-f111f6cc6c14",
+  "logo": "",
+  "date": "2022-12-30T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "03:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-3167-hoellenfrau_und_institution_fuer_kontemplation_leistungsabfall_takeover",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLFR89/",
+  "title": "H\u00f6llenfrau und Institution f\u00fcr Kontemplation & Leistungsabfall Takeover",
+  "subtitle": "",
+  "track": null,
+  "type": "Concert",
+  "language": "en",
+  "abstract": "Let there be noise. More Infos soon.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 157,
+      "code": "WJMGXU",
+      "public_name": "H\u00f6llenfrau und Institution f\u00fcr Kontemplation & Leistungsabfall",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

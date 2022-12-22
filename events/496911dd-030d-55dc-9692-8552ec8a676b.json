@@ -1,0 +1,33 @@
+{
+  "id": 4969,
+  "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
+  "logo": "",
+  "date": "2022-12-27T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
+  "title": "Lass mich durch - Wege befreien im urbanen Raum",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Viola und Ich halten einen Vortrag, in dem wir die Zuh\u00f6renden anstiften unliebsame Z\u00e4une und andere Hindernisse in ihrer Umgebung zu \u00fcberwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualit\u00e4t steigert.",
+  "description": "Unser Anliegen besteht darin eine Aufmerksamkeit f\u00fcr die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern k\u00f6nnen. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir \u00fcberzeugt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 122,
+      "code": "DNHE9D",
+      "public_name": "Fran\u00e7ois",
+      "biography": "Ich mache Kunst mit Bildern, Musik und Texten. Ich habe keine Hobbies mehr.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

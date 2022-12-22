@@ -1,0 +1,40 @@
+{
+  "id": 3706,
+  "guid": "37fc0602-d596-56a7-bdce-72253b7b5164",
+  "logo": "/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png",
+  "date": "2022-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-3706-slapp",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/",
+  "title": "SLAPP: Rechtsmissbrauch zulasten der kritischen \u00d6ffentlichkeit - und was dagegen getan werden kann.",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Immer mehr Unternehmen, staatliche Akteure und reiche Einzelpersonen nutzen rechtliche Mittel, um Kritiker*innen zum Schweigen zu bringen. Blueprint for Free Speech und RA Dr. Jasper Prigge stellen das Ph\u00e4nomen der \u201cStrategic Lawsuits Against Public Participation\u201d und m\u00f6gliche Gegenma\u00dfnahmen vor.",
+  "description": "Die Kurzform SLAPP kommt aus den USA: \u00dcberm\u00e4chtige Player, die Journalisti oder Aktivisti mit juristischen \u201cOhrfeigen\u201d zum schweigen bringen wollen. Nicht immer sind die Forderungen juristisch unbegr\u00fcndet, aber in jedem Fall haben sie einen einsch\u00fcchternden Effekt. Weil SLAPPs ein strategisches Mittel in der Auseinandersetzung um f\u00fcr die \u00d6ffentlichkeit wesentliche Themen sind, handelt es sich nicht zuletzt um Ohrfeigen f\u00fcr die Demokratie.\r\n\r\nSLAPPs sind darauf gerichtet, \u00f6ffentliche Partizipation zu schw\u00e4chen, indem sie Kritiker:innen einsch\u00fcchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfl\u00e4che so klein wie m\u00f6glich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. \r\n\r\nBlueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge in die Thematik einf\u00fchren, inkl. Q&A.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "code": "8UNDWN",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    },
+    {
+      "id": 163,
+      "code": "9TX7P3",
+      "public_name": "Blueprint For Free Speech",
+      "biography": "Blueprint for Free Speech is non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. Our research and advocacy strive to defend Article 19 of the Universal Declaration of Human Rights, which asserts the right to freedom of opinion and expression for all people.\r\n\r\nhttps://www.blueprintforfreespeech.net",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7353,
+  "guid": "7db3eb5a-3cca-545e-b201-60170350eda6",
+  "logo": "",
+  "date": "2022-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "06:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-7353-ausstellung_und_mitmachen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZPCAW/",
+  "title": "Ausstellung und MItmachen: DIY Musik - R\u00e4ume im digitalen Zeitalter",
+  "subtitle": "",
+  "track": null,
+  "type": "Ausstellung",
+  "language": "de",
+  "abstract": "Was bedeutet DIY Musik? Was bedeutet es f\u00fcr die lokale Szene und in welchen R\u00e4umen findet sie statt? Was hat und tut immer noch zu ihrer Wandlung beitragen? Warum spricht man von Lo-Fi? Wie sick ist ein Synthesizer? Warum sind Effektpedale das beste, das es gibt, und darf ich sie mal ausprobieren?",
+  "description": "Solchen und auch anderen Fragen und W\u00fcnschen versuchen wir (New Basement) in unserem Raum nachzugehen. Eine Ausstellung zur DIY Musik und ihren lokalen R\u00e4umen, sowie ein Vortrag bzw. eine F\u00fchrung dazu werden bei uns stattfinden, um dieses Thema darzustellen und Diskussionen anzuregen.\r\nDer Raum soll gleichzeitig auch zum Ausprobieren und Experimentieren anregen: Synthesizer und Gitarren, sowie ein riesiges Board mit Effektpedalen sollen die wildesten Soundfantasien wahr werden lassen. Zur \u201erichtigen\u201c bzw. empfohlenen Anwendung wird es zudem eine kurze Live-Looping Demonstration geben.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 95,
+      "code": "9YW3NX",
+      "public_name": "New Basement",
+      "biography": "Das Community Label \u201cNew Basement \u201c existiert seit 2018. Zuerst als \u201eNaked Nuns\u201c bekannt, war es zuerst ein Passionsprojekt von Christoph Tianping Xiao, jedoch entwickelte es sich durch die Vernetzung von lokalen Indie Musikern und Kreativen zu einer Community, die es sich zum Ziel macht, interessante Musik ohne kommerziellen Zwang zu ver\u00f6ffentlichen. New Basement events sollen durch unkonventionelle Formate, spannende Bands und niedrige Ticketpreise eine wachsende DIY Musik community erm\u00f6glichen. Unterst\u00fctzt wird das Projekt vom Neu Workshop.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7822,
+  "guid": "78227529-e5dd-5541-90f7-5408e2d0e69f",
+  "logo": "",
+  "date": "2022-12-27T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "02:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-7822-tontechnik_basic_workshop_schaufel_besen_und_zombie_sessions_takeover",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PHFQV9/",
+  "title": "Tontechnik Basic Workshop - Schaufel & Besen und Zombie Sessions Takeover",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Tontechnik Basic Workshop! Mehr Infos folgen.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 155,
+      "code": "7MJLYM",
+      "public_name": "Schaufel & Besen und Zombie Sessions",
+      "biography": "Schaufel & Besen Records verbreitet Aufnahmen und Ver\u00f6ffentlichungen, begleitet Konzerte und Events und fegt den Hochglanz von der Stadt der Reichen und Sch\u00f6nen.\r\n\r\nSchaufel & Besen ist eine echte M\u00fcnchner Geschichte, geschrieben im Oberf\u00f6hringer B\u00fcrgerpark.\r\n\r\nHier, am Nordrand der Stadt, fanden die Indie-Veteranen Zerberstian und Other ihre Basis, genau wie sp\u00e4ter Zerberstians Tochter Sophie mit ihren Freunden Vincent und Charly, die neben diversen Bands auch die Konzertreihe Zombie Sessions entwickelten.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

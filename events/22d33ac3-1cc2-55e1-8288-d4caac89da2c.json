@@ -1,0 +1,33 @@
+{
+  "id": 2233,
+  "guid": "22d33ac3-1cc2-55e1-8288-d4caac89da2c",
+  "logo": "/media/freiraumforum/submissions/SE9L9V/Logo_kpn0WA5.png",
+  "date": "2022-12-30T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "02:00",
+  "room": "Workshopraum 4 - H2-4.4",
+  "slug": "jev22-2233-presse_und_oeffentlichkeit_wie_wird_man_sichtbar",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SE9L9V/",
+  "title": "Presse und \u00d6ffentlichkeit - Wie wird man sichtbar?",
+  "subtitle": "",
+  "track": null,
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Workshop zu Presse- und \u00d6ffentlichkeitsarbeit mit der Jungen Presse Bayern. Betrachtung verschiedener Kan\u00e4le und M\u00f6glichkeiten \u00d6ffentlichkeit zu generieren mit Erl\u00e4uterung und Diskussion verschiedener Pl\u00e4ne hierf\u00fcr",
+  "description": "Die Junge Presse Bayern e.V. ist ein \u00fcber 50 Jahre alter Verband, der sich seit jeher f\u00fcr die Belange von jungen Medieninteressierten und angehender Journalisten einsetzt sowie tatkr\u00e4ftig in der bayrischen Jugendverbandsarbeit aktiv ist. Unsere Erfahrung im Umgang mit Medien traditionell redaktioneller Art genauso wie digitalen und sozialen Medien m\u00f6chten wir gerne an engagierte junge Menschen weitergeben.\r\nDaher sind Workshops wie dieser daf\u00fcr gedacht, verschiedenste Herangehensweisen an \u00d6ffentlichkeitsarbeit zu beleuchten und einen m\u00f6glichst simplen Plan zu bieten, diese selbst umzusetzen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 141,
+      "code": "ME3L7Q",
+      "public_name": "Emanuel Hellwich",
+      "biography": "Vorstand der Jungen Presse Bayern e.V.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

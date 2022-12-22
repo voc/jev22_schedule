@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-22 15:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:30; Winterchaos 0.1",
+    "version": "2022-12-22 16:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 16:30; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.1",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -330,6 +330,78 @@
       {
         "guid": null,
         "schedule_name": "Winterchaos"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Vortragsraum 1 - Ahlam - H2-1.6"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Vortragsraum 2 - Bhavani - H1-5.2"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Workshopraum 1 - H2-2.5"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Workshopraum 2 - H2-3.4"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Workshopraum 3 - H2-3.6"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Workshopraum 4 - H2-4.4"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Klangkeller - H1-U.1"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Ruheraum - H1-2.1"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Ausstellungsraum 1 - H2-1.3"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Austellungsraum 2 - H2-2.4"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Ausstellungsraum 3 - H2-2.7"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Ausstellungsraum 4 - H2-3.3"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Austellungsraum 5 - H1-3.1"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Festivalzentrum - H1-0.1"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Kantine - H2-4.7"
+      },
+      {
+        "guid": null,
+        "schedule_name": "St\u00e4nde - H2-4.8"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Timeout Raum - H2-5.1"
       }
     ]
   }

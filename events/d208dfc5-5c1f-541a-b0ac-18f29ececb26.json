@@ -1,0 +1,33 @@
+{
+  "id": 2085,
+  "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
+  "logo": "",
+  "date": "2022-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:50",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-2085-raum_fuer_die_schoene_welt",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
+  "title": "Raum f\u00fcr die sch\u00f6ne Welt",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "In diesem Vortrag m\u00f6chte Tobias Budesheim Vorstandmitglied von Students for Ukraine Raum geben f\u00fcr die sch\u00f6ne Welt. Er pr\u00e4sentiert Hoffnungsbilder in einer Zeit in der es scheint, als ob die Welt aus den Fugen ger\u00e4t. Was sind meine Freiheitsr\u00e4ume? Wo ist die Welt noch sch\u00f6n?",
+  "description": "Wer ist wirklich frei? Ein Raum ist nur so gro\u00df, wie wir ihn uns erschaffen. Das gilt auch f\u00fcr unsere Gedanken. Wir f\u00fcllen einen Raum mit Menschen, M\u00f6beln, Bildern und Erinnerungen. Das gilt auch f\u00fcr das Menschliche Gehirn. Wann aber ist der Raum den wir erschaffen bedroht? Diese Frage stellten sich schon viele Autoren, \u00d6konomen, Wissenschaftler, Politiker und sogar Menschen in der Steinzeit. Was sind unsere Abwehrhandlungen? Wie gehen wir damit um? Und wie k\u00f6nnen wir mit unsere vielen sogenannten \"Bias\" umgehen? Schaffen wir es neue R\u00e4ume zu gestalten? Oder bleiben wir in unseren alten R\u00e4ume?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 123,
+      "code": "ZPDZJX",
+      "public_name": "Tobias Budesheim",
+      "biography": "Tobias Budesheim, 23 Jahre alt, Vorstandsmitglied bei Students for Ukraine Munich e.V, Studium in Betriebswirtschaft und Unternehmensf\u00fchrung, aber auch k\u00fcnstlerisch unterwegs und hat eine musikalische Ader. Schaffen von neuen R\u00e4umen und innovative nachhaltige Gedanken sind sein Weg die Sch\u00f6nheit der Welt einzufangen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

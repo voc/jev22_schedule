@@ -1,0 +1,33 @@
+{
+  "id": 5413,
+  "guid": "5413a45e-6875-5817-9230-fe49a2cf2f95",
+  "logo": "",
+  "date": "2022-12-27T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "03:00",
+  "room": "Klangkeller - H1-U.1",
+  "slug": "jev22-5413-schaufel_besen_und_zombie_sessions_takeover",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UPP7XB/",
+  "title": "Schaufel & Besen und Zombie Sessions Takeover: LIVE",
+  "subtitle": "",
+  "track": null,
+  "type": "Concert",
+  "language": "de",
+  "abstract": "Es spielen: El B\u00fab\u00fa, G.rag / zelig implosion deluxxe, Uschi und Fr\u00fchst\u00fcck im Bett!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 155,
+      "code": "7MJLYM",
+      "public_name": "Schaufel & Besen und Zombie Sessions",
+      "biography": "Schaufel & Besen Records verbreitet Aufnahmen und Ver\u00f6ffentlichungen, begleitet Konzerte und Events und fegt den Hochglanz von der Stadt der Reichen und Sch\u00f6nen.\r\n\r\nSchaufel & Besen ist eine echte M\u00fcnchner Geschichte, geschrieben im Oberf\u00f6hringer B\u00fcrgerpark.\r\n\r\nHier, am Nordrand der Stadt, fanden die Indie-Veteranen Zerberstian und Other ihre Basis, genau wie sp\u00e4ter Zerberstians Tochter Sophie mit ihren Freunden Vincent und Charly, die neben diversen Bands auch die Konzertreihe Zombie Sessions entwickelten.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

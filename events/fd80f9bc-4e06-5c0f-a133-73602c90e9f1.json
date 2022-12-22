@@ -1,0 +1,40 @@
+{
+  "id": 8094,
+  "guid": "fd80f9bc-4e06-5c0f-a133-73602c90e9f1",
+  "logo": "",
+  "date": "2022-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "02:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
+  "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
+  "subtitle": "",
+  "track": null,
+  "type": "Gespr\u00e4ch",
+  "language": "de",
+  "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
+  "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "code": "8UNDWN",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    },
+    {
+      "id": 170,
+      "code": "FSN8DS",
+      "public_name": "Kathi",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

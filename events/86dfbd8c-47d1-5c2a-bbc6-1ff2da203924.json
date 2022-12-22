@@ -1,0 +1,33 @@
+{
+  "id": 8684,
+  "guid": "86dfbd8c-47d1-5c2a-bbc6-1ff2da203924",
+  "logo": "",
+  "date": "2022-12-30T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:30",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-8684-wdzwo_wir_squatten_das_outback",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/",
+  "title": "WdZwo - Wir squatten das Outback",
+  "subtitle": "",
+  "track": null,
+  "type": "Diskussion",
+  "language": "de",
+  "abstract": "In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns \u00fcber Austausch auch allgemein zum Thema Besetzung.",
+  "description": "Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem \u00f6ffentlich-werden erfolgte die R\u00e4umung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 142,
+      "code": "VDPXSV",
+      "public_name": "Aaron",
+      "biography": "Bin ein Fan selbstorganisierter Freir\u00e4ume, deshalb liebe ich dieses Forum!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

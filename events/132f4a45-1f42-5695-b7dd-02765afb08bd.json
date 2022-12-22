@@ -1,0 +1,33 @@
+{
+  "id": 1324,
+  "guid": "132f4a45-1f42-5695-b7dd-02765afb08bd",
+  "logo": "/media/freiraumforum/submissions/PPKXXZ/20221018_145703_lq_t6DK9IJ.jpg",
+  "date": "2022-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-1324-treibgut_die_materialquelle_fuer_projekte",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/",
+  "title": "treibgut - Die Materialquelle f\u00fcr Projekte",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 172,
+      "code": "HTG3LJ",
+      "public_name": "treibgut",
+      "biography": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.\r\nMehr Infos:\r\nInsta: treibgut.lager.muc\r\nhttp://www.treibgut-lager.de/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
