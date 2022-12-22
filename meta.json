@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-21 23:50; FireShonks 0.19; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:50; Winterchaos 0.1",
+    "version": "2022-12-22 02:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 02:10; Winterchaos 0.1",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -274,6 +274,10 @@
       {
         "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
         "schedule_name": "c-base mainhall"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Merch Desk"
       },
       {
         "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",

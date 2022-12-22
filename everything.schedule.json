@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-21 23:50; FireShonks 0.19; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:50; Winterchaos 0.1",
+    "version": "2022-12-22 02:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 02:10; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -62,6 +62,13 @@
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
           "description": null,
           "capacity": 100,
+          "location": "Berlin, ETI Schauspielschule + c-base"
+        },
+        {
+          "name": "Merch Desk",
+          "guid": null,
+          "description": "You can find the preordered merch here",
+          "capacity": null,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
@@ -659,42 +666,11 @@
                 "attachments": []
               },
               {
-                "id": 49143,
-                "guid": "a9aecfda-590a-5dcd-8f3c-81e84038daf3",
-                "logo": "",
-                "date": "2022-12-27T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
-                "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
-                "title": "US government demands direct police access to European biometric data",
-                "subtitle": "",
-                "track": "E.T.I.",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "The \"Enhanced Border Security Partnership\" poses an unprecedented threat to civil liberties in Europe.",
-                "description": "Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3280,
-                    "code": "9CLNLW",
-                    "public_name": "Matthias Monroy",
-                    "biography": "Knowledge worker, activist, editor of the German civil rights journal B\u00fcrgerrechte & Polizei/CILIP. Focussing on policing in the European Union, migration control, undercover cops, internet monitoring, surveillance and interception technologies, police gadgets, satellite intelligence, drones. Publishing in left-wing newspapers and online-media like netzpolitik.org or Golem. Texts at https://digit.so36.net (multilanguage). Twitter @matthimon and Mastodon https://chaos.social/@matthimon.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 49151,
                 "guid": "05a9fd54-56dd-564a-8035-da88cdde0a5b",
                 "logo": "",
-                "date": "2022-12-27T18:30:00+01:00",
-                "start": "18:30",
+                "date": "2022-12-27T16:00:00+01:00",
+                "start": "16:00",
                 "duration": "00:55",
                 "room": "Theater Hall E.T.I.",
                 "slug": "jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly",
@@ -714,6 +690,37 @@
                     "code": "3VRY8M",
                     "public_name": "Ilja van Sprundel",
                     "biography": "TODO",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49143,
+                "guid": "a9aecfda-590a-5dcd-8f3c-81e84038daf3",
+                "logo": "",
+                "date": "2022-12-27T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:45",
+                "room": "Theater Hall E.T.I.",
+                "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
+                "title": "US government demands direct police access to European biometric data",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "The \"Enhanced Border Security Partnership\" poses an unprecedented threat to civil liberties in Europe.",
+                "description": "Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3280,
+                    "code": "9CLNLW",
+                    "public_name": "Matthias Monroy",
+                    "biography": "Knowledge worker, activist, editor of the German civil rights journal B\u00fcrgerrechte & Polizei/CILIP. Focussing on policing in the European Union, migration control, undercover cops, internet monitoring, surveillance and interception technologies, police gadgets, satellite intelligence, drones. Publishing in left-wing newspapers and online-media like netzpolitik.org or Golem. Texts at https://digit.so36.net (multilanguage). Twitter @matthimon and Mastodon https://chaos.social/@matthimon.",
                     "answers": []
                   }
                 ],
@@ -1170,6 +1177,7 @@
                 "attachments": []
               }
             ],
+            "Merch Desk": [],
             "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 409,
@@ -2546,30 +2554,30 @@
             ],
             "c-base mainhall": [
               {
-                "id": 49145,
-                "guid": "fb613047-0b65-5f43-885d-0fc3ef074df8",
-                "logo": "/media/hip-berlin-2022/submissions/W7XRGH/photo_2022-01-10_20-54-06_6e5NSLP.jpg",
-                "date": "2022-12-28T22:00:00+01:00",
-                "start": "22:00",
-                "duration": "00:50",
+                "id": 49263,
+                "guid": "474e589e-9ea8-541e-914f-730260aa4a26",
+                "logo": "/media/hip-berlin-2022/submissions/ADCSSQ/rover_1YtEEQZ.jpeg",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:30",
                 "room": "c-base mainhall",
-                "slug": "jev22-49145-eigenform",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/",
-                "title": "Eigenform",
+                "slug": "jev22-49263-cuber_mondforschung_und_erkundung_und_modularen_nanorovern",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ADCSSQ/",
+                "title": "CubeR - Mondforschung und \u2013Erkundung und modularen Nanorovern",
                 "subtitle": "",
                 "track": "c-base",
-                "type": "Music/Performance/Art/Other Cool stuff",
-                "language": "en",
-                "abstract": "Live music set by Eigenform, an electronic music and multimedia project.",
-                "description": "Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Matthias Maurer beschreibt den Mond als unser *Sprungbrett zum Mars*. Und nicht nur f\u00fcr Missionen zum n\u00e4chsten Planeten, sondern auch f\u00fcr wesentlich weiter entfernte Ziele, wo nie ein Mensch zuvor gewesen ist, wird es unabdingbar sein, den Mond als Trainingsgel\u00e4nde zu nutzen. Mit Hilfe unserer **CubeR** soll die Oberfl\u00e4che des Mondes sowohl f\u00fcr die Wissenschaft als auch f\u00fcr die Industrie zug\u00e4nglich werden. Unsere nach einem offenen Standard entwickelten Nano-Rover stellen eine Grundlage f\u00fcr die Erforschung der unendlichen Weiten des Weltraums dar.",
+                "description": "Mit dem vision\u00e4ren Ziel der europ\u00e4ischen Raumfahrtagentur ESA, bis 2040 eine bemannte Basis auf dem Mond aufzubauen, r\u00fcckt der Mond mehr und mehr in den Fokus von Industrie und Forschung. Die Entwicklung von Nanosatelliten f\u00fcr den Erdorbit, sogenannten CubeSats, hat in den letzten Jahrzehnten eine Revolution in Sachen Zugang zum Weltraum bewirkt. Ziel der 2020 von *Irene Selvanathan* gegr\u00fcndeten **NEUROSPACE GmbH** ist die Erweiterung dieses Wandels bis hin zur Mondoberfl\u00e4che. Dabei gilt es zu untersuchen, in wie weit bestehende CubeSat-Technologie f\u00fcr den Einsatz in der doch sehr \u00e4hnlichen Umgebung geeignet ist. Mit Hilfe eines offenen Standards f\u00fcr die Entwicklung lunarer Rover will NEUROSPACE bewirken, dass zuk\u00fcnftige Missionen sich mehr auf den eigentlichen Anwendungsfall fokussieren k\u00f6nnen, anstatt auf die Entwicklung und Zertifizierung ben\u00f6tigter Komponenten. In diesem Vortrag wird das von Neurospace entwickelte CubeR-Konzept vorgestellt und eine Einordnung der zuk\u00fcnftigen Bedeutung robotischer Systeme f\u00fcr die lunare Erforschung vorgenommen. Dabei wird auf die besonderen Herausforderungen, die es bei der Entwicklung derartiger Systeme zu \u00fcberwinden gibt eingegangen und unser ehrgeiziger Plan beschrieben, wie eine Vielzahl von CubeR-Robotern auf dem Mond die Arbeiten der Astronautinnen und Astronauten \u00fcbernehmen kann.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 211,
-                    "code": "LRVDPG",
-                    "public_name": "Eigenform",
-                    "biography": "Software engineer, maker, musician currently living in Berlin.",
+                    "id": 3375,
+                    "code": "NDG3EE",
+                    "public_name": "Maximilian von Unwerth",
+                    "biography": "Experte f\u00fcr Weltraumrobotik, leidenschaftlicher Dozent und ein Enthusiast f\u00fcr die unendlichen Weiten des Weltraums, promoviert gerade \u00fcber Lunar Exploration Rover und arbeitet als Entwicklungsingenieur bei dem Berliner Raumfahrt-Startup NEUROSPACE GmbH. Mit ihrer neuesten Entwicklung namens CubeR m\u00f6chte NEUROSPACE ihren Kunden die M\u00f6glichkeit bieten, ihre eigenen Fu\u00dfspuren auf dem Mond zu hinterlassen. Dazu haben die Ingenieurinnen und Ingenieure von NEUROSPACE eine neuartige, standardisierte und kostensparende Mond-Rover-L\u00f6sung realisiert. Maximilian studierte Robotik und im Nebenfach Luft- und Raumfahrttechnik an der TU Braunschweig. Er war wissenschaftlicher Mitarbeiter bei der Entwicklung von MIRA3D, einem autonomen Mondrover-Demonstrator f\u00fcr die additive Fertigung von Mondregolith und Teamleiter des European Rover Challenge Siegerteams 2020. Er arbeitete als wissenschaftlicher Assistent f\u00fcr die Vermittlung der Grundlagen des Programmierens und war Organisator des Vorkurses in Computerwissenschaften. Als LEGO-Lab-Mentor inspirierte er junge Entdecker f\u00fcr die Robotik. Um die Informatik in den Schulen zu st\u00e4rken, engagierte er sich als Lehrer am Gymnasium und nahm mit einem Team von Sch\u00fclern an der First LEGO League teil.",
                     "answers": []
                   }
                 ],
@@ -2577,6 +2585,7 @@
                 "attachments": []
               }
             ],
+            "Merch Desk": [],
             "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 631,
@@ -4371,8 +4380,40 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 49145,
+                "guid": "fb613047-0b65-5f43-885d-0fc3ef074df8",
+                "logo": "/media/hip-berlin-2022/submissions/W7XRGH/photo_2022-01-10_20-54-06_6e5NSLP.jpg",
+                "date": "2022-12-29T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "00:50",
+                "room": "c-base mainhall",
+                "slug": "jev22-49145-eigenform",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/",
+                "title": "Eigenform",
+                "subtitle": "",
+                "track": "c-base",
+                "type": "Music/Performance/Art/Other Cool stuff",
+                "language": "en",
+                "abstract": "Live music set by Eigenform, an electronic music and multimedia project.",
+                "description": "Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 211,
+                    "code": "LRVDPG",
+                    "public_name": "Eigenform",
+                    "biography": "Software engineer, maker, musician currently living in Berlin.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
+            "Merch Desk": [],
             "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 8920,
@@ -5821,6 +5862,7 @@
             ],
             "soldering room 7": [],
             "c-base mainhall": [],
+            "Merch Desk": [],
             "RTC-B\u00fchne (Sparti)": [
               {
                 "id": 5754,

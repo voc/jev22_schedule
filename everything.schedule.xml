@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-21 23:50; FireShonks 0.19; Hacking in Parallel 0.5; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-21 23:50; Winterchaos 0.1</version>
+  <version>2022-12-22 02:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 02:10; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -449,35 +449,10 @@ With average run times of machines and their software of 15-20 years the consequ
         <links/>
         <attachments/>
       </event>
-      <event id="49143" guid="a9aecfda-590a-5dcd-8f3c-81e84038daf3">
+      <event id="49151" guid="05a9fd54-56dd-564a-8035-da88cdde0a5b">
         <logo/>
         <date>2022-12-27T16:00:00+01:00</date>
         <start>16:00</start>
-        <duration>00:45</duration>
-        <room>Theater Hall E.T.I.</room>
-        <slug>jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/</url>
-        <title>US government demands direct police access to European biometric data</title>
-        <subtitle/>
-        <track>E.T.I.</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>The "Enhanced Border Security Partnership" poses an unprecedented threat to civil liberties in Europe.</abstract>
-        <description>Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3280">Matthias Monroy</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49151" guid="05a9fd54-56dd-564a-8035-da88cdde0a5b">
-        <logo/>
-        <date>2022-12-27T18:30:00+01:00</date>
-        <start>18:30</start>
         <duration>00:55</duration>
         <room>Theater Hall E.T.I.</room>
         <slug>jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly</slug>
@@ -497,6 +472,31 @@ In this presentation, I explore its history, why it's been so popular and what i
         </recording>
         <persons>
           <person id="3246">Ilja van Sprundel</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49143" guid="a9aecfda-590a-5dcd-8f3c-81e84038daf3">
+        <logo/>
+        <date>2022-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:45</duration>
+        <room>Theater Hall E.T.I.</room>
+        <slug>jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/</url>
+        <title>US government demands direct police access to European biometric data</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The "Enhanced Border Security Partnership" poses an unprecedented threat to civil liberties in Europe.</abstract>
+        <description>Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3280">Matthias Monroy</person>
         </persons>
         <links/>
         <attachments/>
@@ -943,6 +943,7 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <attachments/>
       </event>
     </room>
+    <room name="Merch Desk"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="409" guid="ef0a4cff-09db-5cb4-bbeb-ecb3ca678345">
         <logo/>
@@ -2217,32 +2218,33 @@ This workshop is for '''''total newbies'''''!</description>
       </event>
     </room>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db">
-      <event id="49145" guid="fb613047-0b65-5f43-885d-0fc3ef074df8">
-        <logo>/media/hip-berlin-2022/submissions/W7XRGH/photo_2022-01-10_20-54-06_6e5NSLP.jpg</logo>
-        <date>2022-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>00:50</duration>
+      <event id="49263" guid="474e589e-9ea8-541e-914f-730260aa4a26">
+        <logo>/media/hip-berlin-2022/submissions/ADCSSQ/rover_1YtEEQZ.jpeg</logo>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
         <room>c-base mainhall</room>
-        <slug>jev22-49145-eigenform</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/</url>
-        <title>Eigenform</title>
+        <slug>jev22-49263-cuber_mondforschung_und_erkundung_und_modularen_nanorovern</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ADCSSQ/</url>
+        <title>CubeR - Mondforschung und –Erkundung und modularen Nanorovern</title>
         <subtitle/>
         <track>c-base</track>
-        <type>Music/Performance/Art/Other Cool stuff</type>
-        <language>en</language>
-        <abstract>Live music set by Eigenform, an electronic music and multimedia project.</abstract>
-        <description>Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.</description>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Matthias Maurer beschreibt den Mond als unser *Sprungbrett zum Mars*. Und nicht nur für Missionen zum nächsten Planeten, sondern auch für wesentlich weiter entfernte Ziele, wo nie ein Mensch zuvor gewesen ist, wird es unabdingbar sein, den Mond als Trainingsgelände zu nutzen. Mit Hilfe unserer **CubeR** soll die Oberfläche des Mondes sowohl für die Wissenschaft als auch für die Industrie zugänglich werden. Unsere nach einem offenen Standard entwickelten Nano-Rover stellen eine Grundlage für die Erforschung der unendlichen Weiten des Weltraums dar.</abstract>
+        <description>Mit dem visionären Ziel der europäischen Raumfahrtagentur ESA, bis 2040 eine bemannte Basis auf dem Mond aufzubauen, rückt der Mond mehr und mehr in den Fokus von Industrie und Forschung. Die Entwicklung von Nanosatelliten für den Erdorbit, sogenannten CubeSats, hat in den letzten Jahrzehnten eine Revolution in Sachen Zugang zum Weltraum bewirkt. Ziel der 2020 von *Irene Selvanathan* gegründeten **NEUROSPACE GmbH** ist die Erweiterung dieses Wandels bis hin zur Mondoberfläche. Dabei gilt es zu untersuchen, in wie weit bestehende CubeSat-Technologie für den Einsatz in der doch sehr ähnlichen Umgebung geeignet ist. Mit Hilfe eines offenen Standards für die Entwicklung lunarer Rover will NEUROSPACE bewirken, dass zukünftige Missionen sich mehr auf den eigentlichen Anwendungsfall fokussieren können, anstatt auf die Entwicklung und Zertifizierung benötigter Komponenten. In diesem Vortrag wird das von Neurospace entwickelte CubeR-Konzept vorgestellt und eine Einordnung der zukünftigen Bedeutung robotischer Systeme für die lunare Erforschung vorgenommen. Dabei wird auf die besonderen Herausforderungen, die es bei der Entwicklung derartiger Systeme zu überwinden gibt eingegangen und unser ehrgeiziger Plan beschrieben, wie eine Vielzahl von CubeR-Robotern auf dem Mond die Arbeiten der Astronautinnen und Astronauten übernehmen kann.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="211">Eigenform</person>
+          <person id="3375">Maximilian von Unwerth</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
+    <room name="Merch Desk"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="631" guid="0d6314a9-9049-59b4-b6e3-3d909086b378">
         <logo>/media/rtc22/submissions/MCVSWU/Logo_blue_f148DRv.png</logo>
@@ -3898,7 +3900,33 @@ Aber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um 
         <links/>
         <attachments/>
       </event>
+      <event id="49145" guid="fb613047-0b65-5f43-885d-0fc3ef074df8">
+        <logo>/media/hip-berlin-2022/submissions/W7XRGH/photo_2022-01-10_20-54-06_6e5NSLP.jpg</logo>
+        <date>2022-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:50</duration>
+        <room>c-base mainhall</room>
+        <slug>jev22-49145-eigenform</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/</url>
+        <title>Eigenform</title>
+        <subtitle/>
+        <track>c-base</track>
+        <type>Music/Performance/Art/Other Cool stuff</type>
+        <language>en</language>
+        <abstract>Live music set by Eigenform, an electronic music and multimedia project.</abstract>
+        <description>Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="211">Eigenform</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
+    <room name="Merch Desk"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="8920" guid="ad8d9204-0bca-55b0-8733-956fd2127b77">
         <logo/>
@@ -5163,6 +5191,7 @@ Premiere&#13;
     </room>
     <room name="soldering room 7" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
+    <room name="Merch Desk"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="5754" guid="a575bb40-f3e1-5ac0-b11c-54fc8a36d49a">
         <logo/>
