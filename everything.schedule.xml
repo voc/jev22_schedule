@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 14:50; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 14:50; Winterchaos 0.1</version>
+  <version>2022-12-22 15:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:10; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -4448,7 +4448,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <type>Live Session (30)</type>
         <language>de</language>
         <abstract>mafifa - WM 2030 (2: Gruppenphase)</abstract>
-        <description>Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptfrei; Hust. Mate zählt nicht als Währung.</description>
+        <description>Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptionsfrei; Hust. Mate zählt nicht als Währung.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5453,7 +5453,7 @@ I will wander around the event and ask you about your project. If you are intere
         <subtitle/>
         <track>Sachen Machen</track>
         <type>Workshop</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Casual introduction into the capabilities of Overte's scripting engine.</abstract>
         <description>Try out scripting in Overte and see the endless possibilities.&#13;
 You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;

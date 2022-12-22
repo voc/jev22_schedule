@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-22 14:50; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 14:50; Winterchaos 0.1",
+    "version": "2022-12-22 15:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 15:10; Winterchaos 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5002,7 +5002,7 @@
                 "type": "Live Session (30)",
                 "language": "de",
                 "abstract": "mafifa - WM 2030 (2: Gruppenphase)",
-                "description": "Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptfrei; Hust. Mate z\u00e4hlt nicht als W\u00e4hrung.",
+                "description": "Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptionsfrei; Hust. Mate z\u00e4hlt nicht als W\u00e4hrung.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -6176,7 +6176,7 @@
                 "subtitle": "",
                 "track": "Sachen Machen",
                 "type": "Workshop",
-                "language": "de",
+                "language": "en",
                 "abstract": "Casual introduction into the capabilities of Overte's scripting engine.",
                 "description": "Try out scripting in Overte and see the endless possibilities.\r\nYou can join using the client from https://overte.org/#downloads (Windows or Linux)\r\nYou can also spectate the event on PeerTube.",
                 "recording_license": "",
