@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 13:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 13:10; Winterchaos 0.1</version>
+  <version>2022-12-22 14:50; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 14:50; Winterchaos 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2703,12 +2703,12 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (60)</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</abstract>
         <description>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3323">Felipe "Operário" Ribeiro</person>
@@ -2728,7 +2728,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <subtitle/>
         <track>Sachen Machen</track>
         <type>Workshop</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Casual hands-on in Overte</abstract>
         <description>Try out Overte and its in-world creation with the developers.&#13;
 You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
@@ -2757,8 +2757,8 @@ You can also spectate the event on PeerTube.</description>
         <type>Live Session (30)</type>
         <language>de</language>
         <abstract>mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.</abstract>
-        <description>Finden wir den nächsten Austragsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
-Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird über das icc|bs übertragen und kommentiert.</description>
+        <description>Finden wir den nächsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
+Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live übertragen und kommentiert. Belly Rethy ist raus.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4302,7 +4302,7 @@ Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leb
         <subtitle/>
         <track>VR Welten</track>
         <type>Workshop</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Let's visit worlds in Overte together!</abstract>
         <description>Try out Overte and explore some of the existing worlds with the developers.&#13;
 You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
@@ -4358,7 +4358,7 @@ The rest of the talk will be explore what happens when theory meets reality, and
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (30)</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>The vision of the Metaverse is to be the the next step in the digitization of our work-life. While it is not explicitly tied to a particular technology yet, the Metaverse is most often associated with some sort of 3D immersive technology and concepts from Web3. While still in its infancy, we have decades of precedent from serious gaming and ubiquitous computing to judge where to expect the threats to emerge. Since we expect parts of the Metaverse to start being deployed piece by piece over the next years and we have been exploring Metaverse threats for a few years now. Some threats are derivable from IT security but there will also be threats particular to the Metaverse that arise due to the complex nature of 3D and cyber/physical interactions. In this talk we will address our findings so far that affect individuals and enterprises as they take first steps in deploying or using Metaverse-like spaces.</abstract>
         <description>Outline of presentation:&lt;br&gt;&#13;
 Very early beginnings: Stephenson, Gibson, Cline&lt;br&gt;&#13;
@@ -4394,7 +4394,7 @@ Conclusions and outlook&lt;br&gt;</description>
         <subtitle/>
         <track>Matrix &amp; Thirdroom.io</track>
         <type>Live Session (30)</type>
-        <language>de</language>
+        <language>en</language>
         <abstract>Third Room is a browser-based decentralized virtual worlds platform built on top of the Matrix protocol. Third Room pushes the limits of what you can do in a 3D browser application utilizing WebAssembly, SharedArrayBuffers and Atomics for lock-free multithreading, WebGL2, and much more. It's built on open standards like the glTF 3D file format and fully embraces it to provide a DOM-like API for scripting interactable user-generated worlds.</abstract>
         <description/>
         <recording>

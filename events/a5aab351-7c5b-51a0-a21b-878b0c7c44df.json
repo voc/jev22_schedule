@@ -12,11 +12,11 @@
   "subtitle": "",
   "track": "Activism",
   "type": "Live Session (60)",
-  "language": "de",
+  "language": "en",
   "abstract": "Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software & Open Policies, Open Economics & Open Governance, Open Research & Open Science, Open Access & Library, Open Education & Open Pedagogy, and Open Culture & Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.",
   "description": "Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software & Open Policies, Open Economics & Open Governance, Open Research & Open Science, Open Access & Library, Open Education & Open Pedagogy, and Open Culture & Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 3323,

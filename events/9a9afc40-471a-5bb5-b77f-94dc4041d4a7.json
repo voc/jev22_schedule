@@ -12,7 +12,7 @@
   "subtitle": "",
   "track": "Activism",
   "type": "Live Session (30)",
-  "language": "de",
+  "language": "en",
   "abstract": "The vision of the Metaverse is to be the the next step in the digitization of our work-life. While it is not explicitly tied to a particular technology yet, the Metaverse is most often associated with some sort of 3D immersive technology and concepts from Web3. While still in its infancy, we have decades of precedent from serious gaming and ubiquitous computing to judge where to expect the threats to emerge. Since we expect parts of the Metaverse to start being deployed piece by piece over the next years and we have been exploring Metaverse threats for a few years now.\u00a0Some threats are derivable from IT security but there will also be threats particular to the Metaverse that arise due to the complex nature of 3D and cyber/physical interactions. In this talk we will address our findings so far that affect individuals and enterprises as they take first steps in deploying or using Metaverse-like spaces.",
   "description": "Outline of presentation:<br>\r\nVery early beginnings: Stephenson, Gibson, Cline<br>\r\nEarly 2000s: Web 2.0 and SecondLife<br>\r\nRecent developments<br>\r\nWhat is the Metaverse now? The Internet of Experiences<br>\r\nHardware support<br>\r\nSoftware support: Web3<br>\r\nThe problems with Web3 and how these affect the threat model<br>\r\nClassical threats<br>\r\nMetaverse specific threats<br>\r\nCryptocurrency-specific threats<br>\r\nConclusions and outlook<br>",
   "recording_license": "",
