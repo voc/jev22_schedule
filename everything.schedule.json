@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-22 23:10; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 23:10; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.2",
+    "version": "2022-12-22 23:30; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 23:30; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.2",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8933,17 +8933,17 @@
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3419,
-                    "code": "B9LDFP",
-                    "public_name": "Mayo Freude",
-                    "biography": null,
-                    "answers": []
-                  },
-                  {
                     "id": 3416,
                     "code": "M3Q7TL",
                     "public_name": "Christoph G\u00f6bel",
                     "biography": "Ich bin Sympathisant der Alten H\u00f6lle und ein guter Freund der Teufelin.\r\nIch hatte noch eine Rechnung mit ihr offen und l\u00f6se diese nun ein. Als Erlebnisp\u00e4dagoge ist es meine Aufgabe Menschen dazu zu bewegen sich zu zeigen, sich zu \u00f6ffnen und auch \u00fcber sich hinauszuwachsen. Diese F\u00e4higkeit kommt mir zu gute, denn ich werde dieses Jahr zusammen mit meiner Partnerin Marika den \"hack&tell\" moderieren und euch dazu bewegen der Community zu zeigen, was auf euren Bildschirmen, in euren Laboren oder eurer Werkstatt abgeht.",
+                    "answers": []
+                  },
+                  {
+                    "id": 3419,
+                    "code": "B9LDFP",
+                    "public_name": "Mayo Freude",
+                    "biography": null,
                     "answers": []
                   }
                 ],
