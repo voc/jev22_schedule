@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-22 17:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 17:10; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.1",
+    "version": "2022-12-22 21:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:10; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -753,7 +753,7 @@
                     "id": 41,
                     "code": "UZTVSX",
                     "public_name": "kantorkel",
-                    "biography": "kantorkel ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/) und mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit.",
+                    "biography": "[kantorkel](https://social.bau-ha.us/@kantorkel) ist rC3-zertifizierter Teleshopping-Ultra aus Hamburg. Er betreibt [Tor-Exit-Knoten](https://artikel10.org/), mischt bei [Reclaim Your Face](https://reclaimyourface.eu/how-to-reclaim-your-face-from-clearview-ai/) mit und ist [kein Freund von Gesichtersuchmaschinen](https://netzpolitik.org/2021/clearview-ai-der-lange-weg-zu-den-eigenen-datenschutzrechten/).\r\n\r\nMastodon: [https://social.bau-ha.us/@kantorkel](https://social.bau-ha.us/@kantorkel)",
                     "answers": []
                   }
                 ],
@@ -9134,7 +9134,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, f\u00fcr \u00fcber 250 Menschen bezahlbaren, selbstverwalteten und \u00f6kologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir pr\u00e4sentieren, wie Freir\u00e4ume zum Leben und Entfalten geschaffen werden k\u00f6nnen - auch auf angespannten Wohnungsm\u00e4rkten.",
-                "description": "Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem <a href=\"https://collegiumacademicum.de/\">Collegium Academicum (CA)</a> wird in Heidelberg ein etwas anderes Gro\u00dfprojekt geschaffen. Als Teil des <a href=\"https://collegiumacademicum.de/\">Mietsh\u00e4user Syndikats</a> geh\u00f6rt das Geb\u00e4ude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.\r\nWie wir \u00f6kologische Holzbauweise mit flexiblen Wohnraumgr\u00f6\u00dfen verbinden, das Projekt planen und finanzieren, erf\u00e4hrst du in diesem Vortrag.",
+                "description": "Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem <a href=\"https://collegiumacademicum.de/\">Collegium Academicum (CA)</a> wird in Heidelberg ein etwas anderes Gro\u00dfprojekt geschaffen. Als Teil des <a href=\"https://www.syndikat.org/\">Mietsh\u00e4user Syndikats</a> geh\u00f6rt das Geb\u00e4ude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.\r\nWie wir \u00f6kologische Holzbauweise mit flexiblen Wohnraumgr\u00f6\u00dfen verbinden, das Projekt planen und finanzieren, erf\u00e4hrst du in diesem Vortrag.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 17:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 17:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
+  <version>2022-12-22 21:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7807,7 +7807,7 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <type>Talk</type>
         <language>de</language>
         <abstract>Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, für über 250 Menschen bezahlbaren, selbstverwalteten und ökologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir präsentieren, wie Freiräume zum Leben und Entfalten geschaffen werden können - auch auf angespannten Wohnungsmärkten.</abstract>
-        <description>Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem &lt;a href="https://collegiumacademicum.de/"&gt;Collegium Academicum (CA)&lt;/a&gt; wird in Heidelberg ein etwas anderes Großprojekt geschaffen. Als Teil des &lt;a href="https://collegiumacademicum.de/"&gt;Mietshäuser Syndikats&lt;/a&gt; gehört das Gebäude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.&#13;
+        <description>Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem &lt;a href="https://collegiumacademicum.de/"&gt;Collegium Academicum (CA)&lt;/a&gt; wird in Heidelberg ein etwas anderes Großprojekt geschaffen. Als Teil des &lt;a href="https://www.syndikat.org/"&gt;Mietshäuser Syndikats&lt;/a&gt; gehört das Gebäude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.&#13;
 Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das Projekt planen und finanzieren, erfährst du in diesem Vortrag.</description>
         <recording>
           <license/>
