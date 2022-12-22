@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 23:30; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 23:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.2</version>
+  <version>2022-12-23 00:10; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 00:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1665,13 +1665,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Festivalzentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="2009" guid="bc20091c-92a7-524c-b7b8-5769d44caa19">
+      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2009-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -1717,41 +1717,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="4122" guid="412203a1-2ddd-5cea-95a4-6a23a8b15f70">
+      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-4122-staende</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
-        <subtitle/>
-        <track/>
-        <type>Stand</type>
-        <language>de</language>
-        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
-        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
-&#13;
-(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="100">No Future</person>
-          <person id="137">Meri Väyrynen</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="8632" guid="c8632de1-9961-5498-b0c2-ab73f1e7f7d5">
-        <logo/>
-        <date>2022-12-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>08:00</duration>
-        <room>Stände - H2-4.8</room>
-        <slug>jev22-8632-staende</slug>
+        <slug>jev22-469-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
         <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
@@ -1795,6 +1767,34 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
           <optout>true</optout>
         </recording>
         <persons>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8632" guid="c8632de1-9961-5498-b0c2-ab73f1e7f7d5">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>08:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-8632-staende</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
+        <subtitle/>
+        <track/>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+&#13;
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="100">No Future</person>
           <person id="137">Meri Väyrynen</person>
         </persons>
         <links/>
@@ -3738,13 +3738,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
         <subtitle/>
@@ -3770,13 +3770,13 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <links/>
         <attachments/>
       </event>
-      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
         <subtitle/>
@@ -4329,13 +4329,13 @@ Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslass
       </event>
     </room>
     <room name="Ausstellungsraum 3 - H2-2.7">
-      <event id="9346" guid="f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5">
+      <event id="5338" guid="5afaf3d3-829f-5d31-b632-830dd40888a1">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 3 - H2-2.7</room>
-        <slug>jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <slug>jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
         <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
         <subtitle/>
@@ -4422,13 +4422,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+      <event id="2009" guid="bc20091c-92a7-524c-b7b8-5769d44caa19">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-28T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-2009-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -4526,13 +4526,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <links/>
         <attachments/>
       </event>
-      <event id="9053" guid="9d05dc3c-8be6-53cf-8385-f6a1909692a4">
+      <event id="4122" guid="412203a1-2ddd-5cea-95a4-6a23a8b15f70">
         <logo/>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9053-staende</slug>
+        <slug>jev22-4122-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
         <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
@@ -6304,8 +6304,8 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
       </event>
       <event id="8094" guid="fd80f9bc-4e06-5c0f-a133-73602c90e9f1">
         <logo/>
-        <date>2022-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
         <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
@@ -6832,13 +6832,13 @@ Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslass
       </event>
     </room>
     <room name="Ausstellungsraum 3 - H2-2.7">
-      <event id="5338" guid="5afaf3d3-829f-5d31-b632-830dd40888a1">
+      <event id="9346" guid="f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5">
         <logo/>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 3 - H2-2.7</room>
-        <slug>jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <slug>jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
         <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
         <subtitle/>
@@ -6925,13 +6925,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-29T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -6977,13 +6977,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
+      <event id="9053" guid="9d05dc3c-8be6-53cf-8385-f6a1909692a4">
         <logo/>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>06:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-469-staende</slug>
+        <slug>jev22-9053-staende</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
         <title>Stände: No Future for IAA Solistand ///////  "(FREI)RAUM im Kontext des Speziesismus"-Stand</title>
         <subtitle/>
@@ -8638,13 +8638,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Festivalzentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
