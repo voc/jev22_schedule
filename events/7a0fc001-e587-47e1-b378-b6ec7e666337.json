@@ -3,8 +3,10 @@
   "guid": "7a0fc001-e587-47e1-b378-b6ec7e666337",
   "logo": "",
   "date": "2022-12-28T14:00:00+01:00",
+  "start": "14:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2814-internal_penetration_testing_basics",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2814-internal-network-penetration-testing-basics",
   "title": "Internal Penetration Testing Basics",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 0,
       "code": "M\u00c4N0",
       "public_name": "M\u00e4nu",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2814-internal_penetration_testing_basics",
-  "start": "14:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

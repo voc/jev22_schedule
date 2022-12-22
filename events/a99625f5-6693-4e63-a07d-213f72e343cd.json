@@ -3,8 +3,10 @@
   "guid": "a99625f5-6693-4e63-a07d-213f72e343cd",
   "logo": "",
   "date": "2022-12-29T17:00:00+01:00",
+  "start": "17:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2917-ausweiszwang",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2917-ausweiszwang",
   "title": "Ausweiszwang",
   "subtitle": "",
@@ -20,21 +22,19 @@
       "id": 8,
       "code": "PAS8",
       "public_name": "Pascal",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     },
     {
       "id": 9,
       "code": "JOR9",
       "public_name": "Jorgo",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2917-ausweiszwang",
-  "start": "17:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

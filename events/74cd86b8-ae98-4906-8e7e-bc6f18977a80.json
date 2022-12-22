@@ -3,8 +3,10 @@
   "guid": "74cd86b8-ae98-4906-8e7e-bc6f18977a80",
   "logo": "",
   "date": "2022-12-30T18:00:00+01:00",
+  "start": "18:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-3018-git",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it",
   "title": "Git: Let's f*ck up history, and then restore it",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 17,
       "code": "OLI17",
       "public_name": "Oli",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-3018-git",
-  "start": "18:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

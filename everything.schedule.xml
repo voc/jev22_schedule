@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-22 21:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
+  <version>2022-12-22 21:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3523,8 +3523,10 @@ It then breaks down roughly like this:&#13;
       <event id="2814" guid="7a0fc001-e587-47e1-b378-b6ec7e666337">
         <logo/>
         <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2814-internal_penetration_testing_basics</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2814-internal-network-penetration-testing-basics</url>
         <title>Internal Penetration Testing Basics</title>
         <subtitle/>
@@ -3542,14 +3544,14 @@ It then breaks down roughly like this:&#13;
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2814-internal_penetration_testing_basics</slug>
-        <start>14:00</start>
       </event>
       <event id="2815" guid="817c5786-774b-4f36-a5e6-0f33b815d042">
         <logo/>
         <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2815-eine-einfuehrung-in-post-quantum-kryptographie</url>
         <title>Eine Einführung in Post-Quantum Kryptographie</title>
         <subtitle/>
@@ -3567,14 +3569,14 @@ It then breaks down roughly like this:&#13;
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie</slug>
-        <start>15:00</start>
       </event>
       <event id="2817" guid="ca1422da-d66a-4aff-844e-79d6857fad3b">
         <logo/>
         <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2817-automating_and_managing_an_iot_fleet_using_git</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss</url>
         <title>Automating and Managing an IoT Fleet Using Git</title>
         <subtitle/>
@@ -3592,14 +3594,14 @@ It then breaks down roughly like this:&#13;
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2817-automating_and_managing_an_iot_fleet_using_git</slug>
-        <start>17:00</start>
       </event>
       <event id="2818" guid="27881104-a658-4bf2-87bf-6e291740863d">
         <logo/>
         <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2818-opensource-luftqualitaets-monitoring-fuer-zuhause</url>
         <title>Open Source Luftqualitäts-Monitoring für Zuhause</title>
         <subtitle/>
@@ -3617,14 +3619,14 @@ It then breaks down roughly like this:&#13;
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause</slug>
-        <start>18:00</start>
       </event>
       <event id="2820" guid="20246891-b312-4256-a144-3732a2a3cdca">
         <logo/>
         <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2820-how_we_founded_a_citizen_television_station</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station</url>
         <title>How We Founded a Citizen Television Station</title>
         <subtitle/>
@@ -3643,8 +3645,6 @@ It then breaks down roughly like this:&#13;
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2820-how_we_founded_a_citizen_television_station</slug>
-        <start>20:00</start>
       </event>
     </room>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6">
@@ -5996,8 +5996,10 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
       <event id="2914" guid="3bf66ab7-1209-4f67-acd4-0fc919dba150">
         <logo/>
         <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2914-random_intro_to_vsphere</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2914-random-intro-to-vsphere</url>
         <title>Random Intro to vSphere</title>
         <subtitle/>
@@ -6015,14 +6017,14 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2914-random_intro_to_vsphere</slug>
-        <start>14:00</start>
       </event>
       <event id="2915" guid="54120711-57e2-41ab-94a6-71125030d476">
         <logo/>
         <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser</url>
         <title>Nitratauswaschung aus der Landwirtschaft ins Grundwasser</title>
         <subtitle/>
@@ -6040,14 +6042,14 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser</slug>
-        <start>15:00</start>
       </event>
       <event id="2917" guid="a99625f5-6693-4e63-a07d-213f72e343cd">
         <logo/>
         <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2917-ausweiszwang</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2917-ausweiszwang</url>
         <title>Ausweiszwang</title>
         <subtitle/>
@@ -6066,14 +6068,14 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2917-ausweiszwang</slug>
-        <start>17:00</start>
       </event>
       <event id="2918" guid="32e05682-5e39-420b-8252-1b8ff98a77e8">
         <logo/>
         <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data</url>
         <title>«Thank you for your data» oder weshalb uns das Thema Data Analytics interessieren sollte</title>
         <subtitle/>
@@ -6093,14 +6095,14 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte</slug>
-        <start>18:00</start>
       </event>
       <event id="2920" guid="73973273-b52b-4637-aeb2-c20c86efb1a9">
         <logo/>
         <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2920-der_frosch_im_wasserglas</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas</url>
         <title>Der Frosch im Wasserglas</title>
         <subtitle/>
@@ -6118,14 +6120,14 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2920-der_frosch_im_wasserglas</slug>
-        <start>20:00</start>
       </event>
       <event id="2921" guid="9ad0a444-4e4b-4107-a18e-24ee9cca1327">
         <logo/>
         <date>2022-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden</url>
         <title>Real citizens of Rheinfelden living in an AI painted model of Jakob Strassers hometown</title>
         <subtitle/>
@@ -6143,8 +6145,6 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>
-        <start>21:00</start>
       </event>
     </room>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6">
@@ -6174,6 +6174,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <persons>
           <person id="138">Forum für Freiraum</person>
           <person id="163">Blueprint For Free Speech</person>
+          <person id="195">Mona</person>
         </persons>
         <links/>
         <attachments/>
@@ -7641,8 +7642,10 @@ You can also spectate the event on PeerTube.</description>
       <event id="3014" guid="fdfad7ee-e1ed-48e0-8f52-0946315b5d38">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-3014-diy_ledcubes</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3014-diy-ledcubes</url>
         <title>DIY LedCubes</title>
         <subtitle/>
@@ -7660,14 +7663,14 @@ You can also spectate the event on PeerTube.</description>
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-3014-diy_ledcubes</slug>
-        <start>14:00</start>
       </event>
       <event id="3015" guid="d6adf2b3-ba6b-47da-8344-3831c5f50902">
         <logo/>
         <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger</url>
         <title>CAD-Workshop für Anfänger - Modelle für 3D-Druck, CNC-Fräsen und Laser-Cutter designen</title>
         <subtitle/>
@@ -7686,14 +7689,14 @@ You can also spectate the event on PeerTube.</description>
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
-        <start>15:00</start>
       </event>
       <event id="3017" guid="96d06944-d987-47ab-87cf-8e8292e36489">
         <logo/>
         <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-3017-what_we_have_lost</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project</url>
         <title>What we have lost: The Japanese 5th Generation Computer Project</title>
         <subtitle/>
@@ -7711,14 +7714,14 @@ You can also spectate the event on PeerTube.</description>
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-3017-what_we_have_lost</slug>
-        <start>17:00</start>
       </event>
       <event id="3018" guid="74cd86b8-ae98-4906-8e7e-bc6f18977a80">
         <logo/>
         <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-3018-git</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it</url>
         <title>Git: Let's f*ck up history, and then restore it</title>
         <subtitle/>
@@ -7736,14 +7739,14 @@ You can also spectate the event on PeerTube.</description>
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-3018-git</slug>
-        <start>18:00</start>
       </event>
       <event id="3020" guid="98cb6023-46d6-41dd-85d8-17d43dcaf8a0">
         <logo/>
         <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
+        <slug>jev22-3020-modular_synth</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth</url>
         <title>Modular Synth</title>
         <subtitle/>
@@ -7761,8 +7764,6 @@ You can also spectate the event on PeerTube.</description>
         </persons>
         <links/>
         <attachments/>
-        <slug>jev22-3020-modular_synth</slug>
-        <start>20:00</start>
       </event>
     </room>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6">

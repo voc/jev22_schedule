@@ -3,8 +3,10 @@
   "guid": "96d06944-d987-47ab-87cf-8e8292e36489",
   "logo": "",
   "date": "2022-12-30T17:00:00+01:00",
+  "start": "17:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-3017-what_we_have_lost",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project",
   "title": "What we have lost: The Japanese 5th Generation Computer Project",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 16,
       "code": "PRO16",
       "public_name": "Prokhor",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-3017-what_we_have_lost",
-  "start": "17:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

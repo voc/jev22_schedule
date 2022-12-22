@@ -3,8 +3,10 @@
   "guid": "3bf66ab7-1209-4f67-acd4-0fc919dba150",
   "logo": "",
   "date": "2022-12-29T14:00:00+01:00",
+  "start": "14:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2914-random_intro_to_vsphere",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2914-random-intro-to-vsphere",
   "title": "Random Intro to vSphere",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 6,
       "code": "JOS6",
       "public_name": "Josh",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2914-random_intro_to_vsphere",
-  "start": "14:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

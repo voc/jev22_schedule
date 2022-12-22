@@ -3,8 +3,10 @@
   "guid": "20246891-b312-4256-a144-3732a2a3cdca",
   "logo": "",
   "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station",
   "title": "How We Founded a Citizen Television Station",
   "subtitle": "",
@@ -20,21 +22,19 @@
       "id": 4,
       "code": "CLA4",
       "public_name": "Claus",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     },
     {
       "id": 5,
       "code": "STE5",
       "public_name": "Stephan",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
-  "start": "20:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

@@ -3,8 +3,10 @@
   "guid": "73973273-b52b-4637-aeb2-c20c86efb1a9",
   "logo": "",
   "date": "2022-12-29T20:00:00+01:00",
+  "start": "20:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2920-der_frosch_im_wasserglas",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas",
   "title": "Der Frosch im Wasserglas",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 8,
       "code": "PAS8",
       "public_name": "Pascal",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2920-der_frosch_im_wasserglas",
-  "start": "20:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

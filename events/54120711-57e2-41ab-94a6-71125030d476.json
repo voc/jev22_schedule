@@ -3,8 +3,10 @@
   "guid": "54120711-57e2-41ab-94a6-71125030d476",
   "logo": "",
   "date": "2022-12-29T15:00:00+01:00",
+  "start": "15:00",
   "duration": "00:45",
   "room": "Winterchaos",
+  "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser",
   "title": "Nitratauswaschung aus der Landwirtschaft ins Grundwasser",
   "subtitle": "",
@@ -20,14 +22,12 @@
       "id": 7,
       "code": "HAN7",
       "public_name": "Hannah",
-      "bibliography": "",
+      "biography": "",
       "answers": []
     }
   ],
   "links": [],
   "attachments": [],
-  "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser",
-  "start": "15:00",
   "room_id": null,
   "origin": "laborluxeria.github.io"
 }

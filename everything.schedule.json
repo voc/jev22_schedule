@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e3a99"
     },
-    "version": "2022-12-22 21:10; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:10; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.1",
+    "version": "2022-12-22 21:30; FireShonks 0.19; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-22 21:30; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -4206,8 +4206,10 @@
                 "guid": "7a0fc001-e587-47e1-b378-b6ec7e666337",
                 "logo": "",
                 "date": "2022-12-28T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2814-internal_penetration_testing_basics",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2814-internal-network-penetration-testing-basics",
                 "title": "Internal Penetration Testing Basics",
                 "subtitle": "",
@@ -4223,22 +4225,22 @@
                     "id": 0,
                     "code": "M\u00c4N0",
                     "public_name": "M\u00e4nu",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2814-internal_penetration_testing_basics",
-                "start": "14:00"
+                "attachments": []
               },
               {
                 "id": "2815",
                 "guid": "817c5786-774b-4f36-a5e6-0f33b815d042",
                 "logo": "",
                 "date": "2022-12-28T15:00:00+01:00",
+                "start": "15:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2815-eine-einfuehrung-in-post-quantum-kryptographie",
                 "title": "Eine Einf\u00fchrung in Post-Quantum Kryptographie",
                 "subtitle": "",
@@ -4254,22 +4256,22 @@
                     "id": 1,
                     "code": "Z\u00d6P1",
                     "public_name": "Z\u00f6pfe",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie",
-                "start": "15:00"
+                "attachments": []
               },
               {
                 "id": "2817",
                 "guid": "ca1422da-d66a-4aff-844e-79d6857fad3b",
                 "logo": "",
                 "date": "2022-12-28T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss",
                 "title": "Automating and Managing an IoT Fleet Using Git",
                 "subtitle": "",
@@ -4285,22 +4287,22 @@
                     "id": 2,
                     "code": "MAT2",
                     "public_name": "Matthias",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git",
-                "start": "17:00"
+                "attachments": []
               },
               {
                 "id": "2818",
                 "guid": "27881104-a658-4bf2-87bf-6e291740863d",
                 "logo": "",
                 "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2818-opensource-luftqualitaets-monitoring-fuer-zuhause",
                 "title": "Open Source Luftqualit\u00e4ts-Monitoring f\u00fcr Zuhause",
                 "subtitle": "",
@@ -4316,22 +4318,22 @@
                     "id": 3,
                     "code": "SEB3",
                     "public_name": "Sebastian",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause",
-                "start": "18:00"
+                "attachments": []
               },
               {
                 "id": "2820",
                 "guid": "20246891-b312-4256-a144-3732a2a3cdca",
                 "logo": "",
                 "date": "2022-12-28T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station",
                 "title": "How We Founded a Citizen Television Station",
                 "subtitle": "",
@@ -4347,21 +4349,19 @@
                     "id": 4,
                     "code": "CLA4",
                     "public_name": "Claus",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   },
                   {
                     "id": 5,
                     "code": "STE5",
                     "public_name": "Stephan",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2820-how_we_founded_a_citizen_television_station",
-                "start": "20:00"
+                "attachments": []
               }
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -6992,8 +6992,10 @@
                 "guid": "3bf66ab7-1209-4f67-acd4-0fc919dba150",
                 "logo": "",
                 "date": "2022-12-29T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2914-random_intro_to_vsphere",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2914-random-intro-to-vsphere",
                 "title": "Random Intro to vSphere",
                 "subtitle": "",
@@ -7009,22 +7011,22 @@
                     "id": 6,
                     "code": "JOS6",
                     "public_name": "Josh",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2914-random_intro_to_vsphere",
-                "start": "14:00"
+                "attachments": []
               },
               {
                 "id": "2915",
                 "guid": "54120711-57e2-41ab-94a6-71125030d476",
                 "logo": "",
                 "date": "2022-12-29T15:00:00+01:00",
+                "start": "15:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser",
                 "title": "Nitratauswaschung aus der Landwirtschaft ins Grundwasser",
                 "subtitle": "",
@@ -7040,22 +7042,22 @@
                     "id": 7,
                     "code": "HAN7",
                     "public_name": "Hannah",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser",
-                "start": "15:00"
+                "attachments": []
               },
               {
                 "id": "2917",
                 "guid": "a99625f5-6693-4e63-a07d-213f72e343cd",
                 "logo": "",
                 "date": "2022-12-29T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2917-ausweiszwang",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2917-ausweiszwang",
                 "title": "Ausweiszwang",
                 "subtitle": "",
@@ -7071,29 +7073,29 @@
                     "id": 8,
                     "code": "PAS8",
                     "public_name": "Pascal",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   },
                   {
                     "id": 9,
                     "code": "JOR9",
                     "public_name": "Jorgo",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2917-ausweiszwang",
-                "start": "17:00"
+                "attachments": []
               },
               {
                 "id": "2918",
                 "guid": "32e05682-5e39-420b-8252-1b8ff98a77e8",
                 "logo": "",
                 "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data",
                 "title": "\u00abThank you for your data\u00bb oder weshalb uns das Thema Data Analytics interessieren sollte",
                 "subtitle": "",
@@ -7109,36 +7111,36 @@
                     "id": 10,
                     "code": "BAS10",
                     "public_name": "Basil",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   },
                   {
                     "id": 11,
                     "code": "NAD11",
                     "public_name": "Nadja",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   },
                   {
                     "id": 12,
                     "code": "SEA12",
                     "public_name": "Sean",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte",
-                "start": "18:00"
+                "attachments": []
               },
               {
                 "id": "2920",
                 "guid": "73973273-b52b-4637-aeb2-c20c86efb1a9",
                 "logo": "",
                 "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2920-der_frosch_im_wasserglas",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas",
                 "title": "Der Frosch im Wasserglas",
                 "subtitle": "",
@@ -7154,22 +7156,22 @@
                     "id": 8,
                     "code": "PAS8",
                     "public_name": "Pascal",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2920-der_frosch_im_wasserglas",
-                "start": "20:00"
+                "attachments": []
               },
               {
                 "id": "2921",
                 "guid": "9ad0a444-4e4b-4107-a18e-24ee9cca1327",
                 "logo": "",
                 "date": "2022-12-29T21:00:00+01:00",
+                "start": "21:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden",
                 "title": "Real citizens of Rheinfelden living in an AI painted model of Jakob Strassers hometown",
                 "subtitle": "",
@@ -7185,14 +7187,12 @@
                     "id": 4,
                     "code": "CLA4",
                     "public_name": "Claus",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown",
-                "start": "21:00"
+                "attachments": []
               }
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -7228,6 +7228,13 @@
                     "code": "9TX7P3",
                     "public_name": "Blueprint For Free Speech",
                     "biography": "Blueprint for Free Speech is non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. Our research and advocacy strive to defend Article 19 of the Universal Declaration of Human Rights, which asserts the right to freedom of opinion and expression for all people.\r\n\r\nhttps://www.blueprintforfreespeech.net",
+                    "answers": []
+                  },
+                  {
+                    "id": 195,
+                    "code": "NLE7VT",
+                    "public_name": "Mona",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -8928,8 +8935,10 @@
                 "guid": "fdfad7ee-e1ed-48e0-8f52-0946315b5d38",
                 "logo": "",
                 "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-3014-diy_ledcubes",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3014-diy-ledcubes",
                 "title": "DIY LedCubes",
                 "subtitle": "",
@@ -8945,22 +8954,22 @@
                     "id": 13,
                     "code": "CYR13",
                     "public_name": "Cyrill",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-3014-diy_ledcubes",
-                "start": "14:00"
+                "attachments": []
               },
               {
                 "id": "3015",
                 "guid": "d6adf2b3-ba6b-47da-8344-3831c5f50902",
                 "logo": "",
                 "date": "2022-12-30T15:00:00+01:00",
+                "start": "15:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger",
                 "title": "CAD-Workshop f\u00fcr Anf\u00e4nger - Modelle f\u00fcr 3D-Druck, CNC-Fr\u00e4sen und Laser-Cutter designen",
                 "subtitle": "",
@@ -8976,29 +8985,29 @@
                     "id": 14,
                     "code": "RAP14",
                     "public_name": "Raphi",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   },
                   {
                     "id": 15,
                     "code": "RIA15",
                     "public_name": "Ria",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen",
-                "start": "15:00"
+                "attachments": []
               },
               {
                 "id": "3017",
                 "guid": "96d06944-d987-47ab-87cf-8e8292e36489",
                 "logo": "",
                 "date": "2022-12-30T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-3017-what_we_have_lost",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project",
                 "title": "What we have lost: The Japanese 5th Generation Computer Project",
                 "subtitle": "",
@@ -9014,22 +9023,22 @@
                     "id": 16,
                     "code": "PRO16",
                     "public_name": "Prokhor",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-3017-what_we_have_lost",
-                "start": "17:00"
+                "attachments": []
               },
               {
                 "id": "3018",
                 "guid": "74cd86b8-ae98-4906-8e7e-bc6f18977a80",
                 "logo": "",
                 "date": "2022-12-30T18:00:00+01:00",
+                "start": "18:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-3018-git",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it",
                 "title": "Git: Let's f*ck up history, and then restore it",
                 "subtitle": "",
@@ -9045,22 +9054,22 @@
                     "id": 17,
                     "code": "OLI17",
                     "public_name": "Oli",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-3018-git",
-                "start": "18:00"
+                "attachments": []
               },
               {
                 "id": "3020",
                 "guid": "98cb6023-46d6-41dd-85d8-17d43dcaf8a0",
                 "logo": "",
                 "date": "2022-12-30T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "00:45",
                 "room": "Winterchaos",
+                "slug": "jev22-3020-modular_synth",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth",
                 "title": "Modular Synth",
                 "subtitle": "",
@@ -9076,14 +9085,12 @@
                     "id": 13,
                     "code": "CYR13",
                     "public_name": "Cyrill",
-                    "bibliography": "",
+                    "biography": "",
                     "answers": []
                   }
                 ],
                 "links": [],
-                "attachments": [],
-                "slug": "jev22-3020-modular_synth",
-                "start": "20:00"
+                "attachments": []
               }
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
