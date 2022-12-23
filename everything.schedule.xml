@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 20:50; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 20:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.25</version>
+  <version>2022-12-23 21:10; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 21:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.26</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1535,13 +1535,13 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <links/>
         <attachments/>
       </event>
-      <event id="7246" guid="cdca7b2c-463d-502d-8c8d-ee913ce6cedb">
+      <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
         <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
         <date>2022-12-27T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-7246-anti_rassismus_critical_whiteness</slug>
+        <slug>jev22-4805-anti_rassismus_critical_whiteness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
         <title>Anti-Rassismus &amp; Critical Whiteness</title>
         <subtitle/>
@@ -1615,13 +1615,13 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
+      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -1647,13 +1647,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <links/>
         <attachments/>
       </event>
-      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
+      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -1914,6 +1914,33 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Stände - H2-4.8">
+      <event id="7068" guid="f7068987-fe5c-5432-a943-3451f79d6780">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>08:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-7068-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+&#13;
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="137">Meri Väyrynen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="9100" guid="b9100420-0099-5a56-a006-e4b480a45c8c">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
@@ -1964,33 +1991,6 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         </recording>
         <persons>
           <person id="100">No Future</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7068" guid="f7068987-fe5c-5432-a943-3451f79d6780">
-        <logo/>
-        <date>2022-12-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>08:00</duration>
-        <room>Stände - H2-4.8</room>
-        <slug>jev22-7068-frei_raum_im_kontext_des_speziesismus</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
-        <title>(FREI)RAUM im Kontext des Speziesismus</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Stand</type>
-        <language>de</language>
-        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
-        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
-&#13;
-Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="137">Meri Väyrynen</person>
         </persons>
         <links/>
         <attachments/>
@@ -4371,13 +4371,13 @@ This workshop is for '''''total newbies'''''!</description>
     </room>
     <room name="Merch Desk"/>
     <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
-      <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
+      <event id="7246" guid="cdca7b2c-463d-502d-8c8d-ee913ce6cedb">
         <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-4805-anti_rassismus_critical_whiteness</slug>
+        <slug>jev22-7246-anti_rassismus_critical_whiteness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
         <title>Anti-Rassismus &amp; Critical Whiteness</title>
         <subtitle/>
@@ -7705,13 +7705,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="5938" guid="593867d4-c92d-5707-a8d9-53e3f7d216b6">
+      <event id="6374" guid="6374d4a8-3ed3-5b2b-b09a-b47f7caa462f">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -8238,40 +8238,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <links/>
         <attachments/>
       </event>
-      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
-        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
-        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
-        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
-&#13;
-Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
-&#13;
-Die meisten lassen das natürlich bleiben. &#13;
-Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">Johannes Schricker (Kulturator)</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="7917" guid="79b17ad3-ce71-53d5-9512-d7b31343c73c">
         <logo/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:17</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
@@ -8307,8 +8277,8 @@ Insta: zwischensequenzen</description>
       </event>
       <event id="3800" guid="3f8000e5-befe-5ad5-8eba-d32147ba3bdf">
         <logo/>
-        <date>2022-12-30T16:20:00+01:00</date>
-        <start>16:20</start>
+        <date>2022-12-30T15:15:00+01:00</date>
+        <start>15:15</start>
         <duration>00:08</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel</slug>
@@ -8327,6 +8297,36 @@ Komm in die Gänge! Cheers to 10 years!</abstract>
         </recording>
         <persons>
           <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
+        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
+        <date>2022-12-30T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
+        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
+        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
+&#13;
+Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
+&#13;
+Die meisten lassen das natürlich bleiben. &#13;
+Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Johannes Schricker (Kulturator)</person>
         </persons>
         <links/>
         <attachments/>
@@ -9612,13 +9612,13 @@ Mit dieser Feuer-Zeremonie verbrennen wir die Dinge, die wir hinter uns lassen m
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="8928" guid="e8c9c285-1753-5a30-bf1c-e92744a91aac">
+      <event id="2897" guid="f2adf897-9274-57dd-8f21-400c9ccdbaed">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-2897-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -10073,13 +10073,13 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="6374" guid="6374d4a8-3ed3-5b2b-b09a-b47f7caa462f">
+      <event id="8928" guid="e8c9c285-1753-5a30-bf1c-e92744a91aac">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-31T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 20:50</version>
+  <version>2022-12-23 21:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2674,40 +2674,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <links/>
         <attachments/>
       </event>
-      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
-        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
-        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
-        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
-&#13;
-Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
-&#13;
-Die meisten lassen das natürlich bleiben. &#13;
-Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">Johannes Schricker (Kulturator)</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="7917" guid="79b17ad3-ce71-53d5-9512-d7b31343c73c">
         <logo/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:17</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
@@ -2743,8 +2713,8 @@ Insta: zwischensequenzen</description>
       </event>
       <event id="3800" guid="3f8000e5-befe-5ad5-8eba-d32147ba3bdf">
         <logo/>
-        <date>2022-12-30T16:20:00+01:00</date>
-        <start>16:20</start>
+        <date>2022-12-30T15:15:00+01:00</date>
+        <start>15:15</start>
         <duration>00:08</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel</slug>
@@ -2763,6 +2733,36 @@ Komm in die Gänge! Cheers to 10 years!</abstract>
         </recording>
         <persons>
           <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
+        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
+        <date>2022-12-30T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
+        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
+        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
+&#13;
+Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
+&#13;
+Die meisten lassen das natürlich bleiben. &#13;
+Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Johannes Schricker (Kulturator)</person>
         </persons>
         <links/>
         <attachments/>
