@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 01:10; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 01:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
+  <version>2022-12-23 01:30; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 01:30; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -410,8 +410,12 @@ With average run times of machines and their software of 15-20 years the consequ
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>tba</abstract>
-        <description>tba</description>
+        <abstract>Der Einsatz von biometrischer Überwachung durch Militärs ist schon lange bekannt. Zu den dabei eingesetzten Techniken sind erstaunlich detaillierte Informationen frei im Internet verfügbar. Nicht nur das US-Militär nutzt biometrische Daten. Auch die Bundeswehr setzt diese Risiko-Technologie ein und übermittelte sogar biometrische Daten an die Amerikaner.&#13;
+&#13;
+Dieser Vortrag gibt einen Überblick zu den Sicherheitsmechanismen, die zum Schutz der hochsensiblen biometrischen Daten zum Einsatz kommen.</abstract>
+        <description>Am 27.12.2022 werden an dieser Stelle weitere Details zu diesem Vortrag veröffentlicht.&#13;
+&#13;
+Content Notice: Militär, Krieg, Überwachung</description>
         <recording>
           <license/>
           <optout>false</optout>
