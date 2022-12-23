@@ -1,0 +1,3308 @@
+<?xml version="1.0"?>
+<schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
+  <version>2022-12-23 02:29</version>
+  <conference>
+    <acronym>jev22</acronym>
+    <title>Dezentrale Jahresendveranstaltungen - channels</title>
+    <start>2022-12-27</start>
+    <end>2022-12-31</end>
+    <days>5</days>
+    <timeslot_duration>00:15</timeslot_duration>
+    <time_zone_name>Europe/Amsterdam</time_zone_name>
+  </conference>
+  <day index="1" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
+    <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Seminarraum">
+      <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
+        <logo/>
+        <date>2022-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:45</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
+        <title>GNU Taler -- mit Krypto bezahlen ohne Blockchain?</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es für eine Veranstaltung betreiben kann.&#13;
+&#13;
+Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Windfisch</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6708" guid="a67ef084-e55e-5910-98fd-db72b633e5ce">
+        <logo/>
+        <date>2022-12-27T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
+        <title>Werd Dein eigener ISPv6</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.</abstract>
+        <description>IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und&#13;
+eine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt&#13;
+IPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix&#13;
+haben und da drüber End-to-End Server betreiben können. Ist aber leider gar nicht&#13;
+so. Weil mich das  geärgert hat, hab ich angefangen, mich durch die Formalitäten&#13;
+zu kämpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.&#13;
+Dabei was gelernt über:&#13;
+   - Formulare&#13;
+   - Tunnels&#13;
+   - "Sponsoring LIRs"&#13;
+   - RIPE Databases&#13;
+   - Border Gateway Protocol&#13;
+Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">bauerm</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1721" guid="a1bbd7a2-1274-530f-a651-8399166c9d6b">
+        <logo/>
+        <date>2022-12-27T17:45:00+01:00</date>
+        <start>17:45</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/</url>
+        <title>Nix gelernt und eine Einführung in das Thema IaC</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Warum?&#13;
+Es ist nicht nur sehr nervig sich immer wieder durch die gleichen Dinge in einem UI zu klicken, es kostet auch relativ viel Zeit und ermöglicht Fehler wie Typos. Genau diese Probleme versuchen IaC-Lösungen in Angriff zu nehmen.&#13;
+&#13;
+Wer?&#13;
+Einsteiger und generell interesierte Wesen.</abstract>
+        <description>Erklärung der Nomenklatur.&#13;
+Was ist eingetlich Infrastructure as Code?&#13;
+In diesem Talk wird es einen kleinen Überblick geben was für Technologien in dem Feld existieren (unvollständig).&#13;
+Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">Janik</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+        <logo/>
+        <date>2022-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
+        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Viola und Ich halten einen Vortrag, in dem wir die Zuhörenden anstiften unliebsame Zäune und andere Hindernisse in ihrer Umgebung zu überwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualität steigert.</abstract>
+        <description>Unser Anliegen besteht darin eine Aufmerksamkeit für die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern können. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir überzeugt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">François</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+        <logo/>
+        <date>2022-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:50</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
+        <title>Raum für die schöne Welt</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In diesem Vortrag möchte Tobias Budesheim Vorstandmitglied von Students for Ukraine Raum geben für die schöne Welt. Er präsentiert Hoffnungsbilder in einer Zeit in der es scheint, als ob die Welt aus den Fugen gerät. Was sind meine Freiheitsräume? Wo ist die Welt noch schön?</abstract>
+        <description>Wer ist wirklich frei? Ein Raum ist nur so groß, wie wir ihn uns erschaffen. Das gilt auch für unsere Gedanken. Wir füllen einen Raum mit Menschen, Möbeln, Bildern und Erinnerungen. Das gilt auch für das Menschliche Gehirn. Wann aber ist der Raum den wir erschaffen bedroht? Diese Frage stellten sich schon viele Autoren, Ökonomen, Wissenschaftler, Politiker und sogar Menschen in der Steinzeit. Was sind unsere Abwehrhandlungen? Wie gehen wir damit um? Und wie können wir mit unsere vielen sogenannten "Bias" umgehen? Schaffen wir es neue Räume zu gestalten? Oder bleiben wir in unseren alten Räume?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="123">Tobias Budesheim</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="759" guid="075fb9be-d1c5-5458-9062-bca338f100b8">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
+        <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Michael Hirsch: „K – Kulturarbeit“ (Verlag.: Textem). Arbeit an der Kunst, Berufung statt Beruf?</abstract>
+        <description>Hirsch plädiert für das Anerkennen pluraler Arbeitsidentitäten und ein Loslassen des Traums von der Festanstellung. Ein Abgesang auf die Künstler:in als Genie und eine Verteidigung der konkreten Utopie des `wahren` Lebens.&#13;
+Buchpräsentation, Vortrag und Diskussion von Dr. Michael Hirsch, Privatdozent für Politische Theorie und Ideengeschichte an der Uni Siegen und freier Autor, mit anschl. Diskussion &#13;
+https://www.michael-hirsch-archiv.de/&#13;
+&#13;
+Moderation: Peter Arun Pfaff</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter Arun Pfaff</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="6634" guid="f6634d3c-8085-54e2-8ace-e2d5f8601a7d">
+        <logo/>
+        <date>2022-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:20</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-6634-design_clubcult_dance</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/</url>
+        <title>Design Clubcult - Dance!</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>en</language>
+        <abstract>{Design Clubcult - Dance!} A short experimental documentary about the revolutionary potential of dance and clubculture.</abstract>
+        <description>{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="166">Emma Mann</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1313" guid="b13d136b-b324-5937-ad11-b215d855ced5">
+        <logo/>
+        <date>2022-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-1313-geschlossene_gesellschaft</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/</url>
+        <title>Geschlossene Gesellschaft</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>en</language>
+        <abstract>Der Film begleitet verschiedene Münchner Clubs durch die Pandemie.</abstract>
+        <description>„Ich war mir felsenfest sicher, jeder wird immer feiern, essen und trinken.“ Doch die Pandemie zerstörte diese jahrhundertealte Gewissheit, denn die Clubs waren die ersten, die geschlossen haben und die letzten, die wieder öffnen durften. GESCHLOSSENE GESELLSCHAFT startet im Jahr 2 des Ausnahmezustands im Moment der größten Unsicherheit, als man in Bayern um 21 Uhr die Wohnung eigentlich nicht mehr verlassen durfte. Vier ganz unterschiedliche Clubs in München werden durch die Pandemie begleitet: Backstage, Harry Klein, Milla und P1. Sie alle eint das kreative Auflehnen gegen die mentale und finanzielle Insolvenz. Ein Film über die Transformation des Nachtlebens und die ekstatische Wiederauferstehung eines generationsübergreifenden Sehnsuchtsorts. Ludwig Sporrer&#13;
+Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+      <event id="49230" guid="7aa7f6ba-3b9c-552d-8193-531e366b8f88">
+        <logo/>
+        <date>2022-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49230-opening</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Veranstaltungsbeginn mit Einführung</abstract>
+        <description>Vor den ersten Vortrag die Veranstaltung eröffnen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="972">Fireshork</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49194" guid="4679d1eb-ee4d-5256-92d2-2c05d9e4a968">
+        <logo/>
+        <date>2022-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49194-how_to_prepare_files_for_lasercutting_talk</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/</url>
+        <title>How to prepare files for lasercutting (Talk)</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's &amp; don'ts? In the workshop that will follow this talk, we will put all this into practice using Inkscape. &#13;
+&#13;
+Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.</abstract>
+        <description>This talk will be held in English. Both English and German subtitles are provided.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3239">merline</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49176" guid="8f131864-e139-5bd1-b7f0-31620bf319c4">
+        <logo/>
+        <date>2022-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49176-swarm_support_tools_digitalcourage_free_software</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/</url>
+        <title>Swarm Support Tools - Digitalcourage ♥ Free Software</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Überblick über die bei Digitalcourage gehosteten öffentlichen Dienste und ein Erfahrungsbericht aus unserem Maschinenraum.</abstract>
+        <description>Wir hosten bei Digitalcourage eine Reihe an datenschutzfreundlichen und demokratiefördernden Tools und wollen euch diese vorstellen. Dabei erklären wir, warum wir es für wichtig halten, eigene Infrastruktur für Internetdienste zur Verfügung zu stellen und wie wir diese betreiben.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3309">Philip Steller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49179" guid="0c927944-2b66-5cee-980c-b37e24b7b110">
+        <logo>/media/fire-shonks-2022/submissions/PEEU9J/Hier-sorgt-ein-Schild-fur-F-D-und-R-_Pfade__Q9f2fbm.jpg</logo>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:56</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49179-datenschutz_sabotieren_aber_richtig</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PEEU9J/</url>
+        <title>Datenschutz sabotieren, aber richtig</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wie sabotiert man erfolgreich den Datenschutz in ganz Europa? Rena Tangens verfügt über die heißen Infos.</abstract>
+        <description>Wie sabotiert man erfolgreich den Datenschutz in ganz Europa? Lernen wir von Besten.&#13;
+Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlichkeitsrechte und den Datenschutz beschädigen? Rena Tangens verfügt über die heißen Infos. Als Bonus erfahren Sie auch noch, wie Sie dafür noch massenweise Steuergelder kassieren können. Dazu gibt es noch ein feines Video zu sehen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="389">Rena Tangens</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49175" guid="f67e9b12-567d-5dc2-998c-3a1b3cd078ef">
+        <logo/>
+        <date>2022-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49175-haste_mal_ne_mark_wieso_du_fuer_digitale_dienste_geld_nehmen_solltest</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VRK9JD/</url>
+        <title>Haste mal ne Mark? Wieso Du für digitale Dienste Geld nehmen solltest.</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Viele Nutzende verwechseln gerade in Deutschland immer noch freie mit kostenloser Software. Aber auch die Anbietenden haben oft nicht den Mut, Geld für ihre Arbeit zu verlangen. Wieso das für alle Beteiligten schlecht ist, und was die Alternativen sein können, ohne wen auszuschließen, möchte ich in diesem Talk beleuchten.</abstract>
+        <description>Es gibt viele gute Gründe für ehrenamtliche Arbeit im Netz, oft richten aber gerade die besten Leute sich für die Community zu Grunde, die im schlimmsten Fall plötzlich ohne die Dienstleistung oder den Code im Regen steht. Eine Anerkennung der geleisteten Arbeit in Form von schnöder, althergebrachter Knete kann ein Faktor sein, um das zu verhindern.&#13;
+Wie man bewertet, wann die Arbeit "zu viel" wird, die erste Hürde nach Geld zu fragen überwindet, und nicht zuletzt über Systeme sicherstellt, dass trotzdem auch Leute ohne Kohle von Deiner Arbeit profitieren können, ist Thema dieses Talks.&#13;
+Gratis dazu gibt es einen Arschtritt für Nutzende, die zwar das Geld aber nicht die Bereitschaft besitzen, Leute für Kram im Netz zu bezahlen und eine Erklärung, wieso sie sich damit ins eigene Fleisch schneiden.&#13;
+Markus hat jahrelang ehrenamtlich als Admin in einem großen deutschen Gamer-Forum und auf LAN-Parties gearbeitet. Später hat er das selbe für Geld getan, was ihm sehr viel besser gefallen hat. &#13;
+Aktuell arbeitet er bei Digitalcourage in Bielefeld.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3311">Markus</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49085" guid="849bdafa-adf2-5f16-9436-5d8bc1e8ee30">
+        <logo/>
+        <date>2022-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>01:30</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49085-leben_mit_borderline</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/</url>
+        <title>Leben mit Borderline</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Einblick in Leben und Symptome der Borderline-Persönlichkeitsstörung - Talk ergänzt um die Themen Favorite Persons bei Borderline und detaillierte Beschreibung der Diagnosekriterien und Skills&#13;
+Trigger versuche ich zu vermeiden</abstract>
+        <description>Die Borderline-Persönlichkeitsstörung hat viele Gesichter, weil für die Diagnostik 5 von 9 Kriterien in beliebiger Kombination zutreffen müssen. Ich habe schon auf der GPN20 versucht, Euch die komplexe Persönlichkeitsstörung Borderline etwas näher zu bringen (Link zum damaligen Talk kann gestreamt werden).&#13;
+Das Interesse war erstaunlich groß, deshalb möchte ich den Talk gerne fortsetzen.&#13;
+&#13;
+Jetzt, mit mehr Zeit für den Talk, möchte ich auch auf die 9 Diagnosekriterien eingehen, schildern, wie sich diese als Symptome äußern (können) und wie Ihr als Interessierte und Angehörige mit diesen Symptomen umgehen könnt. Wie Ihr uns Borderline-Betroffenen helfen könnt.&#13;
+&#13;
+Der 90 Minuten Slot bietet mir auch die Gelegenheit, Skills für den Umgang mit einzelnen Symptomen vorzustellen. Die Skills helfen nicht nur uns Borderlinern, sondern auch Nicht-Betroffenen.&#13;
+&#13;
+Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das sowohl an die Betroffenen als auch an Angehörige und die Favorite Person besondere Herausforderungen stellt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3243">Wawuschel</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49177" guid="d5cc9a24-f169-58eb-b462-462f2ff29e0a">
+        <logo>/media/fire-shonks-2022/submissions/A8J8AF/1989-2-BIONIC-Keller-Rena-padeluun-sw_JJsMAhl.jpg</logo>
+        <date>2022-12-27T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49177-von_der_mailbox_bis_zum_fediverse_kamingespraech</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/A8J8AF/</url>
+        <title>Von der Mailbox bis zum Fediverse (Kamingespräch)</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Alles schon mal dagewesen? Ja. Aber ganz anders. In diesem Kamintalk sprechen Rena Tangens, Leena Simon und padeluun über Mailboxen, Facebook-Kritik und warum das Fediverse uns an einen sozialen Schwarm erinnert.</abstract>
+        <description>Alles schon mal dagewesen? Ja. Aber ganz anders. In diesem Kamintalk sprechen Rena Tangens, Leena Simon und padeluun über die jahrzehntelange Arbeit an Kommunikationskonzepten. Mit vielen kleinen Anekdoten begeben wir uns auf eine Zeitreise zu den Mailboxen der 80er Jahre, zu unserer Kritik an Facebook der 2010er Jahre und wie diese uns dazu veranlasste einen eigenen "Sozialen Schwarm" zu entwerfen. Dass Wünsche auch mal in Erfüllung gehen können, zeigt uns heute das Fediverse. Und stellt uns direkt vor einen riesen Haufen neuer Fragen, für die wir - den 80ern sei Dank - schon eine ganze Menge Lösungswege parat haben.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="393">padeluun</person>
+          <person id="387">Leena Simon</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="409" guid="ef0a4cff-09db-5cb4-bbeb-ecb3ca678345">
+        <logo/>
+        <date>2022-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-409-opening</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Hello world!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7352" guid="7c35256e-594b-5a88-9424-a93ccdcdfe11">
+        <logo/>
+        <date>2022-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/3SS7L8/</url>
+        <title>How to find the Norwegian prime minister in an "anonymized" contact tracing dataset</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The first version of “Smittestopp”, the Norwegian Institute&#13;
+of Public Health’s (NIPH) contact tracing application, centrally stored&#13;
+data about the population’s contact patterns with reference to a static&#13;
+personal identifier, a decision that has been widely discussed and criti-&#13;
+cised. After the Norwegian Data Protection Authority had temporarily&#13;
+forbidden further data collection and processing in June 2020, NIPH an-&#13;
+nounced to discontinue the app and stated that all data related to the&#13;
+application would be deleted. Nevertheless, in October 2021, researchers&#13;
+from an institution involved in the development of the app published&#13;
+a paper called “Nationwide rollout reveals eﬀicacy of epidemic control&#13;
+through digital contact tracing”. In their paper, they analysed a de-&#13;
+rived dataset based on the Smittestopp data that was announced to be&#13;
+deleted. The authors claim that this derived dataset was anonymised and&#13;
+therefore does not include any personal data. We challenge this assump-&#13;
+tion by explaining how different external sets of personal data can be&#13;
+matched with the dataset, which potentially leads to a re-identification&#13;
+of persons and a disclosure of their private contacts. We conceptually&#13;
+show how some of these methods can be applied on an example case&#13;
+using publicly available information on Erna Solberg, Norway’s former&#13;
+prime minister. We conclude that it appears reasonably likely that indi-&#13;
+viduals can be re-identified and that the dataset should not be considered&#13;
+anonymised.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">derhagen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8149" guid="814912f4-7d40-596e-9320-f05dd9963765">
+        <logo>/media/rtc22/submissions/P8HTXA/1000-reichsmark_JGS9aMx.jpg</logo>
+        <date>2022-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-8149-technikgebrauch_damals_tm</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/P8HTXA/</url>
+        <title>Technikgebrauch damals(tm)</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Performance</type>
+        <language>de</language>
+        <abstract>Opa erzählt jahresendgemäß vom Krieg</abstract>
+        <description>Eine live-damals(tm)-Performance. Jemand läuft vor 100-80-50-30 Jahren durch deutsche Städte, benutzt Verkehrsmittel, nimmt andere Dienstleistungen in Anspruch und betritt Lokalitäten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">ajuvo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
+  </day>
+  <day index="2" date="2022-12-28" start="2022-12-28T09:00:00+01:00" end="2022-12-28T09:00:00+01:00">
+    <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Seminarraum">
+      <event id="4958" guid="a49e5c85-1ad9-5e2f-9427-627eb6a77ca3">
+        <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
+        <title>Das ZAM im Wandel der Zeit</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wo sind wir hier eigentlich? Was ist das für ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum für Austausch und Machen.</abstract>
+        <description>Wir möchten euch diesen neuen Ort in der Erlanger Kulturlandschaft erklären und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige Führung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">Julian "codemonk"</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9167" guid="91f6e743-93b2-590f-b64b-1d51bd2673c4">
+        <logo/>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
+        <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungelöstes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?&#13;
+&#13;
+Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Software und deren Anwendungsgebiete.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9">C-Keen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9908" guid="9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-9908-wie_funktioniert_eigentlich_filmentwicklung</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/</url>
+        <title>Wie funktioniert eigentlich Filmentwicklung?</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Vor 196 Jahren erfand Joseph Niépce die Heliographie, die weltweit erste fotographische Technik.&#13;
+    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach für die gesamte Bevölkerung erschwinglich.&#13;
+    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdrängt.&#13;
+    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdrängt worden.&#13;
+    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der ursprünglichen fotografischen Technik in Berührung zu kommen.&#13;
+    Das ist schade, stellt sie doch eine großartige kulturelle Errungenschaft dar.&#13;
+    In diesem Vortrag möchte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abläuft.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Beowulf</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6207" guid="6a20a7c8-1c7a-5d01-8de8-cd233b06a34c">
+        <logo/>
+        <date>2022-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>01:00</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-6207-schokolade_essen</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/</url>
+        <title>Schokolade essen</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Schokolade essen? Das kann doch jeder!&#13;
+Richtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. &#13;
+Dennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen ein Stück Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.</abstract>
+        <description>Ein Workshop der besonderen Art.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="21">Roman Stöhr</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="8672" guid="867208f4-ebf6-5158-89c1-bd9f623f50f2">
+        <logo/>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>03:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-8672-kritische_maennlichkeit</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/</url>
+        <title>Kritische Männlichkeit</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wie beeinflussen patriarchale Vorstellungen von Männlichkeit unser Zusammenleben, und wie können wir im Austausch zwischen allen Geschlechtern neue Praktiken entwickeln?</abstract>
+        <description>Wann wird von wem "Männlichkeit" erwartet? Was bedeutet das überhaupt? Wie wirkt sich das auf unser Miteinander aus, und welche Probleme kann das bereiten? Mit welchen zwischenmenschlichen Praktiken können wir diesen entgegenwirken, und wie können wir uns diese aneignen?&#13;
+&#13;
+Ziel des Workshops ist es, sich diesen Fragen durch zugängliche und strukturierte Diskussion und praktische Übungen zu öffnen, und gemeinsam konkrete Handlungsoptionen zu entwickeln.&#13;
+&#13;
+Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsidentität angelegt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">Martin Barner</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+        <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
+        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Modi von konkreter Utopie aufdecken &amp; mit der Dystopie umgehen lernen &amp; zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beiträgen zu Polizeiforschung und Architektur stattfinden wird.</abstract>
+        <description>Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir fördern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabhängig vom bzw. über den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.&#13;
+&#13;
+Unser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext für gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkstätten und einem monatlichen Kolloquium. Wissen soll dabei für emanzipatorische Bewegungen zugänglich(er) werden.&#13;
+&#13;
+Zentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? &#13;
+&#13;
+Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+        <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
+        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Modi von konkreter Utopie aufdecken &amp; mit der Dystopie umgehen lernen &amp; zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beiträgen zu Polizeiforschung und Architektur stattfinden wird.</abstract>
+        <description>Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir fördern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabhängig vom bzw. über den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.&#13;
+&#13;
+Unser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext für gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkstätten und einem monatlichen Kolloquium. Wissen soll dabei für emanzipatorische Bewegungen zugänglich(er) werden.&#13;
+&#13;
+Zentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? &#13;
+&#13;
+Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3812" guid="3d8b12dd-02d1-57ac-8fc1-46693e923846">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/</url>
+        <title>Kunst und Kommerz, ein problematisches Verhältnis</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
+        <description>Pravu Mazumdar (Philosoph) angefr.&#13;
+Rossana Pondorf (Artspace Rosa Stern) bestätigt&#13;
+&#13;
+Moderation: Peter Arun Pfaff</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="139">Peter Arun Pfaff</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="8460" guid="84dd6041-a73f-5a96-875f-a32655b01747">
+        <logo/>
+        <date>2022-12-28T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-8460-programmieren_mit_satzbausteinen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/</url>
+        <title>Programmieren mit Satzbausteinen</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets ermöglicht, vorgestellt.</abstract>
+        <description>Programmieren ist vielfältig und so gibt es verschiedene Ansätze. Die menschliche Kommunikation läuft teilweise über Sprache und so ist es naheliegend, zu versuchen, natürliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es ermöglicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere natürliche Sprachen übersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschließend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets für weitere Programmiersprachen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="111">Hogü-456</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="729" guid="e072938b-803a-5ec2-a7c5-01e2e6920c9c">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/</url>
+        <title>Tabellenkalkulationsfunktionen in Quelltext umwandeln</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext ermöglicht, welcher die für unterstütze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enthält.</abstract>
+        <description>Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abhängigheit von Werten und auch von anderen Berechnungen vornehmen zu können und die Funktionen sind in mindestens 100 Sprachen teilweise übersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gewünscht, dass es möglich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf höhere Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverständnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das ermöglicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung ermöglichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren möglich ist und vielleicht hilft diese Möglichkeit, den Zugang zu Programmieren in höheren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="111">Hogü-456</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-958-alles_ist_1_ausser_der_0</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/</url>
+        <title>Alles ist 1. Außer der 0.</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>Die Geschichte des legendären Chaos Computer Club (CCC) und seiner Gründerseele Wau Holland (Dr. Wau).</abstract>
+        <description>Vom Computer-Nerd zum Datenkünstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die großen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.&#13;
+Mehr Infos: https://allesisteins.film/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4783" guid="478320e4-3feb-5594-8b47-3950f0edf5af">
+        <logo>/media/freiraumforum/submissions/EJRDFX/seebruecke_muenchen_logo_21_LpiNEFz.jpg</logo>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/</url>
+        <title>Brücken statt Mauern - grenzenlose Solidarität</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>Film und Gespräch über die europäischen Außengrenzen und was wir dem entgegensetzen können</abstract>
+        <description>Wir zeigen einen Kurzfilm polnischer Aktivist*innen zur Situation an der Grenze Polen/Belarus. Davon ausgehend können wir z.B. gemeinsam über folgende Themen sprechen:&#13;
+-sichere und legale Fluchtwege&#13;
+-Perspektiven globaler Solidarität&#13;
+-solidarische Stadt</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="144">Seebrücke München</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+      <event id="49154" guid="642a2250-a5b9-5e4a-bf53-984f1f0c0a70">
+        <logo>/media/fire-shonks-2022/submissions/LMFMJN/logo_ekPeMOF.png</logo>
+        <date>2022-12-28T11:55:00+01:00</date>
+        <start>11:55</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49154-platform_system_interface_design_und_evaluation_holistischer_computerarchitektur</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/</url>
+        <title>Platform System Interface - Design und Evaluation holistischer Computerarchitektur</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Konnten wir sie je verstehen, und begreifen wir Computer heute noch wirklich?&#13;
+Auf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.</abstract>
+        <description>Ausgehend von einer Metaperspektive schauen wir uns die vielen verworrenen Facetten an, die zusammen die Elektronik der heutigen Zeit ergeben, von Gadgets und Mobilgeräten bis zu großen Rechnern, um schließlich zurückzufinden zu ihrem Ursprung: den Menschen, die sie geschaffen haben, die mit ihnen arbeiten und spielen, wie sich jene doch gar kaum unterscheiden und was sie antreibt.&#13;
+Dies legt den Grundstein zum übergreifenden [Platform System Interface](https://github.com/platform-system-interface)-Projekt, das darauf abzielt, die gemeinsame Gestaltung von Hard- und Software im Ganzen zu dokumentieren mit der [psi-spec](https://github.com/platform-system-interface/psi-spec) in Prosa, und darüber hinaus Anleitungen, Werkzeuge und ein Framework bereitzustellen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="261">Daniel Maslowski</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49102" guid="1e1957f8-4a39-5438-acfd-d9909f7e27e7">
+        <logo>/media/fire-shonks-2022/submissions/VYJUZN/Logo_sIkGA9R.png</logo>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:15</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49102-10_000_seiten_spaeter_welche_spuren_der_klimabericht_bei_mir_hinterlassen_hat</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/</url>
+        <title>10.000 Seiten später – Welche Spuren der Klimabericht bei mir hinterlassen hat</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat veröffentlicht sind, liest Claudia ihn Kapitel für Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation – doch was ist 10.000 Seiten später (so lang ist der Klimabericht) davon übrig geblieben?</abstract>
+        <description>Claudia fragt, was das Lesen des Klimaberichts in ihr verändert und mit ihr gemacht hat und möchte die Antwort gemeinsam mit Julia und Euch ergründen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3403">Joliyea</person>
+          <person id="3262">Fuzzy Leapfrog</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49180" guid="1ca045fd-7fc9-5952-aaff-a775747a201e">
+        <logo>/media/fire-shonks-2022/submissions/VFXVLS/abc_023SrPY.jpeg</logo>
+        <date>2022-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49180-kann_quick_freeze_die_vorratsdatenspeicherung_endlich_beerdigen</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VFXVLS/</url>
+        <title>Kann Quick Freeze die Vorratsdatenspeicherung endlich beerdigen?</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit Jahrzehnten kämpfen wir politisch und juristisch gegen die Vorratsdatenspeicherung. Kann "Quick Freeze" der richtige Weg sein, um den Überwachungszombie endgültig zu beerdigen?</abstract>
+        <description>Nach einer ganz kurzen Einordnung der Vorratsdatenspeicherung wollen wir den aktuellen Vorschlag zu einem Quick-Freeze-Verfahren skizzieren und warum wir darin eine Chance sehen. Wir geben einen Überblick darüber, was die Bundespolitik gerade diskutiert, wie ein rechtsstaatlich vertretbares Instrument aussehen könnte und welche Fallstricke und Gefahren darin noch lauern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="302">Konstantin Macher (Digitalcourage)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49078" guid="8c30cbe4-704e-5615-a285-f5ff6fb9150f">
+        <logo>/media/fire-shonks-2022/submissions/U7DKAZ/Screenshot_from_2022-11-12_13-17-50_swGb1it.png</logo>
+        <date>2022-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:55</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49078-haecksen_gegen_cyberstalking_ein_bericht_vom_anti_stalking_projekt</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/U7DKAZ/</url>
+        <title>Haecksen gegen Cyberstalking  ein Bericht vom Anti-Stalking Projekt</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Stalking ist ein grosses gesellschaftliches Problem. Spyware, Stalkerware, aber auch andere harmlos wirkende Smartphone Features werden zum Stalken eingesetzt. Die Haecksen vom Anti-Stalking Project leisten technische Hilfe zur Selbsthilfe für Betroffene.</abstract>
+        <description>Stalking ist ein großes gesellschaftliches Problem. Spyware, Stalkerware, aber auch andere harmlos wirkende Smartphone Features werden zum Stalken eingesetzt. &#13;
+&#13;
+In der Pandemie haben Fälle von häuslicher Gewalt, Stalking und auch Cyberstalking leider zugenommen. Cyberstalking ist das Nachstellen und Belästigen einer Person mit Hilfe von Internet und Mobilfunk.&#13;
+&#13;
+Die vielen Beratungsstellen, Vereine und Frauenhäuser leisten sehr wichtige Arbeit, um die Betroffenen zu unterstützen. Die meisten Beratungsstellen sind jedoch auf die sozialen Aspekte konzentriert, die technische Seite fehlt oft. Das liegt meistens an mangelndem Fachwissen. Seit Mai 2021 arbeitet eine Untergruppe der Haecksen daran, diese Lücke zu schließen.&#13;
+&#13;
+Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von Stalking. Er gewährt auch Einblicke in die Entstehung von der Seite https://antistalking.haecksen.org/ und ihren Inhalten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3238">wifi-cable</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49174" guid="c800d051-2bd3-5fda-9a5d-bc6dadfd616d">
+        <logo>/media/fire-shonks-2022/submissions/BGAQ3C/Werbung_01_Datenschutz_f%C3%A4llt_heute_aus_C9wTcpr.png</logo>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49174-db_schnueffelnavigator</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/</url>
+        <title>DB Schnüffelnavigator</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die Bahn-App „DB Navigator” gibt viele Informationen über uns an Tracking-Firmen weiter – und wir haben keine Möglichkeit, dem zu widersprechen. Digitalcourage klagt dagegen. Denn wir wollen Bahn fahren, nicht Daten liefern.</abstract>
+        <description>Digitalcourage klagt gemeinsam mit dem  IT-Sicherheitsforscher, Datenschutzaktivist und Blogger Mike Kuketz und dem auf IT- und Datenschutzrecht spezialisierten Anwalt Peter Hense gegen Tracker im „DB Navigator”.&#13;
+Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Kniff die Bahn versucht hat, sich rauszureden – das erzählt Julia Witte von Digitalcourage.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3310">Julia Witte</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49178" guid="fa1c3852-5766-51af-9628-df45702ce5d7">
+        <logo/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr_was_tun</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/</url>
+        <title>Kein Perso ohne Finger(abdrücke) mehr - was tun?</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.</abstract>
+        <description>Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdrücke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir überzeugt: das ist übergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europäischen Gerichtshof gegen die Fingerabdruckspflicht.&#13;
+In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="302">Konstantin Macher (Digitalcourage)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49100" guid="a861943b-bcf8-5a18-b1b9-58bca2a6158d">
+        <logo/>
+        <date>2022-12-28T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49100-hacking_a_sat_receiver</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/</url>
+        <title>Hacking a sat receiver</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver</abstract>
+        <description>In diesem Vortrag geht es darum was man mit einem günstigen Sat-Receiver so anstellen kann, außer Fernsehen zu gucken. Dabei handelt es sich nämlich um einen kleinen Computer der auch gehackt werden kann. Es geht um Firmware-Formate, Framebuffer, Eigenheiten der MIPS-Architektur, und ein bisschen Linux.&#13;
+&#13;
+&#13;
+[EN]&#13;
+&#13;
+In this talk, I will talk about the things that can be done with a cheap sat receiver, aside from watching TV. It turns out to be a little computer that can be hacked. There will be firmware file formats, framebuffers, idiosyncracies of the MIPS architecture, and a little bit of Linux.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3257">jn</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49226" guid="3c648f09-105f-5d30-b681-ad8ef98bb308">
+        <logo/>
+        <date>2022-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49226-operation_mindfuck_vol_6</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/</url>
+        <title>Operation Mindfuck Vol. 6</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!</abstract>
+        <description>You can find recordings of the previous iterations here:&#13;
+&#13;
+- [Vol. 1](https://blinry.org/operation-mindfuck/) (German)&#13;
+- [Vol. 2](https://blinry.org/operation-mindfuck-2/) (German)&#13;
+- [Vol. 3](https://blinry.org/operation-mindfuck-3/) (German)&#13;
+- [Vol. 4](https://blinry.org/operation-mindfuck-4/) (English)&#13;
+- [Vol. 5](https://blinry.org/operation-mindfuck-5/) (English)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="514">bleeptrack</person>
+          <person id="293">blinry</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="631" guid="0d6314a9-9049-59b4-b6e3-3d909086b378">
+        <logo>/media/rtc22/submissions/MCVSWU/Logo_blue_BNLLwsP.png</logo>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/MCVSWU/</url>
+        <title>Machen wir die Elektronik durch "Hardware as a service" kreislauffähiger</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die Elektronikindustrie verursacht eine große Menge negativer externer Effekte, von den Minen bis zum Ende der Lebensdauer der Produkte. Viele Studien haben gezeigt, dass die meisten dieser Auswirkungen während der Entstehung und dem Ende des Produkts auftreten. Daher besteht die erste Priorität darin, die Zahl der hergestellten und verkauften elektronischen Geräte zu verringern. Dies ist jedoch für Unternehmen, die ausschließlich auf den Verkauf dieser Geräte angewiesen sind, nicht realisierbar. Daher ist ein anderes Geschäftsmodell erforderlich: Product as as Service (PaaS). Wir werden untersuchen, unter welchen Bedingungen diese neue Art des Wirtschaftens wirklich nachhaltig sein kann (Spoiler: indem sie zirkulär ist!) und ob die Elektronik nicht auch zu einem Gemeingut werden könnte.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">Lina Dingler</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7505" guid="75057471-bd37-59f6-90b1-b4542d721684">
+        <logo/>
+        <date>2022-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-7505-ipv6_einfach_nutzen</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/</url>
+        <title>IPv6 einfach nutzen</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine einfache Vorstellung von  IPv6</abstract>
+        <description>IPv6 an Beispielen gezeigt.  Mit Erlaeuterungen der Begriffe. Dazu Referenzen und Literaturhinweise.&#13;
+Vorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. Das geschieht nur per IPv6 aber ohne (zusätzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.&#13;
+Einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
+Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit Clemens Schrimpe https://requestforcomments.de/archives/412</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9">mutant</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3857" guid="3857781d-01fe-5eb6-85e4-23c38dcb1205">
+        <logo>/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png</logo>
+        <date>2022-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
+        <title>Wir können dich durchschauen - Bildgebung in der Medizin</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Dunkle Räume, teure Bildschirme, spannende Technik - willkommen in der Radiologie! Erfahrt welche gängigen Möglichkeiten es gibt, Bilder vom Inneren des Körpers zu machen, wie die Verfahren funktionieren und wofür sie geeignet sind.</abstract>
+        <description>In diesem Vortrag werden die Grundlagen der medizinischen Bildgebung vorgestellt und gezeigt, was die verschiedenen Verfahren wie Ultraschall, Röntgen, CT und MRT beinhalten und wie sie funktionieren. Wir gehen auf Anwendungsbereiche und Risiken ein und sehen, was sich hinter den häufig verwendeten Abkürzungen verbirgt. Der Vortrag richtet sich an interessierte Laien und verzichtet auf möglicherweise verstörende Fotos. Seid dabei, um mehr über die spannende Welt der medizinischen Bildgebung zu erfahren!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">qbit</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7282" guid="a72ea826-ff65-5267-b8ad-f916698ab19a">
+        <logo>/media/rtc22/submissions/EXAGFT/6CC33200-3954-4A59-8D6A-F167CB0F3866_R5lGEkK.png</logo>
+        <date>2022-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-7282-antiverschwurbeltes_axiom</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/EXAGFT/</url>
+        <title>antiverschwurbeltes axiom</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Echsenmenschen präsentieren ihre Aktionen und teilen Ihre Skills. Taucht mit uns in die faszinierende Welt der Schwurbel.&#13;
+&#13;
+FRÜHERE BOTSCHAFTEN DER REPTILOIDEn AN DIE MENSCHHEIT&#13;
+&#13;
+⏩ zur kritischen einführungswoche tu-berlin 2020:   https://youtu.be/dpPrUPpm5pI?t=1018&#13;
+&#13;
+⏩ rcc im //aboutblank berlin: https://media.ccc.de/v/rc3-11498-schwurbeldemos_der_neuen_rechten_und_gegenprotest&#13;
+&#13;
+⏩ rc3 in der c-base berlin:  https://kolektiva.media/w/okL7ACMAVt52hHn2Q1nMf7</abstract>
+        <description>Videobeiträge: &#13;
+lustige Reaktionen der Schwurbel auf Gegenprotest, „Pest of 2022“, Marschmusik gendern, How-to-mit-Schwurbel-reden, Echsen-Resilienz, &#13;
+Live:&#13;
+Hymne der Echsenmenschen, Sitcom, Kochen mit Atti, Talk u.a. mit Omas gegen Rechts, Q&amp;A&#13;
+&#13;
+https://antiverschwurbelte-aktion.de/&#13;
+&#13;
+programm folgt...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Schnappi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5374" guid="5a374648-e0bf-53ff-84f6-998fdeefce9b">
+        <logo/>
+        <date>2022-12-28T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-5374-cursedin_drum_n_bass</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
+        <title>cursedin (Drum'n'Bass)</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Performance</type>
+        <language>de</language>
+        <abstract>wahrscheinlich liquid DnB. tanzbar, darf aber auch zu code verarbeitet werden</abstract>
+        <description>https://soundcloud.com/cursedin</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="10">Kerstin</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49310" guid="31c55a8e-77c7-569e-818e-22a7b9c9edf5">
+        <logo/>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49310-opening</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="265">Carina Haupt</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49292" guid="cb77f0fa-6037-568c-b6b0-d3da3ff8d593">
+        <logo>/media/hacking-in-hell-2022/submissions/AKSLWC/IMG_20200918_193952_XB6Lw6P.jpg</logo>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:45</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49292-intro_to_show_laz0rs_hacken</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/AKSLWC/</url>
+        <title>Intro to Show-Laz0rs hacken</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Talk über Showlaser: Wie funktionieren die Dinger, mit was für Daten werden die angesteuert, mit welchen Programmen geht das, und etwas Demo mit der nodebasierten Programmierumgebung TouchDesigner.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3400">Moritz Hilscher</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49309" guid="be6ac95c-94b1-5c0d-aa06-b5980ba33111">
+        <logo/>
+        <date>2022-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49309-mach_dein_softwareprojekt_nutzbar_fuer_andere</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/</url>
+        <title>Mach dein Softwareprojekt nutzbar für andere!</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Damit andere deinen Code ausführen, verstehen und vielleicht sogar erweitern können, braucht es nicht viel. Ein bisschen aufräumen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was gehört eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? &#13;
+In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="265">Carina Haupt</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
+      <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
+        <logo/>
+        <date>2022-12-28T11:42:23+01:00</date>
+        <start>11:42</start>
+        <duration>00:15</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49308-opening</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/M7TWWN/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Impulse Vortrag</type>
+        <language>de</language>
+        <abstract>Welcome to xrelog22</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3509">XR.Labs Operation Group</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49286" guid="a5aab351-7c5b-51a0-a21b-878b0c7c44df">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49286-open_source_culture_heritage_historiography</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/G8JCJX/</url>
+        <title>Open Source Culture Heritage Historiography</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (60)</type>
+        <language>en</language>
+        <abstract>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</abstract>
+        <description>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3323">Felipe "Operário" Ribeiro</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49305" guid="8eab3ce0-c079-5052-82b3-98ac397d240c">
+        <logo/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49305-overte</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
+        <title>Overte: In-world creation with Voxels, Physics, etc.</title>
+        <subtitle/>
+        <track>Sachen Machen</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Casual hands-on in Overte</abstract>
+        <description>Try out Overte and its in-world creation with the developers.&#13;
+You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
+You can also spectate the event on PeerTube.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3418">Julian Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49219" guid="0c89378a-1c09-5bae-9f59-ca6f55b4f5d4">
+        <logo/>
+        <date>2022-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49219-mafifa_wm_2030_1</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
+        <title>mafifa - WM 2030 (1: Auslosung)</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.</abstract>
+        <description>Finden wir den nächsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
+Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live übertragen und kommentiert. Belly Rethy ist raus.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3253">CodeFreezR</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
+    <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Seminarraum">
+      <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
+        <logo/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
+        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?&#13;
+Want to get organized and get an efficient overview of all your TODOs?&#13;
+Or already using some concepts and want to go deeper and learn (hopefully) some new tricks?&#13;
+Then join this talk.</abstract>
+        <description>First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind &amp; workflows.&#13;
+&#13;
+Second half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) &#13;
+&#13;
+Third is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.&#13;
+Best way to learn and teach is by communicating, so lets talk!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="28">MaW</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2775" guid="2f7757c0-259b-5899-90c4-0690be7a4b35">
+        <logo>/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg</logo>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-2775-surviving_as_a_nerd_deutsch</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
+        <title>Surviving as a NERD (Deutsch)</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Relationship Survival Guide für Nerds</abstract>
+        <description>Talking Points:&#13;
+Was wir mit Nerd meinen&#13;
+Egoismus vs. Authentisches Selbst&#13;
+Das Ziel&#13;
+Hack dein (sozial) Leben&#13;
+Hack deine Beziehungen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Akira DeLaine</person>
+          <person id="14">SycretSoul</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="982" guid="be09a825-3f68-5362-b03f-bdae90ce5588">
+        <logo/>
+        <date>2022-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
+        <title>Schlangenprogrammiernacht – Ein Blick hinter die Kulissen</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein für die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.</abstract>
+        <description>Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!&#13;
+&#13;
+Konkret wird es darum gehen…&#13;
+&#13;
+- wie der Gameserver mit den Bot-Prozessen kommuniziert,&#13;
+- wie die Unterstützung mehrerer Programmiersprachen umgesetzt ist und&#13;
+- wie verhindert wird, dass die User mit ihrem Code das Hostsystem übernehmen.&#13;
+&#13;
+Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">Thomas „cfr34k“</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7656" guid="d765694d-8e4c-5eb2-aa64-8815a6693661">
+        <logo>/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg</logo>
+        <date>2022-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>02:00</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
+        <title>Schafkopf für Anfänger</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Mal was Analoges - Schafkopfen für Anfänger:&#13;
+Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="7">MikeTsenatek</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
+        <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3706-slapp</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/</url>
+        <title>SLAPP: Rechtsmissbrauch zulasten der kritischen Öffentlichkeit - und was dagegen getan werden kann.</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Immer mehr Unternehmen, staatliche Akteure und reiche Einzelpersonen nutzen rechtliche Mittel, um Kritiker*innen zum Schweigen zu bringen. Blueprint for Free Speech und RA Dr. Jasper Prigge stellen das Phänomen der “Strategic Lawsuits Against Public Participation” und mögliche Gegenmaßnahmen vor.</abstract>
+        <description>Die Kurzform SLAPP kommt aus den USA: Übermächtige Player, die Journalisti oder Aktivisti mit juristischen “Ohrfeigen” zum schweigen bringen wollen. Nicht immer sind die Forderungen juristisch unbegründet, aber in jedem Fall haben sie einen einschüchternden Effekt. Weil SLAPPs ein strategisches Mittel in der Auseinandersetzung um für die Öffentlichkeit wesentliche Themen sind, handelt es sich nicht zuletzt um Ohrfeigen für die Demokratie.&#13;
+&#13;
+SLAPPs sind darauf gerichtet, öffentliche Partizipation zu schwächen, indem sie Kritiker:innen einschüchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfläche so klein wie möglich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. &#13;
+&#13;
+Blueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge in die Thematik einführen, inkl. Q&amp;A.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="163">Blueprint For Free Speech</person>
+          <person id="195">Mona</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8094" guid="fd80f9bc-4e06-5c0f-a133-73602c90e9f1">
+        <logo/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
+        <title>Das Unbehagen, als "links" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Gespräch</type>
+        <language>de</language>
+        <abstract>Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.</abstract>
+        <description>Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei persönlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?&#13;
+&#13;
+Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beiträgen zu Beginn der Sessions einige Hintergrundinformationen und mögliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachspüren, was den Weg zu einer befreiten Gesellschaft versperrt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="170">Kathi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="755" guid="e0d7fd5b-5fd5-59f4-a508-e21c3c99251e">
+        <logo/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:31</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-755-kampf_um_die_a49</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/</url>
+        <title>Kampf um die A49</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>en</language>
+        <abstract>Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten müssen den Weg frei machen für die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.</abstract>
+        <description>Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse führt durch jahrhundertealte Wälder, vorbei an verschlafenen Dörfern. Über 600 Aktivisten haben in Dannenrod in Mittelhessen 7 "Barrios" mit bis zu 100 Baumhäusern in schwindelerregender Höhe gebaut. Die Räumung durch Spezialeinsatzkräfte der Polizei steht unmittelbar bevor. &#13;
+In Planung ist die A 49 schon seit über 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten über Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GRÜNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der grüne Verkehrsminister, nämlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-grünen Landesregierung politisch durchsetzen. &#13;
+Klaus Stern und Frank Pfeiffer begleiten Befürworter der Autobahn, langjährige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister während des Rodungs- und Bauprozesses. &#13;
+Wie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.&#13;
+Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+      <event id="49270" guid="47b2d2c7-e59c-554c-97a2-ec80ecb640ba">
+        <logo>/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png</logo>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
+        <title>Geschlechtergerechtigkeit und Making</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.</abstract>
+        <description>Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue Möglichkeiten bieten können, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .&#13;
+&#13;
+Im Zuge dessen haben wir Maßnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein für Machtungleichgewichte in Maker- und Online Spaces stärken sollen.&#13;
+&#13;
+Auf unserer Website https://criticalmaking.eu/gender-equality/ finden sich erste Ergebnisse unserer Aktivitäten, die auch während der Veranstaltung präsentiert werden: In den Inspirational Stories about Gender-Inclusive Making können spannende Menschen aus der ganzen Welt kennengelernt werden, die ihre inspirierenden Geschichten teilen, wie sie zu Making gefunden haben.&#13;
+&#13;
+In der Introduction to Inlcusive Making finden sich verständliche Erklärungen zu einigen Begriffen und Theorien rund um inklusives Making. Die Recommendations to Inclusive Making bieten praktische Empfehlungen, wie ein Makerspace offen und einladend werden kann. Gemeinsam können wir diese Dokumente lebendig machen – Feedback, Erfahrungen und Empfehlungen können gerne über die Kommentarfunktion übermittelt werden, und so das gemeinsame Wissen vergrößern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3388">LMS</person>
+          <person id="3379">Teresa Schaefer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49115" guid="51e7515c-4fd7-5c96-9e00-0e26edb4f416">
+        <logo/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49115-tracking_in_apps</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FRQGY9/</url>
+        <title>Tracking in Apps: Ist das legal? – Eine Übersicht über die mobile Trackinglandschaft</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Egal was wir im Internet machen, Webseiten und Apps versuchen uns durchgehend zu tracken. Wir haben schon viel über Tracking im Web gehört, aber wie sieht das bei Handy-Apps aus? Obwohl wir regelmäßig mit unseren Handys interagieren, wissen wir viel weniger über Datensammelei in unseren Smartphones. In diesem Vortrag wollen wir unsere Forschung im App-Tracking-Bereich vorstellen und Euch zeigen, wie wir automatisiert Tausende von Apps analysiert haben. Ihr werdet lernen, welche Daten Apps über Euch versenden und wer diese erhält. Außerdem schauen wir uns mal diese Einwilligungsdialogen an – sind die überhaupt legal?</abstract>
+        <description>Während wir schon eine Menge über das allgegenwärtige Tracking im Web wissen, gibt es bisher wenig Ergebnisse zur Situation bei mobilen Apps, insbesondere in einem großen Umfang. Wir, der Datenanfragen.de e. V. und das Institut für Anwendungssicherheit an der TU Braunschweig, haben uns in mehreren Forschungsprojekten genau diesem Problem angenommen und möchten Euch unsere Ergebnisse vorstellen.&#13;
+&#13;
+Wir werden uns konkrete Tracking-Beispiele aus bekannten Apps ansehen, die zahlreiche Daten an Drittanbieter senden, selbst wenn die Nutzer_in die App gerade einmal gestartet hat. Wir werden Euch von den technischen Herausforderungen berichten, die uns begegnet sind sowie die Ergebnisse unserer Studie von 4.388 beliebten Apps unter Android und iOS berichten. Wir wollen nicht zu viel verraten, aber Ihr werdet nicht überrascht sein, dass die Situation genauso schlimm ist wie im Web. Ein Großteil der Apps übermittelt Telemetriedaten über Gerätedetails (Modell, Einstellungen, Batteriestatus, etc.), Sensordaten und Ereignisse (angeschaute Seiten, Klicks) oder selbst Eure GPS-Position und Daten, die Ihr in Apps eingebt.&#13;
+&#13;
+Zum Glück müssen wir uns nicht mit dieser Situation abfinden. Wir werden Euch die rechtlichen Rahmenbedingungen von Tracking in der EU vorstellen. Durch die DSGVO und die ePrivacy-Richtlinie gibt es strenge Regeln darüber, wann Tracking legal ist – an die sich die meisten Apps nicht halten. Und es wird sogar schlimmer, wenn wir uns diese nervigen Einwilligungsdialoge anschauen: Da wird es echt schwer, welche zu finden, die sich tatsächlich an die Gesetze halten.&#13;
+&#13;
+Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch mangelhaft. Das führt dazu, dass viele Firmen davon ausgehen, dass sie konsequenzlos damit davon kommen können, sich nicht an das Gesetz zu halten. Wir wollen Euch zeigen, welche Ideen wir haben, um das zu ändern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3286">Malte Wessels</person>
+          <person id="3276">Lorenz Sieben (zner0L)</person>
+          <person id="3263">Benjamin Altpeter</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49279" guid="b9cec8e9-0ef2-50fd-be57-9ff1996347f2">
+        <logo/>
+        <date>2022-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49279-barrierearme_datenvisualisierungen_im_web</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QPBDTA/</url>
+        <title>Barrierearme Datenvisualisierungen im Web</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wie können Datenvisualisierungen so gestaltet werden, dass sie auch für Menschen mit Behinderungen gut zugänglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden können. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die präsentierten Daten zum Download anzubieten und wie ein Diagramm für Screenreader-Nutzer:innen beschrieben werden kann.</abstract>
+        <description>Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden können. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. &#13;
+&#13;
+Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3386">Anne-Victoria Meyer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49227" guid="393d0f31-a7b8-5704-91d6-1affa8264853">
+        <logo>/media/fire-shonks-2022/submissions/WP8DB3/abrei%C3%9Fen_aufbauen_QQhOJDb.jpg</logo>
+        <date>2022-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:30</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/</url>
+        <title>Strömungen, Kontroversen und Paradoxien im Anarchismus</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Anarchismus ist äußerst plural, was sich in seinen verschiedenen Strömungen, anhaltenden Kontroversen und paradoxen Denkweisen zeigt. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erklärt und in einen Zusammenhang gebracht werden kann.</abstract>
+        <description>Der Anarchismus ist in sich äußerst plural. So gibt es neben anarchistischen Individualismus, Kommunismus und Syndikalismus noch weitere Strömungen und Traditionen in ihm. Weiterhin bestehen unter Anarchist*innen teilweise sehr unterschiedliche Ansichten darüber, wie Selbst- und Gesellschaftsveränderung im Zusammenhang stehen, wann Gewaltanwendung legitim ist, wie mit Entfremdung umgegangen werden kann und was Natur und Technik eigentlich sind. Außerdem finden sich im anarchistischen Denken zahlreiche Paradoxien. Sie kommen beispielsweise in den Konzepten von Zwischenraum, direkte Aktion, konkrete Utopie oder soziale Revolution zum Ausdruck. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erklärt und in einen Zusammenhang gebracht werden kann.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="402">Jonathan Eibisch</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49172" guid="9c3992f4-4d35-574d-bb99-4e40890cfbc7">
+        <logo/>
+        <date>2022-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:15</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49172-ccs_chaotischer_catalysator_stipendien</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/</url>
+        <title>#CCS - Chaotischer Catalysator Stipendien</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir suchen nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist.</abstract>
+        <description>Mit dem “Chaotischen Catalysator Stipendien #CCS” werden für Masterarbeiten Stipendien vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert. In diesem kurzen Talk wollen wir das Stipendien Programm vorstellen. https://ccs.chaostreff-flensburg.de/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3308">scammo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49293" guid="49bf1265-2bbe-5bc7-9208-b14e83c227ce">
+        <logo/>
+        <date>2022-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:17</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49293-erklaerhaj_experimentiert</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/</url>
+        <title>Erklärhaj experimentiert</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Erklärhaj erklärt tolle Experimente live auf der Bühne!</abstract>
+        <description>Erklärhaj erklärt tolle Experimente live auf der Bühne!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3401">Erklärhai</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49246" guid="09e72f05-7abc-5d7e-9cab-fede3621e805">
+        <logo/>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49246-post_quantum_cryptography</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/B7GMAL/</url>
+        <title>Post-Quantum Cryptography: Detours, delays, and disasters</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker&#13;
+has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to&#13;
+agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select&#13;
+some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and&#13;
+deployment of post-quantum cryptography have been going wrong.</abstract>
+        <description>Why do we still not use post-quantum cryptography? This talk sheds some light on what happened beyond the efforts of researchers to design good crypto and get it deployed. Bring your tinfoil hats.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3361">D. J. Bernstein</person>
+          <person id="3360">Tanja Lange</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49088" guid="28b0519f-7cf6-5c93-a6d7-fcd6fdc848ad">
+        <logo/>
+        <date>2022-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49088-how_to_become_an_openstreetmap_pro</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/</url>
+        <title>How to become an OpenStreetMap pro</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.</abstract>
+        <description>I will show various editors, validators, parsers and other tools for both general and more specific purposes. I'm also sharing some tips and tricks I've learned during several years of OSM mapping.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="183">jomo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49109" guid="49d91642-a4ad-51d7-8628-a71c1c12becb">
+        <logo/>
+        <date>2022-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/</url>
+        <title>Die bequemsten Gepäckablagen im Fernverkehr der Deutschen Bahn</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wer kennt das nicht... der Zug ist mal wieder voll, und es kein Sitzplatz mehr frei. hexchen klärt auf über die bequemsten Gepäckablagen, die trotzdem ein Sitzplatz darstellen können.</abstract>
+        <description>Nachdem es im Lightningtalk auf der atmospheric:discharge leider nur für ICE3/4 gereicht hat, kommt jetzt ein längerer Talk mit mehr Gepäckablagen, mehr relevanten Bildern und Geschichten von den Erfahrungen des Reisens in Gepäckablagen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3230">hexchen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="8920" guid="ad8d9204-0bca-55b0-8733-956fd2127b77">
+        <logo/>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-8920-owasp_raider</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/</url>
+        <title>OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Raider was created to fill a gap in current tooling for pentesting the authentication process. It abstracts the client-server information exchange as a finite state machine. Each step comprises one request with inputs, one response with outputs, arbitrary actions to do on the response, and conditional links to other stages. Thus, a graph-like structure is created. This architecture works not only for authentication purposes but can be used for any HTTP process that needs to keep track of states.</abstract>
+        <description>A few years ago, the author had the task of helping developers to build OAuth directly from RFCs, supporting them with security topics and questions. In the beginning, the project ran into some challenges. Early on, we faced the fact that authentication is a stateful process, while HTTP is a stateless protocol.&#13;
+&#13;
+BurpSuite and ZAProxy were incepted when the web did not have states, so they inherited a stateless architecture. REST APIs became popular some years after those tools were created. They have workarounds like Burpsuite macros and ZAP Zest scripts to pass information between requests, but we found that functionality lacking and too complex to implement.&#13;
+&#13;
+So the author wrote custom python scripts to pentest this. It worked fine, but doing this makes the scripts usable only on this system. Therefore, the author decided to create a tool that fills that gap.&#13;
+&#13;
+Raider's configuration is inspired by Emacs. Hylang is used, which is LISP on top of Python. LISP is used because of its "Code is Data, Data is Code" property. It would also allow generating configuration automatically easily in the future. Flexibility is in its DNA, meaning it can be infinitely extended with actual code. Since all configuration is stored in cleartext, reproducing, sharing or modifying attacks becomes easy.&#13;
+&#13;
+Links to the project:&#13;
+ - Website: https://raiderauth.com/&#13;
+ - Source: https://github.com/OWASP/raider&#13;
+ - Documentation: https://docs.raiderauth.com/en/latest/&#13;
+ - Twitter: @raiderauth&#13;
+ - Mastodon: @raiderauth@infosec.exchange</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Daniel Neagaru</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5773" guid="c57735c0-2376-5115-9616-d29c6abc1e69">
+        <logo/>
+        <date>2022-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-5773-trust_in_digital_communication</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/K7J8PF/</url>
+        <title>Trust in digital communication</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>This is a presentation trying to explain what trust is - at the concept level as well as some key implementation details - and why it is important - especially in digital communication.</abstract>
+        <description>The talk will mainly focus on trust - why it is needed and how it is established when all there is to talk to are machines. It will - where appropriate present examples from history to make current technology relatable. The talk concentrates mainly on Public Key Cryptography with short mentions of other technologies but without blockchain. It can be seen as providing foundational information for people not working on a daily basis with this stuff and for all those that sometimes wonder "What does that little padlock near my browsers address line tell me?"</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">Juergen Key</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6627" guid="6627cded-2d56-58d5-a152-491fbb8ce447">
+        <logo>/media/rtc22/submissions/GD8EVV/mastodonhintergrundbreit-e6533fc4_CeenZwL.png</logo>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/GD8EVV/</url>
+        <title>Geschichten aus dem Leben einer Mastodon-Moderatorin</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die beiden Twitter-Fluchtwellen dieses Jahr haben das Fediverse, vor allem Mastodon, ganz schön aufgewirbelt. Wie war das eigentlich so für die Menschen, die die Server in dem dezentralen Netzwerk betreiben?</abstract>
+        <description>In diesem Vortrag möchte ich einen kurzen Einblick in die Arbeit als Moderatorin auf der Instanz dresden.network geben, davon berichten, wie der Austausch zwischen den verschiedenen Teams der Server im Fediverse läuft und natürlich auch darüber sprechen, was sich aktuell verändert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">Ückück</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4704" guid="e4704ea5-8683-563c-8fec-4ec3b1f36cd3">
+        <logo/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-4704-die_mikroarchitektur_moderner_prozessoren</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/FEWKFR/</url>
+        <title>Die Mikroarchitektur moderner Prozessoren: ein Crashkurs</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Moderne Prozessoren führen Programme mit beeindruckender Geschwindigkeit aus.  Aber wie tun sie das eigentlich?  Wir steigen im Rahmen dieses Vortrages vom Level der Hochsprache runter zum Assembler und schauen uns mal an, was ein Prozessorkern eigentlich genau tut, wenn er Maschinenbefehle ausführt.  Wir werden dabei lernen, wie Hardwaredesigner über die Jahrzehnte der CPU beigebracht haben, pro Takt meist mehrere Befehle auszuführen und dabei Schwierigkeiten wie langsamen Speicher und unvorhersehbare Sprüngen umschifft.  Mitnehmen kann der Zuhörer dazu praktische Hinweise, wie man den eigenen Code verbessern kann, sodass er schneller ausgeführt wird.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="14">Robert Clausecker</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3191" guid="31916d57-f27c-5fa7-9b8f-760311966f4a">
+        <logo/>
+        <date>2022-12-29T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-3191-misconceptions_about_energy_assessment</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/FEK7VC/</url>
+        <title>Misconceptions about Energy Assessment</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The energy consumption of computer systems are of increasing interest. But it is easy to shoot yourself in the foot while measuring your software. In this talk you will learn about different ways of assessing your software's energy demand, basic mistakes in measurements and how to avoid them.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">tzwenn</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="780" guid="07804012-cb4e-563a-949d-1a4ab50f92e1">
+        <logo/>
+        <date>2022-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-780-vitamin_d_versus_sonnenbrand</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/NVKBLS/</url>
+        <title>Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der nächste Sommer kommt bestimmt! In diesem "Live-Hack"-Talk geht es darum: Wie optimiere ich mein Verhalten in der Sonne für den maximalen Vitamin D-Aufbau und die Vermeidung von Sonnenbrand?</abstract>
+        <description>Die Sonne (ja, sie ist nach dem dunklen Winter wieder da) tut uns gut. Sie wärmt uns, wir sehen ihr Licht und ihre UV-Strahlung sorgt für Vitamin D-Aufbau - und leider auch Sonnenbrand und damit auch erhöhtes Hautkrebs-Risiko. Im Talk geht es um ein wissenschaftlich fundiertes Projekt, das hilft, den Aufenthalt in der Sonne zu optimieren. Ziel: Vitamin D-Aufbau maximieren und die Risiken minimieren.  Kern ist die Umsetzung der von 20 bundesdeutschen Institutionen getragenen "konsentierten Empfehlung zu UV-Strahlung und Vitamin D". Nebenbei werden zahlreiche weitere Aspekte zum Thema UV diskutiert, à la "Nachcremen", "UV und Untergrund", "UV in der Stadt" und "sollte ich zur Vermeidung von Sonnenbrand schnorcheln".</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">Julian Meyer-Arnek</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1707" guid="a170c7b7-65e5-5ab6-8155-abc8e4f9da48">
+        <logo/>
+        <date>2022-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-1707-exploring_social_media_reactions_to_conflicts_in_2022</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/</url>
+        <title>Exploring social media reactions to conflicts in 2022</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.</abstract>
+        <description>2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.&#13;
+&#13;
+In this talk we will use topic modeling and social network analysis to explore public usage of social media and reactions to different hostilities. The first approach is a machine learning technique and is used to cluster, discover latent topics, and thus better understand text data. The second one is a toolset to extract nodes and edges from the specific data, in order to analyze and visualize a social network to highlight relationships.&#13;
+&#13;
+Social media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.&#13;
+&#13;
+This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">bi3n3</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1140" guid="11a4f04b-4db8-5578-8f17-66fdb4ae8f98">
+        <logo>/media/rtc22/submissions/GURA8Y/CK3233post_yrIBim5.jpg</logo>
+        <date>2022-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-1140-citizen_kino</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/GURA8Y/</url>
+        <title>CiTiZEN KiNO: ( #95 ) Organisms vs. Automatons ( revisited )</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Performance</type>
+        <language>de</language>
+        <abstract>CiTiZEN KiNO is a series of live events using curated films + media bits to collectively navigate our challenging times. An interventionist cinema environment, a situationist art and a hacking of the screens. Participation + discussion encouraged !</abstract>
+        <description>C-KiNO #95 will be an updated version of our episode presented at Bits Und Baume at TU Berlin in Oktober 2022.  For Chaos in Potsdam we would like to provide a brief report back on our experiences at BnB conferences ( both 2018 and 22 ) along with our ongoing work related to the controversial "Anthropocene" and "Technosphere" framings of our ecological and social crises. We share our "XLterrestrials" ( i.e. alien, sci-fi and indigenous-inclusive ) analysis and critical perspectives. And we encourage questions, discussion and debate.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="29">Paolo Podrescu</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49291" guid="ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49291-ueberwacht_mehr_insekten</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
+        <title>Überwacht mehr Insekten!</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Entomolog:innen sind eine aussterbende Spezies mit einem krassen Fähigkeitspektrum. Die zurückgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur für die Tierchen selber, sondern letztendlich auch für uns und die uns umgebenden Ökosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.</abstract>
+        <description>Nach einem gemütlichen Input zur ökologischen Situation der Wildbienen (v. A. in Europa) und warum uns diese interessieren sollte, werden ein paar verschiedene Projekte/Ansätze vorgestellt, welche Möglichkeiten zur Verbesserung der Situation versucht werden und wie man sich einbringen kann, bevor wir in den offenen Austausch einsteigen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3399">curtisanne</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49289" guid="8b87caeb-8133-58f9-947a-5106630a29b3">
+        <logo/>
+        <date>2022-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49289-the_state_of_the_state_die_wichtigsten_themen_der_digitalen_verwaltung</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
+        <title>The state of the state - die wichtigsten Themen der digitalen Verwaltung</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Verwaltungsdigitalisierung is trodding on.</abstract>
+        <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3395">Spyro</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49302" guid="8e57baa4-ef35-5128-a04d-c5e461322fc5">
+        <logo/>
+        <date>2022-12-29T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49302-iridium_reverse_engineering</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
+        <title>Iridium reverse engineering: News seit 2016</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.</abstract>
+        <description>Dieser Vortrag gibt eine Uebersicht zu den Verbessungen der Tools, neu verfuegbarer Hardware und zum Verstaendnis der Daten die sich ueber das Netzwerk sammeln lassen.&#13;
+&#13;
+Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="379">schneider</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
+      <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
+        <logo/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49306-overte</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/T3KYPP/</url>
+        <title>Overte: World hopping</title>
+        <subtitle/>
+        <track>VR Welten</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Let's visit worlds in Overte together!</abstract>
+        <description>Try out Overte and explore some of the existing worlds with the developers.&#13;
+You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
+You can also spectate the event on PeerTube.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3418">Julian Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49285" guid="9c218ba2-39b5-533e-822e-b710ff4eef93">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49285-the_web_3_0_house_of_cards</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/8G9NAA/</url>
+        <title>The Web 3.0 House of Cards</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (60)</type>
+        <language>en</language>
+        <abstract>How eth.link exposed the technical and governance shortcomings of Web 3.0&#13;
+&#13;
+This talk is a true story about how the allegedly "decentralized" web 3.0 briefly came under the complete control of its arch-nemesis, Godaddy.</abstract>
+        <description>We'll start by covering the basics of how DNS works technically and, more important, politically (ICANN). We'll then proceed to an introduction to IPFS and how the Etherum Name Service (ENS) implements it.&#13;
+&#13;
+The rest of the talk will be explore what happens when theory meets reality, and show some major weaknesses in web 3.0's technical infrastructure and how Godaddy exploited it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3290">aestetix</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49282" guid="9a9afc40-471a-5bb5-b77f-94dc4041d4a7">
+        <logo/>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49282-is_the_metaverse_metaworse</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/QNYTS3/</url>
+        <title>Is the Metaverse, Metaworse?</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>en</language>
+        <abstract>The vision of the Metaverse is to be the the next step in the digitization of our work-life. While it is not explicitly tied to a particular technology yet, the Metaverse is most often associated with some sort of 3D immersive technology and concepts from Web3. While still in its infancy, we have decades of precedent from serious gaming and ubiquitous computing to judge where to expect the threats to emerge. Since we expect parts of the Metaverse to start being deployed piece by piece over the next years and we have been exploring Metaverse threats for a few years now. Some threats are derivable from IT security but there will also be threats particular to the Metaverse that arise due to the complex nature of 3D and cyber/physical interactions. In this talk we will address our findings so far that affect individuals and enterprises as they take first steps in deploying or using Metaverse-like spaces.</abstract>
+        <description>Outline of presentation:&lt;br&gt;&#13;
+Very early beginnings: Stephenson, Gibson, Cline&lt;br&gt;&#13;
+Early 2000s: Web 2.0 and SecondLife&lt;br&gt;&#13;
+Recent developments&lt;br&gt;&#13;
+What is the Metaverse now? The Internet of Experiences&lt;br&gt;&#13;
+Hardware support&lt;br&gt;&#13;
+Software support: Web3&lt;br&gt;&#13;
+The problems with Web3 and how these affect the threat model&lt;br&gt;&#13;
+Classical threats&lt;br&gt;&#13;
+Metaverse specific threats&lt;br&gt;&#13;
+Cryptocurrency-specific threats&lt;br&gt;&#13;
+Conclusions and outlook&lt;br&gt;</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3392">Morton Swimmer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49126" guid="2ea04ef1-e9e6-50f4-86a3-36243cf03ef2">
+        <logo>/media/xrelog-2022/submissions/HP8RXT/Multiplayer_fgWFeXS.jpeg</logo>
+        <date>2022-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49126-third_room</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/HP8RXT/</url>
+        <title>Third Room: Decentralized Virtual Worlds on Matrix</title>
+        <subtitle/>
+        <track>Matrix &amp; Thirdroom.io</track>
+        <type>Live Session (30)</type>
+        <language>en</language>
+        <abstract>Third Room is a browser-based decentralized virtual worlds platform built on top of the Matrix protocol. Third Room pushes the limits of what you can do in a 3D browser application utilizing WebAssembly, SharedArrayBuffers and Atomics for lock-free multithreading, WebGL2, and much more. It's built on open standards like the glTF 3D file format and fully embraces it to provide a DOM-like API for scripting interactable user-generated worlds.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3278">Robert Long</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49287" guid="7f811be1-c484-5602-aafd-6756a68a0899">
+        <logo/>
+        <date>2022-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49287-menschenrechtsverletzungen_durch_facebook_meta</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/MDTAEK/</url>
+        <title>Menschenrechtsverletzungen durch Facebook/Meta</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt.</abstract>
+        <description>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt. &#13;
+In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktiken von Facebook/Meta den einzelnen Menschenrechten zu. Es soll deutlich werden, warum es dringend notwendig ist, dass eine solch globale und allgemeine Kommunikationsinfrastruktur wesentlich freier und selbstbestimmter zugänglich sein müsste. &#13;
+(Hinweis: Wir waren für diesen Vortrag nicht selbst investigativ tätig, wir fassen lediglich die Ergebnisse aus verschiedenen Enthüllungen wie z.B. den Facebook-Papers, Cambridge Analytica u.a. vor einem neuen Kontext zusammen.)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="456">Steffen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49237" guid="cd2ee48f-a433-5abc-b9ec-9b4cffef03b8">
+        <logo/>
+        <date>2022-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49237-mafifa_wm_2030_2</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/</url>
+        <title>mafifa - WM 2030 (2: Gruppenphase)</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>mafifa - WM 2030 (2: Gruppenphase)</abstract>
+        <description>Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptionsfrei; Hust. Mate zählt nicht als Währung.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3253">CodeFreezR</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2022-12-30" start="2022-12-30T09:00:00+01:00" end="2022-12-30T09:00:00+01:00">
+    <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Seminarraum">
+      <event id="5136" guid="5c136451-b07a-5290-bda4-838406dc814c">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5136-operational_transconductance_amplifiers</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/</url>
+        <title>Operational Transconductance Amplifiers</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Operational Transconductance Amplifiers (OTAs) are fascinating electronic devices:&#13;
+They behave like Operational Amplifiers (OP-Amps), but with a controllable current output.&#13;
+That enables a lot of interesting possible use cases e.g., voltage controlled amplifiers, voltage controlled filters and voltage controlled simulations of passive electronic components.&#13;
+Due to their versatility, they can be seen as secret heroes in analog audio circuits, but still their underlying circuit is still relatively simple and therefore comprehensible.&#13;
+This talk will take top-down approach starting with the operational principles and various example applications to then continue a bit further down the rabbit hole and take a high-level look at the inner circuit.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="27">etXzat</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5620" guid="5d62000d-a88e-5e1b-b591-7007860146e6">
+        <logo/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5620-das_matrix_protokoll</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/</url>
+        <title>Das Matrix-Protokoll</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Matrix (matrix.org) ist ein Protokollstandard für (Gruppen)chats, die über mehrere Server teilt sind. Ich möchte die Funktion und Konzepte des Protokolls erklären und welche Probleme es löst - insbesondere:&#13;
+ - Verteilte Verwaltung von Räumen (Moderationsrechte, Mitgliedschaft)&#13;
+ - Ende-zu-Ende-Verschlüsselung mit mehreren Geräten pro Benutzer</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30">thejonny</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+      <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
+        <logo>/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg</logo>
+        <date>2022-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-1708-oberlab_ein_fablab_im_oberland</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/</url>
+        <title>Oberlab - Ein FabLab im Oberland</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Gemeinnützige Nutzungsalternativen von zentral gelegenen Räumlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. Möbelgeschaftes in Gmund am Tegernsee in einen gemeinnützigen **Makerspace** inkl. MINT Förderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).</abstract>
+        <description>Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-Förderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.&#13;
+&#13;
+Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist unter https://oberlab.de/ zu finden.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">Lukas Lischke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3801" guid="a3ecb801-4ef2-50c0-9ad0-9b6777826df6">
+        <logo>/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png</logo>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/</url>
+        <title>Wohnheim Collegium Academicum - Selbstverwaltet, ökologisch, bezahlbar</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, für über 250 Menschen bezahlbaren, selbstverwalteten und ökologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir präsentieren, wie Freiräume zum Leben und Entfalten geschaffen werden können - auch auf angespannten Wohnungsmärkten.</abstract>
+        <description>Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem &lt;a href="https://collegiumacademicum.de/"&gt;Collegium Academicum (CA)&lt;/a&gt; wird in Heidelberg ein etwas anderes Großprojekt geschaffen. Als Teil des &lt;a href="https://www.syndikat.org/"&gt;Mietshäuser Syndikats&lt;/a&gt; gehört das Gebäude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.&#13;
+Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das Projekt planen und finanzieren, erfährst du in diesem Vortrag.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="107">Jojo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="183" guid="0bb18303-6daa-56b6-8b83-13530ca96311">
+        <logo>/media/freiraumforum/submissions/D9NJMY/Foto_CareWerkstatt_i6S4PZd.jpg</logo>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/</url>
+        <title>Care Werkstatt // Who Cares? Werkstatt für Fürsorge(praktiken). by Assoziation:E</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Who cares ist Bildungsangebot und Anlaufstelle für Menschen, die für andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren möchten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bewältigung eurer Fürsorgearbeit!</abstract>
+        <description>Who Cares (ist) konzipiert (für) soziale Räume, in denen Menschen emanzipatorische Ansätze zur praktischen Bewältigung von Fürsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum können verschiedene Ansätze für radikal zärtliche Beziehungsweisen entwickelt und reflektiert werden. &#13;
+&#13;
+Verschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und Überwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Außerdem können verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) Fürsorge herstellen. &#13;
+&#13;
+Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlungsfähigkeit in solidarischen, zärtlichen Beziehungsweisen ermöglichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben für alle Menschen greifbar machen. Und gemeinsam die Abhängigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu überwinden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="8684" guid="86dfbd8c-47d1-5c2a-bbc6-1ff2da203924">
+        <logo/>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
+        <title>WdZwo - Wir squatten das Outback</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns über Austausch auch allgemein zum Thema Besetzung.</abstract>
+        <description>Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem öffentlich-werden erfolgte die Räumung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="142">Aaron</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+        <logo/>
+        <date>2022-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
+        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Viola und Ich halten einen Vortrag, in dem wir die Zuhörenden anstiften unliebsame Zäune und andere Hindernisse in ihrer Umgebung zu überwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualität steigert.</abstract>
+        <description>Unser Anliegen besteht darin eine Aufmerksamkeit für die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern können. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir überzeugt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="122">François</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1324" guid="132f4a45-1f42-5695-b7dd-02765afb08bd">
+        <logo>/media/freiraumforum/submissions/PPKXXZ/20221018_145703_lq_t6DK9IJ.jpg</logo>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-1324-treibgut_die_materialquelle_fuer_projekte</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/</url>
+        <title>treibgut - Die Materialquelle für Projekte</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>treibgut ist eine Materialinitiative, die dafür sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugeführt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verfügung.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="172">treibgut</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
+        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
+        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
+        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
+&#13;
+Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
+&#13;
+Die meisten lassen das natürlich bleiben. &#13;
+Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Johannes Schricker (Kulturator)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7917" guid="79b17ad3-ce71-53d5-9512-d7b31343c73c">
+        <logo/>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:17</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/</url>
+        <title>CULTURE IS NOT DEAD - DOKU Kultursommer 2021@Gängeviertel</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>„Culture is not dead!“ ist eine kritische Kurzdoku über den Kultursommer 2021 im Gängeviertel / Hamburg.</abstract>
+        <description>„Culture is not dead!“ ist eine kritische Kurzdoku über den Kultursommer 2021 im Gängeviertel.&#13;
+Um den Auswirkungen der Coronakrise auf die Kultur etwas entgegenzusetzen, förderte die Behörde für Kultur und Medien unter dem Motto „PLAY OUT LOUD“ über 100 Kulturveranstaltungen in Hamburg. Dieser sogenannte Kultursommer fand vom 15. Juli bis 16. August mit über 1.800 Veranstaltungen statt. Auch im Gängeviertel, einem der letzten Freiräume inmitten von Hamburgs gentrifizierter Innenstadt, gab es eine ganze Reihe von Veranstaltungen. Hört sich toll an! War es auch. Es gab sehr viel zu sehen, das seht ihr in der Doku. Doch wie nachhaltig ist so eine Förderung eigentlich für die Künstler*Innen? Und wie war das für die Kulturbetriebe, speziell das Gängeviertel?  Was sagen die Menschen, die daran beteiligt waren? &#13;
+&#13;
+Falls ihr gerne mehr über das Gängeviertel wissen möchtet, schaut doch hier vorbei:&#13;
+https://das-gaengeviertel.info/&#13;
+&#13;
+Wollt ihr mehr über das Filmkollektiv hinter dem Film wissen, dann schaut hier:&#13;
+https://shittypants.de/&#13;
+Insta: shittypantsproductions&#13;
+&#13;
+und auch hier:&#13;
+https://www.jonas-albrecht.de/&#13;
+Insta: zwischensequenzen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3800" guid="3f8000e5-befe-5ad5-8eba-d32147ba3bdf">
+        <logo/>
+        <date>2022-12-30T16:20:00+01:00</date>
+        <start>16:20</start>
+        <duration>00:08</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/</url>
+        <title>Cheers to 10 years! - 10 Jahre Gängeviertel</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>10 Jahre Gängeviertel - Zum zehnjährigen Bestehen hat sich das Gängeviertel mal einen fantastischen Film gegönnt. Vielen Dank an Jana, Carsten, Lion und die Crew vom Kino-Kabaret für diese Produktion!&#13;
+Komm in die Gänge! Cheers to 10 years!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="145">Dion</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="497" guid="0ec497a0-547c-537c-9229-9b0ae01b7df6">
+        <logo/>
+        <date>2022-12-30T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-497-allesandersplatz</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/</url>
+        <title>Allesandersplatz</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>50.000 Quadratmeter Leerstand mitten in Berlin? Ein Film über das Haus der Statistik am Alexanderplatz.</abstract>
+        <description>Urbanisierung, Beton, Stein, verschwindendes Grün. Am zentralsten Punkt Berlins – am Alexanderplatz – steht das Haus der Statistik, das in den letzten 12 Jahren langsam zur Ruine verkümmerte. In einer Protestaktion besetzen Künstler*innen das Haus, in dem in der DDR die amtlichen Statistiken gemacht wurden. Langsam erwacht das Gebäude aus dem Dornröschenschlaf. Stadtverwaltung, Planer*innen, Kreative und Zivilgesellschaft tun sich zusammen, um Raum für Kunst, Kultur und Soziales zu schaffen. ALLESANDERSPLATZ begleitet den Prozess der Transformation dieses Ortes, der durch Pionier*innennutzungen versucht, ein alternatives, gemeinwohlorientiertes Konzept von Stadt zu entwickeln.&#13;
+Gelingt es dem Allesandersplatz ein Vorbild für eine nachhaltige und diverse Zukunft der Stadt zu sein? Ein Ort, an dem alles anders ist?&#13;
+Mehr Infos: https://www.allesandersplatz.berlin/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+      <event id="49167" guid="3c71d0d5-8779-552b-bde9-05f6cf8909e4">
+        <logo/>
+        <date>2022-12-30T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49167-videokonferenzen</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/</url>
+        <title>Videokonferenzen: 🙈 🙉 🙊 - selbstverständlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine präsentieren</title>
+        <subtitle/>
+        <track>Digitalcourage</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wie lassen sich Videokonferenzen so gestalten, dass möglichst alle Menschen daran teilhaben können?&#13;
+Dieser Frage gehen wir - also die AGs "Barrierefreiheit" und "Inklusion" vom cyber4EDU e.V. - in unserem interaktiven Vortrag nach.&#13;
+Inhaltlich befassen wir uns dabei mit technischen, organisatorischen und kommunikativen Gestaltungsmöglichkeiten und erörtern sowohl praktische als auch politische Fragen. Dazu betrachten wir positive und negative Beispiele, ergänzt um eigene Erfahrungen der AG-Mitglieder.</abstract>
+        <description>Barrierefreiheit und Inklusion heißt nicht nur auf körperliche Einschränkungen oder Screenreader-Kompatibilität zu achten. Vielmehr bedeutet es, eine ganzheitliche Perspektive einzunehmen und sich die Teilhabe aller zum Ziel zu setzen. Videokonferenzen zugänglich zu gestalten, ist daher immer noch eine große Herausforderung - egal ob es um Vorträge, Unterricht, Diskussionen oder Zusammenarbeit geht: Dabei den Fokus nur auf Soft- und Hardware zu legen, greift zu kurz. Die Teilhabe an Videokonferenzen hängt auch von barrierefreien Medien und organisatorischen Vorkehrungen ab. Entscheidend ist aber eine wertschätzende und entsprechend geregelte Kommunikation auf Augenhöhe.&#13;
+&#13;
+Auf der Basis dieses breiten Barrierefreiheitsbegriffs wollen wir uns daher mit der Gestaltung von Videokonferenzen befassen. Unser Anspruch dabei ist: Selbstverständliche Zugänglichkeit für alle und Partizipation von allen. Diesen Anspruch in die Praxis umzusetzen, ist allerdings nicht einfach. Es bedarf der gegenseitigen Rücksichtnahme aller Teilnehmenden auf alle Bedarfe und letztlich eines gemeinsamen Kulturwandels. Wie so häufig gilt auch hier: "don't panic" und "wer nicht anfängt, hat schon verloren".&#13;
+&#13;
+Um den Einstieg zu erleichtern, präsentieren wir die erste Version einer Checkliste mit Best-Practices, die auf Basis der Erfahrungen eines sehr diversen Projektteams gestaltet wurde. Die Erfahrungen zeigen aber auch, dass Inklusionsversuche wie eine Lupe wirken: Sie machen viele weitere Probleme deutlich. Zu diesen gehören unter anderem:&#13;
+- Kosten für die individuelle Ausstattung mit Soft- und Hardware oder Assistenz(en)&#13;
+- Datenschutz versus Unterstützung&#13;
+- Bildungsbenachteiligung&#13;
+- strukturelle Diskriminierung&#13;
+&#13;
+Bei dem Versuch, diese Probleme genauer zu betrachten und zu lösen, stellen sich schnell weitreichende rechtliche und gesellschaftliche Fragen. Insofern ist die Checkliste wirklich nur ein erster Aufschlag und erfordert kontinuierliche Anpassung und Reflexion. Wir machen Vorschläge, wie diese gelingen können. &#13;
+&#13;
+Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehmenden kommen und über die Bedeutung von Barrierefreiheit und Inklusion - aber auch die Herausforderungen und Anforderungen - sprechen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3345">MoniKa (cyber4EDU e.V.)</person>
+          <person id="3304">pnrd</person>
+          <person id="3305">AG_Barrierefreiheit</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49284" guid="5c041351-b4fc-5a25-ab70-6790dc98fa9f">
+        <logo/>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49284-barrierefrei_posten</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/</url>
+        <title>Barrierefrei posten: Bildbeschreibungen auf Social Media</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.</abstract>
+        <description>Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde überhaupt Farben? All diese Fragen und mehr möchte ich anhand von einigen Beispielen exemplarisch beantworten und mit euch gemeinsam dafür sorgen, dass eure Präsenzen im Cyberspace für alle zugänglicher werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3247">Casey Kreer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49153" guid="4e8f01e5-28d2-5025-a497-d4b663297ea4">
+        <logo>/media/fire-shonks-2022/submissions/Y8H7QD/logrotten_6zKvOnb.jpeg</logo>
+        <date>2022-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49153-logrotten_it_s_not_a_bug</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/</url>
+        <title>Logrotten - "It's not a bug"</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Logrotate, ein Tool zum Verwalten von Logdateien, verfügt über eine Sicherheitslücke, die das Ausweiten der Rechte über eine Race Condition erlaubt. Die Sicherheitlücke – “Logrotten” -  kann dann ausgenutzt werden, wenn ein*e unprivilegierte*r Benutzer*in das Logverzeichnis unter Kontrolle hat. &#13;
+In diesem Vortrag wird gezeigt, wie einfach es ist, diese Sicherheitslücke auszunutzen, und es wird gezeigt, welche Auswirkungen und Reichweite diese Sicherheitslücke hat, z.B. auf andere Softwarepakete wie gitlab. Am Ende wird der aktuelle Stand von Logrotate aufgezeigt.</abstract>
+        <description>Mit Logrotate können Logfiles verwaltet werden. Es ermöglicht das automatische Rotieren, Komprimieren, Entfernen und Versenden von Logdateien. Jede Logdatei kann dabei täglich, wöchentlich oder monatlich von Logrotate rotiert werden, bzw. wenn sie eine bestimmte Größe erreicht hat. Außerdem bietet Logrotate auch eine Root-Shell. &#13;
+&#13;
+Logrotate unterstützt verschiedene Methoden, um neue Dateien zu erstellen. Die Direktive "copy" beispielsweise erstellt eine Kopie der Logdatei und "create" erzeugt nach dem Rotieren eine neue, leere Logdatei. Wenn jemand das Logverzeichnis mit einem symbolischen Link austauscht, kurz bevor die neue Logdatei erstellt wird, legt Logrotate die neue Datei in einem anderen Verzeichnis ab. Ein solches Szenario kann ausgenutzt werden, wenn Logrotate als Benutzer root läuft und ein*e Benutzer*in mit geringen Privilegien die Kontrolle über den Pfad zum Logverzeichnis hat. Wenn diese*r Benutzer*in zum richtigen Zeitpunkt das Logverzeichnis mit einem symbolischen Link austauscht, schreibt Logrotate die neue Datei in das verlinkte Verzeichnis. Danach werden die Berechtigungen der erstellten Datei angepasst, sodass die angreifende Person Schreibzugriff auf dieser Datei hat.&#13;
+In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrotate auf gefährliche Weise konfiguriert werden kann. Es wird erläutert, welche Softwarepakete gefunden wurden, die anfällig für diese Art von Angriffen sind. Abschließend wird der aktuelle Stand von Logrotate diskutiert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3292">Wolfgang Hotwagner</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49114" guid="4ca30be9-6af7-5b51-81c9-a203be7231cd">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:20</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49114-text_embeddings_fuer_anfaenger</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/</url>
+        <title>Text Embeddings für Anfänger</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Von natürlicher Sprache in einer schönen, linearisierten Welt und was man dort tun kann.</abstract>
+        <description>Text Embeddings sind die Abbildung menschlicher Sprache in einen hochdimensionalen Vektorraum. Dort kann man dann die ganze Macht linearer Algebra und Signalverarbeitung nutzen, um Texte zu analysieren.&#13;
+&#13;
+Dieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechner mächtige Machine Learning Tools nutzen kann, ohne Zeitstunden und Kilowattstunden mit dem Lernprozess zu verschwenden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3275">MRQ</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49086" guid="abdbb5dc-2faa-5933-82cc-e94b30da4ce7">
+        <logo/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:15</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49086-informationen_bewerten_eine_zeitreise_durch_die_welt_der_propaganda_fake_news_und_desinformation</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/8XTUNF/</url>
+        <title>Informationen bewerten — Eine Zeitreise durch die Welt der Propaganda, Fake News und Desinformation</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Propaganda, Fake News und Desinformation erkennen lernen, anhand von Quellen aus der jüngeren und ferneren Vergangenheit. A trip down the historical memory lane.</abstract>
+        <description>Vergangenes Jahr ging es um grundlegende Medienkompetenz, die den Zuschauer*innen helfen sollte, Informationen ein bisschen leichter zu bewerten. &#13;
+&#13;
+Dieses Jahr möchte ich meinen Rat aus dem letzten Jahr ins Praktische umsetzen: Propaganda, Fake News und Desinformation funktioniert sehr häufig entlang sich wiederholender Muster. &#13;
+Im Laufe des Talks lernt ihr, wie Propaganda, Fake News und Desinformation anhand dieser Muster erkannt werden können.&#13;
+&#13;
+Dabei möchte ich ganz praktisch mit einer Auswahl Quellen aus mehreren Jahrhunderten, beim Üben helfen. &#13;
+&#13;
+Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-bewerten-im-haecksen-stream-rc3/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="430">Mela Eckenfels</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49164" guid="dc229c46-4da1-5b34-bbe1-5c219428a716">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49164-oreboot_auf_risc_v_vergleichende_analyse_zweier_implementierungen</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/</url>
+        <title>oreboot auf RISC-V - Vergleichende Analyse zweier Implementierungen</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den&#13;
+JH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.</abstract>
+        <description>Dieser Kurzvortrag stellt die Boot Flows der beiden Chips gegenüber und&#13;
+analysiert Aufwand und Verständlichkeit der Plattformen. Zum Abschluss&#13;
+evaluieren wir, wie sich die Implementierungsansätze auf Basis eines [aus einer&#13;
+SVD-Datei generierten Rust Peripheral Access Crates (PAC)](&#13;
+https://docs.rust-embedded.org/book/start/registers.html) und mittels händisch&#13;
+geschriebenen Definitionen von Registern, Blöcken und Hilfsfunktionen&#13;
+unterscheiden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="261">Daniel Maslowski</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49077" guid="45a4133f-555f-54c8-a0c8-6b69f831c005">
+        <logo>/media/fire-shonks-2022/submissions/BBJ7JR/P8FF-3F7F_ULTto0M.png</logo>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49077-die_technik_hinter_teletext</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BBJ7JR/</url>
+        <title>Die Technik hinter Teletext</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>...oder wie man eine Bildschirmseite in 6720 Bits bringt</abstract>
+        <description>Teletext wird immer noch von Millionen von Leuten täglich genutzt. Insbesondere in Zeiten, in denen das Web irrsinnig fett geworden ist, ist es sicherlich interessant zu sehen, welche ressourcensparenden Alternativen es gibt.&#13;
+Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Zeit vor dem Mikrocomputer stammt, eine Vision, um der Masse Zugriff zu Computern zu geben, die bis ins Heute weiterentwickelt wurde.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="180">Christian Berger</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49231" guid="54e4974e-c8e5-5589-8b02-dd1e73b556db">
+        <logo/>
+        <date>2022-12-30T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-49231-closing</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VR8FJG/</url>
+        <title>Closing</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Veranstaltung beenden</abstract>
+        <description>Kurzer Rückblick und Danksagungen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="972">Fireshork</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="5754" guid="a575bb40-f3e1-5ac0-b11c-54fc8a36d49a">
+        <logo/>
+        <date>2022-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-5754-technikphilosophische_jahresendgala</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/77JC7G/</url>
+        <title>Technikphilosophische Jahresendgala</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.</abstract>
+        <description>Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen Bücher handeln von Cyberphilosophie, Hackern und "informierten Tüftlern", von uns also.  Lasst es auf Euch wirken.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">ajuvo</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7860" guid="cfd78601-99af-5460-8f7b-8537777a221e">
+        <logo/>
+        <date>2022-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-7860-infrastructure_review</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/KEWAHX/</url>
+        <title>Infrastructure Review</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Bin mir noch unsicher, ob wir wirklich viel zu erzählen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Source</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4292" guid="4292c24c-d93e-5782-8fa6-bccaa9654778">
+        <logo/>
+        <date>2022-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-4292-closing_ceremony</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/XQSHAS/</url>
+        <title>Closing Ceremony</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Closing Ceremony</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49297" guid="853d5d9f-2f71-50db-8161-d92b0ed3c099">
+        <logo/>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49297-kolonialismus_in_europaeischen_museen_was_hat_das_mit_deutschland_zu_tun_eine_kleine_einfuehrung</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
+        <title>Kolonialismus in europäischen Museen - was hat das mit Deutschland zu tun? Eine kleine Einführung</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die Veranstaltung wird eine kleine Einführung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3411">alpha</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49296" guid="b0cffb21-4e47-587e-84e5-935ec342afb4">
+        <logo>/media/hacking-in-hell-2022/submissions/YEKWDD/misinfohacks__Gv7p4KC.png</logo>
+        <date>2022-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49296-misinfo_hacks_desinformationskampagnen_auf_der_spur</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YEKWDD/</url>
+        <title>Misinfo Hacks - Desinformationskampagnen auf der Spur</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Der Vortrag gibt einen Überblick über Methoden der Informationswissenschaft zur Erkennung von Fehlinformation. Phänomene wie Echokammern und die soziopolitischen Auswirkungen werden untersucht und diskutiert. Systembasierte Ansätze sind in der Lage, Fehlinformationen, ihre Urheber und Plattformschwachstellen zu erkennen.</abstract>
+        <description>Der Vortrag gibt einen Überblick über Methoden der Informationswissenschaft zur Erkennung von Fehlinformation auf Online-Plattformen.&#13;
+&#13;
+Die damit verbundenen Aspekte und Begriffe wie Fake News, Fehlinformation und Desinformation müssen definiert und differenziert werden. Die Problematik der sozialen Medien und deren Phänomene wie Echokammern werden untersucht und die gesellschaftspolitischen Auswirkungen diskutiert.&#13;
+&#13;
+Neben rein intellektuellen Ansätzen wie journalistischen Faktenchecks werden zunehmend algorithmische Methoden aus der Informatik eingesetzt, um eine leistungsfähige Erkennung von Fehlinformationen zu gewährleisten. Verschiedene Ansätze wie Data Mining, Machine Learning, Natural Language Processing oder Social Computing können zur Identifizierung von Fehlinformationen eingesetzt werden. Die Summe der vorgestellten Methoden kann grob in inhalts-, kontext- und systembasierte Ansätze unterschieden werden.&#13;
+&#13;
+Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogenannte "systembasierte Ansätze" bieten die Möglichkeit, sowohl Fehlinformation, deren Urheber:innen als auch Schwachstellen der Plattformen zu erkennen. Der Vortrag schließt mit einer Diskussion der Ergebnisse und einem Ausblick auf zukünftige Entwicklungen in Technologie und Gesellschaft.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3242">Patrick Schmelmer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49301" guid="3b0de8b2-71a0-5178-90d9-75474acc1a14">
+        <logo/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49301-hack_tell</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/</url>
+        <title>Hack &amp;&amp; Tell</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Sonstiges (60)</type>
+        <language>de</language>
+        <abstract>Hier habt ihr die Möglichkeit eure Hacks und Projekte im Rahmen einer Fünfminutenpräsentation der Community vorzustellen. &#13;
+&#13;
+This is your chance to show your hacks or projects in 5-minute-presentations to the community.</abstract>
+        <description>Ich werde während der Veranstaltung umherlaufen und euch auf eure Projekte ansprechen. Ihr werdet die Möglichkeit bekommen eure Hacks und Projekte als Fünfminutenpräsentation der Community vorstellen zu können. Ich werde die Beiträge sammeln und sortieren, sowie den Slot moderieren. Wir freuen uns auf eure Beiträge.&#13;
+&#13;
+I will wander around the event and ask you about your project. If you are interested you can show your work to the community in a 5-minute-presentation. I will collect your works and put them in order to moderate the slot. We are happy about your contributions.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3416">Christoph Göbel</person>
+          <person id="3419">Mayo Freude</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
+      <event id="49238" guid="af560f6b-6dcb-5655-bea5-fb60c5081df4">
+        <logo/>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49238-mafifa_wm_2030_3</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/HTDQN3/</url>
+        <title>mafifa - WM 2030 (3: Achtel|Viertel|Halb)</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>mafifa - WM 2030 (3: Achtel|Viertel|Halb). Nach der Gruppenphase ist vor den KO-Spielen. Wer kommt in's Endspiel? Mate Verbotsdebatte vom FIFA-Kommitee sorgt für Unruhe.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3253">CodeFreezR</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49232" guid="d4c1c6c4-9f83-5ec8-80a1-5dd9011f4c12">
+        <logo/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:45</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49232-energie_daten</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/WWKKFY/</url>
+        <title>Energie &amp; Daten</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Diskussions Panel (zzgl. Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Energie &amp; Daten</abstract>
+        <description>Ein Panel-Slot für und mit Bits und Bäume</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3351">Matthias</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49307" guid="6be5205a-e021-58e5-aac5-fbf654757933">
+        <logo/>
+        <date>2022-12-30T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49307-overte</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
+        <title>Overte: Logic using the JavaScript API</title>
+        <subtitle/>
+        <track>Sachen Machen</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Casual introduction into the capabilities of Overte's scripting engine.</abstract>
+        <description>Try out scripting in Overte and see the endless possibilities.&#13;
+You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
+You can also spectate the event on PeerTube.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3418">Julian Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49239" guid="b6a71b99-cf8a-52fb-942e-4af70c8e8ca0">
+        <logo/>
+        <date>2022-12-30T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49239-mafifa_wm_2030_4</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KFXRYS/</url>
+        <title>mafifa - WM 2030 (4: Finale)</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>mafifa - WM 2030 (4: Finale). And the Winner is ... So geht WM-Vergabe ohne Hinterkämmerchen Geschacherei und sehr, sehr niederschwelliger Mate-Korruption.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3253">CodeFreezR</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+  <day index="5" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
+    <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Seminarraum"/>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6"/>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+      <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
+        <logo>/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg</logo>
+        <date>2022-12-31T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>02:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-1265-freie_netze_muenchen_projektvorstellung_und_routereinrichtung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/</url>
+        <title>Freie Netze München - Projektvorstellung und Routereinrichtung</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Was ist ein Freifunknetz und was macht der Verein Freie Netze München?&#13;
+Ausführliche Vorstellung und anschließend gemeinsames Einrichten und Konfigurieren von Freifunkroutern zum Mitnehmen. Falls vorhanden, gerne eigenen Laptop mitbringen!</abstract>
+        <description>Hier lernt ihr Freifunk München kennen! Freifunk ist ein von vielen Menschen gemeinsam betriebenes Netz, bei denen jede/r etwas von ihrer/seiner Bandbreite abgeben und risikolos seinen Internetzugang anderen zur Verfügung stellen und sich mit anderen Menschen vernetzen kann.&#13;
+Der dahinter stehende Verein Freie Netze München hat neben Freifunk noch andere Projekte (z.B. Richtfunk; Anbindung von Geflüchtetenunterkünften, Videokonferenzplattform meet.ffmuc.net), die kurz angerissen werden.&#13;
+Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende einen eigenen Freifunkrouter einrichten und mit nach Hause nehmen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="167">Tobias McFadden</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="194" guid="dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c">
+        <logo/>
+        <date>2022-12-31T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-194-infrastructure_review</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/</url>
+        <title>Infrastructure Review</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="114">Moira</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
+  </day>
+</schedule>

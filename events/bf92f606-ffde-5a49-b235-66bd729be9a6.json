@@ -1,0 +1,33 @@
+{
+  "id": 9260,
+  "guid": "bf92f606-ffde-5a49-b235-66bd729be9a6",
+  "logo": "",
+  "date": "2022-12-28T23:20:00+01:00",
+  "start": "23:20",
+  "duration": "03:00",
+  "room": "Rave Cave",
+  "slug": "jev22-9260-160bpm_schranz_to_chill_and_study_to",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/3HWMBC/",
+  "title": ">160bpm-schranz to chill and study to",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (180 min)",
+  "language": "de",
+  "abstract": "hard trance and fast techno",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 18,
+      "code": "WSPL8P",
+      "public_name": "Freddy Faulig",
+      "biography": "[]",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

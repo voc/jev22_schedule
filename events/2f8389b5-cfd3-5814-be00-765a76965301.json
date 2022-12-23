@@ -1,0 +1,33 @@
+{
+  "id": 2838,
+  "guid": "2f8389b5-cfd3-5814-be00-765a76965301",
+  "logo": "",
+  "date": "2022-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "02:30",
+  "room": "Spezial Raum",
+  "slug": "jev22-2838-selbst_ist_das_merch",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/",
+  "title": "Selbst ist das Merch!",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Siebdruck-Workshop mit dem Logo der WICMP",
+  "description": "Du hast noch kein passendes Outfit f\u00fcr die Wintergalaktische Club Mate Party? Kein Problem! Komm einfach zum Siebdruck-Workshop und bedrucke deine Kleidung selbst. Als Motiv steht das Logo des Events zur Verf\u00fcgung, das die wunderbare Jo desgignt hat.\r\n\r\nWas musst du mitbringen?\r\nWeil mit wei\u00dfer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gef\u00fctterten Hoodys). Auch Jutebeutel oder Kissenbez\u00fcge k\u00f6nnen bedruckt werden. Was immer du aussuchst: Wichtig ist ein m\u00f6glichst hoher Baumwollanteil.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 25,
+      "code": "NPPYRU",
+      "public_name": "Anke",
+      "biography": "Anke ist aktives Mitglied der Binary Kitchen in Regensburg, wo sie auch die dortige Siebdruck-Werkstatt betreut.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

@@ -10,7 +10,7 @@
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/",
   "title": "Programmieren mit Satzbausteinen",
   "subtitle": "",
-  "track": null,
+  "track": "Freir\u00e4ume",
   "type": "Talk",
   "language": "de",
   "abstract": "In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets erm\u00f6glicht, vorgestellt.",

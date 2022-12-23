@@ -1,0 +1,33 @@
+{
+  "id": 6931,
+  "guid": "69c3158b-3b1e-53f5-802c-31258611f7e6",
+  "logo": "",
+  "date": "2022-12-27T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "02:00",
+  "room": "Rave Cave",
+  "slug": "jev22-6931-drum_n_bass_dj_set",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/",
+  "title": "Drum'n'Bass DJ-Set",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (120 min)",
+  "language": "de",
+  "abstract": "2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.",
+  "description": "Servus! Corny hier von nbgsubculture.\r\nIch lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und m\u00f6chte gerne eure Veranstaltung beschallen.\r\nEin Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 16,
+      "code": "QCRUMA",
+      "public_name": "c0rny",
+      "biography": "Ich habe meine Aktivit\u00e4ten als DJ im ersten Corona-Lockdown zusammen mit meinen DJ-Kollegen und -kolleginen von nbgsubculture gestartet. Anfangs haben wir unsere Sets ausschlie\u00dflich \u00fcber Twitch gestreamt. Sp\u00e4ter kamen dann auch Livestreams zum RC3 dazu. Mittlerweile hatte ich auch schon diverse Auftritte vor Publikum und stets eine Menge Spa\u00df bei der Sache.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

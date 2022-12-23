@@ -1,0 +1,33 @@
+{
+  "id": 982,
+  "guid": "be09a825-3f68-5362-b03f-bdae90ce5588",
+  "logo": "",
+  "date": "2022-12-29T15:15:00+01:00",
+  "start": "15:15",
+  "duration": "00:30",
+  "room": "Seminarraum",
+  "slug": "jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/TWELKD/",
+  "title": "Schlangenprogrammiernacht \u2013 Ein Blick hinter die Kulissen",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein f\u00fcr die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.",
+  "description": "Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!\r\n\r\nKonkret wird es darum gehen\u2026\r\n\r\n- wie der Gameserver mit den Bot-Prozessen kommuniziert,\r\n- wie die Unterst\u00fctzung mehrerer Programmiersprachen umgesetzt ist und\r\n- wie verhindert wird, dass die User mit ihrem Code das Hostsystem \u00fcbernehmen.\r\n\r\nSolltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 20,
+      "code": "PDAFL8",
+      "public_name": "Thomas \u201ecfr34k\u201c",
+      "biography": "Normalerweise sind meine Projekte eher hardwarenah (Mikrocontroller-Firmware und Elektronik), aber manchmal entstehen doch auch reine Softwareprojekte, die man herzeigen kann, wie zum Beispiel die [Schlangenprogrammiernacht](https://schlangen.bytewerk.org).",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

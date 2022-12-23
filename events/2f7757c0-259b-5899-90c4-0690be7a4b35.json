@@ -1,0 +1,40 @@
+{
+  "id": 2775,
+  "guid": "2f7757c0-259b-5899-90c4-0690be7a4b35",
+  "logo": "/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg",
+  "date": "2022-12-29T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:45",
+  "room": "Seminarraum",
+  "slug": "jev22-2775-surviving_as_a_nerd_deutsch",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/7R9URV/",
+  "title": "Surviving as a NERD (Deutsch)",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Ein Relationship Survival Guide f\u00fcr Nerds",
+  "description": "Talking Points:\r\nWas wir mit Nerd meinen\r\nEgoismus vs. Authentisches Selbst\r\nDas Ziel\r\nHack dein (sozial) Leben\r\nHack deine Beziehungen",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 13,
+      "code": "HVX9XK",
+      "public_name": "Akira DeLaine",
+      "biography": "CisMale, Poly, SozP\u00e4d",
+      "answers": []
+    },
+    {
+      "id": 14,
+      "code": "YCT79Z",
+      "public_name": "SycretSoul",
+      "biography": "I'm a Color Nerd and a woman living in polyamorous relationship.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

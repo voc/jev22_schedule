@@ -1,0 +1,33 @@
+{
+  "id": 1973,
+  "guid": "fe1b973f-6e41-542e-8230-a1a07f030ca9",
+  "logo": "",
+  "date": "2022-12-29T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "02:00",
+  "room": "Rave Cave",
+  "slug": "jev22-1973-chaotic_symphony_an_audiovisual_space_trip",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/",
+  "title": "chaotic symphony - an audiovisual space trip",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (120 min)",
+  "language": "de",
+  "abstract": "tanzende cartoons, projection mapping, live gerenderte 3D-Welten - es wird auf jeden Fall bunt",
+  "description": "Wir spielen leicht modifizierte Musik von Township Rebellion und generieren live dazu passende visuals.\r\n\r\nDie Details h\u00e4ngen von der location ab, die wir noch gar nicht kennen. Es wird f\u00fcr uns also genau so \u00fcberraschend wie f\u00fcr euch!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 8,
+      "code": "STXG7L",
+      "public_name": "Alexander Alber",
+      "biography": "Alexander macht in seiner Freizeit gerne interaktive Lichtkunst",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

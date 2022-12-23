@@ -1,0 +1,33 @@
+{
+  "id": 7656,
+  "guid": "d765694d-8e4c-5eb2-aa64-8815a6693661",
+  "logo": "/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg",
+  "date": "2022-12-29T16:15:00+01:00",
+  "start": "16:15",
+  "duration": "02:00",
+  "room": "Seminarraum",
+  "slug": "jev22-7656-schafkopf_fuer_anfaenger",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/YLYW79/",
+  "title": "Schafkopf f\u00fcr Anf\u00e4nger",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Mal was Analoges - Schafkopfen f\u00fcr Anf\u00e4nger:\r\nSchafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 7,
+      "code": "BRCTHC",
+      "public_name": "MikeTsenatek",
+      "biography": "Nerd aus F\u00fcrth der auf dem Land aufgewachsen ist inkl. regelm\u00e4\u00dfiger Schafkopfrunden im Wirtshaus.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7169,
+  "guid": "71d695b0-de75-579e-9863-117b1290a204",
+  "logo": "",
+  "date": "2022-12-28T22:00:00+01:00",
+  "start": "22:00",
+  "duration": "01:00",
+  "room": "Rave Cave",
+  "slug": "jev22-7169-acid_techno_liveset",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/XHEJ98/",
+  "title": "Acid Techno Liveset",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (60 min)",
+  "language": "de",
+  "abstract": "MC Streyt dr\u00fcckt live auf Synthesizer, auf dass k\u00f6stlich Acid aus den Lautsprechern tr\u00e4ufeln m\u00f6ge!",
+  "description": "Impro-Liveset Richtung Acid Techno bzw Acid House idR um die 130bpm rum, ab und an gern auch mal etwas flotter. Synthies: Roland TB-3 und TR-8S sowie Behringer Neutron.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 19,
+      "code": "CCQNUH",
+      "public_name": "streyt",
+      "biography": "MC Streyt dr\u00fcckt seit 2017 auf Synthesizern rum. Am liebsten, wenn z\u00fcnftiger Acid ert\u00f6nt und Raver um ihn rum springen. Mitglied der Ravercrews \"The Attic Collective\" und \"G\u00fcnther's Green Grind\".",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

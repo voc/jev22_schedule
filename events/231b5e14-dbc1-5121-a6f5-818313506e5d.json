@@ -1,0 +1,33 @@
+{
+  "id": 2315,
+  "guid": "231b5e14-dbc1-5121-a6f5-818313506e5d",
+  "logo": "",
+  "date": "2022-12-28T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "02:00",
+  "room": "Lounge",
+  "slug": "jev22-2315-lnxu_downtempo_chillout_dj_set",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/",
+  "title": "lnxu Downtempo Chillout DJ Set",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (120 min)",
+  "language": "de",
+  "abstract": "Downtempo/Ambient/Dub Techno Chillout Set.",
+  "description": "Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 15,
+      "code": "MLNTAR",
+      "public_name": "lnxu",
+      "biography": "https://soundcloud.com/void-4\r\nhttps://www.twitch.tv/nbgsubculture",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

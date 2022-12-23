@@ -1,0 +1,33 @@
+{
+  "id": 5136,
+  "guid": "5c136451-b07a-5290-bda4-838406dc814c",
+  "logo": "",
+  "date": "2022-12-30T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Seminarraum",
+  "slug": "jev22-5136-operational_transconductance_amplifiers",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/",
+  "title": "Operational Transconductance Amplifiers",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Operational Transconductance Amplifiers (OTAs) are fascinating electronic devices:\r\nThey behave like Operational Amplifiers (OP-Amps), but with a controllable current output.\r\nThat enables a lot of interesting possible use cases e.g., voltage controlled amplifiers, voltage controlled filters and voltage controlled simulations of passive electronic components.\r\nDue to their versatility, they can be seen as secret heroes in analog audio circuits, but still their underlying circuit is still relatively simple and therefore comprehensible.\r\nThis talk will take top-down approach starting with the operational principles and various example applications to then continue a bit further down the rabbit hole and take a high-level look at the inner circuit.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 27,
+      "code": "BFVTJU",
+      "public_name": "etXzat",
+      "biography": "Computer scientist, electronics repair technician and passionate hobby musician. I like understanding, fixing and creating things.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

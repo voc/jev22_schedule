@@ -1,0 +1,33 @@
+{
+  "id": 6708,
+  "guid": "a67ef084-e55e-5910-98fd-db72b633e5ce",
+  "logo": "",
+  "date": "2022-12-27T16:45:00+01:00",
+  "start": "16:45",
+  "duration": "00:30",
+  "room": "Seminarraum",
+  "slug": "jev22-6708-werd_dein_eigener_ispv6",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/",
+  "title": "Werd Dein eigener ISPv6",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.",
+  "description": "IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und\r\neine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt\r\nIPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix\r\nhaben und da dr\u00fcber End-to-End Server betreiben k\u00f6nnen. Ist aber leider gar nicht\r\nso. Weil mich das  ge\u00e4rgert hat, hab ich angefangen, mich durch die Formalit\u00e4ten\r\nzu k\u00e4mpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.\r\nDabei was gelernt \u00fcber:\r\n   - Formulare\r\n   - Tunnels\r\n   - \"Sponsoring LIRs\"\r\n   - RIPE Databases\r\n   - Border Gateway Protocol\r\nErgebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 17,
+      "code": "KBUJLV",
+      "public_name": "bauerm",
+      "biography": "Lange Haare, Bart, macht was mit Computern",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

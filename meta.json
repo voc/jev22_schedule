@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-23 01:30; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 01:30; Winterchaos 0.1; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.21",
+    "version": "2022-12-23 02:29; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 02:29; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.21",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -25,32 +25,6 @@
             "schedule": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/",
             "login": "https://pretalx.c3voc.de/fire-shonks-2022/login/",
             "feed": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/feed.xml"
-          }
-        },
-        "rooms": null
-      },
-      {
-        "url": "https://pretalx.c3voc.de/hip-berlin-2022",
-        "name": "Hacking in Parallel",
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "links": [
-          "https://wiki.hip-berlin.de/"
-        ],
-        "meta": {
-          "name": {
-            "de": "///Hacking in Parallel \u2013 Berlin///",
-            "en": "///Hacking in Parallel \u2013 Berlin///"
-          },
-          "slug": "hip-berlin-2022",
-          "is_public": true,
-          "date_from": "2022-12-27",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://pretalx.c3voc.de/hip-berlin-2022/",
-            "schedule": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/",
-            "login": "https://pretalx.c3voc.de/hip-berlin-2022/login/",
-            "feed": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/feed.xml"
           }
         },
         "rooms": null
@@ -142,7 +116,7 @@
         ]
       },
       {
-        "url": "https://talks.w.icmp.camp",
+        "url": "https://talks.w.icmp.camp/wicmp1",
         "slug": "wicmp1",
         "name": "Wintergalaktische Club Mate Party",
         "location": "Erlangen, Bits'n'Bugs + ZAM",
@@ -181,6 +155,32 @@
           "https://laborluxeria.github.io/winterchaos2022/schedule/",
           "https://laborluxeria.github.io/winterchaos2022/feed.xml"
         ]
+      },
+      {
+        "url": "https://pretalx.c3voc.de/hip-berlin-2022",
+        "name": "Hacking in Parallel",
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "links": [
+          "https://wiki.hip-berlin.de/"
+        ],
+        "meta": {
+          "name": {
+            "de": "///Hacking in Parallel \u2013 Berlin///",
+            "en": "///Hacking in Parallel \u2013 Berlin///"
+          },
+          "slug": "hip-berlin-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/hip-berlin-2022/",
+            "schedule": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/hip-berlin-2022/login/",
+            "feed": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
       },
       {
         "url": "https://forum.freiraeumen.jetzt/freiraumforum",
@@ -256,30 +256,6 @@
         "schedule_name": "Fireshonks-Workshop"
       },
       {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-        "schedule_name": "Theater Hall E.T.I."
-      },
-      {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-        "schedule_name": "Track 2 room 2"
-      },
-      {
-        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "schedule_name": "workshop room 3"
-      },
-      {
-        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-        "schedule_name": "soldering room 7"
-      },
-      {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
-        "schedule_name": "c-base mainhall"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Merch Desk"
-      },
-      {
         "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
         "schedule_name": "RTC-B\u00fchne (Sparti)"
       },
@@ -329,7 +305,47 @@
       },
       {
         "guid": null,
+        "schedule_name": "Seminarraum"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Rave Cave"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Lounge"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Spezial Raum"
+      },
+      {
+        "guid": null,
         "schedule_name": "Winterchaos"
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+        "schedule_name": "Theater Hall E.T.I."
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+        "schedule_name": "Track 2 room 2"
+      },
+      {
+        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+        "schedule_name": "workshop room 3"
+      },
+      {
+        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+        "schedule_name": "soldering room 7"
+      },
+      {
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+        "schedule_name": "c-base mainhall"
+      },
+      {
+        "guid": null,
+        "schedule_name": "Merch Desk"
       },
       {
         "guid": null,

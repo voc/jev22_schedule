@@ -10,7 +10,7 @@
   "url": "https://cfp.ccc-p.org/rtc22/talk/FEK7VC/",
   "title": "Misconceptions about Energy Assessment",
   "subtitle": "",
-  "track": null,
+  "track": "Potsdam",
   "type": "Talk",
   "language": "en",
   "abstract": "The energy consumption of computer systems are of increasing interest. But it is easy to shoot yourself in the foot while measuring your software. In this talk you will learn about different ways of assessing your software's energy demand, basic mistakes in measurements and how to avoid them.",

@@ -1,0 +1,33 @@
+{
+  "id": 5092,
+  "guid": "50923b4d-ca00-5303-94be-b014fb3af89d",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Seminarraum",
+  "slug": "jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
+  "title": "intro to time- & organisation-concepts and useful tricks",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?\r\nWant to get organized and get an efficient overview of all your TODOs?\r\nOr already using some concepts and want to go deeper and learn (hopefully) some new tricks?\r\nThen join this talk.",
+  "description": "First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind & workflows.\r\n\r\nSecond half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) \r\n\r\nThird is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.\r\nBest way to learn and teach is by communicating, so lets talk!",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 28,
+      "code": "RBRX7K",
+      "public_name": "MaW",
+      "biography": "Hi, I am MaW, and broadly interested in a lot of topics, with always new ideas and never enough time to realize them.\r\n\r\nThinking about organization systems since around 15 years and always trying to find and optimize existing solutions before developing new ones.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

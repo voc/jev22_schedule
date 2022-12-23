@@ -1,0 +1,33 @@
+{
+  "id": 9908,
+  "guid": "9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50",
+  "logo": "",
+  "date": "2022-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:45",
+  "room": "Seminarraum",
+  "slug": "jev22-9908-wie_funktioniert_eigentlich_filmentwicklung",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/",
+  "title": "Wie funktioniert eigentlich Filmentwicklung?",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Vor 196 Jahren erfand Joseph Ni\u00e9pce die Heliographie, die weltweit erste fotographische Technik.\r\n    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach f\u00fcr die gesamte Bev\u00f6lkerung erschwinglich.\r\n    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdr\u00e4ngt.\r\n    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdr\u00e4ngt worden.\r\n    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der urspr\u00fcnglichen fotografischen Technik in Ber\u00fchrung zu kommen.\r\n    Das ist schade, stellt sie doch eine gro\u00dfartige kulturelle Errungenschaft dar.\r\n    In diesem Vortrag m\u00f6chte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abl\u00e4uft.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 26,
+      "code": "JDHLEG",
+      "public_name": "Beowulf",
+      "biography": "-",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

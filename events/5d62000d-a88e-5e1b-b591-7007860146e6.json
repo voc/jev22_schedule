@@ -1,0 +1,33 @@
+{
+  "id": 5620,
+  "guid": "5d62000d-a88e-5e1b-b591-7007860146e6",
+  "logo": "",
+  "date": "2022-12-30T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:30",
+  "room": "Seminarraum",
+  "slug": "jev22-5620-das_matrix_protokoll",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/",
+  "title": "Das Matrix-Protokoll",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Matrix (matrix.org) ist ein Protokollstandard f\u00fcr (Gruppen)chats, die \u00fcber mehrere Server teilt sind. Ich m\u00f6chte die Funktion und Konzepte des Protokolls erkl\u00e4ren und welche Probleme es l\u00f6st - insbesondere:\r\n - Verteilte Verwaltung von R\u00e4umen (Moderationsrechte, Mitgliedschaft)\r\n - Ende-zu-Ende-Verschl\u00fcsselung mit mehreren Ger\u00e4ten pro Benutzer",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 30,
+      "code": "RPF3US",
+      "public_name": "thejonny",
+      "biography": "@thejonny:bruckbu.de",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

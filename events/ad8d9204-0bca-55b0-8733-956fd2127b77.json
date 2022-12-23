@@ -10,7 +10,7 @@
   "url": "https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/",
   "title": "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions",
   "subtitle": "",
-  "track": null,
+  "track": "Potsdam",
   "type": "Talk",
   "language": "de",
   "abstract": "Raider was created to fill a gap in current tooling for pentesting the authentication process. It abstracts the client-server information exchange as a finite state machine. Each step comprises one request with inputs, one response with outputs, arbitrary actions to do on the response, and conditional links to other stages. Thus, a graph-like structure is created. This architecture works not only for authentication purposes but can be used for any HTTP process that needs to keep track of states.",

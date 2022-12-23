@@ -1,0 +1,33 @@
+{
+  "id": 9081,
+  "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
+  "logo": "",
+  "date": "2022-12-27T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "00:45",
+  "room": "Seminarraum",
+  "slug": "jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/",
+  "title": "GNU Taler -- mit Krypto bezahlen ohne Blockchain?",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es f\u00fcr eine Veranstaltung betreiben kann.\r\n\r\nSpoiler: Es ist *keine* Kryptow\u00e4hrung ;).",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 2,
+      "code": "SGJPZQ",
+      "public_name": "Windfisch",
+      "biography": "Hacker aus Erlangen, der eigentlich eher in der Embedded- und Musikrichtung unterwegs ist, aber seit diesem Jahr in der Finanzbranche arbeitet.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

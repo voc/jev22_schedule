@@ -1,0 +1,33 @@
+{
+  "id": 1265,
+  "guid": "a1265b34-bb29-5a3f-864d-ed54292cb427",
+  "logo": "/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg",
+  "date": "2022-12-31T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-1265-freie_netze_muenchen_projektvorstellung_und_routereinrichtung",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/",
+  "title": "Freie Netze M\u00fcnchen - Projektvorstellung und Routereinrichtung",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Was ist ein Freifunknetz und was macht der Verein Freie Netze M\u00fcnchen?\r\nAusf\u00fchrliche Vorstellung und anschlie\u00dfend gemeinsames Einrichten und Konfigurieren von Freifunkroutern zum Mitnehmen. Falls vorhanden, gerne eigenen Laptop mitbringen!",
+  "description": "Hier lernt ihr Freifunk M\u00fcnchen kennen! Freifunk ist ein von vielen Menschen gemeinsam betriebenes Netz, bei denen jede/r etwas von ihrer/seiner Bandbreite abgeben und risikolos seinen Internetzugang anderen zur Verf\u00fcgung stellen und sich mit anderen Menschen vernetzen kann.\r\nDer dahinter stehende Verein Freie Netze M\u00fcnchen hat neben Freifunk noch andere Projekte (z.B. Richtfunk; Anbindung von Gefl\u00fcchtetenunterk\u00fcnften, Videokonferenzplattform meet.ffmuc.net), die kurz angerissen werden.\r\nNach einer umfassenden Vorstellung und Einf\u00fchrung kann jede/r Workshoppende einen eigenen Freifunkrouter einrichten und mit nach Hause nehmen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 167,
+      "code": "QDNZMK",
+      "public_name": "Tobias McFadden",
+      "biography": "Veranstaltungstechniker; Freifunker, Jugendkulturler; AK-Vorratler; spezialliberal-anarchistisch-pragmatisch-progressiver Gemeinde(Pi)rat Gauting",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

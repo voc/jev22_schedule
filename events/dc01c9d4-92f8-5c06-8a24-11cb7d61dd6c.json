@@ -1,0 +1,33 @@
+{
+  "id": 194,
+  "guid": "dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c",
+  "logo": "",
+  "date": "2022-12-31T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "00:30",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "slug": "jev22-194-infrastructure_review",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/",
+  "title": "Infrastructure Review",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 114,
+      "code": "QJFZTP",
+      "public_name": "Moira",
+      "biography": "Eine spontane Ansammlung von Wesen, die so Netzwerk und Video machen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4958,
+  "guid": "a49e5c85-1ad9-5e2f-9427-627eb6a77ca3",
+  "logo": "/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png",
+  "date": "2022-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:30",
+  "room": "Seminarraum",
+  "slug": "jev22-4958-das_zam_im_wandel_der_zeit",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/PFNABK/",
+  "title": "Das ZAM im Wandel der Zeit",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Wo sind wir hier eigentlich? Was ist das f\u00fcr ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum f\u00fcr Austausch und Machen.",
+  "description": "Wir m\u00f6chten euch diesen neuen Ort in der Erlanger Kulturlandschaft erkl\u00e4ren und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige F\u00fchrung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 5,
+      "code": "SYJ7LM",
+      "public_name": "Julian \"codemonk\"",
+      "biography": "Auf Bergen, in H\u00f6hlen und in der Luft unterwegs. Manchmal auch in Hack- und Makespaces.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}
