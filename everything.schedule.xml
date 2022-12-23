@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 12:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 12:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.22</version>
+  <version>2022-12-23 13:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 13:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.23</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -138,13 +138,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <links/>
         <attachments/>
       </event>
-      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1887,13 +1887,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="9100" guid="b9100420-0099-5a56-a006-e4b480a45c8c">
+      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
-        <duration>01:30</duration>
+        <duration>08:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9100-no_future_for_iaa_solistand</slug>
+        <slug>jev22-469-no_future_for_iaa_solistand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
         <title>No Future for IAA Solistand</title>
         <subtitle/>
@@ -1914,13 +1914,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <links/>
         <attachments/>
       </event>
-      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
+      <event id="9100" guid="b9100420-0099-5a56-a006-e4b480a45c8c">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
-        <duration>08:00</duration>
+        <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-469-no_future_for_iaa_solistand</slug>
+        <slug>jev22-9100-no_future_for_iaa_solistand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
         <title>No Future for IAA Solistand</title>
         <subtitle/>
@@ -1968,13 +1968,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <links/>
         <attachments/>
       </event>
-      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
+      <event id="9074" guid="90741505-0947-518e-a69b-0f4095337dea">
         <logo/>
         <date>2022-12-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8400-sticker_exchange</slug>
+        <slug>jev22-9074-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -4625,35 +4625,6 @@ Wir tauschen uns aus über eure Erfahrungen und versuchen uns dem Thema anhand d
       </event>
     </room>
     <room name="Klangkeller - H1-U.1">
-      <event id="6622" guid="662b2ed8-7b45-547b-96fb-38d27c949725">
-        <logo>/media/freiraumforum/submissions/PYKMQB/Screenshot_2022-12-22_at_23.07.26_a9lSzKc.jpg</logo>
-        <date>2022-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>03:00</duration>
-        <room>Klangkeller - H1-U.1</room>
-        <slug>jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/</url>
-        <title>Lithotron - ein transdisziplinäres Klang-Workshop + Group-Performance</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplinäres Musik Workshop mit Kunst und Technik.&#13;
-Teil des Echokammer Takeovers.</abstract>
-        <description>Wir bauen Steinplatten zu einem Lithophon zusammen und spielen darauf. Wir samplen damit Loops und legen sie unter mitgebrachte Teppiche.&#13;
-Darunter befinden sich Schalter in Form von Trittmatten. Diese bedienen wir wie Tasten eines Keyboards, mit dem ganzen Körpergewicht.&#13;
-Manu bringt eine Orgel und Vinyls mit. Diese können wir ebenfalls samplen und auf die Matten routen. Bringt mit was euch einfällt, kommt alles unter den Teppich.&#13;
-Wir werden die Loops und Sounds mit unseren Körpern spielen und gemeinsam Musik tanzen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="154">Zoro Babel und Manuela Rzytki</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="4718" guid="efa47185-d189-561b-ad83-b990c650daf7">
         <logo/>
         <date>2022-12-28T19:00:00+01:00</date>
@@ -4866,13 +4837,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Austellungsraum 5 - H1-3.1"/>
     <room name="Festivalzentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
-      <event id="8127" guid="c812c79f-df86-541c-a77e-512e83a86d1c">
+      <event id="6364" guid="c6364e5a-5727-509a-8d11-0013ce310f31">
         <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
         <date>2022-12-28T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2</room>
-        <slug>jev22-8127-siebdruck</slug>
+        <slug>jev22-6364-siebdruck</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/</url>
         <title>Siebdruck</title>
         <subtitle/>
@@ -4972,13 +4943,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="4966" guid="49ecb668-cc83-5920-ab25-eb5f3196c0dc">
+      <event id="7305" guid="7db3bd05-e2a3-571b-9c68-d5d295fc6658">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-4966-sticker_exchange</slug>
+        <slug>jev22-7305-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -5105,7 +5076,37 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <attachments/>
       </event>
     </room>
-    <room name="Timeout Raum - H2-5.1"/>
+    <room name="Timeout Raum - H2-5.1">
+      <event id="6622" guid="662b2ed8-7b45-547b-96fb-38d27c949725">
+        <logo>/media/freiraumforum/submissions/PYKMQB/Screenshot_2022-12-22_at_23.07.26_a9lSzKc.jpg</logo>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>Timeout Raum - H2-5.1</room>
+        <slug>jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/</url>
+        <title>Lithotron - ein transdisziplinäres Klang-Workshop + Group-Performance</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplinäres Musik Workshop mit Kunst und Technik.&#13;
+Teil des Echokammer Takeovers.</abstract>
+        <description>Wir bauen Steinplatten zu einem Lithophon zusammen und spielen darauf. Wir samplen damit Loops und legen sie unter mitgebrachte Teppiche.&#13;
+Darunter befinden sich Schalter in Form von Trittmatten. Diese bedienen wir wie Tasten eines Keyboards, mit dem ganzen Körpergewicht.&#13;
+Manu bringt eine Orgel und Vinyls mit. Diese können wir ebenfalls samplen und auf die Matten routen. Bringt mit was euch einfällt, kommt alles unter den Teppich.&#13;
+Wir werden die Loops und Sounds mit unseren Körpern spielen und gemeinsam Musik tanzen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="154">Zoro Babel und Manuela Rzytki</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
   </day>
   <day index="3" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
@@ -7503,7 +7504,7 @@ Ziel es Workshops ist es daher, abseits von neoliberalen Logiken, die nur auf di
         <logo>/media/freiraumforum/submissions/9PJK9F/Filmstill_BodyOfOz_KlausErikaDietl_RagTreasure_TQaBiUB.jpg</logo>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
-        <duration>03:00</duration>
+        <duration>02:00</duration>
         <room>Klangkeller - H1-U.1</room>
         <slug>jev22-4781-alligator_gozaimasu</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/9PJK9F/</url>
@@ -7737,13 +7738,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Austellungsraum 5 - H1-3.1"/>
     <room name="Festivalzentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
-      <event id="6364" guid="c6364e5a-5727-509a-8d11-0013ce310f31">
+      <event id="8127" guid="c812c79f-df86-541c-a77e-512e83a86d1c">
         <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2</room>
-        <slug>jev22-6364-siebdruck</slug>
+        <slug>jev22-8127-siebdruck</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/</url>
         <title>Siebdruck</title>
         <subtitle/>
@@ -7845,13 +7846,13 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <links/>
         <attachments/>
       </event>
-      <event id="8190" guid="8d1ebfd9-0697-5afe-8999-94e874625d08">
+      <event id="8813" guid="e88d1b3d-9f4a-5901-96df-12848adc6d86">
         <logo>/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg</logo>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8190-mindzone_infostand</slug>
+        <slug>jev22-8813-mindzone_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/</url>
         <title>Mindzone Infostand</title>
         <subtitle/>
@@ -7898,13 +7899,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="9074" guid="90741505-0947-518e-a69b-0f4095337dea">
+      <event id="4966" guid="49ecb668-cc83-5920-ab25-eb5f3196c0dc">
         <logo/>
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9074-sticker_exchange</slug>
+        <slug>jev22-4966-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -9725,13 +9726,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <links/>
         <attachments/>
       </event>
-      <event id="8813" guid="e88d1b3d-9f4a-5901-96df-12848adc6d86">
+      <event id="4761" guid="b47e61bf-f236-5817-b78a-de8694cf9e97">
         <logo>/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg</logo>
         <date>2022-12-30T12:30:00+01:00</date>
         <start>12:30</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8813-mindzone_infostand</slug>
+        <slug>jev22-4761-mindzone_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/</url>
         <title>Mindzone Infostand</title>
         <subtitle/>
@@ -9751,13 +9752,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="1134" guid="11c347bd-f02d-5aeb-8216-12ebdbe89bb4">
+      <event id="8222" guid="82b22eef-3d58-5a3f-86d4-c93637bffdba">
         <logo/>
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-1134-sticker_exchange</slug>
+        <slug>jev22-8222-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -10188,13 +10189,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="8222" guid="82b22eef-3d58-5a3f-86d4-c93637bffdba">
+      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
         <logo/>
         <date>2022-12-31T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8222-sticker_exchange</slug>
+        <slug>jev22-8400-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>

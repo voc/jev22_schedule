@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 12:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 12:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.22",
+    "version": "2022-12-23 13:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 13:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.23",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -455,14 +455,14 @@
                 "attachments": []
               },
               {
-                "id": 5664,
-                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
+                "id": 2085,
+                "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
                 "logo": "",
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:50",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
+                "slug": "jev22-2085-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
@@ -2411,14 +2411,14 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 9100,
-                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
+                "id": 469,
+                "guid": "0cf469a4-16c5-5a8f-9509-20a18fa6d91e",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "01:30",
+                "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9100-no_future_for_iaa_solistand",
+                "slug": "jev22-469-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
                 "title": "No Future for IAA Solistand",
                 "subtitle": "",
@@ -2442,14 +2442,14 @@
                 "attachments": []
               },
               {
-                "id": 469,
-                "guid": "0cf469a4-16c5-5a8f-9509-20a18fa6d91e",
+                "id": 9100,
+                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "08:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-469-no_future_for_iaa_solistand",
+                "slug": "jev22-9100-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
                 "title": "No Future for IAA Solistand",
                 "subtitle": "",
@@ -2504,14 +2504,14 @@
                 "attachments": []
               },
               {
-                "id": 8400,
-                "guid": "c8d400fe-ea40-58d5-a749-e32ca96280dc",
+                "id": 9074,
+                "guid": "90741505-0947-518e-a69b-0f4095337dea",
                 "logo": "",
                 "date": "2022-12-27T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8400-sticker_exchange",
+                "slug": "jev22-9074-sticker_exchange",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
                 "title": "Sticker Exchange!",
                 "subtitle": "",
@@ -5439,37 +5439,6 @@
             ],
             "Klangkeller - H1-U.1": [
               {
-                "id": 6622,
-                "guid": "662b2ed8-7b45-547b-96fb-38d27c949725",
-                "logo": "/media/freiraumforum/submissions/PYKMQB/Screenshot_2022-12-22_at_23.07.26_a9lSzKc.jpg",
-                "date": "2022-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "03:00",
-                "room": "Klangkeller - H1-U.1",
-                "slug": "jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/",
-                "title": "Lithotron - ein transdisziplin\u00e4res Klang-Workshop + Group-Performance",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplin\u00e4res Musik Workshop mit Kunst und Technik.\r\nTeil des Echokammer Takeovers.",
-                "description": "Wir bauen Steinplatten zu einem Lithophon zusammen und spielen darauf. Wir samplen damit Loops und legen sie unter mitgebrachte Teppiche.\r\nDarunter befinden sich Schalter in Form von Trittmatten. Diese bedienen wir wie Tasten eines Keyboards, mit dem ganzen K\u00f6rpergewicht.\r\nManu bringt eine Orgel und Vinyls mit. Diese k\u00f6nnen wir ebenfalls samplen und auf die Matten routen. Bringt mit was euch einf\u00e4llt, kommt alles unter den Teppich.\r\nWir werden die Loops und Sounds mit unseren K\u00f6rpern spielen und gemeinsam Musik tanzen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 154,
-                    "code": "QXSFUN",
-                    "public_name": "Zoro Babel und Manuela Rzytki",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 4718,
                 "guid": "efa47185-d189-561b-ad83-b990c650daf7",
                 "logo": "",
@@ -5736,14 +5705,14 @@
             "Festivalzentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
-                "id": 8127,
-                "guid": "c812c79f-df86-541c-a77e-512e83a86d1c",
+                "id": 6364,
+                "guid": "c6364e5a-5727-509a-8d11-0013ce310f31",
                 "logo": "/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg",
                 "date": "2022-12-28T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "02:00",
                 "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
-                "slug": "jev22-8127-siebdruck",
+                "slug": "jev22-6364-siebdruck",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/",
                 "title": "Siebdruck",
                 "subtitle": "",
@@ -5864,14 +5833,14 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 4966,
-                "guid": "49ecb668-cc83-5920-ab25-eb5f3196c0dc",
+                "id": 7305,
+                "guid": "7db3bd05-e2a3-571b-9c68-d5d295fc6658",
                 "logo": "",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-4966-sticker_exchange",
+                "slug": "jev22-7305-sticker_exchange",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
                 "title": "Sticker Exchange!",
                 "subtitle": "",
@@ -6019,7 +5988,39 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": []
+            "Timeout Raum - H2-5.1": [
+              {
+                "id": 6622,
+                "guid": "662b2ed8-7b45-547b-96fb-38d27c949725",
+                "logo": "/media/freiraumforum/submissions/PYKMQB/Screenshot_2022-12-22_at_23.07.26_a9lSzKc.jpg",
+                "date": "2022-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "03:00",
+                "room": "Timeout Raum - H2-5.1",
+                "slug": "jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/",
+                "title": "Lithotron - ein transdisziplin\u00e4res Klang-Workshop + Group-Performance",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Percussions, Synthesizer, Human-sized Drumpad, Tanz und Komposition. Ein transdisziplin\u00e4res Musik Workshop mit Kunst und Technik.\r\nTeil des Echokammer Takeovers.",
+                "description": "Wir bauen Steinplatten zu einem Lithophon zusammen und spielen darauf. Wir samplen damit Loops und legen sie unter mitgebrachte Teppiche.\r\nDarunter befinden sich Schalter in Form von Trittmatten. Diese bedienen wir wie Tasten eines Keyboards, mit dem ganzen K\u00f6rpergewicht.\r\nManu bringt eine Orgel und Vinyls mit. Diese k\u00f6nnen wir ebenfalls samplen und auf die Matten routen. Bringt mit was euch einf\u00e4llt, kommt alles unter den Teppich.\r\nWir werden die Loops und Sounds mit unseren K\u00f6rpern spielen und gemeinsam Musik tanzen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 154,
+                    "code": "QXSFUN",
+                    "public_name": "Zoro Babel und Manuela Rzytki",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ]
           }
         },
         {
@@ -8694,7 +8695,7 @@
                 "logo": "/media/freiraumforum/submissions/9PJK9F/Filmstill_BodyOfOz_KlausErikaDietl_RagTreasure_TQaBiUB.jpg",
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
-                "duration": "03:00",
+                "duration": "02:00",
                 "room": "Klangkeller - H1-U.1",
                 "slug": "jev22-4781-alligator_gozaimasu",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/9PJK9F/",
@@ -8986,14 +8987,14 @@
             "Festivalzentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
-                "id": 6364,
-                "guid": "c6364e5a-5727-509a-8d11-0013ce310f31",
+                "id": 8127,
+                "guid": "c812c79f-df86-541c-a77e-512e83a86d1c",
                 "logo": "/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg",
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "02:00",
                 "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
-                "slug": "jev22-6364-siebdruck",
+                "slug": "jev22-8127-siebdruck",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/",
                 "title": "Siebdruck",
                 "subtitle": "",
@@ -9114,14 +9115,14 @@
                 "attachments": []
               },
               {
-                "id": 8190,
-                "guid": "8d1ebfd9-0697-5afe-8999-94e874625d08",
+                "id": 8813,
+                "guid": "e88d1b3d-9f4a-5901-96df-12848adc6d86",
                 "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8190-mindzone_infostand",
+                "slug": "jev22-8813-mindzone_infostand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
                 "title": "Mindzone Infostand",
                 "subtitle": "",
@@ -9176,14 +9177,14 @@
                 "attachments": []
               },
               {
-                "id": 9074,
-                "guid": "90741505-0947-518e-a69b-0f4095337dea",
+                "id": 4966,
+                "guid": "49ecb668-cc83-5920-ab25-eb5f3196c0dc",
                 "logo": "",
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9074-sticker_exchange",
+                "slug": "jev22-4966-sticker_exchange",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
                 "title": "Sticker Exchange!",
                 "subtitle": "",
@@ -11304,14 +11305,14 @@
                 "attachments": []
               },
               {
-                "id": 8813,
-                "guid": "e88d1b3d-9f4a-5901-96df-12848adc6d86",
+                "id": 4761,
+                "guid": "b47e61bf-f236-5817-b78a-de8694cf9e97",
                 "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
                 "date": "2022-12-30T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8813-mindzone_infostand",
+                "slug": "jev22-4761-mindzone_infostand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
                 "title": "Mindzone Infostand",
                 "subtitle": "",
@@ -11335,14 +11336,14 @@
                 "attachments": []
               },
               {
-                "id": 1134,
-                "guid": "11c347bd-f02d-5aeb-8216-12ebdbe89bb4",
+                "id": 8222,
+                "guid": "82b22eef-3d58-5a3f-86d4-c93637bffdba",
                 "logo": "",
                 "date": "2022-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-1134-sticker_exchange",
+                "slug": "jev22-8222-sticker_exchange",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
                 "title": "Sticker Exchange!",
                 "subtitle": "",
@@ -11867,14 +11868,14 @@
                 "attachments": []
               },
               {
-                "id": 8222,
-                "guid": "82b22eef-3d58-5a3f-86d4-c93637bffdba",
+                "id": 8400,
+                "guid": "c8d400fe-ea40-58d5-a749-e32ca96280dc",
                 "logo": "",
                 "date": "2022-12-31T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8222-sticker_exchange",
+                "slug": "jev22-8400-sticker_exchange",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
                 "title": "Sticker Exchange!",
                 "subtitle": "",

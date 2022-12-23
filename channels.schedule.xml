@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 12:50</version>
+  <version>2022-12-23 13:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -138,13 +138,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <links/>
         <attachments/>
       </event>
-      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
