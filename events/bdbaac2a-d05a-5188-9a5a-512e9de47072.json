@@ -1,0 +1,33 @@
+{
+  "id": 2055,
+  "guid": "bdbaac2a-d05a-5188-9a5a-512e9de47072",
+  "logo": "/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png",
+  "date": "2022-12-30T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "02:00",
+  "room": "Workshopraum 1 - H2-2.5",
+  "slug": "jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/",
+  "title": "Offene Sprechstunde & Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Freier, offener Austausch zu allen Themen des Nachtlebens, W\u00fcnschen und Bedarfen.",
+  "description": "Die Fachstelle MoNa - Moderation der Nacht ist die zentrale Anlauf- und Vernetzungsstelle des M\u00fcnchner Nachtlebens, f\u00fcr alle Beteiligten und alle Themen. In diesen zwei Stunden nehme ich (Kay Mayer, Leitung Fachstelle MoNa) mir gerne Zeit um \u00fcber Eure Bedarfe, Fragen W\u00fcnsche und Herausforderungen zu reden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 165,
+      "code": "GL3REY",
+      "public_name": "Kay Mayer",
+      "biography": "Leitung der Fachstelle MoNa - Moderation der Nacht, Landeshauptstadt M\u00fcnchen\r\n39 Jahre, Sozialp\u00e4dagoge & Betriebswirt",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

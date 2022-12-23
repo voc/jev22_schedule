@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 13:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 13:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.23",
+    "version": "2022-12-23 14:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 14:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -282,9 +282,9 @@
           "location": "M\u00fcnchen"
         },
         {
-          "name": "Festivalzentrum - H1-0.1",
+          "name": "Forumszentrum - H1-0.1",
           "guid": null,
-          "description": "Festivalzentrum - Info-Point",
+          "description": "Forumszentrum & Info-Point",
           "capacity": 15,
           "location": "M\u00fcnchen"
         },
@@ -1847,7 +1847,46 @@
               }
             ],
             "Merch Desk": [],
-            "Workshopraum 1 - H2-2.5": [],
+            "Workshopraum 1 - H2-2.5": [
+              {
+                "id": 527,
+                "guid": "0af52b79-6d8e-5c39-948c-8f9e790be38b",
+                "logo": "",
+                "date": "2022-12-27T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "02:00",
+                "room": "Workshopraum 1 - H2-2.5",
+                "slug": "jev22-527-aktionstraining",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
+                "title": "Aktionstraining",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Wir werden einige Beispiele zur Konfrontation mit Polizei, Beh\u00f6rden und politischen Gegnern besprechen und kurze praktische \u00dcbungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.",
+                "description": "Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 140,
+                    "code": "BKX7AN",
+                    "public_name": "Jonas",
+                    "biography": "Ich bin seit mehreren Jahren aktiv in der Klimagerechtigkeitsbewegung und beteilige mich an Antifaaktionen. Derzeit konzentriere ich mich auf die st\u00e4rkung einer migrantischen Organisierung.",
+                    "answers": []
+                  },
+                  {
+                    "id": 9,
+                    "code": "QKWW8T",
+                    "public_name": "Emmi",
+                    "biography": "Ich freu mich auf den Workshop!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Workshopraum 2 - H2-3.4": [
               {
                 "id": 3182,
@@ -1945,46 +1984,7 @@
                 "attachments": []
               }
             ],
-            "Workshopraum 4 - H2-4.4": [
-              {
-                "id": 8477,
-                "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
-                "logo": "",
-                "date": "2022-12-27T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:00",
-                "room": "Workshopraum 4 - H2-4.4",
-                "slug": "jev22-8477-aktionstraining",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
-                "title": "Aktionstraining",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Wir werden einige Beispiele zur Konfrontation mit Polizei, Beh\u00f6rden und politischen Gegnern besprechen und kurze praktische \u00dcbungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.",
-                "description": "Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 140,
-                    "code": "BKX7AN",
-                    "public_name": "Jonas",
-                    "biography": "Ich bin seit mehreren Jahren aktiv in der Klimagerechtigkeitsbewegung und beteilige mich an Antifaaktionen. Derzeit konzentriere ich mich auf die st\u00e4rkung einer migrantischen Organisierung.",
-                    "answers": []
-                  },
-                  {
-                    "id": 9,
-                    "code": "QKWW8T",
-                    "public_name": "Emmi",
-                    "biography": "Ich freu mich auf den Workshop!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
+            "Workshopraum 4 - H2-4.4": [],
             "Klangkeller - H1-U.1": [
               {
                 "id": 7822,
@@ -2343,18 +2343,18 @@
               }
             ],
             "Austellungsraum 5 - H1-3.1": [],
-            "Festivalzentrum - H1-0.1": [],
+            "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
             "Kantine - H2-4.7": [
               {
-                "id": 5655,
-                "guid": "5655ac27-0e1a-5bb2-97f6-807f3812c57e",
+                "id": 1144,
+                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-27T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-5655-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -2411,30 +2411,30 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 469,
-                "guid": "0cf469a4-16c5-5a8f-9509-20a18fa6d91e",
+                "id": 1809,
+                "guid": "180bc915-bedb-5f94-91b6-86bb368d9386",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-469-no_future_for_iaa_solistand",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "No Future for IAA Solistand",
+                "slug": "jev22-1809-frei_raum_im_kontext_des_speziesismus",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
+                "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
                 "language": "de",
-                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
-                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 100,
-                    "code": "E9UAQE",
-                    "public_name": "No Future",
-                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "id": 137,
+                    "code": "GXJPUL",
+                    "public_name": "Meri V\u00e4yrynen",
+                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -2473,30 +2473,30 @@
                 "attachments": []
               },
               {
-                "id": 1809,
-                "guid": "180bc915-bedb-5f94-91b6-86bb368d9386",
+                "id": 469,
+                "guid": "0cf469a4-16c5-5a8f-9509-20a18fa6d91e",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-1809-frei_raum_im_kontext_des_speziesismus",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
-                "title": "(FREI)RAUM im Kontext des Speziesismus",
+                "slug": "jev22-469-no_future_for_iaa_solistand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
                 "language": "de",
-                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
-                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
+                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
+                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
+                    "id": 100,
+                    "code": "E9UAQE",
+                    "public_name": "No Future",
+                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
                     "answers": []
                   }
                 ],
@@ -2907,68 +2907,6 @@
               }
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
-              {
-                "id": 8460,
-                "guid": "84dd6041-a73f-5a96-875f-a32655b01747",
-                "logo": "",
-                "date": "2022-12-28T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-8460-programmieren_mit_satzbausteinen",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/",
-                "title": "Programmieren mit Satzbausteinen",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets erm\u00f6glicht, vorgestellt.",
-                "description": "Programmieren ist vielf\u00e4ltig und so gibt es verschiedene Ans\u00e4tze. Die menschliche Kommunikation l\u00e4uft teilweise \u00fcber Sprache und so ist es naheliegend, zu versuchen, nat\u00fcrliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es erm\u00f6glicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere nat\u00fcrliche Sprachen \u00fcbersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschlie\u00dfend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets f\u00fcr weitere Programmiersprachen.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 111,
-                    "code": "UDXCLM",
-                    "public_name": "Hog\u00fc-456",
-                    "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 729,
-                "guid": "e072938b-803a-5ec2-a7c5-01e2e6920c9c",
-                "logo": "",
-                "date": "2022-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/",
-                "title": "Tabellenkalkulationsfunktionen in Quelltext umwandeln",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext erm\u00f6glicht, welcher die f\u00fcr unterst\u00fctze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enth\u00e4lt.",
-                "description": "Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abh\u00e4ngigheit von Werten und auch von anderen Berechnungen vornehmen zu k\u00f6nnen und die Funktionen sind in mindestens 100 Sprachen teilweise \u00fcbersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gew\u00fcnscht, dass es m\u00f6glich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf h\u00f6here Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverst\u00e4ndnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das erm\u00f6glicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung erm\u00f6glichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren m\u00f6glich ist und vielleicht hilft diese M\u00f6glichkeit, den Zugang zu Programmieren in h\u00f6heren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 111,
-                    "code": "UDXCLM",
-                    "public_name": "Hog\u00fc-456",
-                    "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 958,
                 "guid": "09f58cbb-4be7-5a04-8006-f4a2ec335112",
@@ -5183,6 +5121,37 @@
             "Merch Desk": [],
             "Workshopraum 1 - H2-2.5": [
               {
+                "id": 4805,
+                "guid": "dd4cf805-82f4-55cb-a30a-af025ba160a2",
+                "logo": "/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg",
+                "date": "2022-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "02:00",
+                "room": "Workshopraum 1 - H2-2.5",
+                "slug": "jev22-4805-anti_rassismus_critical_whiteness",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/",
+                "title": "Anti-Rassismus & Critical Whiteness",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "In diesem Workshop erlernt ihr eine Grund-Sensibilisierung \u00fcber die Themen Anti-Rassismus, Diskriminierung und Kritisches Wei\u00dfsein.",
+                "description": "Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus \u00fcber anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-wei\u00dfe Perspektiven also auch Kritisches Wei\u00dfsein thematisiert. Es wird gen\u00fcgend Raum f\u00fcr Fragen und Reflexion geben.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 44,
+                    "code": "GZ83HC",
+                    "public_name": "Waseem",
+                    "biography": "Die Palette seiner Angebote ist breit. Ob in Workshops und Fortbildungen mit dem Schwerpunkt \u201eaktiv gegen Rassismus und Radikalisierung\u201c, als \u201eRespekt Coach\u201c, in der Refugio Kunstwerkstatt, beim muslimischen K\u00fcnstlerkollektiv \u201ei,Slam\u201c oder an diversen Schulen und Jugendeinrichtungen sowie im Bellevue Di Monaco unterst\u00fctzt er in \u201eRap & Poetry\u201c Workshops Jugendliche an ihrer k\u00fcnstlerischen Entfaltung bis hin zu \u00f6ffentlichen Auftritten.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 9611,
                 "guid": "96d1b1ff-e2fd-54b8-90c5-b4536f069fe7",
                 "logo": "",
@@ -5310,37 +5279,6 @@
               }
             ],
             "Workshopraum 3 - H2-3.6": [
-              {
-                "id": 4805,
-                "guid": "dd4cf805-82f4-55cb-a30a-af025ba160a2",
-                "logo": "/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg",
-                "date": "2022-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:00",
-                "room": "Workshopraum 3 - H2-3.6",
-                "slug": "jev22-4805-anti_rassismus_critical_whiteness",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/",
-                "title": "Anti-Rassismus & Critical Whiteness",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "In diesem Workshop erlernt ihr eine Grund-Sensibilisierung \u00fcber die Themen Anti-Rassismus, Diskriminierung und Kritisches Wei\u00dfsein.",
-                "description": "Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus \u00fcber anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-wei\u00dfe Perspektiven also auch Kritisches Wei\u00dfsein thematisiert. Es wird gen\u00fcgend Raum f\u00fcr Fragen und Reflexion geben.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 44,
-                    "code": "GZ83HC",
-                    "public_name": "Waseem",
-                    "biography": "Die Palette seiner Angebote ist breit. Ob in Workshops und Fortbildungen mit dem Schwerpunkt \u201eaktiv gegen Rassismus und Radikalisierung\u201c, als \u201eRespekt Coach\u201c, in der Refugio Kunstwerkstatt, beim muslimischen K\u00fcnstlerkollektiv \u201ei,Slam\u201c oder an diversen Schulen und Jugendeinrichtungen sowie im Bellevue Di Monaco unterst\u00fctzt er in \u201eRap & Poetry\u201c Workshops Jugendliche an ihrer k\u00fcnstlerischen Entfaltung bis hin zu \u00f6ffentlichen Auftritten.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 9600,
                 "guid": "9b60f057-befa-5f57-bbe1-911698395629",
@@ -5702,7 +5640,7 @@
               }
             ],
             "Austellungsraum 5 - H1-3.1": [],
-            "Festivalzentrum - H1-0.1": [],
+            "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
                 "id": 6364,
@@ -8657,6 +8595,37 @@
             ],
             "Workshopraum 4 - H2-4.4": [
               {
+                "id": 2434,
+                "guid": "2ea434b5-e033-5482-8f28-7fabb4120b3c",
+                "logo": "/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png",
+                "date": "2022-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "02:00",
+                "room": "Workshopraum 4 - H2-4.4",
+                "slug": "jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/",
+                "title": "Offene Sprechstunde & Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Freier, offener Austausch zu allen Themen des Nachtlebens, W\u00fcnschen und Bedarfen.",
+                "description": "Die Fachstelle MoNa - Moderation der Nacht ist die zentrale Anlauf- und Vernetzungsstelle des M\u00fcnchner Nachtlebens, f\u00fcr alle Beteiligten und alle Themen. In diesen zwei Stunden nehme ich (Kay Mayer, Leitung Fachstelle MoNa) mir gerne Zeit um \u00fcber Eure Bedarfe, Fragen W\u00fcnsche und Herausforderungen zu reden.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 165,
+                    "code": "GL3REY",
+                    "public_name": "Kay Mayer",
+                    "biography": "Leitung der Fachstelle MoNa - Moderation der Nacht, Landeshauptstadt M\u00fcnchen\r\n39 Jahre, Sozialp\u00e4dagoge & Betriebswirt",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 5495,
                 "guid": "54f9f5a8-511a-5420-afed-2caf4bfa1dd9",
                 "logo": "",
@@ -8984,7 +8953,7 @@
               }
             ],
             "Austellungsraum 5 - H1-3.1": [],
-            "Festivalzentrum - H1-0.1": [],
+            "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
                 "id": 8127,
@@ -9020,14 +8989,14 @@
             ],
             "Kantine - H2-4.7": [
               {
-                "id": 668,
-                "guid": "d06c6e83-3e73-54d9-8742-a36f84b8eacf",
+                "id": 5655,
+                "guid": "5655ac27-0e1a-5bb2-97f6-807f3812c57e",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-29T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-668-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-5655-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -9420,8 +9389,8 @@
                 "id": 8684,
                 "guid": "86dfbd8c-47d1-5c2a-bbc6-1ff2da203924",
                 "logo": "",
-                "date": "2022-12-30T16:00:00+01:00",
-                "start": "16:00",
+                "date": "2022-12-30T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "01:30",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
                 "slug": "jev22-8684-wdzwo_wir_squatten_das_outback",
@@ -10771,6 +10740,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 2055,
+                "guid": "bdbaac2a-d05a-5188-9a5a-512e9de47072",
+                "logo": "/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png",
+                "date": "2022-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "02:00",
+                "room": "Workshopraum 1 - H2-2.5",
+                "slug": "jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/",
+                "title": "Offene Sprechstunde & Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Freier, offener Austausch zu allen Themen des Nachtlebens, W\u00fcnschen und Bedarfen.",
+                "description": "Die Fachstelle MoNa - Moderation der Nacht ist die zentrale Anlauf- und Vernetzungsstelle des M\u00fcnchner Nachtlebens, f\u00fcr alle Beteiligten und alle Themen. In diesen zwei Stunden nehme ich (Kay Mayer, Leitung Fachstelle MoNa) mir gerne Zeit um \u00fcber Eure Bedarfe, Fragen W\u00fcnsche und Herausforderungen zu reden.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 165,
+                    "code": "GL3REY",
+                    "public_name": "Kay Mayer",
+                    "biography": "Leitung der Fachstelle MoNa - Moderation der Nacht, Landeshauptstadt M\u00fcnchen\r\n39 Jahre, Sozialp\u00e4dagoge & Betriebswirt",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Workshopraum 2 - H2-3.4": [
@@ -10872,14 +10872,14 @@
                 "attachments": []
               },
               {
-                "id": 527,
-                "guid": "0af52b79-6d8e-5c39-948c-8f9e790be38b",
+                "id": 8477,
+                "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
                 "logo": "",
                 "date": "2022-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "02:00",
                 "room": "Workshopraum 4 - H2-4.4",
-                "slug": "jev22-527-aktionstraining",
+                "slug": "jev22-8477-aktionstraining",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
                 "title": "Aktionstraining",
                 "subtitle": "",
@@ -11206,18 +11206,18 @@
               }
             ],
             "Austellungsraum 5 - H1-3.1": [],
-            "Festivalzentrum - H1-0.1": [],
+            "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
             "Kantine - H2-4.7": [
               {
-                "id": 1144,
-                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
+                "id": 668,
+                "guid": "d06c6e83-3e73-54d9-8742-a36f84b8eacf",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-668-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -11770,7 +11770,7 @@
               }
             ],
             "Austellungsraum 5 - H1-3.1": [],
-            "Festivalzentrum - H1-0.1": [],
+            "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
             "Kantine - H2-4.7": [],
             "St\u00e4nde - H2-4.8": [

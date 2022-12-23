@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 13:30",
+    "version": "2022-12-23 14:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -282,9 +282,9 @@
           "location": "M\u00fcnchen"
         },
         {
-          "name": "Festivalzentrum - H1-0.1",
+          "name": "Forumszentrum - H1-0.1",
           "guid": null,
-          "description": "Festivalzentrum - Info-Point",
+          "description": "Forumszentrum & Info-Point",
           "capacity": 15,
           "location": "M\u00fcnchen"
         },
@@ -1245,68 +1245,6 @@
               }
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
-              {
-                "id": 8460,
-                "guid": "84dd6041-a73f-5a96-875f-a32655b01747",
-                "logo": "",
-                "date": "2022-12-28T12:30:00+01:00",
-                "start": "12:30",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-8460-programmieren_mit_satzbausteinen",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/",
-                "title": "Programmieren mit Satzbausteinen",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets erm\u00f6glicht, vorgestellt.",
-                "description": "Programmieren ist vielf\u00e4ltig und so gibt es verschiedene Ans\u00e4tze. Die menschliche Kommunikation l\u00e4uft teilweise \u00fcber Sprache und so ist es naheliegend, zu versuchen, nat\u00fcrliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es erm\u00f6glicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere nat\u00fcrliche Sprachen \u00fcbersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschlie\u00dfend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets f\u00fcr weitere Programmiersprachen.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 111,
-                    "code": "UDXCLM",
-                    "public_name": "Hog\u00fc-456",
-                    "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 729,
-                "guid": "e072938b-803a-5ec2-a7c5-01e2e6920c9c",
-                "logo": "",
-                "date": "2022-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/",
-                "title": "Tabellenkalkulationsfunktionen in Quelltext umwandeln",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext erm\u00f6glicht, welcher die f\u00fcr unterst\u00fctze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enth\u00e4lt.",
-                "description": "Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abh\u00e4ngigheit von Werten und auch von anderen Berechnungen vornehmen zu k\u00f6nnen und die Funktionen sind in mindestens 100 Sprachen teilweise \u00fcbersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gew\u00fcnscht, dass es m\u00f6glich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf h\u00f6here Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverst\u00e4ndnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das erm\u00f6glicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung erm\u00f6glichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren m\u00f6glich ist und vielleicht hilft diese M\u00f6glichkeit, den Zugang zu Programmieren in h\u00f6heren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 111,
-                    "code": "UDXCLM",
-                    "public_name": "Hog\u00fc-456",
-                    "biography": "Ich bin in den Wikimediaprojekten aktiv. Da gibt es ein gerade in der Entwicklung befindliches Wikimediaprojekt Wikifunctions, in welchem Funktionen gesammelt werden sollen, die unter anderen verwendet werden sollen um Texte ausgehend von einer abstrakten Notation, zu generieren. Ziel ist kleinen Wikipediasprachversion zu erm\u00f6glichen, f\u00fcr die wichtigsten Inhalte einen Text in der Sprache der jeweiligen Sprachversion zur Verf\u00fcgung stellen zu k\u00f6nnen. Ich besch\u00e4ftige mich in meiner Freizeit mit Konzepten Programmieren und damit einen Beitrag zu Wikifunctions vielen Menschen erm\u00f6glichen zu k\u00f6nnen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 958,
                 "guid": "09f58cbb-4be7-5a04-8006-f4a2ec335112",
@@ -3353,8 +3291,8 @@
                 "id": 8684,
                 "guid": "86dfbd8c-47d1-5c2a-bbc6-1ff2da203924",
                 "logo": "",
-                "date": "2022-12-30T16:00:00+01:00",
-                "start": "16:00",
+                "date": "2022-12-30T17:00:00+01:00",
+                "start": "17:00",
                 "duration": "01:30",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
                 "slug": "jev22-8684-wdzwo_wir_squatten_das_outback",

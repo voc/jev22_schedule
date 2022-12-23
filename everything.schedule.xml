@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 13:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 13:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.23</version>
+  <version>2022-12-23 14:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 14:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1426,7 +1426,34 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
       </event>
     </room>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5"/>
+    <room name="Workshopraum 1 - H2-2.5">
+      <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
+        <logo/>
+        <date>2022-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-527-aktionstraining</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
+        <title>Aktionstraining</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
+        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="140">Jonas</person>
+          <person id="9">Emmi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Workshopraum 2 - H2-3.4">
       <event id="3182" guid="3c1e82ad-29e2-5d9a-a5dd-5b8b48360fc1">
         <logo/>
@@ -1509,34 +1536,7 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <attachments/>
       </event>
     </room>
-    <room name="Workshopraum 4 - H2-4.4">
-      <event id="8477" guid="84d7733c-9fde-5629-9d5a-979046e821ea">
-        <logo/>
-        <date>2022-12-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>02:00</duration>
-        <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-8477-aktionstraining</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
-        <title>Aktionstraining</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
-        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="140">Jonas</person>
-          <person id="9">Emmi</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Workshopraum 4 - H2-4.4"/>
     <room name="Klangkeller - H1-U.1">
       <event id="7822" guid="78227529-e5dd-5541-90f7-5408e2d0e69f">
         <logo/>
@@ -1832,16 +1832,16 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Austellungsraum 5 - H1-3.1"/>
-    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -1887,29 +1887,29 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
+      <event id="1809" guid="180bc915-bedb-5f94-91b6-86bb368d9386">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>08:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-469-no_future_for_iaa_solistand</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
-        <title>No Future for IAA Solistand</title>
+        <slug>jev22-1809-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Stand</type>
         <language>de</language>
-        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
-        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
 &#13;
-(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
         <recording>
           <license/>
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="100">No Future</person>
+          <person id="137">Meri Väyrynen</person>
         </persons>
         <links/>
         <attachments/>
@@ -1941,29 +1941,29 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <links/>
         <attachments/>
       </event>
-      <event id="1809" guid="180bc915-bedb-5f94-91b6-86bb368d9386">
+      <event id="469" guid="0cf469a4-16c5-5a8f-9509-20a18fa6d91e">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>08:00</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-1809-frei_raum_im_kontext_des_speziesismus</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
-        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <slug>jev22-469-no_future_for_iaa_solistand</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/</url>
+        <title>No Future for IAA Solistand</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Stand</type>
         <language>de</language>
-        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
-        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+        <abstract>Stände von No Future for IAA und  "(FREI)RAUM im Kontext des Speziesismus"</abstract>
+        <description>No Future for IAA: Bei diesem Stand könnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.&#13;
 &#13;
-Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="137">Meri Väyrynen</person>
+          <person id="100">No Future</person>
         </persons>
         <links/>
         <attachments/>
@@ -2318,56 +2318,6 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2">
-      <event id="8460" guid="84dd6041-a73f-5a96-875f-a32655b01747">
-        <logo/>
-        <date>2022-12-28T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-8460-programmieren_mit_satzbausteinen</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/</url>
-        <title>Programmieren mit Satzbausteinen</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets ermöglicht, vorgestellt.</abstract>
-        <description>Programmieren ist vielfältig und so gibt es verschiedene Ansätze. Die menschliche Kommunikation läuft teilweise über Sprache und so ist es naheliegend, zu versuchen, natürliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es ermöglicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere natürliche Sprachen übersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschließend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets für weitere Programmiersprachen.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="111">Hogü-456</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="729" guid="e072938b-803a-5ec2-a7c5-01e2e6920c9c">
-        <logo/>
-        <date>2022-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/</url>
-        <title>Tabellenkalkulationsfunktionen in Quelltext umwandeln</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext ermöglicht, welcher die für unterstütze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enthält.</abstract>
-        <description>Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abhängigheit von Werten und auch von anderen Berechnungen vornehmen zu können und die Funktionen sind in mindestens 100 Sprachen teilweise übersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gewünscht, dass es möglich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf höhere Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverständnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das ermöglicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung ermöglichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren möglich ist und vielleicht hilft diese Möglichkeit, den Zugang zu Programmieren in höheren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="111">Hogü-456</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
         <logo/>
         <date>2022-12-28T16:00:00+01:00</date>
@@ -4386,6 +4336,31 @@ This workshop is for '''''total newbies'''''!</description>
     </room>
     <room name="Merch Desk"/>
     <room name="Workshopraum 1 - H2-2.5">
+      <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
+        <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
+        <date>2022-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-4805-anti_rassismus_critical_whiteness</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
+        <title>Anti-Rassismus &amp; Critical Whiteness</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>In diesem Workshop erlernt ihr eine Grund-Sensibilisierung über die Themen Anti-Rassismus, Diskriminierung und Kritisches Weißsein.</abstract>
+        <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="44">Waseem</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="9611" guid="96d1b1ff-e2fd-54b8-90c5-b4536f069fe7">
         <logo/>
         <date>2022-12-28T14:00:00+01:00</date>
@@ -4497,31 +4472,6 @@ Uns eint, dass wir uns die steigenden Mieten und den Ausverkauf Berlins auf den 
       </event>
     </room>
     <room name="Workshopraum 3 - H2-3.6">
-      <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
-        <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
-        <date>2022-12-28T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>02:00</duration>
-        <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-4805-anti_rassismus_critical_whiteness</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/</url>
-        <title>Anti-Rassismus &amp; Critical Whiteness</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>In diesem Workshop erlernt ihr eine Grund-Sensibilisierung über die Themen Anti-Rassismus, Diskriminierung und Kritisches Weißsein.</abstract>
-        <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="44">Waseem</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="9600" guid="9b60f057-befa-5f57-bbe1-911698395629">
         <logo/>
         <date>2022-12-28T13:00:00+01:00</date>
@@ -4835,7 +4785,7 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Austellungsraum 5 - H1-3.1"/>
-    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
       <event id="6364" guid="c6364e5a-5727-509a-8d11-0013ce310f31">
         <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
@@ -7472,6 +7422,31 @@ For more information about the digital habit lab check out: &gt;&gt; mindovertec
       </event>
     </room>
     <room name="Workshopraum 4 - H2-4.4">
+      <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
+        <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
+        <date>2022-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
+        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Freier, offener Austausch zu allen Themen des Nachtlebens, Wünschen und Bedarfen.</abstract>
+        <description>Die Fachstelle MoNa - Moderation der Nacht ist die zentrale Anlauf- und Vernetzungsstelle des Münchner Nachtlebens, für alle Beteiligten und alle Themen. In diesen zwei Stunden nehme ich (Kay Mayer, Leitung Fachstelle MoNa) mir gerne Zeit um über Eure Bedarfe, Fragen Wünsche und Herausforderungen zu reden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="165">Kay Mayer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="5495" guid="54f9f5a8-511a-5420-afed-2caf4bfa1dd9">
         <logo/>
         <date>2022-12-29T15:00:00+01:00</date>
@@ -7736,7 +7711,7 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Austellungsraum 5 - H1-3.1"/>
-    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
       <event id="8127" guid="c812c79f-df86-541c-a77e-512e83a86d1c">
         <logo>/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg</logo>
@@ -7767,13 +7742,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-29T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -8100,8 +8075,8 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
       </event>
       <event id="8684" guid="86dfbd8c-47d1-5c2a-bbc6-1ff2da203924">
         <logo/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
         <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
@@ -9294,6 +9269,31 @@ Der Münchner Flüchtlingsrat berät seit 2019 in der Abschiebehaftanstalt am M�
         <links/>
         <attachments/>
       </event>
+      <event id="2055" guid="bdbaac2a-d05a-5188-9a5a-512e9de47072">
+        <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
+        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Freier, offener Austausch zu allen Themen des Nachtlebens, Wünschen und Bedarfen.</abstract>
+        <description>Die Fachstelle MoNa - Moderation der Nacht ist die zentrale Anlauf- und Vernetzungsstelle des Münchner Nachtlebens, für alle Beteiligten und alle Themen. In diesen zwei Stunden nehme ich (Kay Mayer, Leitung Fachstelle MoNa) mir gerne Zeit um über Eure Bedarfe, Fragen Wünsche und Herausforderungen zu reden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="165">Kay Mayer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Workshopraum 2 - H2-3.4">
       <event id="5977" guid="5ad9777b-747a-5d50-baac-4f3ab0578cfc">
@@ -9378,13 +9378,13 @@ Daher sind Workshops wie dieser dafür gedacht, verschiedenste Herangehensweisen
         <links/>
         <attachments/>
       </event>
-      <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
+      <event id="8477" guid="84d7733c-9fde-5629-9d5a-979046e821ea">
         <logo/>
         <date>2022-12-30T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-527-aktionstraining</slug>
+        <slug>jev22-8477-aktionstraining</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
         <title>Aktionstraining</title>
         <subtitle/>
@@ -9644,16 +9644,16 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Austellungsraum 5 - H1-3.1"/>
-    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -10105,7 +10105,7 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Austellungsraum 5 - H1-3.1"/>
-    <room name="Festivalzentrum - H1-0.1"/>
+    <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7"/>
     <room name="Stände - H2-4.8">

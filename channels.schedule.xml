@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 13:30</version>
+  <version>2022-12-23 14:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -842,56 +842,6 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2">
-      <event id="8460" guid="84dd6041-a73f-5a96-875f-a32655b01747">
-        <logo/>
-        <date>2022-12-28T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-8460-programmieren_mit_satzbausteinen</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EX3PEC/</url>
-        <title>Programmieren mit Satzbausteinen</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>In dem Vortrag wird ein Skript in der Programmiersprache R, welches das Generieren von Quelltext, anhand der Programmdefinition in Satzbausteinen und der Zuordnung der Satzbausteine und deren Argumente zu Codesnippets ermöglicht, vorgestellt.</abstract>
-        <description>Programmieren ist vielfältig und so gibt es verschiedene Ansätze. Die menschliche Kommunikation läuft teilweise über Sprache und so ist es naheliegend, zu versuchen, natürliche Sprache in einer teilweise formalisierten Form zu verwenden um Quelltext zu generieren. Das gezeigte Skript ist in der Programmiersprache R geschrieben. Es ermöglicht das Einlesen von Projekten aus den Visuellen Programmiersprachen Snap! und Scratch und gibt dann den Quelltext aus, der basierend auf einer Zuordnung der Satzbausteine und deren Argumente, generiert wird. Die Satzbausteine sind in andere natürliche Sprachen übersetzbar und die Zuordnung von Satzbausteinen zu Quelltext kann angepasst werden. Anschließend an den Vortrag in dem das Skript vorgestellt wird interessiert mich die Meinung der Anwesenden dazu, die Fragen zum Skript werden beantwortet und vielleicht ergibt sich im Anschluss daran noch die Definition neuer Satzbausteine und das Erstellen von Zuordnungen der Satzbausteine zu Codesnippets für weitere Programmiersprachen.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="111">Hogü-456</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="729" guid="e072938b-803a-5ec2-a7c5-01e2e6920c9c">
-        <logo/>
-        <date>2022-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-729-tabellenkalkulationsfunktionen_in_quelltext_umwandeln</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/TP8SXZ/</url>
-        <title>Tabellenkalkulationsfunktionen in Quelltext umwandeln</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Im Vortrag wird ein Skript in der Programmiersprache R gezeigt, welches das Umwandeln von Tabellenkalkulationsdateien mit den darin befindlichen Funktionen in Quelltext ermöglicht, welcher die für unterstütze Funktionen die gleichen Berechnungen, wie in den Tabellenkalkulationsfunktionen enthält.</abstract>
-        <description>Tabellenkalkulationen sind eine weit verbreitete Art Berechnungen in Abhängigheit von Werten und auch von anderen Berechnungen vornehmen zu können und die Funktionen sind in mindestens 100 Sprachen teilweise übersetzt. Als ich schon viele Berechnungen in Tabellenkalkulationsfunktionen vorgenommen habe und es mir schwer fiel, Programmieren in einer Programmiersprache zu lernen, habe ich mir gewünscht, dass es möglich ist, die Berechungen aus dem Tabellenkalkulationsprogramm in Quelltext umzuwandeln und um so den Umstieg auf höhere Programmiersprachen zu schaffen. Das habe ich dann nachdem ich ein Grundverständnis von Programmieren hatte versucht. Und nach etwa zwei Jahren und vielen Versuchen gibt es nun ein Skript, welches das ermöglicht. Es gab auch zuvor schon andere Personen, die das versucht haben, es gibt funktionierende Programme, die eine Umwandlung ermöglichen und somit ist es keine Neuheit. Es ist ein Beispiel, was mit Programmieren möglich ist und vielleicht hilft diese Möglichkeit, den Zugang zu Programmieren in höheren Programmiersprachen zu erleichtern. Dazu interessiert mich die Meinung des Publikums.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="111">Hogü-456</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
         <logo/>
         <date>2022-12-28T16:00:00+01:00</date>
@@ -2642,8 +2592,8 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
       </event>
       <event id="8684" guid="86dfbd8c-47d1-5c2a-bbc6-1ff2da203924">
         <logo/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
         <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
