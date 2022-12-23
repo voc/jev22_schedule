@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 12:10; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 12:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.21",
+    "version": "2022-12-23 12:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 12:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.22",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -455,14 +455,14 @@
                 "attachments": []
               },
               {
-                "id": 2085,
-                "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
+                "id": 5664,
+                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
                 "logo": "",
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:50",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-2085-raum_fuer_die_schoene_welt",
+                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
@@ -518,6 +518,68 @@
               }
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
+              {
+                "id": 2242,
+                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
+                "logo": "",
+                "date": "2022-12-27T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "02:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-2242-gebaerdensprache_und_freiraum_deafolution",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
+                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
+                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "V3YXGR",
+                    "public_name": "Matthias Ranner",
+                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3592,
+                "guid": "3c5b9ac2-199b-5a83-90b5-bbbe3bd21c9a",
+                "logo": "/media/freiraumforum/submissions/8FYURU/KUI_Newsletter_Main_Juli_8N4nAkr.jpg",
+                "date": "2022-12-27T14:05:00+01:00",
+                "start": "14:05",
+                "duration": "00:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-3592-kunst_im_umbau_workshops_talks",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/",
+                "title": "Kunst im Umbau - Workshops & Talks",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Vortrag und Diskussion \u00fcber das Projekt:\r\nAuf dem Areal des Kreativquartiers in M\u00fcnchen fand am 08. und 09. Juli 2022 eine Veranstaltung statt, bei der k\u00fcnstlerische Positionen zum Thema \u201eKunst im Umbau\u201c in Form von Workshops erarbeitet, pr\u00e4sentiert und diskutiert wurden.",
+                "description": "Das M\u00fcnchner Kreativquartier ist ein Stadtentwicklungsareal, das sich in einem rasanten Wandlungsprozess befindet. Auf dem Areal zwischen Dachauer- und Schwere-Reiter-Stra\u00dfe ist ein neues Stadtquartier in Planung, das in Zukunft Wohnen und Arbeiten mit Kunst und Kultur verkn\u00fcpfen will. Ist das \u00fcberhaupt trotz unterschiedlicher Interessen und Bed\u00fcrfnisse m\u00f6glich? Und was passiert mit den gewachsenen Strukturen, die sich momentan auf dem Areal befinden?\r\n\r\nDiese Ausgangslage und der Ort waren Inspirationsquelle und Experimentierfeld f\u00fcr die Workshops. Anhand von verschiedenen k\u00fcnstlerischen Herangehensweisen wurde erforscht, inwieweit zeitgen\u00f6ssische Kunstpraktiken \u2013 tempor\u00e4r, performativ, interaktiv und vielleicht auch dauerhaft \u2013 \r\nin Umbauprozesse eingreifen k\u00f6nnen.\r\n\r\nWelche M\u00f6glichkeiten ergeben sich aus dem Moment des Dazwischen? \r\nWie wichtig ist der k\u00fcnstlerische Blick auf den Wandlungsprozess?\r\nWie k\u00f6nnen vorhandene gewachsene Strukturen in die Stadtentwicklung integriert werden?\r\nWomit k\u00f6nnten die g\u00e4ngigen Formate wie \u201eZwischennutzung\u201c und \u201eKunst am Bau\u201c erweitert werden?",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 189,
+                    "code": "RACSGX",
+                    "public_name": "Ursula Gaisbauer",
+                    "biography": "Ursula Gaisbauer (*1986) lebt und arbeitet derzeit in M\u00fcnchen und Wien. Sie studierte Landschaftsdesign und ortsbezogene Kunst an der Universit\u00e4t f\u00fcr angewandte Kunst Wien. Ihre meist tempor\u00e4ren Arbeiten liegen im Spannungsfeld von Kunst und Architektur und setzen sich konzeptuell mit dem Ort und dessen Kontext auseinander. So entstehen sehr unterschiedliche Arbeiten von Interventionen im \u00f6ffentlichen Raum, Film und Performances bis hin zu raumgreifenden Installationen, die Kunst in den Umbauprozess integrieren.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 6634,
                 "guid": "f6634d3c-8085-54e2-8ace-e2d5f8601a7d",
@@ -1785,39 +1847,7 @@
               }
             ],
             "Merch Desk": [],
-            "Workshopraum 1 - H2-2.5": [
-              {
-                "id": 9351,
-                "guid": "93e518fb-000b-5c0e-8325-27f0435ef007",
-                "logo": "",
-                "date": "2022-12-27T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "01:30",
-                "room": "Workshopraum 1 - H2-2.5",
-                "slug": "jev22-9351-mehr_inklusion_im_nachtleben",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/LTTQ9U/",
-                "title": "Mehr Inklusion im Nachtleben",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Diskussion",
-                "language": "de",
-                "abstract": "Eine Diskussionsrunde \u00fcber M\u00f6glichkeiten f\u00fcr mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Veranstaltungskontext.",
-                "description": "Um mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Rahmen von Veranstaltungen und im Nachtleben zu schaffen, bedarf es eines aktiven Austausches von Erfahrungen und Ideen um kollektiv f\u00fcr mehr M\u00f6glichkeiten zu sorgen. Die Diskussion soll dazu anregen, Hindernisse im Veranstaltungskontext wahrzunehmen und zu vermindern.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 175,
-                    "code": "3BH7WQ",
-                    "public_name": "Palina Lanskaja",
-                    "biography": "Ich bin Palina, 33, eine nichtbin\u00e4re Transperson und Musiker*in aus Hamburg (keine Pronomen oder dey/deren/denen). Ich bin im hamburger Kollektiv Command Queer im G\u00e4ngeviertel aktiv und veranstalte mit dem Kollektiv zusammen Bar Abende, Clubn\u00e4chte, Konzerte und Kundgebungen. Ich selbst bin schwerbehindert und versuche eine inklusivere Perspektive in unsere Arbeit einflie\u00dfen zu lassen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
+            "Workshopraum 1 - H2-2.5": [],
             "Workshopraum 2 - H2-3.4": [
               {
                 "id": 3182,
@@ -1853,14 +1883,14 @@
             ],
             "Workshopraum 3 - H2-3.6": [
               {
-                "id": 5216,
-                "guid": "eb52d160-76ce-5623-a02d-34ff077e5df1",
+                "id": 1713,
+                "guid": "1713167b-9aa1-5319-9a3f-7cb06e2a3861",
                 "logo": "/media/freiraumforum/submissions/KT8Z37/4B21C585-4606-4EF5-9FE6-DC7A7A84ECF2_I5gNq4w.jpeg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "02:00",
                 "room": "Workshopraum 3 - H2-3.6",
-                "slug": "jev22-5216-experimentelle_fotografie",
+                "slug": "jev22-1713-experimentelle_fotografie",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KT8Z37/",
                 "title": "Experimentelle Fotografie",
                 "subtitle": "",
@@ -2021,37 +2051,6 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
-                "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
-                "date": "2022-12-27T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "01:15",
-                "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
-                "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Weiteres",
-                "language": "de",
-                "abstract": "26.12.: (K\u00f6rper-)achtsamkeit als Ressource - Keynote  \r\n27.12.: Meditation mit Sinneswahrnehmungen \r\n28.12.: Emotionen als Gegenstand der Meditation nutzen \r\n29.12.: Begegnung mit Gedanken\r\n30.12.: Einf\u00fchrung in (Selbst-)Mitgef\u00fchl",
-                "description": "Resillienter Widerstand? Wir lernen Methoden aus MBSR (mindfulness based stress reduction) und MSC (mindful self compassion) kennen.  Die Methode und Haltung von Achtsamkeitspraxis werden vorgestellt - mit viel Raum zum \u00dcben. In jeder Sitzung gibt es Gelegenheit, Fragen zu stellen.\r\nDie Sitzungen bauen aufeinander auf, k\u00f6nnen aber auch einzeln besucht werden.\r\n\r\nBringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen m\u00f6chtest.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 126,
-                    "code": "EDMWGA",
-                    "public_name": "Lara Loehr",
-                    "biography": "Seit etwa 10 Jahren widme ich mich der Meditation und bin theoretisch begeistert und praktisch neugierig, wie wir \u201ealte\u201c Ideen von Sein in neue Formen von Tun integrieren k\u00f6nnen. 2020 beendete ich meinen Master in Religionswissenschaften in dem ich mich vor allem mit Sinnlichkeit, Kulturen der Liebe und Ideologie besch\u00e4ftigte. Derzeit bilde ich mich als MBSR (Mindfullness Based Stress Reduction) Lehrerin fort, eine Methode die sich den Feldern der Psychologie und Meditation bedient um Menschen Methoden zur Stressbew\u00e4ltigung zug\u00e4nglich zu machen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 6706,
                 "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
@@ -2083,14 +2082,45 @@
                 "attachments": []
               },
               {
-                "id": 4766,
-                "guid": "4f766cdd-0db2-51c2-9479-9ba551617527",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
+                "date": "2022-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:15",
+                "room": "Ruheraum - H1-2.1",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
+                "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "de",
+                "abstract": "26.12.: (K\u00f6rper-)achtsamkeit als Ressource - Keynote  \r\n27.12.: Meditation mit Sinneswahrnehmungen \r\n28.12.: Emotionen als Gegenstand der Meditation nutzen \r\n29.12.: Begegnung mit Gedanken\r\n30.12.: Einf\u00fchrung in (Selbst-)Mitgef\u00fchl",
+                "description": "Resillienter Widerstand? Wir lernen Methoden aus MBSR (mindfulness based stress reduction) und MSC (mindful self compassion) kennen.  Die Methode und Haltung von Achtsamkeitspraxis werden vorgestellt - mit viel Raum zum \u00dcben. In jeder Sitzung gibt es Gelegenheit, Fragen zu stellen.\r\nDie Sitzungen bauen aufeinander auf, k\u00f6nnen aber auch einzeln besucht werden.\r\n\r\nBringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen m\u00f6chtest.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 126,
+                    "code": "EDMWGA",
+                    "public_name": "Lara Loehr",
+                    "biography": "Seit etwa 10 Jahren widme ich mich der Meditation und bin theoretisch begeistert und praktisch neugierig, wie wir \u201ealte\u201c Ideen von Sein in neue Formen von Tun integrieren k\u00f6nnen. 2020 beendete ich meinen Master in Religionswissenschaften in dem ich mich vor allem mit Sinnlichkeit, Kulturen der Liebe und Ideologie besch\u00e4ftigte. Derzeit bilde ich mich als MBSR (Mindfullness Based Stress Reduction) Lehrerin fort, eine Methode die sich den Feldern der Psychologie und Meditation bedient um Menschen Methoden zur Stressbew\u00e4ltigung zug\u00e4nglich zu machen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 107,
+                "guid": "01c0704a-c326-5634-9789-5ed0b38e8200",
                 "logo": "",
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:30",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-4766-die_kunst_des_verschwindens",
+                "slug": "jev22-107-die_kunst_des_verschwindens",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/",
                 "title": "Die Kunst des Verschwindens",
                 "subtitle": "",
@@ -2114,14 +2144,14 @@
                 "attachments": []
               },
               {
-                "id": 107,
-                "guid": "01c0704a-c326-5634-9789-5ed0b38e8200",
+                "id": 4766,
+                "guid": "4f766cdd-0db2-51c2-9479-9ba551617527",
                 "logo": "",
                 "date": "2022-12-27T16:30:00+01:00",
                 "start": "16:30",
                 "duration": "00:30",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-107-die_kunst_des_verschwindens",
+                "slug": "jev22-4766-die_kunst_des_verschwindens",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/",
                 "title": "Die Kunst des Verschwindens",
                 "subtitle": "",
@@ -2187,14 +2217,14 @@
             ],
             "Austellungsraum 2 - H2-2.4": [
               {
-                "id": 5938,
-                "guid": "593867d4-c92d-5707-a8d9-53e3f7d216b6",
+                "id": 8378,
+                "guid": "b8afc378-e8d0-5ed1-8db5-2df09c35ff49",
                 "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Austellungsraum 2 - H2-2.4",
-                "slug": "jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+                "slug": "jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
                 "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
                 "subtitle": "",
@@ -2227,14 +2257,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 2493,
-                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
+                "id": 5338,
+                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -2348,14 +2378,14 @@
                 "attachments": []
               },
               {
-                "id": 1099,
-                "guid": "e1099d4e-4ec0-5145-9d9e-bd405dab6a1a",
+                "id": 2059,
+                "guid": "205971a1-11c4-5bd8-8219-70d2efd5da93",
                 "logo": "",
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-1099-abendessen_volxkueche_muenchen",
+                "slug": "jev22-2059-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -2381,12 +2411,43 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
+                "id": 9100,
+                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
+                "logo": "",
+                "date": "2022-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-9100-no_future_for_iaa_solistand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
+                "title": "No Future for IAA Solistand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
+                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 100,
+                    "code": "E9UAQE",
+                    "public_name": "No Future",
+                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 469,
                 "guid": "0cf469a4-16c5-5a8f-9509-20a18fa6d91e",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "06:00",
+                "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
                 "slug": "jev22-469-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
@@ -2443,30 +2504,30 @@
                 "attachments": []
               },
               {
-                "id": 8632,
-                "guid": "c8632de1-9961-5498-b0c2-ab73f1e7f7d5",
+                "id": 8400,
+                "guid": "c8d400fe-ea40-58d5-a749-e32ca96280dc",
                 "logo": "",
-                "date": "2022-12-27T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "08:00",
+                "date": "2022-12-27T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8632-no_future_for_iaa_solistand",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "No Future for IAA Solistand",
+                "slug": "jev22-8400-sticker_exchange",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+                "title": "Sticker Exchange!",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
-                "language": "de",
-                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
-                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "language": "en",
+                "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+                "description": "",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 100,
-                    "code": "E9UAQE",
-                    "public_name": "No Future",
-                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -2474,14 +2535,76 @@
                 "attachments": []
               },
               {
-                "id": 116,
-                "guid": "01ddea1d-6c6f-5ed2-8972-d458e36aad92",
+                "id": 93,
+                "guid": "00d9ee36-bf16-5872-a3ab-9ed79d9c2a9b",
                 "logo": "",
-                "date": "2022-12-27T17:00:00+01:00",
-                "start": "17:00",
+                "date": "2022-12-27T13:45:00+01:00",
+                "start": "13:45",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-116-frei_raum_im_kontext_des_speziesismus",
+                "slug": "jev22-93-fachstelle_pop_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+                "title": "Fachstelle Pop Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+                "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CLZ8W7",
+                    "public_name": "Fachstelle Pop",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3824,
+                "guid": "38248cf3-c8b2-5f8b-af8c-47dc59a1a3fd",
+                "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
+                "date": "2022-12-27T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-3824-mindzone_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
+                "title": "Mindzone Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Niedrigschwellige, aufsuchende und aktzeptierende Drogenarbeit - Infostand zu Safer Use & Harm Reduction",
+                "description": "Das MINDZONE-Team M\u00fcnchen ist seit M\u00e4rz 1996 im M\u00fcnchner Nachtleben aktiv. Durch langj\u00e4hrige Kooperation mit namhaften Clubs und Event-Reihen genie\u00dft MINDZONE in der Partyszene einen hohen Bekanntheitsgrad. Im 2-Wochen-Rhythmus f\u00fchren wir Vor-Ort-Aktionen mit Infostand durch.\r\nUnser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Da immer wieder zu beobachten ist, dass Jugendliche Drogen sehr problematisch und riskant konsumieren, erscheint es sinnvoll und notwendig, Aufkl\u00e4rung in diesem Bereich zu betreiben und auf die Drogenthematik differenziert einzugehen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 90,
+                    "code": "TRUZZB",
+                    "public_name": "Mindzone",
+                    "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8239,
+                "guid": "8239fa77-7734-5442-81be-aa66d5d14585",
+                "logo": "",
+                "date": "2022-12-27T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8239-frei_raum_im_kontext_des_speziesismus",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
                 "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
@@ -2676,14 +2799,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
@@ -2714,14 +2837,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
@@ -5153,6 +5276,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 9351,
+                "guid": "93e518fb-000b-5c0e-8325-27f0435ef007",
+                "logo": "",
+                "date": "2022-12-28T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:30",
+                "room": "Workshopraum 2 - H2-3.4",
+                "slug": "jev22-9351-mehr_inklusion_im_nachtleben",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/LTTQ9U/",
+                "title": "Mehr Inklusion im Nachtleben",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Diskussion",
+                "language": "de",
+                "abstract": "Eine Diskussionsrunde \u00fcber M\u00f6glichkeiten f\u00fcr mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Veranstaltungskontext.",
+                "description": "Um mehr Inklusion von Menschen mit Behinderungen, Erkrankungen und neurodiversen Menschen im Rahmen von Veranstaltungen und im Nachtleben zu schaffen, bedarf es eines aktiven Austausches von Erfahrungen und Ideen um kollektiv f\u00fcr mehr M\u00f6glichkeiten zu sorgen. Die Diskussion soll dazu anregen, Hindernisse im Veranstaltungskontext wahrzunehmen und zu vermindern.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 175,
+                    "code": "3BH7WQ",
+                    "public_name": "Palina Lanskaja",
+                    "biography": "Ich bin Palina, 33, eine nichtbin\u00e4re Transperson und Musiker*in aus Hamburg (keine Pronomen oder dey/deren/denen). Ich bin im hamburger Kollektiv Command Queer im G\u00e4ngeviertel aktiv und veranstalte mit dem Kollektiv zusammen Bar Abende, Clubn\u00e4chte, Konzerte und Kundgebungen. Ich selbst bin schwerbehindert und versuche eine inklusivere Perspektive in unsere Arbeit einflie\u00dfen zu lassen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Workshopraum 3 - H2-3.6": [
@@ -5453,14 +5607,14 @@
             ],
             "Austellungsraum 2 - H2-2.4": [
               {
-                "id": 6374,
-                "guid": "6374d4a8-3ed3-5b2b-b09a-b47f7caa462f",
+                "id": 1871,
+                "guid": "18d71832-4208-5a2c-b1a0-55b9763052e0",
                 "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Austellungsraum 2 - H2-2.4",
-                "slug": "jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+                "slug": "jev22-1871-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
                 "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
                 "subtitle": "",
@@ -5493,14 +5647,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 5338,
-                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
+                "id": 4070,
+                "guid": "4f0705af-050d-59c1-8615-40ce30f562de",
                 "logo": "",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-4070-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -5582,14 +5736,14 @@
             "Festivalzentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
-                "id": 6364,
-                "guid": "c6364e5a-5727-509a-8d11-0013ce310f31",
+                "id": 8127,
+                "guid": "c812c79f-df86-541c-a77e-512e83a86d1c",
                 "logo": "/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg",
                 "date": "2022-12-28T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "02:00",
                 "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
-                "slug": "jev22-6364-siebdruck",
+                "slug": "jev22-8127-siebdruck",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/",
                 "title": "Siebdruck",
                 "subtitle": "",
@@ -5646,14 +5800,14 @@
                 "attachments": []
               },
               {
-                "id": 2348,
-                "guid": "2348e047-f1ff-5dfa-8571-4194aa93ee41",
+                "id": 3058,
+                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
                 "logo": "",
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-2348-abendessen_volxkueche_muenchen",
+                "slug": "jev22-3058-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -5710,14 +5864,45 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 8239,
-                "guid": "8239fa77-7734-5442-81be-aa66d5d14585",
+                "id": 4966,
+                "guid": "49ecb668-cc83-5920-ab25-eb5f3196c0dc",
+                "logo": "",
+                "date": "2022-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-4966-sticker_exchange",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+                "title": "Sticker Exchange!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 116,
+                "guid": "01ddea1d-6c6f-5ed2-8972-d458e36aad92",
                 "logo": "",
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8239-frei_raum_im_kontext_des_speziesismus",
+                "slug": "jev22-116-frei_raum_im_kontext_des_speziesismus",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
                 "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
@@ -5746,7 +5931,7 @@
                 "logo": "",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
-                "duration": "06:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
                 "slug": "jev22-4122-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
@@ -5765,6 +5950,68 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7457,
+                "guid": "c74cf5e7-6403-5677-babd-1ff0615c6d57",
+                "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-7457-mindzone_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
+                "title": "Mindzone Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Niedrigschwellige, aufsuchende und aktzeptierende Drogenarbeit - Infostand zu Safer Use & Harm Reduction",
+                "description": "Das MINDZONE-Team M\u00fcnchen ist seit M\u00e4rz 1996 im M\u00fcnchner Nachtleben aktiv. Durch langj\u00e4hrige Kooperation mit namhaften Clubs und Event-Reihen genie\u00dft MINDZONE in der Partyszene einen hohen Bekanntheitsgrad. Im 2-Wochen-Rhythmus f\u00fchren wir Vor-Ort-Aktionen mit Infostand durch.\r\nUnser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Da immer wieder zu beobachten ist, dass Jugendliche Drogen sehr problematisch und riskant konsumieren, erscheint es sinnvoll und notwendig, Aufkl\u00e4rung in diesem Bereich zu betreiben und auf die Drogenthematik differenziert einzugehen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 90,
+                    "code": "TRUZZB",
+                    "public_name": "Mindzone",
+                    "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 5457,
+                "guid": "e5457d5c-70bb-5077-a877-febb3d98ab0e",
+                "logo": "",
+                "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-5457-fachstelle_pop_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+                "title": "Fachstelle Pop Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+                "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CLZ8W7",
+                    "public_name": "Fachstelle Pop",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -5964,37 +6211,61 @@
                 "attachments": []
               },
               {
-                "id": 8094,
-                "guid": "fd80f9bc-4e06-5c0f-a133-73602c90e9f1",
+                "id": 2550,
+                "guid": "b25509b8-b579-5e8e-94f7-ae1c8cd3cc75",
                 "logo": "",
-                "date": "2022-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "02:00",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
-                "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
+                "slug": "jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/",
+                "title": "Solidarisch essen, ackern, imkern und wohnen",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
-                "type": "Gespr\u00e4ch",
+                "type": "Film",
                 "language": "de",
-                "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
-                "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
+                "abstract": "Im Dokumentarfilm \"Connected\" werden vier solidarische Projekte in M\u00fcnchen vorgestellt. Mit anschlie\u00dfender Diskussion.",
+                "description": "Anhand des Dokumentarfilms \"Connected\" wollen wir euch die solidarische Landwirtschaft Donihof, das Mietsh\u00e4user Syndikatsprojekt Ligsalz8, den Stattpark Olga und die solidarische Imkerei Schwarmstimmung vorstellen und im Anschluss mit euch \u00fcber die Situation solidarischer Projekte in M\u00fcnchen diskutieren.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "id": 193,
+                    "code": "VF8WZU",
+                    "public_name": "Peter von der Schwarmstimmung",
+                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
                     "answers": []
-                  },
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 4443,
+                "guid": "4f44d39f-3189-59d2-87ce-3cd41ec43123",
+                "logo": "/media/freiraumforum/submissions/QVPQKG/G128_H3EDpmJ.png",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/",
+                "title": "Das Mietsh\u00e4user Syndikat und das Neubauprojekt G\u00f6rzer128",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Die G\u00f6rzer128 wird gebaut - 14 Jahre nach der Ligsalz8, M\u00fcnchens zweites Projekt im Verbund mit dem Mietsh\u00e4user Syndikat.",
+                "description": "Unser Neubauprojekt G\u00f6rzer128 wird ab dem kommenden Jahr sowohl bezahlbaren Wohnraum, als auch einen unkommerziellen Veranstaltungs- und Begegnungsort schaffen. Im Fr\u00fchling 2021 haben wir den Zuschlag f\u00fcr ein Grundst\u00fcck in der G\u00f6rzerstra\u00dfe 128 in Ramersdorf-Perlach von der Stadt M\u00fcnchen erhalten. Nun wurde der Bauantrag eingereicht und 2023 wird gebaut. In unserem Projekt setzen wir auf Selbstverwaltung, Schwarmintelligenz und Skillsharing. Wir sind Teil des Mietsh\u00e4user Syndikats, das mittlerweile aus ca. 180 selbstverwalteten Hausprojekten besteht, dessen Funktionsweise wir euch gerne vorstellen und euch motivieren wollen. Denn: Schlie\u00dft euch zusammen, nehmt euch Platz und schafft Freir\u00e4ume. Es werden weitere Grundst\u00fccke von der Stadt, auch f\u00fcr weitere Syndikatsprojekte ausgeschrieben werden. \r\n\r\nWenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Mietsh\u00e4user Syndikat habt kommt vorbei und redet mit uns. Wir sind vor Ort mit einem Infotisch, haben Flyer, Infomaterial und teilen gerne unser Wissen. Ihr k\u00f6nnt euch auch jederzeit online unter www.goerzer128.de \u00fcber unseren aktuellen Stand informieren und euch auf unserem Newsletter eintragen. Meldet euch.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
                   {
-                    "id": 170,
-                    "code": "FSN8DS",
-                    "public_name": "Kathi",
-                    "biography": null,
+                    "id": 193,
+                    "code": "VF8WZU",
+                    "public_name": "Peter von der Schwarmstimmung",
+                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
                     "answers": []
                   }
                 ],
@@ -6003,6 +6274,37 @@
               }
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
+              {
+                "id": 6202,
+                "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
+                "logo": "",
+                "date": "2022-12-29T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "02:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-6202-gebaerdensprache_und_freiraum_deafolution",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
+                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
+                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "V3YXGR",
+                    "public_name": "Matthias Ranner",
+                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 755,
                 "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
@@ -8210,6 +8512,44 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 8094,
+                "guid": "fd80f9bc-4e06-5c0f-a133-73602c90e9f1",
+                "logo": "",
+                "date": "2022-12-29T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "02:00",
+                "room": "Workshopraum 2 - H2-3.4",
+                "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
+                "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Gespr\u00e4ch",
+                "language": "de",
+                "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
+                "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 138,
+                    "code": "8UNDWN",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  },
+                  {
+                    "id": 170,
+                    "code": "FSN8DS",
+                    "public_name": "Kathi",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Workshopraum 3 - H2-3.6": [
@@ -8363,8 +8703,8 @@
                 "track": "Freir\u00e4ume",
                 "type": "Workshop",
                 "language": "en",
-                "abstract": "During the Alligator Gozaimasu music video recording participants are invited to dive into the collective's colourful universe. Based on \"How To Kiss A Shiver\", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded.",
-                "description": "Alligator Gozaimasu is a band of many voices and noises. The international music collective counts more than 60 members. Some of them are based in Munich or live nearby, others are spread all over the globe.\r\nDuring the Open Music Video Recording participants are heartily invited to dive into the collective's colourful universe. Based on \"How To Kiss A Shiver\", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded. The idea is to question binary frameworks and try other perspectives together. Sound artist and fashion designer Stephanie M\u00fcller aka Rag*Treasure offers a selection of handmade costumes and props. Participants can freely choose if they'd like to slip into one of the costumes and masks. Queerfeminist filmmaker and artist Klaus Erika Dietl provides DIY camera and light equipment. Minimum is maximum Rock'n'Roll: we'll focus on tiny image details and on small gestures. Let's do it together.",
+                "abstract": "During the Alligator Gozaimasu music video recording participants are invited to dive into the collective's colourful universe. Based on \"Qoi Que Tu Dis\", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded.",
+                "description": "Alligator Gozaimasu is a band of many voices and noises. The international music collective counts more than 60 members. Some of them are based in Munich or live nearby, others are spread all over the globe.\r\nDuring the Open Music Video Recording participants are heartily invited to dive into the collective's colourful universe. Based on \"Qoi Que Tu Dis\", one of Alligator Gozaimasu's experimental tracks, a collaborative music video will be recorded. The idea is to question binary frameworks and try other perspectives together. Sound artist and fashion designer Stephanie M\u00fcller aka Rag*Treasure offers a selection of handmade costumes and props. Participants can freely choose if they'd like to slip into one of the costumes and masks. Queerfeminist filmmaker and artist Klaus Erika Dietl provides DIY camera and light equipment. Minimum is maximum Rock'n'Roll: we'll focus on tiny image details and on small gestures. Let's do it together.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -8517,14 +8857,14 @@
             ],
             "Austellungsraum 2 - H2-2.4": [
               {
-                "id": 8928,
-                "guid": "e8c9c285-1753-5a30-bf1c-e92744a91aac",
+                "id": 5938,
+                "guid": "593867d4-c92d-5707-a8d9-53e3f7d216b6",
                 "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Austellungsraum 2 - H2-2.4",
-                "slug": "jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+                "slug": "jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
                 "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
                 "subtitle": "",
@@ -8557,14 +8897,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 9346,
-                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
+                "id": 7269,
+                "guid": "72d6977a-130f-5872-b2ea-2dec51292b16",
                 "logo": "",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-7269-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -8646,14 +8986,14 @@
             "Festivalzentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
               {
-                "id": 8127,
-                "guid": "c812c79f-df86-541c-a77e-512e83a86d1c",
+                "id": 6364,
+                "guid": "c6364e5a-5727-509a-8d11-0013ce310f31",
                 "logo": "/media/freiraumforum/submissions/TWXBFT/41268482_1864100867013172_7602185722732216320_n_5BSPoFD.jpg",
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "02:00",
                 "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
-                "slug": "jev22-8127-siebdruck",
+                "slug": "jev22-6364-siebdruck",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/TWXBFT/",
                 "title": "Siebdruck",
                 "subtitle": "",
@@ -8710,14 +9050,14 @@
                 "attachments": []
               },
               {
-                "id": 3058,
-                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
+                "id": 945,
+                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
                 "logo": "",
                 "date": "2022-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-3058-abendessen_volxkueche_muenchen",
+                "slug": "jev22-945-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -8743,12 +9083,74 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
+                "id": 6994,
+                "guid": "b6dec9b9-4f7f-556e-a07f-51abb2a21dd7",
+                "logo": "",
+                "date": "2022-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-6994-fachstelle_pop_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+                "title": "Fachstelle Pop Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+                "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CLZ8W7",
+                    "public_name": "Fachstelle Pop",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8190,
+                "guid": "8d1ebfd9-0697-5afe-8999-94e874625d08",
+                "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
+                "date": "2022-12-29T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8190-mindzone_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
+                "title": "Mindzone Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Niedrigschwellige, aufsuchende und aktzeptierende Drogenarbeit - Infostand zu Safer Use & Harm Reduction",
+                "description": "Das MINDZONE-Team M\u00fcnchen ist seit M\u00e4rz 1996 im M\u00fcnchner Nachtleben aktiv. Durch langj\u00e4hrige Kooperation mit namhaften Clubs und Event-Reihen genie\u00dft MINDZONE in der Partyszene einen hohen Bekanntheitsgrad. Im 2-Wochen-Rhythmus f\u00fchren wir Vor-Ort-Aktionen mit Infostand durch.\r\nUnser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Da immer wieder zu beobachten ist, dass Jugendliche Drogen sehr problematisch und riskant konsumieren, erscheint es sinnvoll und notwendig, Aufkl\u00e4rung in diesem Bereich zu betreiben und auf die Drogenthematik differenziert einzugehen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 90,
+                    "code": "TRUZZB",
+                    "public_name": "Mindzone",
+                    "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 9053,
                 "guid": "9d05dc3c-8be6-53cf-8385-f6a1909692a4",
                 "logo": "",
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
-                "duration": "06:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
                 "slug": "jev22-9053-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
@@ -8767,6 +9169,68 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 9074,
+                "guid": "90741505-0947-518e-a69b-0f4095337dea",
+                "logo": "",
+                "date": "2022-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-9074-sticker_exchange",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+                "title": "Sticker Exchange!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8119,
+                "guid": "8b11e9ac-1f44-55cb-a318-e12348a063db",
+                "logo": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8119-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128_stand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F8KCJV/",
+                "title": "Das Mietsh\u00e4user Syndikat und das Neubauprojekt G\u00f6rzer128 - Stand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die G\u00f6rzer128 wird gebaut - 14 Jahre nach der Ligsalz8, M\u00fcnchens zweites Projekt im Verbund mit dem Mietsh\u00e4user Syndikat.",
+                "description": "Die G\u00f6rzer128 wird gebaut - 14 Jahre nach der Ligsalz8, M\u00fcnchens zweites Projekt im Verbund mit dem Mietsh\u00e4user Syndikat.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 193,
+                    "code": "VF8WZU",
+                    "public_name": "Peter von der Schwarmstimmung",
+                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
                     "answers": []
                   }
                 ],
@@ -10615,14 +11079,14 @@
             ],
             "Austellungsraum 2 - H2-2.4": [
               {
-                "id": 8378,
-                "guid": "b8afc378-e8d0-5ed1-8db5-2df09c35ff49",
+                "id": 8928,
+                "guid": "e8c9c285-1753-5a30-bf1c-e92744a91aac",
                 "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Austellungsraum 2 - H2-2.4",
-                "slug": "jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+                "slug": "jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
                 "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
                 "subtitle": "",
@@ -10655,14 +11119,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 4070,
-                "guid": "4f0705af-050d-59c1-8615-40ce30f562de",
+                "id": 2493,
+                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
                 "logo": "",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-4070-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -10776,14 +11240,14 @@
                 "attachments": []
               },
               {
-                "id": 945,
-                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
+                "id": 1099,
+                "guid": "e1099d4e-4ec0-5145-9d9e-bd405dab6a1a",
                 "logo": "",
                 "date": "2022-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-945-abendessen_volxkueche_muenchen",
+                "slug": "jev22-1099-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -10809,14 +11273,14 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 9100,
-                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
+                "id": 8632,
+                "guid": "c8632de1-9961-5498-b0c2-ab73f1e7f7d5",
                 "logo": "",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "06:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9100-no_future_for_iaa_solistand",
+                "slug": "jev22-8632-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
                 "title": "No Future for IAA Solistand",
                 "subtitle": "",
@@ -10833,6 +11297,99 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8813,
+                "guid": "e88d1b3d-9f4a-5901-96df-12848adc6d86",
+                "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
+                "date": "2022-12-30T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8813-mindzone_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
+                "title": "Mindzone Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Niedrigschwellige, aufsuchende und aktzeptierende Drogenarbeit - Infostand zu Safer Use & Harm Reduction",
+                "description": "Das MINDZONE-Team M\u00fcnchen ist seit M\u00e4rz 1996 im M\u00fcnchner Nachtleben aktiv. Durch langj\u00e4hrige Kooperation mit namhaften Clubs und Event-Reihen genie\u00dft MINDZONE in der Partyszene einen hohen Bekanntheitsgrad. Im 2-Wochen-Rhythmus f\u00fchren wir Vor-Ort-Aktionen mit Infostand durch.\r\nUnser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Da immer wieder zu beobachten ist, dass Jugendliche Drogen sehr problematisch und riskant konsumieren, erscheint es sinnvoll und notwendig, Aufkl\u00e4rung in diesem Bereich zu betreiben und auf die Drogenthematik differenziert einzugehen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 90,
+                    "code": "TRUZZB",
+                    "public_name": "Mindzone",
+                    "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1134,
+                "guid": "11c347bd-f02d-5aeb-8216-12ebdbe89bb4",
+                "logo": "",
+                "date": "2022-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-1134-sticker_exchange",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+                "title": "Sticker Exchange!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 6022,
+                "guid": "60228db5-4b07-5922-b574-d788d62b8433",
+                "logo": "",
+                "date": "2022-12-30T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-6022-fachstelle_pop_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+                "title": "Fachstelle Pop Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+                "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CLZ8W7",
+                    "public_name": "Fachstelle Pop",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -11010,7 +11567,39 @@
             "Workshopraum 2 - H2-3.4": [],
             "Workshopraum 3 - H2-3.6": [],
             "Workshopraum 4 - H2-4.4": [],
-            "Klangkeller - H1-U.1": [],
+            "Klangkeller - H1-U.1": [
+              {
+                "id": 6334,
+                "guid": "633e484e-1a19-51f6-bcdd-0bc5b037e1d6",
+                "logo": "",
+                "date": "2022-12-31T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "02:00",
+                "room": "Klangkeller - H1-U.1",
+                "slug": "jev22-6334-funktionsweise_und_anwendungsbeispiele_einer_turbosound",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FQUCKQ/",
+                "title": "Funktionsweise und Anwendungsbeispiele einer Turbosound",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Kunst",
+                "language": "de",
+                "abstract": "In diesem Workshop m\u00f6chten wir, (Kommando H\u00f6rsturz) euch die Funktionsweisen und Anwendung einer Turbosound TSE durch konkrete Nutzungsbeispiele n\u00e4her bringen.",
+                "description": "Eine Gut eingestellte Turbosound ist das A und O f\u00fcr jede gelungene Veranstaltung. Vor allem in Zeiten wo die Anspr\u00fcche der Allgemeinheit im Punkto Soundtechnik und Bespielung immer weiter sinken, ist Kommando H\u00f6rsturz das Bollwerk im Kampf gegen langweiligen Kommerz Techno. Deshalb wollen wir unser geballtes Wissen gerne in einem Kontext weitergeben der unmissverst\u00e4ndlich ist und die Teilnehmer*innen dazu motiviert sich im Kontext Subkultur zu engagieren.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 117,
+                    "code": "QZCERP",
+                    "public_name": "JIM BACKE",
+                    "biography": "I want u to get Tattoo",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Ruheraum - H1-2.1": [],
             "Ausstellungsraum 1 - H2-1.3": [
               {
@@ -11054,14 +11643,14 @@
             ],
             "Austellungsraum 2 - H2-2.4": [
               {
-                "id": 2897,
-                "guid": "f2adf897-9274-57dd-8f21-400c9ccdbaed",
+                "id": 6374,
+                "guid": "6374d4a8-3ed3-5b2b-b09a-b47f7caa462f",
                 "logo": "/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Austellungsraum 2 - H2-2.4",
-                "slug": "jev22-2897-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
+                "slug": "jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/",
                 "title": "Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren",
                 "subtitle": "",
@@ -11094,14 +11683,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 559,
-                "guid": "05c59248-8fa2-5116-9a66-22bb6d51728e",
+                "id": 9346,
+                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
                 "logo": "",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-559-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -11190,7 +11779,7 @@
                 "logo": "",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "06:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
                 "slug": "jev22-7867-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
@@ -11209,6 +11798,99 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 6916,
+                "guid": "6c916afe-d686-54a0-8620-3cce7aa74cbb",
+                "logo": "",
+                "date": "2022-12-31T11:30:00+01:00",
+                "start": "11:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-6916-fachstelle_pop_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+                "title": "Fachstelle Pop Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+                "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 197,
+                    "code": "CLZ8W7",
+                    "public_name": "Fachstelle Pop",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8525,
+                "guid": "8525932d-cbf0-51d1-9ee5-7e0dc4cafc6e",
+                "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
+                "date": "2022-12-31T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8525-mindzone_infostand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
+                "title": "Mindzone Infostand",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Niedrigschwellige, aufsuchende und aktzeptierende Drogenarbeit - Infostand zu Safer Use & Harm Reduction",
+                "description": "Das MINDZONE-Team M\u00fcnchen ist seit M\u00e4rz 1996 im M\u00fcnchner Nachtleben aktiv. Durch langj\u00e4hrige Kooperation mit namhaften Clubs und Event-Reihen genie\u00dft MINDZONE in der Partyszene einen hohen Bekanntheitsgrad. Im 2-Wochen-Rhythmus f\u00fchren wir Vor-Ort-Aktionen mit Infostand durch.\r\nUnser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Da immer wieder zu beobachten ist, dass Jugendliche Drogen sehr problematisch und riskant konsumieren, erscheint es sinnvoll und notwendig, Aufkl\u00e4rung in diesem Bereich zu betreiben und auf die Drogenthematik differenziert einzugehen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 90,
+                    "code": "TRUZZB",
+                    "public_name": "Mindzone",
+                    "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8222,
+                "guid": "82b22eef-3d58-5a3f-86d4-c93637bffdba",
+                "logo": "",
+                "date": "2022-12-31T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "01:30",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-8222-sticker_exchange",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+                "title": "Sticker Exchange!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "en",
+                "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
                     "answers": []
                   }
                 ],

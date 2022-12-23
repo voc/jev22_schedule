@@ -1,0 +1,33 @@
+{
+  "id": 2550,
+  "guid": "b25509b8-b579-5e8e-94f7-ae1c8cd3cc75",
+  "logo": "",
+  "date": "2022-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/",
+  "title": "Solidarisch essen, ackern, imkern und wohnen",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Film",
+  "language": "de",
+  "abstract": "Im Dokumentarfilm \"Connected\" werden vier solidarische Projekte in M\u00fcnchen vorgestellt. Mit anschlie\u00dfender Diskussion.",
+  "description": "Anhand des Dokumentarfilms \"Connected\" wollen wir euch die solidarische Landwirtschaft Donihof, das Mietsh\u00e4user Syndikatsprojekt Ligsalz8, den Stattpark Olga und die solidarische Imkerei Schwarmstimmung vorstellen und im Anschluss mit euch \u00fcber die Situation solidarischer Projekte in M\u00fcnchen diskutieren.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 193,
+      "code": "VF8WZU",
+      "public_name": "Peter von der Schwarmstimmung",
+      "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

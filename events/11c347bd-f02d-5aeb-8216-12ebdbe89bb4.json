@@ -1,0 +1,33 @@
+{
+  "id": 1134,
+  "guid": "11c347bd-f02d-5aeb-8216-12ebdbe89bb4",
+  "logo": "",
+  "date": "2022-12-30T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "01:30",
+  "room": "St\u00e4nde - H2-4.8",
+  "slug": "jev22-1134-sticker_exchange",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/",
+  "title": "Sticker Exchange!",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Stand",
+  "language": "en",
+  "abstract": "Hey Sticker Lovers! Drop stickers, take stickers (\uff40\uff65\u03c9\uff65)\uff89\u2606\uff65\uff9f.:*\u2764",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
