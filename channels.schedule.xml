@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 18:50</version>
+  <version>2022-12-23 19:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -112,7 +112,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
@@ -193,7 +193,7 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
@@ -718,7 +718,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="8672" guid="867208f4-ebf6-5158-89c1-bd9f623f50f2">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
@@ -841,7 +841,7 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
         <logo/>
         <date>2022-12-28T16:00:00+01:00</date>
@@ -1589,7 +1589,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
         <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
         <date>2022-12-29T14:00:00+01:00</date>
@@ -1673,7 +1673,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
         <logo/>
         <date>2022-12-29T11:00:00+01:00</date>
@@ -2513,7 +2513,7 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
         <logo>/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
@@ -2623,7 +2623,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
@@ -3310,8 +3310,8 @@ You can also spectate the event on PeerTube.</description>
     <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="Seminarraum"/>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6"/>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb"/>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
         <logo>/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg</logo>
         <date>2022-12-31T11:00:00+01:00</date>

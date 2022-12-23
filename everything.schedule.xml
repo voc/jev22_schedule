@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 18:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 18:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
+  <version>2022-12-23 19:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 19:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -112,7 +112,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
@@ -193,7 +193,7 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
@@ -1426,7 +1426,7 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
       </event>
     </room>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5">
+    <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
       <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
@@ -2196,7 +2196,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="8672" guid="867208f4-ebf6-5158-89c1-bd9f623f50f2">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
@@ -2319,7 +2319,7 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
         <logo/>
         <date>2022-12-28T16:00:00+01:00</date>
@@ -4345,7 +4345,7 @@ This workshop is for '''''total newbies'''''!</description>
       </event>
     </room>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5">
+    <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
       <event id="4805" guid="dd4cf805-82f4-55cb-a30a-af025ba160a2">
         <logo>/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
@@ -5198,7 +5198,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
         <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
         <date>2022-12-29T14:00:00+01:00</date>
@@ -5282,7 +5282,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
         <logo/>
         <date>2022-12-29T11:00:00+01:00</date>
@@ -7136,7 +7136,7 @@ Aber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um 
       </event>
     </room>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5">
+    <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
       <event id="7864" guid="786d4948-efcb-5490-a4ef-8aabead71fd6">
         <logo/>
         <date>2022-12-29T15:00:00+01:00</date>
@@ -7999,7 +7999,7 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
         <logo>/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
@@ -8109,7 +8109,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
@@ -9248,7 +9248,7 @@ Premiere&#13;
     <room name="soldering room 7" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5">
+    <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
       <event id="9207" guid="920c769e-5987-5403-8c6a-218731a683ec">
         <logo>/media/freiraumforum/submissions/RLEDAH/Cover-Abschiebehaft-rassistische-Tradition-seit-1919_N2rXwCD.jpg</logo>
         <date>2022-12-30T14:00:00+01:00</date>
@@ -9879,8 +9879,8 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="Seminarraum"/>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6"/>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2">
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb"/>
+    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
         <logo>/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg</logo>
         <date>2022-12-31T11:00:00+01:00</date>
@@ -9960,7 +9960,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
     <room name="soldering room 7" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
-    <room name="Workshopraum 1 - H2-2.5"/>
+    <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb"/>
     <room name="Workshopraum 2 - H2-3.4"/>
     <room name="Workshopraum 3 - H2-3.6"/>
     <room name="Workshopraum 4 - H2-4.4"/>

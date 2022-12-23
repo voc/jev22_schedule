@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-23 18:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 18:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
+    "version": "2022-12-23 19:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 19:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -348,15 +348,15 @@
         "schedule_name": "Merch Desk"
       },
       {
-        "guid": null,
+        "guid": "568cabc6-82f2-11ed-82f7-cf29158272bb",
         "schedule_name": "Vortragsraum 1 - Ahlam - H2-1.6"
       },
       {
-        "guid": null,
+        "guid": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
         "schedule_name": "Vortragsraum 2 - Bhavani - H1-5.2"
       },
       {
-        "guid": null,
+        "guid": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
         "schedule_name": "Workshopraum 1 - H2-2.5"
       },
       {
