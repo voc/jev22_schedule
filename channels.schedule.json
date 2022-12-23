@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 22:30",
+    "version": "2022-12-23 23:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3892,6 +3892,37 @@
               }
             ],
             "Bierschoine": [
+              {
+                "id": 52467,
+                "guid": "c219de23-5e83-5467-aade-233bf48f77d7",
+                "logo": "/media/hacking-in-hell-2022/submissions/WM8JYF/mde_logo_insta_qgtGdoS.jpg",
+                "date": "2022-12-30T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-52467-no_music_on_a_dead_planet_mde_stellt_sich_vor",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WM8JYF/",
+                "title": "No Music On A Dead Planet - MDE stellt sich vor!",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Music Declares Emergency ist eine Initiative, die sich seit 2020 f\u00fcr mehr Nachhaltigkeit in der Musikwelt einsetzt. Wir wollen uns kurz vorstellen und zum Mitmachen einladen.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3773,
+                    "code": "AMMBSC",
+                    "public_name": "Cora",
+                    "biography": "Cora wurde sehr umweltbewusst erzogen, sodass es f\u00fcr sie nahe lag sich mit der Initiative Music Declares Emergency f\u00fcr mehr Nachhaltigkeit in der Musikbranche zu engagieren. Ihr Ziel ein Festival in der ersten Reihe zu verbringen, hat sie mit 17 Jahren beim Highfield 2004 realisiert. Seitdem pr\u00e4feriert sie mehr Platz um sich herum und arbeitet hinter der B\u00fchne als Tour und Stage Managerin, Lichttechnikerin oder Spezialeffekte-Tante.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 49297,
                 "guid": "853d5d9f-2f71-50db-8161-d92b0ed3c099",

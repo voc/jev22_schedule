@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 22:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 22:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.26</version>
+  <version>2022-12-23 23:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 23:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.26</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -8824,6 +8824,31 @@ Ablauf:&#13;
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="52467" guid="c219de23-5e83-5467-aade-233bf48f77d7">
+        <logo>/media/hacking-in-hell-2022/submissions/WM8JYF/mde_logo_insta_qgtGdoS.jpg</logo>
+        <date>2022-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-52467-no_music_on_a_dead_planet_mde_stellt_sich_vor</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WM8JYF/</url>
+        <title>No Music On A Dead Planet - MDE stellt sich vor!</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Music Declares Emergency ist eine Initiative, die sich seit 2020 für mehr Nachhaltigkeit in der Musikwelt einsetzt. Wir wollen uns kurz vorstellen und zum Mitmachen einladen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3773">Cora</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49297" guid="853d5d9f-2f71-50db-8161-d92b0ed3c099">
         <logo/>
         <date>2022-12-30T16:00:00+01:00</date>
