@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 20:30; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 20:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
+    "version": "2022-12-23 20:50; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 20:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.25",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1849,14 +1849,14 @@
             "Merch Desk": [],
             "Workshopraum 1 - H2-2.5": [
               {
-                "id": 527,
-                "guid": "0af52b79-6d8e-5c39-948c-8f9e790be38b",
+                "id": 8477,
+                "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
                 "room": "Workshopraum 1 - H2-2.5",
-                "slug": "jev22-527-aktionstraining",
+                "slug": "jev22-8477-aktionstraining",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
                 "title": "Aktionstraining",
                 "subtitle": "",
@@ -1880,6 +1880,37 @@
                     "code": "QKWW8T",
                     "public_name": "Emmi",
                     "biography": "Ich freu mich auf den Workshop!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 6176,
+                "guid": "61e7b6b1-21da-5b05-b430-0697f7afa34d",
+                "logo": "",
+                "date": "2022-12-27T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "01:30",
+                "room": "Workshopraum 1 - H2-2.5",
+                "slug": "jev22-6176-scherben_und_risse_at",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/N7VKVZ/",
+                "title": "Scherben und Risse (AT)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Installation",
+                "language": "de",
+                "abstract": "Die Broken Window Theorie besagt, dass Handeln von Menschen von Ihrer Umgebung abh\u00e4ngt. Verwaiste Ladenlokale seien ansteckend. Zerbrochene Fenster, Graffiti und M\u00fcll z\u00f6gen weitere Verwahrlosung an. Ist der Mangel an sozialer Kontrolle nicht Inspiration und N\u00e4hrboden f\u00fcr k\u00fcnstlerische Produktivit\u00e4t?",
+                "description": "Die Broken Window Theorie wird in dem Projekt Risse und Scherben kritisch hinterfragt und spielerisch erprobt. Die Gegend um den M\u00fcnchener Hauptbahnhof bietet daf\u00fcr das passende Umfeld. Das Areal ist von Baustellen und Leerstand durchzogen und hat einen zweifelhaften Ruf. Im Vergleich zu vielen anderen Stadtteilen M\u00fcnchens ist hier nicht jede Ecke aufger\u00e4umt und sauber.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 189,
+                    "code": "RACSGX",
+                    "public_name": "Ursula Gaisbauer",
+                    "biography": "Ursula Gaisbauer (*1986) lebt und arbeitet derzeit in M\u00fcnchen und Wien. Sie studierte Landschaftsdesign und ortsbezogene Kunst an der Universit\u00e4t f\u00fcr angewandte Kunst Wien. Ihre meist tempor\u00e4ren Arbeiten liegen im Spannungsfeld von Kunst und Architektur und setzen sich konzeptuell mit dem Ort und dessen Kontext auseinander. So entstehen sehr unterschiedliche Arbeiten von Interventionen im \u00f6ffentlichen Raum, Film und Performances bis hin zu raumgreifenden Installationen, die Kunst in den Umbauprozess integrieren.",
                     "answers": []
                   }
                 ],
@@ -2051,14 +2082,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 6706,
-                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -2082,14 +2113,14 @@
                 "attachments": []
               },
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "id": 6706,
+                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -2297,14 +2328,14 @@
             ],
             "Ausstellungsraum 4 - H2-3.3": [
               {
-                "id": 7146,
-                "guid": "7146093d-0e64-5749-a166-b8ac8fab81b4",
+                "id": 6575,
+                "guid": "6dadba57-f554-531b-9dd6-25f20c1dd7da",
                 "logo": "/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 4 - H2-3.3",
-                "slug": "jev22-7146-seltsam_klein",
+                "slug": "jev22-6575-seltsam_klein",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/",
                 "title": "seltsam & klein",
                 "subtitle": "",
@@ -2347,14 +2378,14 @@
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
             "Kantine - H2-4.7": [
               {
-                "id": 1144,
-                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
+                "id": 668,
+                "guid": "d06c6e83-3e73-54d9-8742-a36f84b8eacf",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-27T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-668-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -2411,37 +2442,6 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 1809,
-                "guid": "180bc915-bedb-5f94-91b6-86bb368d9386",
-                "logo": "",
-                "date": "2022-12-27T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "08:00",
-                "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-1809-frei_raum_im_kontext_des_speziesismus",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
-                "title": "(FREI)RAUM im Kontext des Speziesismus",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Stand",
-                "language": "de",
-                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
-                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 9100,
                 "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
                 "logo": "",
@@ -2497,6 +2497,37 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7068,
+                "guid": "f7068987-fe5c-5432-a943-3451f79d6780",
+                "logo": "",
+                "date": "2022-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "08:00",
+                "room": "St\u00e4nde - H2-4.8",
+                "slug": "jev22-7068-frei_raum_im_kontext_des_speziesismus",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
+                "title": "(FREI)RAUM im Kontext des Speziesismus",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Stand",
+                "language": "de",
+                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 137,
+                    "code": "GXJPUL",
+                    "public_name": "Meri V\u00e4yrynen",
+                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -2597,14 +2628,14 @@
                 "attachments": []
               },
               {
-                "id": 8239,
-                "guid": "8239fa77-7734-5442-81be-aa66d5d14585",
+                "id": 1809,
+                "guid": "180bc915-bedb-5f94-91b6-86bb368d9386",
                 "logo": "",
                 "date": "2022-12-27T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8239-frei_raum_im_kontext_des_speziesismus",
+                "slug": "jev22-1809-frei_raum_im_kontext_des_speziesismus",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
                 "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
@@ -2890,7 +2921,7 @@
                 "type": "Diskussion",
                 "language": "de",
                 "abstract": "Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
-                "description": "Pravu Mazumdar (Philosoph) angefr.\r\nRossana Pondorf (Artspace Rosa Stern) best\u00e4tigt\r\n\r\nModeration: Peter Arun Pfaff",
+                "description": "Pravu Mazumdar (Philosoph) \r\nRosanna Marie Pondorf (Rosa Stern Space/K\u00fcnstlerin)\r\n\r\nModeration: Peter Arun Pfaff",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -5594,14 +5625,14 @@
             ],
             "Ausstellungsraum 4 - H2-3.3": [
               {
-                "id": 6575,
-                "guid": "6dadba57-f554-531b-9dd6-25f20c1dd7da",
+                "id": 1508,
+                "guid": "c1cfbd50-81af-5646-a651-138b41ad748c",
                 "logo": "/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 4 - H2-3.3",
-                "slug": "jev22-6575-seltsam_klein",
+                "slug": "jev22-1508-seltsam_klein",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/",
                 "title": "seltsam & klein",
                 "subtitle": "",
@@ -5802,14 +5833,14 @@
                 "attachments": []
               },
               {
-                "id": 116,
-                "guid": "01ddea1d-6c6f-5ed2-8972-d458e36aad92",
+                "id": 8239,
+                "guid": "8239fa77-7734-5442-81be-aa66d5d14585",
                 "logo": "",
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-116-frei_raum_im_kontext_des_speziesismus",
+                "slug": "jev22-8239-frei_raum_im_kontext_des_speziesismus",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
                 "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
@@ -8588,6 +8619,37 @@
             ],
             "Workshopraum 4 - H2-4.4": [
               {
+                "id": 3988,
+                "guid": "3ba98cb8-56e4-5109-b5a5-888a4d98280f",
+                "logo": "",
+                "date": "2022-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:30",
+                "room": "Workshopraum 4 - H2-4.4",
+                "slug": "jev22-3988-workshop_von_diversity_school",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BNQVHZ/",
+                "title": "Workshop von diversity@school",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "diversity@school ist das Aufkl\u00e4rungsprojekt der queeren Jugendorganisation diversity M\u00fcnchen e.V.\r\nUnsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Orientierung und Geschlechtsidentit\u00e4t f\u00fcr Jugendliche, junge Erwachsene und Multiplikator*innen an.",
+                "description": "diversity@school hat das Ziel, Vorurteile und Diskriminierung abzubauen sowie Vielfalt zu\u00a0f\u00f6rdern und f\u00fcr eine offene Gesellschaft zu werben.\u00a0Zahlreiche Studien zeigen n\u00e4mlich, dass queere Jugendliche und junge Erwachsene\u00a0aus allen Lebenslagen auch heute noch mit verstaubten Klischees, Intoleranz und Diskriminierung zu k\u00e4mpfen haben.\u00a0\r\nIn unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber\u00fchrungs\u00e4ngste zu nehmen, Wissen zu vermitteln und Akzeptanz gegen\u00fcber queeren Identit\u00e4ten zu f\u00f6rdern. Dabei geben unsere Referent*innen, die alle selbst queere Jugendliche und junge Erwachsene unter 27 sind, auch Einblick in ihre pers\u00f6nlichen Erfahrungen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 93,
+                    "code": "3CPRRS",
+                    "public_name": "diversity@school",
+                    "biography": "diversity@school ist das Aufkl\u00e4rungsprojekt der queeren Jugendorganisation diversity M\u00fcnchen e.V.\r\nUnsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Orientierung und Geschlechtsidentit\u00e4t f\u00fcr Jugendliche, junge Erwachsene und Multiplikator*innen an.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 2434,
                 "guid": "2ea434b5-e033-5482-8f28-7fabb4120b3c",
                 "logo": "/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png",
@@ -8643,6 +8705,44 @@
                     "code": "XB9B8J",
                     "public_name": "Consent Calling",
                     "biography": "Consent Calling ist M\u00fcnchens feministisches Sexshopkollektiv und unser Ziel ist es in M\u00fcnchen einen Ort zu schaffen, der eine Alternative zu herk\u00f6mmlichen, oft sexistisch gepr\u00e4gten, Sexshops darstellt. Neben dem Verkauf von Toys, Literatur und gender-expression Produkten sowie aktivistischem Engagement leisten wir vorallem Bildungs- und Aufkl\u00e4rungsarbeit und m\u00f6chten einen Beitrag leisten Sexualit\u00e4t freier, machtkritischer und feministischer zu verhandeln. Wir wollen Horizonte erweitern, Austauschs- und Begegnungsr\u00e4ume schaffen und normative Setzungen im Kontext vom Sexualit\u00e4t \u00fcberwinden.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 527,
+                "guid": "0af52b79-6d8e-5c39-948c-8f9e790be38b",
+                "logo": "",
+                "date": "2022-12-29T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "02:00",
+                "room": "Workshopraum 4 - H2-4.4",
+                "slug": "jev22-527-aktionstraining",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
+                "title": "Aktionstraining",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Wir werden einige Beispiele zur Konfrontation mit Polizei, Beh\u00f6rden und politischen Gegnern besprechen und kurze praktische \u00dcbungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.",
+                "description": "Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 140,
+                    "code": "BKX7AN",
+                    "public_name": "Jonas",
+                    "biography": "Ich bin seit mehreren Jahren aktiv in der Klimagerechtigkeitsbewegung und beteilige mich an Antifaaktionen. Derzeit konzentriere ich mich auf die st\u00e4rkung einer migrantischen Organisierung.",
+                    "answers": []
+                  },
+                  {
+                    "id": 9,
+                    "code": "QKWW8T",
+                    "public_name": "Emmi",
+                    "biography": "Ich freu mich auf den Workshop!",
                     "answers": []
                   }
                 ],
@@ -8900,14 +9000,14 @@
             ],
             "Ausstellungsraum 4 - H2-3.3": [
               {
-                "id": 1508,
-                "guid": "c1cfbd50-81af-5646-a651-138b41ad748c",
+                "id": 1822,
+                "guid": "18223efa-a799-5005-abd7-51b4038f865b",
                 "logo": "/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 4 - H2-3.3",
-                "slug": "jev22-1508-seltsam_klein",
+                "slug": "jev22-1822-seltsam_klein",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/",
                 "title": "seltsam & klein",
                 "subtitle": "",
@@ -10863,44 +10963,6 @@
                 ],
                 "links": [],
                 "attachments": []
-              },
-              {
-                "id": 8477,
-                "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
-                "logo": "",
-                "date": "2022-12-30T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "02:00",
-                "room": "Workshopraum 4 - H2-4.4",
-                "slug": "jev22-8477-aktionstraining",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
-                "title": "Aktionstraining",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Wir werden einige Beispiele zur Konfrontation mit Polizei, Beh\u00f6rden und politischen Gegnern besprechen und kurze praktische \u00dcbungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.",
-                "description": "Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 140,
-                    "code": "BKX7AN",
-                    "public_name": "Jonas",
-                    "biography": "Ich bin seit mehreren Jahren aktiv in der Klimagerechtigkeitsbewegung und beteilige mich an Antifaaktionen. Derzeit konzentriere ich mich auf die st\u00e4rkung einer migrantischen Organisierung.",
-                    "answers": []
-                  },
-                  {
-                    "id": 9,
-                    "code": "QKWW8T",
-                    "public_name": "Emmi",
-                    "biography": "Ich freu mich auf den Workshop!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
               }
             ],
             "Klangkeller - H1-U.1": [
@@ -11153,14 +11215,14 @@
             ],
             "Ausstellungsraum 4 - H2-3.3": [
               {
-                "id": 1822,
-                "guid": "18223efa-a799-5005-abd7-51b4038f865b",
+                "id": 8802,
+                "guid": "88026b80-3567-5af8-843b-d7d221803dcd",
                 "logo": "/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 4 - H2-3.3",
-                "slug": "jev22-1822-seltsam_klein",
+                "slug": "jev22-8802-seltsam_klein",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/",
                 "title": "seltsam & klein",
                 "subtitle": "",
@@ -11203,14 +11265,14 @@
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
             "Kantine - H2-4.7": [
               {
-                "id": 668,
-                "guid": "d06c6e83-3e73-54d9-8742-a36f84b8eacf",
+                "id": 1144,
+                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-668-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",

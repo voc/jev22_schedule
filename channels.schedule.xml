@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 20:30</version>
+  <version>2022-12-23 20:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -826,8 +826,8 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <type>Diskussion</type>
         <language>de</language>
         <abstract>Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
-        <description>Pravu Mazumdar (Philosoph) angefr.&#13;
-Rossana Pondorf (Artspace Rosa Stern) bestätigt&#13;
+        <description>Pravu Mazumdar (Philosoph) &#13;
+Rosanna Marie Pondorf (Rosa Stern Space/Künstlerin)&#13;
 &#13;
 Moderation: Peter Arun Pfaff</description>
         <recording>

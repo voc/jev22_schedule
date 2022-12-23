@@ -1,0 +1,33 @@
+{
+  "id": 3988,
+  "guid": "3ba98cb8-56e4-5109-b5a5-888a4d98280f",
+  "logo": "",
+  "date": "2022-12-29T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "01:30",
+  "room": "Workshopraum 4 - H2-4.4",
+  "slug": "jev22-3988-workshop_von_diversity_school",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BNQVHZ/",
+  "title": "Workshop von diversity@school",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "diversity@school ist das Aufkl\u00e4rungsprojekt der queeren Jugendorganisation diversity M\u00fcnchen e.V.\r\nUnsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Orientierung und Geschlechtsidentit\u00e4t f\u00fcr Jugendliche, junge Erwachsene und Multiplikator*innen an.",
+  "description": "diversity@school hat das Ziel, Vorurteile und Diskriminierung abzubauen sowie Vielfalt zu\u00a0f\u00f6rdern und f\u00fcr eine offene Gesellschaft zu werben.\u00a0Zahlreiche Studien zeigen n\u00e4mlich, dass queere Jugendliche und junge Erwachsene\u00a0aus allen Lebenslagen auch heute noch mit verstaubten Klischees, Intoleranz und Diskriminierung zu k\u00e4mpfen haben.\u00a0\r\nIn unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber\u00fchrungs\u00e4ngste zu nehmen, Wissen zu vermitteln und Akzeptanz gegen\u00fcber queeren Identit\u00e4ten zu f\u00f6rdern. Dabei geben unsere Referent*innen, die alle selbst queere Jugendliche und junge Erwachsene unter 27 sind, auch Einblick in ihre pers\u00f6nlichen Erfahrungen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 93,
+      "code": "3CPRRS",
+      "public_name": "diversity@school",
+      "biography": "diversity@school ist das Aufkl\u00e4rungsprojekt der queeren Jugendorganisation diversity M\u00fcnchen e.V.\r\nUnsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Orientierung und Geschlechtsidentit\u00e4t f\u00fcr Jugendliche, junge Erwachsene und Multiplikator*innen an.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

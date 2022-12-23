@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 20:30; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 20:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
+  <version>2022-12-23 20:50; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 20:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.25</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1427,13 +1427,13 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
     </room>
     <room name="Merch Desk"/>
     <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
-      <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
+      <event id="8477" guid="84d7733c-9fde-5629-9d5a-979046e821ea">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-527-aktionstraining</slug>
+        <slug>jev22-8477-aktionstraining</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
         <title>Aktionstraining</title>
         <subtitle/>
@@ -1449,6 +1449,31 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <persons>
           <person id="140">Jonas</person>
           <person id="9">Emmi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6176" guid="61e7b6b1-21da-5b05-b430-0697f7afa34d">
+        <logo/>
+        <date>2022-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:30</duration>
+        <room>Workshopraum 1 - H2-2.5</room>
+        <slug>jev22-6176-scherben_und_risse_at</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/N7VKVZ/</url>
+        <title>Scherben und Risse (AT)</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Installation</type>
+        <language>de</language>
+        <abstract>Die Broken Window Theorie besagt, dass Handeln von Menschen von Ihrer Umgebung abhängt. Verwaiste Ladenlokale seien ansteckend. Zerbrochene Fenster, Graffiti und Müll zögen weitere Verwahrlosung an. Ist der Mangel an sozialer Kontrolle nicht Inspiration und Nährboden für künstlerische Produktivität?</abstract>
+        <description>Die Broken Window Theorie wird in dem Projekt Risse und Scherben kritisch hinterfragt und spielerisch erprobt. Die Gegend um den Münchener Hauptbahnhof bietet dafür das passende Umfeld. Das Areal ist von Baustellen und Leerstand durchzogen und hat einen zweifelhaften Ruf. Im Vergleich zu vielen anderen Stadtteilen Münchens ist hier nicht jede Ecke aufgeräumt und sauber.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="189">Ursula Gaisbauer</person>
         </persons>
         <links/>
         <attachments/>
@@ -1590,13 +1615,13 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
+      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -1622,13 +1647,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <links/>
         <attachments/>
       </event>
-      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
+      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -1804,13 +1829,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="7146" guid="7146093d-0e64-5749-a166-b8ac8fab81b4">
+      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-7146-seltsam_klein</slug>
+        <slug>jev22-6575-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -1837,13 +1862,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -1889,33 +1914,6 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="1809" guid="180bc915-bedb-5f94-91b6-86bb368d9386">
-        <logo/>
-        <date>2022-12-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>08:00</duration>
-        <room>Stände - H2-4.8</room>
-        <slug>jev22-1809-frei_raum_im_kontext_des_speziesismus</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
-        <title>(FREI)RAUM im Kontext des Speziesismus</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Stand</type>
-        <language>de</language>
-        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
-        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
-&#13;
-Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="137">Meri Väyrynen</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="9100" guid="b9100420-0099-5a56-a006-e4b480a45c8c">
         <logo/>
         <date>2022-12-27T10:00:00+01:00</date>
@@ -1966,6 +1964,33 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         </recording>
         <persons>
           <person id="100">No Future</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7068" guid="f7068987-fe5c-5432-a943-3451f79d6780">
+        <logo/>
+        <date>2022-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>08:00</duration>
+        <room>Stände - H2-4.8</room>
+        <slug>jev22-7068-frei_raum_im_kontext_des_speziesismus</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
+        <title>(FREI)RAUM im Kontext des Speziesismus</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Stand</type>
+        <language>de</language>
+        <abstract>Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</abstract>
+        <description>Unser Stand soll eine Ausstellungsfläche sein, die alle einlädt, ein Gefühl dafür zu bekommen, wie der Raum für und gegen Tiere in München genutzt wird, wie eine Stadt mit speziesismusfreien Räumen aussehen kann und wie diese idealerweise etabliert werden können. Unsere Kernfragen lauten: Was ist der Status quo momentan in München? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese überhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Flächen der Tierindustrie weggedacht und eines Tages tatsächlich abgeschafft werden?&#13;
+&#13;
+Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="137">Meri Väyrynen</person>
         </persons>
         <links/>
         <attachments/>
@@ -2048,13 +2073,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="8239" guid="8239fa77-7734-5442-81be-aa66d5d14585">
+      <event id="1809" guid="180bc915-bedb-5f94-91b6-86bb368d9386">
         <logo/>
         <date>2022-12-27T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8239-frei_raum_im_kontext_des_speziesismus</slug>
+        <slug>jev22-1809-frei_raum_im_kontext_des_speziesismus</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
         <title>(FREI)RAUM im Kontext des Speziesismus</title>
         <subtitle/>
@@ -2304,8 +2329,8 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <type>Diskussion</type>
         <language>de</language>
         <abstract>Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
-        <description>Pravu Mazumdar (Philosoph) angefr.&#13;
-Rossana Pondorf (Artspace Rosa Stern) bestätigt&#13;
+        <description>Pravu Mazumdar (Philosoph) &#13;
+Rosanna Marie Pondorf (Rosa Stern Space/Künstlerin)&#13;
 &#13;
 Moderation: Peter Arun Pfaff</description>
         <recording>
@@ -4766,13 +4791,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
+      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-6575-seltsam_klein</slug>
+        <slug>jev22-1508-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -4929,13 +4954,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <links/>
         <attachments/>
       </event>
-      <event id="116" guid="01ddea1d-6c6f-5ed2-8972-d458e36aad92">
+      <event id="8239" guid="8239fa77-7734-5442-81be-aa66d5d14585">
         <logo/>
         <date>2022-12-28T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-116-frei_raum_im_kontext_des_speziesismus</slug>
+        <slug>jev22-8239-frei_raum_im_kontext_des_speziesismus</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/</url>
         <title>(FREI)RAUM im Kontext des Speziesismus</title>
         <subtitle/>
@@ -7432,6 +7457,33 @@ For more information about the digital habit lab check out: &gt;&gt; mindovertec
       </event>
     </room>
     <room name="Workshopraum 4 - H2-4.4">
+      <event id="3988" guid="3ba98cb8-56e4-5109-b5a5-888a4d98280f">
+        <logo/>
+        <date>2022-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:30</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-3988-workshop_von_diversity_school</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BNQVHZ/</url>
+        <title>Workshop von diversity@school</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>diversity@school ist das Aufklärungsprojekt der queeren Jugendorganisation diversity München e.V.&#13;
+Unsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Orientierung und Geschlechtsidentität für Jugendliche, junge Erwachsene und Multiplikator*innen an.</abstract>
+        <description>diversity@school hat das Ziel, Vorurteile und Diskriminierung abzubauen sowie Vielfalt zu fördern und für eine offene Gesellschaft zu werben. Zahlreiche Studien zeigen nämlich, dass queere Jugendliche und junge Erwachsene aus allen Lebenslagen auch heute noch mit verstaubten Klischees, Intoleranz und Diskriminierung zu kämpfen haben. &#13;
+In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Berührungsängste zu nehmen, Wissen zu vermitteln und Akzeptanz gegenüber queeren Identitäten zu fördern. Dabei geben unsere Referent*innen, die alle selbst queere Jugendliche und junge Erwachsene unter 27 sind, auch Einblick in ihre persönlichen Erfahrungen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="93">diversity@school</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
         <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
         <date>2022-12-29T12:00:00+01:00</date>
@@ -7479,6 +7531,32 @@ Ziel es Workshops ist es daher, abseits von neoliberalen Logiken, die nur auf di
         </recording>
         <persons>
           <person id="174">Consent Calling</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="527" guid="0af52b79-6d8e-5c39-948c-8f9e790be38b">
+        <logo/>
+        <date>2022-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>02:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-527-aktionstraining</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
+        <title>Aktionstraining</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
+        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="140">Jonas</person>
+          <person id="9">Emmi</person>
         </persons>
         <links/>
         <attachments/>
@@ -7691,13 +7769,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
+      <event id="1822" guid="18223efa-a799-5005-abd7-51b4038f865b">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-1508-seltsam_klein</slug>
+        <slug>jev22-1822-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -9388,32 +9466,6 @@ Daher sind Workshops wie dieser dafür gedacht, verschiedenste Herangehensweisen
         <links/>
         <attachments/>
       </event>
-      <event id="8477" guid="84d7733c-9fde-5629-9d5a-979046e821ea">
-        <logo/>
-        <date>2022-12-30T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>02:00</duration>
-        <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-8477-aktionstraining</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/</url>
-        <title>Aktionstraining</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Wir werden einige Beispiele zur Konfrontation mit Polizei, Behörden und politischen Gegnern besprechen und kurze praktische Übungen dazu geben. Zudem gibt es Vorbereitete Fragen und Szenarien, die wir durchsprechen werden, um uns auf Aktionen verschiedenster Art vorzubereiten.</abstract>
-        <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="140">Jonas</person>
-          <person id="9">Emmi</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
     </room>
     <room name="Klangkeller - H1-U.1">
       <event id="7353" guid="7db3eb5a-3cca-545e-b201-60170350eda6">
@@ -9624,13 +9676,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="1822" guid="18223efa-a799-5005-abd7-51b4038f865b">
+      <event id="8802" guid="88026b80-3567-5af8-843b-d7d221803dcd">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-1822-seltsam_klein</slug>
+        <slug>jev22-8802-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -9657,13 +9709,13 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
     <room name="Forumszentrum - H1-0.1"/>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"/>
     <room name="Kantine - H2-4.7">
-      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
