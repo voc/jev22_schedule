@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 09:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 09:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.21",
+    "version": "2022-12-23 10:10; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 10:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.21",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2385,9 +2385,9 @@
                 "start": "10:00",
                 "duration": "06:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-469-staende",
+                "slug": "jev22-469-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -2402,13 +2402,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -2454,9 +2447,9 @@
                 "start": "10:00",
                 "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8632-staende",
+                "slug": "jev22-8632-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -2471,13 +2464,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -2701,8 +2687,8 @@
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beitr\u00e4gen zu Polizeiforschung und Architektur stattfinden wird.",
-                "description": "Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nUnser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext f\u00fcr gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkst\u00e4tten und einem monatlichen Kolloquium. Wissen soll dabei f\u00fcr emanzipatorische Bewegungen zug\u00e4nglich(er) werden.\r\n\r\nZentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? \r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
+                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
+                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -2739,8 +2725,8 @@
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Freiraumforum mit Beitr\u00e4gen zu Polizeiforschung und Architektur stattfinden wird.",
-                "description": "Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nUnser Ziel ist es, die Vereinzelung junger Forscher*innen aufzuheben. Und einen diversen, international orientierten wissenschaftlichen Kontext f\u00fcr gesellschaftliches Gestaltungsbewusstsein zu schaffen - mittels offener Forschungswerkst\u00e4tten und einem monatlichen Kolloquium. Wissen soll dabei f\u00fcr emanzipatorische Bewegungen zug\u00e4nglich(er) werden.\r\n\r\nZentral ist (konkrete) Utopie und deren Scheitern: Was ist Utopie heute? Welche Utopien sind warum wie gescheitert? Welche Momente von (gescheiterter) konkreter Utopie erkennen wir in unserer eigenen wissenschaftlichen Praxis? Und wie beziehen wir uns auf verwirklichte Dystopien? \r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
+                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
+                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -5765,9 +5751,9 @@
                 "start": "14:00",
                 "duration": "06:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-4122-staende",
+                "slug": "jev22-4122-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -5782,13 +5768,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -6005,7 +5984,7 @@
                 "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
                 "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 138,
@@ -8783,9 +8762,9 @@
                 "start": "14:00",
                 "duration": "06:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9053-staende",
+                "slug": "jev22-9053-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -8800,13 +8779,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -10862,9 +10834,9 @@
                 "start": "10:00",
                 "duration": "06:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9100-staende",
+                "slug": "jev22-9100-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -10879,13 +10851,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -11245,9 +11210,9 @@
                 "start": "10:00",
                 "duration": "06:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-7867-staende",
+                "slug": "jev22-7867-no_future_for_iaa_solistand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "St\u00e4nde: No Future for IAA Solistand ///////  \"(FREI)RAUM im Kontext des Speziesismus\"-Stand",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
@@ -11262,13 +11227,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  },
-                  {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
