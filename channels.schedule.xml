@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 16:30</version>
+  <version>2022-12-23 17:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1163,7 +1163,7 @@ In this talk, I will talk about the things that can be done with a cheap sat rec
         <type>Talk</type>
         <language>de</language>
         <abstract>Eine einfache Vorstellung von  IPv6</abstract>
-        <description>IPv6 an Beispielen gezeigt.  &#13;
+        <description>IPv6 am Beispiel gezeigt.  &#13;
 &#13;
 Mit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
 Dazu Referenzen und Literaturhinweise.&#13;

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 16:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 16:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
+    "version": "2022-12-23 17:10; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 17:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3513,7 +3513,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Eine einfache Vorstellung von  IPv6",
-                "description": "IPv6 an Beispielen gezeigt.  \r\n\r\nMit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. \r\nDazu Referenzen und Literaturhinweise.\r\n\r\nVorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. \r\nDas geschieht nur per IPv6 aber ohne (zus\u00e4tzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.\r\n\r\nZur Einstimmung empfehle ich den Podcast \"Anna-Lena Baecker RFCE014: IPv6\" mit Clemens Schrimpe https://requestforcomments.de/archives/412\r\n\r\nZum Mitlesen wird der Vortrag hier abrufbar sein: \r\nhttps://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/IPv6-verbinden_und_ergaenzende_Erlaeuterungen.html",
+                "description": "IPv6 am Beispiel gezeigt.  \r\n\r\nMit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. \r\nDazu Referenzen und Literaturhinweise.\r\n\r\nVorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. \r\nDas geschieht nur per IPv6 aber ohne (zus\u00e4tzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.\r\n\r\nZur Einstimmung empfehle ich den Podcast \"Anna-Lena Baecker RFCE014: IPv6\" mit Clemens Schrimpe https://requestforcomments.de/archives/412\r\n\r\nZum Mitlesen wird der Vortrag hier abrufbar sein: \r\nhttps://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/IPv6-verbinden_und_ergaenzende_Erlaeuterungen.html",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
