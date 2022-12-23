@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 17:30</version>
+  <version>2022-12-23 18:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1608,15 +1608,13 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
 &#13;
 SLAPPs sind darauf gerichtet, öffentliche Partizipation zu schwächen, indem sie Kritiker:innen einschüchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfläche so klein wie möglich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. &#13;
 &#13;
-Blueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge in die Thematik einführen, inkl. Q&amp;A.</description>
+Blueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge (https://www.prigge-recht.de) in die Thematik einführen, inkl. Q&amp;A.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="138">Forum für Freiraum</person>
           <person id="163">Blueprint For Free Speech</person>
-          <person id="195">Deleted User</person>
           <person id="198">Arbeitskreis kritischer Jurist*innen</person>
         </persons>
         <links/>
