@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 23:30",
+    "version": "2022-12-24 00:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -455,14 +455,14 @@
                 "attachments": []
               },
               {
-                "id": 2085,
-                "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
+                "id": 5664,
+                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
                 "logo": "",
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:50",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-2085-raum_fuer_die_schoene_welt",
+                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
@@ -2261,11 +2261,42 @@
                 "attachments": []
               },
               {
+                "id": 4985,
+                "guid": "4fb985fc-b2a9-5fa7-b8c8-6925415a6cde",
+                "logo": "/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png",
+                "date": "2022-12-29T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "01:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/",
+                "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverh\u00e4ltnissen",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Ein kurzer Exkurs, warum W\u00e4hlen gehen f\u00fcr j\u00fcngere Generationen in Zukunft immer wichtiger wird und Konzepte wie Deutsche Wohnen & Co enteignen wahrscheinlich nicht weit genug gehen.",
+                "description": "Ein theoretischer Vortrag mit einer uterhaltsamen Pr\u00e4sentation \u00fcber die Zukunft von Deutschland. Basierend auf den \u00dcberlegungen von Stefan Schulz, Autor von 'die Alten Republik' wird unter Ber\u00fccksichtigung der aktuellen Zahlen und W\u00e4hlerverhalten, insbesondere dem der sogenannten Boomer-Generation, wird W\u00e4hlen trotz einer antiautorit\u00e4ren Grundhaltung zur B\u00fcrgerpflicht. Aus der relativ d\u00fcsteren Prognose leitet sich die weiterf\u00fchrende \u00dcberlegung ab, dass Ideen, wie 'Deutsche Wohnen & Co enteignen!' nicht durchdacht genug sind. Wohnbesitz wird in Zukunft wieder mehr Machtmittel sein, vergleiche dazu Oliver Webers \u00dcberlegungen bei Jung und Naiv. Da der Wohnraum auch \u00fcberwiegend in Besitz der Boomer ist, laufen beide Themen parallel. Im Vortrag geht es weniger um einen L\u00f6sungsvorschlag als viel mehr darum eine Idee weiter zu tragen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 173,
+                    "code": "PYTB9N",
+                    "public_name": "Lorenz Wittmann",
+                    "biography": "1981 in M\u00fcnchen geboren, seit Ende der Neunziger in verschiedenen Bereichen der M\u00fcnchner Sub-/Jugendkultur aktiv, ob Organisation von illegalen Partys, Street Art, Jugendmagazinen, Musik oder einfach nur hinter der Bar, gelernter Grafiker, Creative Director und seit 2021 Student Management der sozialen Innovationen an der HM.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 755,
                 "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
                 "logo": "",
-                "date": "2022-12-29T18:00:00+01:00",
-                "start": "18:00",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
                 "duration": "01:31",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
                 "slug": "jev22-755-kampf_um_die_a49",
@@ -4162,7 +4193,39 @@
             "6f12618c-0f1c-4318-a201-099152f86ac0": [],
             "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
             "Seminarraum": [],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [],
+            "Vortragsraum 1 - Ahlam - H2-1.6": [
+              {
+                "id": 2668,
+                "guid": "26688fbf-7ea1-56a8-aa18-a19cf261a2d0",
+                "logo": "",
+                "date": "2022-12-31T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-2668-mybrainmychoice_es_ist_zeit_fuer_eine_neue_drogenpolitik",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/",
+                "title": "#mybrainmychoice - Es ist Zeit f\u00fcr eine neue Drogenpolitik!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Gespr\u00e4ch",
+                "language": "de",
+                "abstract": "Vorstellung der Initiative #mybrainmychoice. Es sollen 13 Forderungen diskutiert werden f\u00fcr die Entkriminalisierung von Personen, die illegalisierte Drogen nehmen.",
+                "description": "https://www.entkriminalisierung.info",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 187,
+                    "code": "7AXFQL",
+                    "public_name": "Angie",
+                    "biography": "Soziale Arbeit und politischer Aktivismus.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
                 "id": 1265,

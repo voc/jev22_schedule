@@ -1,0 +1,33 @@
+{
+  "id": 2668,
+  "guid": "26688fbf-7ea1-56a8-aa18-a19cf261a2d0",
+  "logo": "",
+  "date": "2022-12-31T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-2668-mybrainmychoice_es_ist_zeit_fuer_eine_neue_drogenpolitik",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/",
+  "title": "#mybrainmychoice - Es ist Zeit f\u00fcr eine neue Drogenpolitik!",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Gespr\u00e4ch",
+  "language": "de",
+  "abstract": "Vorstellung der Initiative #mybrainmychoice. Es sollen 13 Forderungen diskutiert werden f\u00fcr die Entkriminalisierung von Personen, die illegalisierte Drogen nehmen.",
+  "description": "https://www.entkriminalisierung.info",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 187,
+      "code": "7AXFQL",
+      "public_name": "Angie",
+      "biography": "Soziale Arbeit und politischer Aktivismus.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "origin": "forum.freiraeumen.jetzt"
+}

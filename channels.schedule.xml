@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 23:30</version>
+  <version>2022-12-24 00:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -138,13 +138,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <links/>
         <attachments/>
       </event>
-      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1727,10 +1727,35 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <links/>
         <attachments/>
       </event>
+      <event id="4985" guid="4fb985fc-b2a9-5fa7-b8c8-6925415a6cde">
+        <logo>/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png</logo>
+        <date>2022-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
+        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverhältnissen</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein kurzer Exkurs, warum Wählen gehen für jüngere Generationen in Zukunft immer wichtiger wird und Konzepte wie Deutsche Wohnen &amp; Co enteignen wahrscheinlich nicht weit genug gehen.</abstract>
+        <description>Ein theoretischer Vortrag mit einer uterhaltsamen Präsentation über die Zukunft von Deutschland. Basierend auf den Überlegungen von Stefan Schulz, Autor von 'die Alten Republik' wird unter Berücksichtigung der aktuellen Zahlen und Wählerverhalten, insbesondere dem der sogenannten Boomer-Generation, wird Wählen trotz einer antiautoritären Grundhaltung zur Bürgerpflicht. Aus der relativ düsteren Prognose leitet sich die weiterführende Überlegung ab, dass Ideen, wie 'Deutsche Wohnen &amp; Co enteignen!' nicht durchdacht genug sind. Wohnbesitz wird in Zukunft wieder mehr Machtmittel sein, vergleiche dazu Oliver Webers Überlegungen bei Jung und Naiv. Da der Wohnraum auch überwiegend in Besitz der Boomer ist, laufen beide Themen parallel. Im Vortrag geht es weniger um einen Lösungsvorschlag als viel mehr darum eine Idee weiter zu tragen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="173">Lorenz Wittmann</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="755" guid="e0d7fd5b-5fd5-59f4-a508-e21c3c99251e">
         <logo/>
-        <date>2022-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2022-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
         <duration>01:31</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-755-kampf_um_die_a49</slug>
@@ -3363,7 +3388,33 @@ You can also spectate the event on PeerTube.</description>
     <room name="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="Seminarraum"/>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb"/>
+    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+      <event id="2668" guid="26688fbf-7ea1-56a8-aa18-a19cf261a2d0">
+        <logo/>
+        <date>2022-12-31T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-2668-mybrainmychoice_es_ist_zeit_fuer_eine_neue_drogenpolitik</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/</url>
+        <title>#mybrainmychoice - Es ist Zeit für eine neue Drogenpolitik!</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Gespräch</type>
+        <language>de</language>
+        <abstract>Vorstellung der Initiative #mybrainmychoice. Es sollen 13 Forderungen diskutiert werden für die Entkriminalisierung von Personen, die illegalisierte Drogen nehmen.</abstract>
+        <description>https://www.entkriminalisierung.info</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="187">Angie</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
         <logo>/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg</logo>
