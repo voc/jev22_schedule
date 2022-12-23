@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 12:30</version>
+  <version>2022-12-23 12:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -703,8 +703,10 @@ Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Softwa
         <language>de</language>
         <abstract>Schokolade essen? Das kann doch jeder!&#13;
 Richtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. &#13;
-Dennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen ein Stück Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.</abstract>
-        <description>Ein Workshop der besonderen Art.</description>
+Dennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein Stück Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.</abstract>
+        <description>Ein Workshop der besonderen Art.&#13;
+Hinweis:&#13;
+Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es für dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.</description>
         <recording>
           <license/>
           <optout>true</optout>
@@ -1656,7 +1658,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <persons>
           <person id="138">Forum für Freiraum</person>
           <person id="163">Blueprint For Free Speech</person>
-          <person id="195">Mona</person>
+          <person id="195">Deleted User</person>
         </persons>
         <links/>
         <attachments/>

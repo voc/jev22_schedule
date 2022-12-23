@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 12:30",
+    "version": "2022-12-23 12:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1087,8 +1087,8 @@
                 "track": "Erlangen",
                 "type": "Workshop",
                 "language": "de",
-                "abstract": "Schokolade essen? Das kann doch jeder!\r\nRichtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. \r\nDennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen ein St\u00fcck Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.",
-                "description": "Ein Workshop der besonderen Art.",
+                "abstract": "Schokolade essen? Das kann doch jeder!\r\nRichtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. \r\nDennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein St\u00fcck Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.",
+                "description": "Ein Workshop der besonderen Art.\r\nHinweis:\r\nBei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es f\u00fcr dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -2195,8 +2195,8 @@
                   {
                     "id": 195,
                     "code": "NLE7VT",
-                    "public_name": "Mona",
-                    "biography": null,
+                    "public_name": "Deleted User",
+                    "biography": "",
                     "answers": []
                   }
                 ],
