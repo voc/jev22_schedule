@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 10:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 10:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
+  <version>2022-12-23 12:10; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 12:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -759,7 +759,7 @@ Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-0
     </room>
     <room name="Lounge"/>
     <room name="Spezial Raum"/>
-    <room name="Winterchaos"/>
+    <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Theater Hall E.T.I." guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49283" guid="e862d07c-114a-56ef-b93f-4dc00f695296">
         <logo/>
@@ -3425,14 +3425,14 @@ It then breaks down roughly like this:&#13;
       </event>
     </room>
     <room name="Spezial Raum"/>
-    <room name="Winterchaos">
+    <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="2814" guid="7a0fc001-e587-47e1-b378-b6ec7e666337">
         <logo/>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2814-internal_penetration_testing_basics</slug>
+        <slug>jev22-2814-internal-network-penetration-testing-basics</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2814-internal-network-penetration-testing-basics</url>
         <title>Internal Penetration Testing Basics</title>
         <subtitle/>
@@ -3457,7 +3457,7 @@ It then breaks down roughly like this:&#13;
         <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2815-eine_einfuehrung_in_post_quantum_kryptographie</slug>
+        <slug>jev22-2815-eine-einfuehrung-in-post-quantum-kryptographie</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2815-eine-einfuehrung-in-post-quantum-kryptographie</url>
         <title>Eine Einführung in Post-Quantum Kryptographie</title>
         <subtitle/>
@@ -3482,7 +3482,7 @@ It then breaks down roughly like this:&#13;
         <start>17:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2817-automating_and_managing_an_iot_fleet_using_git</slug>
+        <slug>jev22-2817-how-to-manage-an-iot-fleet-with-oss</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss</url>
         <title>Automating and Managing an IoT Fleet Using Git</title>
         <subtitle/>
@@ -3507,7 +3507,7 @@ It then breaks down roughly like this:&#13;
         <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2818-open_source_luftqualitaets_monitoring_fuer_zuhause</slug>
+        <slug>jev22-2818-opensource-luftqualitaets-monitoring-fuer-zuhause</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2818-opensource-luftqualitaets-monitoring-fuer-zuhause</url>
         <title>Open Source Luftqualitäts-Monitoring für Zuhause</title>
         <subtitle/>
@@ -3532,7 +3532,7 @@ It then breaks down roughly like this:&#13;
         <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2820-how_we_founded_a_citizen_television_station</slug>
+        <slug>jev22-2820-how-we-founded-a-citizen-television-station</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2820-how-we-founded-a-citizen-television-station</url>
         <title>How We Founded a Citizen Television Station</title>
         <subtitle/>
@@ -6190,14 +6190,14 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <attachments/>
       </event>
     </room>
-    <room name="Winterchaos">
+    <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="2914" guid="3bf66ab7-1209-4f67-acd4-0fc919dba150">
         <logo/>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2914-random_intro_to_vsphere</slug>
+        <slug>jev22-2914-random-intro-to-vsphere</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2914-random-intro-to-vsphere</url>
         <title>Random Intro to vSphere</title>
         <subtitle/>
@@ -6222,7 +6222,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2915-nitratauswaschung_aus_der_landwirtschaft_ins_grundwasser</slug>
+        <slug>jev22-2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2915-nitratauswaschung-aus-der-landwirtschaft-ins-grundwasser</url>
         <title>Nitratauswaschung aus der Landwirtschaft ins Grundwasser</title>
         <subtitle/>
@@ -6273,7 +6273,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte</slug>
+        <slug>jev22-2918-thank-you-for-your-data</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data</url>
         <title>«Thank you for your data» oder weshalb uns das Thema Data Analytics interessieren sollte</title>
         <subtitle/>
@@ -6300,7 +6300,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2920-der_frosch_im_wasserglas</slug>
+        <slug>jev22-2920-der-frosch-im-wasserglas</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2920-der-frosch-im-wasserglas</url>
         <title>Der Frosch im Wasserglas</title>
         <subtitle/>
@@ -6325,7 +6325,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <start>21:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>
+        <slug>jev22-2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/2921-real-citizens-living-in-an-ai-painted-model-of-rheinfelden</url>
         <title>Real citizens of Rheinfelden living in an AI painted model of Jakob Strassers hometown</title>
         <subtitle/>
@@ -8563,14 +8563,14 @@ You can also spectate the event on PeerTube.</description>
     <room name="Rave Cave"/>
     <room name="Lounge"/>
     <room name="Spezial Raum"/>
-    <room name="Winterchaos">
+    <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="3014" guid="fdfad7ee-e1ed-48e0-8f52-0946315b5d38">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3014-diy_ledcubes</slug>
+        <slug>jev22-3014-diy-ledcubes</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3014-diy-ledcubes</url>
         <title>DIY LedCubes</title>
         <subtitle/>
@@ -8595,7 +8595,7 @@ You can also spectate the event on PeerTube.</description>
         <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
+        <slug>jev22-3015-cad-workshop-fuer-anfaenger</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger</url>
         <title>CAD-Workshop für Anfänger - Modelle für 3D-Druck, CNC-Fräsen und Laser-Cutter designen</title>
         <subtitle/>
@@ -8621,7 +8621,7 @@ You can also spectate the event on PeerTube.</description>
         <start>17:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3017-what_we_have_lost</slug>
+        <slug>jev22-3017-what-we-have-lost-the-japanese-5th-generation-computer-project</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3017-what-we-have-lost-the-japanese-5th-generation-computer-project</url>
         <title>What we have lost: The Japanese 5th Generation Computer Project</title>
         <subtitle/>
@@ -8646,7 +8646,7 @@ You can also spectate the event on PeerTube.</description>
         <start>18:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3018-git</slug>
+        <slug>jev22-3018-git-lets-fck-up-history-and-then-restore-it</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it</url>
         <title>Git: Let's f*ck up history, and then restore it</title>
         <subtitle/>
@@ -8671,7 +8671,7 @@ You can also spectate the event on PeerTube.</description>
         <start>20:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3020-modular_synth</slug>
+        <slug>jev22-3020-modular-synth</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth</url>
         <title>Modular Synth</title>
         <subtitle/>
@@ -9468,7 +9468,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
     <room name="Rave Cave"/>
     <room name="Lounge"/>
     <room name="Spezial Raum"/>
-    <room name="Winterchaos"/>
+    <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Theater Hall E.T.I." guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="Track 2 room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
     <room name="workshop room 3" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>

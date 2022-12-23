@@ -1,12 +1,12 @@
 {
-  "id": "2918",
+  "id": 2918,
   "guid": "32e05682-5e39-420b-8252-1b8ff98a77e8",
   "logo": "",
   "date": "2022-12-29T18:00:00+01:00",
   "start": "18:00",
   "duration": "00:45",
   "room": "Winterchaos",
-  "slug": "jev22-2918-thank_you_for_your_data_oder_weshalb_uns_das_thema_data_analytics_interessieren_sollte",
+  "slug": "jev22-2918-thank-you-for-your-data",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2918-thank-you-for-your-data",
   "title": "\u00abThank you for your data\u00bb oder weshalb uns das Thema Data Analytics interessieren sollte",
   "subtitle": "",
@@ -22,26 +22,23 @@
       "id": 10,
       "code": "BAS10",
       "public_name": "Basil",
-      "biography": "",
-      "answers": []
+      "biography": ""
     },
     {
       "id": 11,
       "code": "NAD11",
       "public_name": "Nadja",
-      "biography": "",
-      "answers": []
+      "biography": ""
     },
     {
       "id": 12,
       "code": "SEA12",
       "public_name": "Sean",
-      "biography": "",
-      "answers": []
+      "biography": ""
     }
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99411f15-7335-4d36-abac-3ff0419ec954",
   "origin": "laborluxeria.github.io"
 }

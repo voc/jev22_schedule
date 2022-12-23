@@ -1,12 +1,12 @@
 {
-  "id": "2817",
+  "id": 2817,
   "guid": "ca1422da-d66a-4aff-844e-79d6857fad3b",
   "logo": "",
   "date": "2022-12-28T17:00:00+01:00",
   "start": "17:00",
   "duration": "00:45",
   "room": "Winterchaos",
-  "slug": "jev22-2817-automating_and_managing_an_iot_fleet_using_git",
+  "slug": "jev22-2817-how-to-manage-an-iot-fleet-with-oss",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/2817-how-to-manage-an-iot-fleet-with-oss",
   "title": "Automating and Managing an IoT Fleet Using Git",
   "subtitle": "",
@@ -22,12 +22,11 @@
       "id": 2,
       "code": "MAT2",
       "public_name": "Matthias",
-      "biography": "",
-      "answers": []
+      "biography": ""
     }
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99411f15-7335-4d36-abac-3ff0419ec954",
   "origin": "laborluxeria.github.io"
 }

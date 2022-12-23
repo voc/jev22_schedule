@@ -1,12 +1,12 @@
 {
-  "id": "3020",
+  "id": 3020,
   "guid": "98cb6023-46d6-41dd-85d8-17d43dcaf8a0",
   "logo": "",
   "date": "2022-12-30T20:00:00+01:00",
   "start": "20:00",
   "duration": "00:45",
   "room": "Winterchaos",
-  "slug": "jev22-3020-modular_synth",
+  "slug": "jev22-3020-modular-synth",
   "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3020-modular-synth",
   "title": "Modular Synth",
   "subtitle": "",
@@ -22,12 +22,11 @@
       "id": 13,
       "code": "CYR13",
       "public_name": "Cyrill",
-      "biography": "",
-      "answers": []
+      "biography": ""
     }
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99411f15-7335-4d36-abac-3ff0419ec954",
   "origin": "laborluxeria.github.io"
 }

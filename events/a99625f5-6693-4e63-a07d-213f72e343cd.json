@@ -1,5 +1,5 @@
 {
-  "id": "2917",
+  "id": 2917,
   "guid": "a99625f5-6693-4e63-a07d-213f72e343cd",
   "logo": "",
   "date": "2022-12-29T17:00:00+01:00",
@@ -22,19 +22,17 @@
       "id": 8,
       "code": "PAS8",
       "public_name": "Pascal",
-      "biography": "",
-      "answers": []
+      "biography": ""
     },
     {
       "id": 9,
       "code": "JOR9",
       "public_name": "Jorgo",
-      "biography": "",
-      "answers": []
+      "biography": ""
     }
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99411f15-7335-4d36-abac-3ff0419ec954",
   "origin": "laborluxeria.github.io"
 }
