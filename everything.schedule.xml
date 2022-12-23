@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 14:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 14:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
+  <version>2022-12-23 16:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 16:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.24</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2845,10 +2845,18 @@ Aber Vorsicht: Das wird kein Vortrag, Austausch ist ernst gemeint ;)</descriptio
         <type>Talk</type>
         <language>de</language>
         <abstract>Eine einfache Vorstellung von  IPv6</abstract>
-        <description>IPv6 an Beispielen gezeigt.  Mit Erlaeuterungen der Begriffe. Dazu Referenzen und Literaturhinweise.&#13;
-Vorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. Das geschieht nur per IPv6 aber ohne (zusätzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.&#13;
-Einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
-Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit Clemens Schrimpe https://requestforcomments.de/archives/412</description>
+        <description>IPv6 an Beispielen gezeigt.  &#13;
+&#13;
+Mit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
+Dazu Referenzen und Literaturhinweise.&#13;
+&#13;
+Vorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. &#13;
+Das geschieht nur per IPv6 aber ohne (zusätzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.&#13;
+&#13;
+Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit Clemens Schrimpe https://requestforcomments.de/archives/412&#13;
+&#13;
+Zum Mitlesen wird der Vortrag hier abrufbar sein: &#13;
+https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/IPv6-verbinden_und_ergaenzende_Erlaeuterungen.html</description>
         <recording>
           <license/>
           <optout>false</optout>
