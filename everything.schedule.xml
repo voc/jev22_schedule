@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 02:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 02:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
+  <version>2022-12-23 09:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 09:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7026,7 +7026,7 @@ Außerdem wollen wir ein paar Überlegungen teilen, was diese Repression gegen d
 Darüber hinaus werden wir erläutern, weshalb die Antwort auf die Repression nicht sein kann, sich aus diesen Kämpfen zurückzuziehen und weshalb wir weiterhin eine große Notwendigkeit, aber auch ein viel größeres Potential in den Kämpfen um die öffentliche Mobilität erkennen.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
