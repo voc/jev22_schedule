@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 17:10</version>
+  <version>2022-12-23 17:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1617,6 +1617,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
           <person id="138">Forum für Freiraum</person>
           <person id="163">Blueprint For Free Speech</person>
           <person id="195">Deleted User</person>
+          <person id="198">Arbeitskreis kritischer Jurist*innen</person>
         </persons>
         <links/>
         <attachments/>

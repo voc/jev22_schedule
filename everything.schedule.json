@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 17:10; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 17:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
+    "version": "2022-12-23 17:30; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 17:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.24",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -6143,6 +6143,13 @@
                     "code": "NLE7VT",
                     "public_name": "Deleted User",
                     "biography": "",
+                    "answers": []
+                  },
+                  {
+                    "id": 198,
+                    "code": "CTUZ7V",
+                    "public_name": "Arbeitskreis kritischer Jurist*innen",
+                    "biography": null,
                     "answers": []
                   }
                 ],
