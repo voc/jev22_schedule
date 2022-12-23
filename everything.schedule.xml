@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 00:10; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.0; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 00:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
+  <version>2022-12-23 01:10; FireShonks 0.22; Hacking in Parallel 0.6; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 01:10; Winterchaos 0.1; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3032,32 +3032,6 @@ Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit C
         <links/>
         <attachments/>
       </event>
-      <event id="2482" guid="a2482fb7-b3b9-51a4-b0d5-75e251fa6fce">
-        <logo>/media/rtc22/submissions/3QSJYT/3d-pentagame-gegenlicht-klein_qlwOLCS.jpg</logo>
-        <date>2022-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
-        <slug>jev22-2482-neues_aus_der_pentagame_forschung</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/3QSJYT/</url>
-        <title>Neues aus der Pentagame-Forschung</title>
-        <subtitle/>
-        <track/>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Neues aus der Pentagame-Forschung: | KI spielt Pentagame und praktisch unschlagbar | Komplexitätsvorhersagen dadurch bestätigt | Geek^3: Das 3D-Pentagame vor Ort | Release Pentagame-Server | Verteiltes Pentagame-Turnier während der HiP-Zeit | Schönheitswettbewerb Pentagame-(3D-Druck)-Figuren</abstract>
-        <description>Pentagame ist ein abstraktes Brettspiel beliebt im Chaos-Umfeld. Es hat ein paar Eigenschaften, die es für die Spielforschung und Spieltheorie besonders interessant machen. Entsprechend gibt es immer wieder neue Erkenntnisse. Eine davon ist, dass es eigentlich gar nicht so sehr ein Brettspiel, sondern eine zweidimensionale Projektion eines dreidimensionalen Körpers ist. Genauer gesagt ist es ein "Pentagon-Antiprisma" und damit ein "Körperspiel" und kein "Brettspiel". - Davon ungeachtet stellen reden wir über die Herausforderungen der Umsetzung eines Pentagame-Servers, den Spaß eigene Figuren herzustellen, magnetische Spielbretter, besondere Stratetegien, Künstliche Intelligenz und die alten Griechen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="22">penta</person>
-          <person id="23">Mike Ziebeck</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="3857" guid="3857781d-01fe-5eb6-85e4-23c38dcb1205">
         <logo>/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png</logo>
         <date>2022-12-28T19:30:00+01:00</date>
@@ -3177,6 +3151,33 @@ Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.
         </recording>
         <persons>
           <person id="5">Gini</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2770" guid="2a7705ac-9e45-586f-9e28-0dca4d39a8b8">
+        <logo/>
+        <date>2022-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>01:30</duration>
+        <room>RTC-Workshop 1 (Sem1)</room>
+        <slug>jev22-2770-entscheidung_im_kollektiv</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/LWTC3C/</url>
+        <title>Entscheidung im Kollektiv</title>
+        <subtitle/>
+        <track/>
+        <type>Präsenzworkshop</type>
+        <language>de</language>
+        <abstract>Wir beschäftigen uns mit unterschiedlichen Wegen, wie Gruppen zu gemeinsam getragenen, konstruktiven Entscheidungen kommen.</abstract>
+        <description>Gruppen, Teams, Kollektive treffen beständig Entscheidungen, die relevant für die gemeinsame Arbeit und für das eigene Selbstverständnis sind. Es gibt in jeder Gruppe dementsprechend Erfahrungen und eine gelebte Praxis. &#13;
+&#13;
+Im Workshop stelle ich unterschiedliche Modi der Entscheidungsfindung vor und wir beschäftigen uns mit deren Vor- und Nachteilen für deren Einsatz im Gruppen-/Teamalltag.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="24">Sebastian Schultz</person>
         </persons>
         <links/>
         <attachments/>
@@ -5699,6 +5700,31 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         </recording>
         <persons>
           <person id="16">bi3n3</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1140" guid="11a4f04b-4db8-5578-8f17-66fdb4ae8f98">
+        <logo>/media/rtc22/submissions/GURA8Y/CK3233post_yrIBim5.jpg</logo>
+        <date>2022-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:30</duration>
+        <room>RTC-Bühne (Sparti)</room>
+        <slug>jev22-1140-citizen_kino</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/GURA8Y/</url>
+        <title>CiTiZEN KiNO: ( #95 ) Organisms vs. Automatons ( revisited )</title>
+        <subtitle/>
+        <track/>
+        <type>Performance</type>
+        <language>de</language>
+        <abstract>CiTiZEN KiNO is a series of live events using curated films + media bits to collectively navigate our challenging times. An interventionist cinema environment, a situationist art and a hacking of the screens. Participation + discussion encouraged !</abstract>
+        <description>C-KiNO #95 will be an updated version of our episode presented at Bits Und Baume at TU Berlin in Oktober 2022.  For Chaos in Potsdam we would like to provide a brief report back on our experiences at BnB conferences ( both 2018 and 22 ) along with our ongoing work related to the controversial "Anthropocene" and "Technosphere" framings of our ecological and social crises. We share our "XLterrestrials" ( i.e. alien, sci-fi and indigenous-inclusive ) analysis and critical perspectives. And we encourage questions, discussion and debate.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="29">Paolo Podrescu</person>
         </persons>
         <links/>
         <attachments/>

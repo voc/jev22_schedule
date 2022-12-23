@@ -1,0 +1,33 @@
+{
+  "id": 1140,
+  "guid": "11a4f04b-4db8-5578-8f17-66fdb4ae8f98",
+  "logo": "/media/rtc22/submissions/GURA8Y/CK3233post_yrIBim5.jpg",
+  "date": "2022-12-29T22:30:00+01:00",
+  "start": "22:30",
+  "duration": "01:30",
+  "room": "RTC-B\u00fchne (Sparti)",
+  "slug": "jev22-1140-citizen_kino",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/GURA8Y/",
+  "title": "CiTiZEN KiNO: ( #95 ) Organisms vs. Automatons ( revisited )",
+  "subtitle": "",
+  "track": null,
+  "type": "Performance",
+  "language": "de",
+  "abstract": "CiTiZEN KiNO is a series of live events using curated films + media bits to collectively navigate our challenging times. An interventionist cinema environment, a situationist art and a hacking of the screens. Participation + discussion encouraged !",
+  "description": "C-KiNO #95 will be an updated version of our episode presented at Bits Und Baume at TU Berlin in Oktober 2022.  For Chaos in Potsdam we would like to provide a brief report back on our experiences at BnB conferences ( both 2018 and 22 ) along with our ongoing work related to the controversial \"Anthropocene\" and \"Technosphere\" framings of our ecological and social crises. We share our \"XLterrestrials\" ( i.e. alien, sci-fi and indigenous-inclusive ) analysis and critical perspectives. And we encourage questions, discussion and debate.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 29,
+      "code": "TBTNQG",
+      "public_name": "Paolo Podrescu",
+      "biography": "We are the XLterrestrials. We have come to decolonize planet earth ( again ) !",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6f12618c-0f1c-4318-a201-099152f86ac0",
+  "origin": "cfp.ccc-p.org"
+}

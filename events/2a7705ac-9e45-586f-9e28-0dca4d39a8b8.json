@@ -1,0 +1,33 @@
+{
+  "id": 2770,
+  "guid": "2a7705ac-9e45-586f-9e28-0dca4d39a8b8",
+  "logo": "",
+  "date": "2022-12-28T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:30",
+  "room": "RTC-Workshop 1 (Sem1)",
+  "slug": "jev22-2770-entscheidung_im_kollektiv",
+  "url": "https://cfp.ccc-p.org/rtc22/talk/LWTC3C/",
+  "title": "Entscheidung im Kollektiv",
+  "subtitle": "",
+  "track": null,
+  "type": "Pr\u00e4senzworkshop",
+  "language": "de",
+  "abstract": "Wir besch\u00e4ftigen uns mit unterschiedlichen Wegen, wie Gruppen zu gemeinsam getragenen, konstruktiven Entscheidungen kommen.",
+  "description": "Gruppen, Teams, Kollektive treffen best\u00e4ndig Entscheidungen, die relevant f\u00fcr die gemeinsame Arbeit und f\u00fcr das eigene Selbstverst\u00e4ndnis sind. Es gibt in jeder Gruppe dementsprechend Erfahrungen und eine gelebte Praxis. \r\n\r\nIm Workshop stelle ich unterschiedliche Modi der Entscheidungsfindung vor und wir besch\u00e4ftigen uns mit deren Vor- und Nachteilen f\u00fcr deren Einsatz im Gruppen-/Teamalltag.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 24,
+      "code": "PSRTEV",
+      "public_name": "Sebastian Schultz",
+      "biography": "Ich bin selbst\u00e4ndig im Bereich systemische Team- und Organisationsentwicklung und Coaching.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
+  "origin": "cfp.ccc-p.org"
+}
