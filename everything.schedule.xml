@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-24 00:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 00:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-24 00:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 00:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2630,14 +2630,17 @@ In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Sta
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver</abstract>
         <description>In diesem Vortrag geht es darum was man mit einem günstigen Sat-Receiver so anstellen kann, außer Fernsehen zu gucken. Dabei handelt es sich nämlich um einen kleinen Computer der auch gehackt werden kann. Es geht um Firmware-Formate, Framebuffer, Eigenheiten der MIPS-Architektur, und ein bisschen Linux.&#13;
 &#13;
 &#13;
 [EN]&#13;
 &#13;
-In this talk, I will talk about the things that can be done with a cheap sat receiver, aside from watching TV. It turns out to be a little computer that can be hacked. There will be firmware file formats, framebuffers, idiosyncracies of the MIPS architecture, and a little bit of Linux.</description>
+In this talk, I will talk about the things that can be done with a cheap sat receiver, aside from watching TV. It turns out to be a little computer that can be hacked. There will be firmware file formats, framebuffers, idiosyncracies of the MIPS architecture, and a little bit of Linux.&#13;
+&#13;
+&#13;
+Project page: https://github.com/neuschaefer/m88cs8001</description>
         <recording>
           <license/>
           <optout>false</optout>
