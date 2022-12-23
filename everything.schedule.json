@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-23 21:30; FireShonks 0.23; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 21:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.26",
+    "version": "2022-12-23 22:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 22:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.26",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -708,11 +708,42 @@
                 "attachments": []
               },
               {
+                "id": 49311,
+                "guid": "e1b47cd7-12a0-56a9-ae70-b917594704af",
+                "logo": "",
+                "date": "2022-12-27T13:45:00+01:00",
+                "start": "13:45",
+                "duration": "01:45",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-49311-das_fediverse_steht_fuer_vielfalt_nicht_fuer_einfalt",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/",
+                "title": "Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt",
+                "subtitle": "",
+                "track": "Digitalcourage",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen.",
+                "description": "Was wir gerade sehen ist das Mastodon f\u00fcr viele f\u00fcr das Fediverse gehalten wird. Was ist schade. \r\nEine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das l\u00e4sst sich nun auch angehen nachdem die mediale \u00d6ffentlichkeit mal ein wenig geweckt ist - jetzt kann es weitergehen.\r\n\r\nBlogging, Filesharing, Teilen von Wikis und Events \u2013 Hubzilla (https://hubzilla.org) ist der Allesk\u00f6nner im dezentralen Fediverse. Mit einem feinen Zugriffsrechtesystem k\u00f6nnt ihr genau bestimmen, wer was sehen darf bzw. inwieweit Ihr \u00f6ffentlich oder privat agieren m\u00f6chten. Mit einer \u201enomadischen Identit\u00e4t\u201c ist der Umzug eines Accounts von einem Server zum andern m\u00f6glich, ohne dass Inhalte verloren gehen. Ein eigener Hubzilla-Server ist \u00e4hnlich einfach installiert wie eine WordPress-Webseite. Hubzilla erm\u00f6glicht es, sich wirklich m\u00fcndig und souver\u00e4n in einem sozialen Netzwerk zu bewegen. Der Talk mit Chris Burger erm\u00f6glicht euch erste Einblicke.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3421,
+                    "code": "BNPCQG",
+                    "public_name": "chris",
+                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt - Seit 2017 im Fediverse",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49176,
                 "guid": "8f131864-e139-5bd1-b7f0-31620bf319c4",
                 "logo": "",
-                "date": "2022-12-27T15:30:00+01:00",
-                "start": "15:30",
+                "date": "2022-12-27T16:00:00+01:00",
+                "start": "16:00",
                 "duration": "00:40",
                 "room": "Fireshonks-Stream",
                 "slug": "jev22-49176-swarm_support_tools_digitalcourage_free_software",
@@ -871,6 +902,37 @@
               }
             ],
             "Fireshonks-Workshop": [
+              {
+                "id": 49312,
+                "guid": "581ddee3-911d-5fac-bc46-2892feb474b0",
+                "logo": "",
+                "date": "2022-12-27T11:45:00+01:00",
+                "start": "11:45",
+                "duration": "01:30",
+                "room": "Fireshonks-Workshop",
+                "slug": "jev22-49312-mein_fedi_server",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
+                "title": "Mein FEDI Server",
+                "subtitle": "",
+                "track": "Digitalcourage",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "installiere Dir deinen eigenen FEDI Server",
+                "description": "Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle \u00fcber seine Daten und kann eigenverantwortlich handeln.\r\n\r\nIn diesem Workshop unterst\u00fctzt Chris Burger die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers. Der Workshop baut auf die zwei vorhergegangenen Workshops \"Ab ins Fediverse\"\u00a0und \"Hubzilla - Netzwerke die uns geh\u00f6ren\" auf und setzt ein Grundverst\u00e4ndnis f\u00fcr das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung f\u00fcr dieses Workshopangebot mit. Die Installationen erfolgen \u00fcber einen Testaccout, der f\u00fcr die Teilnehmenden unentgeltlich zur Verf\u00fcgung gestellt wird.\u00a0Zum Aktivieren m\u00fcssen die Teilnehmenden \u00fcber einen Email-Account verf\u00fcgen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3421,
+                    "code": "BNPCQG",
+                    "public_name": "chris",
+                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt - Seit 2017 im Fediverse",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 49079,
                 "guid": "a266a0da-fe02-551e-936c-53da79fafc69",
@@ -9813,7 +9875,7 @@
                 "logo": "",
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
-                "duration": "00:20",
+                "duration": "00:40",
                 "room": "Fireshonks-Stream",
                 "slug": "jev22-49114-text_embeddings_fuer_anfaenger",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/",

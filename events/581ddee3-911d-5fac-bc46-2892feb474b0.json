@@ -1,0 +1,33 @@
+{
+  "id": 49312,
+  "guid": "581ddee3-911d-5fac-bc46-2892feb474b0",
+  "logo": "",
+  "date": "2022-12-27T11:45:00+01:00",
+  "start": "11:45",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49312-mein_fedi_server",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
+  "title": "Mein FEDI Server",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "installiere Dir deinen eigenen FEDI Server",
+  "description": "Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle \u00fcber seine Daten und kann eigenverantwortlich handeln.\r\n\r\nIn diesem Workshop unterst\u00fctzt Chris Burger die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers. Der Workshop baut auf die zwei vorhergegangenen Workshops \"Ab ins Fediverse\"\u00a0und \"Hubzilla - Netzwerke die uns geh\u00f6ren\" auf und setzt ein Grundverst\u00e4ndnis f\u00fcr das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung f\u00fcr dieses Workshopangebot mit. Die Installationen erfolgen \u00fcber einen Testaccout, der f\u00fcr die Teilnehmenden unentgeltlich zur Verf\u00fcgung gestellt wird.\u00a0Zum Aktivieren m\u00fcssen die Teilnehmenden \u00fcber einen Email-Account verf\u00fcgen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3421,
+      "code": "BNPCQG",
+      "public_name": "chris",
+      "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt - Seit 2017 im Fediverse",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

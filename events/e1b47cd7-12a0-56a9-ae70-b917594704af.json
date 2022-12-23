@@ -1,0 +1,33 @@
+{
+  "id": 49311,
+  "guid": "e1b47cd7-12a0-56a9-ae70-b917594704af",
+  "logo": "",
+  "date": "2022-12-27T13:45:00+01:00",
+  "start": "13:45",
+  "duration": "01:45",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49311-das_fediverse_steht_fuer_vielfalt_nicht_fuer_einfalt",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/",
+  "title": "Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen.",
+  "description": "Was wir gerade sehen ist das Mastodon f\u00fcr viele f\u00fcr das Fediverse gehalten wird. Was ist schade. \r\nEine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das l\u00e4sst sich nun auch angehen nachdem die mediale \u00d6ffentlichkeit mal ein wenig geweckt ist - jetzt kann es weitergehen.\r\n\r\nBlogging, Filesharing, Teilen von Wikis und Events \u2013 Hubzilla (https://hubzilla.org) ist der Allesk\u00f6nner im dezentralen Fediverse. Mit einem feinen Zugriffsrechtesystem k\u00f6nnt ihr genau bestimmen, wer was sehen darf bzw. inwieweit Ihr \u00f6ffentlich oder privat agieren m\u00f6chten. Mit einer \u201enomadischen Identit\u00e4t\u201c ist der Umzug eines Accounts von einem Server zum andern m\u00f6glich, ohne dass Inhalte verloren gehen. Ein eigener Hubzilla-Server ist \u00e4hnlich einfach installiert wie eine WordPress-Webseite. Hubzilla erm\u00f6glicht es, sich wirklich m\u00fcndig und souver\u00e4n in einem sozialen Netzwerk zu bewegen. Der Talk mit Chris Burger erm\u00f6glicht euch erste Einblicke.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3421,
+      "code": "BNPCQG",
+      "public_name": "chris",
+      "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt - Seit 2017 im Fediverse",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}
