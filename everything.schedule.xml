@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-23 02:29; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 02:29; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
+  <version>2022-12-23 02:50; FireShonks 0.22; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.2; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-23 02:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.1; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.21</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -8390,8 +8390,8 @@ I will wander around the event and ask you about your project. If you are intere
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3416">Christoph Göbel</person>
           <person id="3419">Mayo Freude</person>
+          <person id="3416">Christoph Göbel</person>
         </persons>
         <links/>
         <attachments/>
