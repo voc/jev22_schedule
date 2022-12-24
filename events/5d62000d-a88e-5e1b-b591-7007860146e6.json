@@ -5,7 +5,7 @@
   "date": "2022-12-30T15:00:00+01:00",
   "start": "15:00",
   "duration": "00:30",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-5620-das_matrix_protokoll",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/",
   "title": "Das Matrix-Protokoll",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

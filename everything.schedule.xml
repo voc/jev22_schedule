@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-24 11:55; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 11:55; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-24 12:21; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 12:21; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -551,7 +551,7 @@ anonymised.</abstract>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="ChilyConChaos">
-      <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1007">
+      <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1000">
         <title>Raspberry Pi Pico mit CircuitPy</title>
         <subtitle/>
         <abstract>Christian "CWB" Wenzel-Benner</abstract>
@@ -563,16 +563,47 @@ anonymised.</abstract>
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Other</type>
-        <slug>jev22-1007-raspberry_pi_pico_mit_circuitpy</slug>
+        <slug>jev22-1000-raspberry_pi_pico_mit_circuitpy</slug>
       </event>
     </room>
-    <room name="Seminarraum">
+    <room name="Rave Cave">
+      <event id="6931" guid="69c3158b-3b1e-53f5-802c-31258611f7e6">
+        <logo/>
+        <date>2022-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-6931-drum_n_bass_dj_set</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/</url>
+        <title>Drum'n'Bass DJ-Set</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.</abstract>
+        <description>Servus! Corny hier von nbgsubculture.&#13;
+Ich lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und möchte gerne eure Veranstaltung beschallen.&#13;
+Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">c0rny</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Lounge"/>
+    <room name="Spezial Raum"/>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
         <date>2022-12-27T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:45</duration>
-        <room>Seminarraum</room>
+        <room>WICMP Seminarraum</room>
         <slug>jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
         <title>GNU Taler -- mit Krypto bezahlen ohne Blockchain?</title>
@@ -599,7 +630,7 @@ Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
         <date>2022-12-27T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>00:30</duration>
-        <room>Seminarraum</room>
+        <room>WICMP Seminarraum</room>
         <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
         <title>Werd Dein eigener ISPv6</title>
@@ -636,7 +667,7 @@ Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</descri
         <date>2022-12-27T17:45:00+01:00</date>
         <start>17:45</start>
         <duration>00:30</duration>
-        <room>Seminarraum</room>
+        <room>WICMP Seminarraum</room>
         <slug>jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/</url>
         <title>Nix gelernt und eine Einführung in das Thema IaC</title>
@@ -664,37 +695,6 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <attachments/>
       </event>
     </room>
-    <room name="Rave Cave">
-      <event id="6931" guid="69c3158b-3b1e-53f5-802c-31258611f7e6">
-        <logo/>
-        <date>2022-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-6931-drum_n_bass_dj_set</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/</url>
-        <title>Drum'n'Bass DJ-Set</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.</abstract>
-        <description>Servus! Corny hier von nbgsubculture.&#13;
-Ich lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und möchte gerne eure Veranstaltung beschallen.&#13;
-Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="16">c0rny</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Lounge"/>
-    <room name="Spezial Raum"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Theater Hall E.T.I." guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49283" guid="e862d07c-114a-56ef-b93f-4dc00f695296">
@@ -3204,7 +3204,7 @@ It then breaks down roughly like this:&#13;
     </room>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="ChilyConChaos">
-      <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="1002">
+      <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="4243">
         <title>Schafkopf lernen</title>
         <subtitle/>
         <abstract/>
@@ -3216,121 +3216,7 @@ It then breaks down roughly like this:&#13;
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Other</type>
-        <slug>jev22-1002-schafkopf_lernen</slug>
-      </event>
-    </room>
-    <room name="Seminarraum">
-      <event id="4958" guid="a49e5c85-1ad9-5e2f-9427-627eb6a77ca3">
-        <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
-        <date>2022-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>01:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
-        <title>Das ZAM im Wandel der Zeit</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Wo sind wir hier eigentlich? Was ist das für ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum für Austausch und Machen.</abstract>
-        <description>Wir möchten euch diesen neuen Ort in der Erlanger Kulturlandschaft erklären und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige Führung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="5">Julian "codemonk"</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="9167" guid="91f6e743-93b2-590f-b64b-1d51bd2673c4">
-        <logo/>
-        <date>2022-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
-        <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungelöstes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?&#13;
-&#13;
-Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Software und deren Anwendungsgebiete.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9">C-Keen</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="9908" guid="9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50">
-        <logo/>
-        <date>2022-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>00:45</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-9908-wie_funktioniert_eigentlich_filmentwicklung</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/</url>
-        <title>Wie funktioniert eigentlich Filmentwicklung?</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Vor 196 Jahren erfand Joseph Niépce die Heliographie, die weltweit erste fotographische Technik.&#13;
-    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach für die gesamte Bevölkerung erschwinglich.&#13;
-    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdrängt.&#13;
-    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdrängt worden.&#13;
-    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der ursprünglichen fotografischen Technik in Berührung zu kommen.&#13;
-    Das ist schade, stellt sie doch eine großartige kulturelle Errungenschaft dar.&#13;
-    In diesem Vortrag möchte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abläuft.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="26">Beowulf</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="6207" guid="6a20a7c8-1c7a-5d01-8de8-cd233b06a34c">
-        <logo/>
-        <date>2022-12-28T17:15:00+01:00</date>
-        <start>17:15</start>
-        <duration>01:00</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-6207-schokolade_essen</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/</url>
-        <title>Schokolade essen</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Schokolade essen? Das kann doch jeder!&#13;
-Richtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. &#13;
-Dennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein Stück Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.</abstract>
-        <description>Ein Workshop der besonderen Art.&#13;
-Hinweis:&#13;
-Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es für dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="21">Roman Stöhr</person>
-        </persons>
-        <links/>
-        <attachments/>
+        <slug>jev22-4243-schafkopf_lernen</slug>
       </event>
     </room>
     <room name="Rave Cave">
@@ -3413,6 +3299,120 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
       </event>
     </room>
     <room name="Spezial Raum"/>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="4958" guid="a49e5c85-1ad9-5e2f-9427-627eb6a77ca3">
+        <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
+        <title>Das ZAM im Wandel der Zeit</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wo sind wir hier eigentlich? Was ist das für ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum für Austausch und Machen.</abstract>
+        <description>Wir möchten euch diesen neuen Ort in der Erlanger Kulturlandschaft erklären und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige Führung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">Julian "codemonk"</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9167" guid="91f6e743-93b2-590f-b64b-1d51bd2673c4">
+        <logo/>
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
+        <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungelöstes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?&#13;
+&#13;
+Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Software und deren Anwendungsgebiete.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9">C-Keen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9908" guid="9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-9908-wie_funktioniert_eigentlich_filmentwicklung</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/</url>
+        <title>Wie funktioniert eigentlich Filmentwicklung?</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Vor 196 Jahren erfand Joseph Niépce die Heliographie, die weltweit erste fotographische Technik.&#13;
+    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach für die gesamte Bevölkerung erschwinglich.&#13;
+    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdrängt.&#13;
+    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdrängt worden.&#13;
+    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der ursprünglichen fotografischen Technik in Berührung zu kommen.&#13;
+    Das ist schade, stellt sie doch eine großartige kulturelle Errungenschaft dar.&#13;
+    In diesem Vortrag möchte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abläuft.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">Beowulf</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6207" guid="6a20a7c8-1c7a-5d01-8de8-cd233b06a34c">
+        <logo/>
+        <date>2022-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>01:00</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-6207-schokolade_essen</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/</url>
+        <title>Schokolade essen</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Schokolade essen? Das kann doch jeder!&#13;
+Richtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. &#13;
+Dennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein Stück Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.</abstract>
+        <description>Ein Workshop der besonderen Art.&#13;
+Hinweis:&#13;
+Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es für dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="21">Roman Stöhr</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="2814" guid="7a0fc001-e587-47e1-b378-b6ec7e666337">
         <logo/>
@@ -6110,7 +6110,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="ChilyConChaos">
-      <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1000">
+      <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1834">
         <title>IT-Sicherheit ist kein Waschmittel</title>
         <subtitle/>
         <abstract/>
@@ -6122,9 +6122,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Talk</type>
-        <slug>jev22-1000-it_sicherheit_ist_kein_waschmittel</slug>
+        <slug>jev22-1834-it_sicherheit_ist_kein_waschmittel</slug>
       </event>
-      <event guid="085c83b8-0c0a-44a8-8b9c-f9c480efd1b1" id="1003">
+      <event guid="085c83b8-0c0a-44a8-8b9c-f9c480efd1b1" id="8583">
         <title>Was ist FragDenStaat.de? 	</title>
         <subtitle/>
         <abstract>Anna, mit Q&amp;A</abstract>
@@ -6136,9 +6136,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Other</type>
-        <slug>jev22-1003-was_ist_fragdenstaat_de</slug>
+        <slug>jev22-8583-was_ist_fragdenstaat_de</slug>
       </event>
-      <event guid="964fb295-5e5c-4bce-beeb-4f52d1e058b0" id="1004">
+      <event guid="964fb295-5e5c-4bce-beeb-4f52d1e058b0" id="9642">
         <title>Amateurfunk mit Kurzwelle, Satellit und Packetradio</title>
         <subtitle/>
         <abstract/>
@@ -6150,9 +6150,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Workshop</type>
-        <slug>jev22-1004-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
+        <slug>jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
       </event>
-      <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="1008">
+      <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="4434">
         <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
         <subtitle/>
         <abstract/>
@@ -6164,9 +6164,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Talk</type>
-        <slug>jev22-1008-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
+        <slug>jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
       </event>
-      <event guid="f509eb97-0aa6-4fb7-bfec-887de9899eaf" id="1009">
+      <event guid="f509eb97-0aa6-4fb7-bfec-887de9899eaf" id="5099">
         <title>Warum fliegt ein Flugzeug</title>
         <subtitle/>
         <abstract/>
@@ -6178,132 +6178,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>auch auf dem Rücken)? (Vortrag</type>
-        <slug>jev22-1009-warum_fliegt_ein_flugzeug</slug>
-      </event>
-    </room>
-    <room name="Seminarraum">
-      <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
-        <logo/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
-        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?&#13;
-Want to get organized and get an efficient overview of all your TODOs?&#13;
-Or already using some concepts and want to go deeper and learn (hopefully) some new tricks?&#13;
-Then join this talk.</abstract>
-        <description>First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind &amp; workflows.&#13;
-&#13;
-Second half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) &#13;
-&#13;
-Third is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.&#13;
-Best way to learn and teach is by communicating, so lets talk!</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="28">MaW</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="2775" guid="2f7757c0-259b-5899-90c4-0690be7a4b35">
-        <logo>/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg</logo>
-        <date>2022-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:45</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-2775-surviving_as_a_nerd_deutsch</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
-        <title>Surviving as a NERD (Deutsch)</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Ein Relationship Survival Guide für Nerds</abstract>
-        <description>Talking Points:&#13;
-Was wir mit Nerd meinen&#13;
-Egoismus vs. Authentisches Selbst&#13;
-Das Ziel&#13;
-Hack dein (sozial) Leben&#13;
-Hack deine Beziehungen</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="13">Akira DeLaine</person>
-          <person id="14">SycretSoul</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="982" guid="be09a825-3f68-5362-b03f-bdae90ce5588">
-        <logo/>
-        <date>2022-12-29T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
-        <title>Schlangenprogrammiernacht – Ein Blick hinter die Kulissen</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein für die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.</abstract>
-        <description>Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!&#13;
-&#13;
-Konkret wird es darum gehen…&#13;
-&#13;
-- wie der Gameserver mit den Bot-Prozessen kommuniziert,&#13;
-- wie die Unterstützung mehrerer Programmiersprachen umgesetzt ist und&#13;
-- wie verhindert wird, dass die User mit ihrem Code das Hostsystem übernehmen.&#13;
-&#13;
-Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="20">Thomas „cfr34k“</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7656" guid="d765694d-8e4c-5eb2-aa64-8815a6693661">
-        <logo>/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg</logo>
-        <date>2022-12-29T16:15:00+01:00</date>
-        <start>16:15</start>
-        <duration>02:00</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
-        <title>Schafkopf für Anfänger</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Mal was Analoges - Schafkopfen für Anfänger:&#13;
-Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="7">MikeTsenatek</person>
-        </persons>
-        <links/>
-        <attachments/>
+        <slug>jev22-5099-warum_fliegt_ein_flugzeug</slug>
       </event>
     </room>
     <room name="Rave Cave">
@@ -6361,6 +6236,131 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         </recording>
         <persons>
           <person id="25">Anke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
+        <logo/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
+        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?&#13;
+Want to get organized and get an efficient overview of all your TODOs?&#13;
+Or already using some concepts and want to go deeper and learn (hopefully) some new tricks?&#13;
+Then join this talk.</abstract>
+        <description>First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind &amp; workflows.&#13;
+&#13;
+Second half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) &#13;
+&#13;
+Third is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.&#13;
+Best way to learn and teach is by communicating, so lets talk!</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="28">MaW</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2775" guid="2f7757c0-259b-5899-90c4-0690be7a4b35">
+        <logo>/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg</logo>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-2775-surviving_as_a_nerd_deutsch</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
+        <title>Surviving as a NERD (Deutsch)</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Relationship Survival Guide für Nerds</abstract>
+        <description>Talking Points:&#13;
+Was wir mit Nerd meinen&#13;
+Egoismus vs. Authentisches Selbst&#13;
+Das Ziel&#13;
+Hack dein (sozial) Leben&#13;
+Hack deine Beziehungen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Akira DeLaine</person>
+          <person id="14">SycretSoul</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="982" guid="be09a825-3f68-5362-b03f-bdae90ce5588">
+        <logo/>
+        <date>2022-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
+        <title>Schlangenprogrammiernacht – Ein Blick hinter die Kulissen</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein für die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.</abstract>
+        <description>Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!&#13;
+&#13;
+Konkret wird es darum gehen…&#13;
+&#13;
+- wie der Gameserver mit den Bot-Prozessen kommuniziert,&#13;
+- wie die Unterstützung mehrerer Programmiersprachen umgesetzt ist und&#13;
+- wie verhindert wird, dass die User mit ihrem Code das Hostsystem übernehmen.&#13;
+&#13;
+Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">Thomas „cfr34k“</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7656" guid="d765694d-8e4c-5eb2-aa64-8815a6693661">
+        <logo>/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg</logo>
+        <date>2022-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>02:00</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
+        <title>Schafkopf für Anfänger</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Mal was Analoges - Schafkopfen für Anfänger:&#13;
+Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="7">MikeTsenatek</person>
         </persons>
         <links/>
         <attachments/>
@@ -8794,7 +8794,7 @@ You can also spectate the event on PeerTube.</description>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="ChilyConChaos">
-      <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="1001">
+      <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
         <title>Securing UnSafe Rust with XRust</title>
         <subtitle/>
         <abstract/>
@@ -8806,9 +8806,9 @@ You can also spectate the event on PeerTube.</description>
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Votrag</type>
-        <slug>jev22-1001-securing_unsafe_rust_with_xrust</slug>
+        <slug>jev22-3249-securing_unsafe_rust_with_xrust</slug>
       </event>
-      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="1005">
+      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
         <title>All about DigitalCourage</title>
         <subtitle/>
         <abstract>Jakob, mit Q&amp;A</abstract>
@@ -8820,16 +8820,19 @@ You can also spectate the event on PeerTube.</description>
         <persons/>
         <track>Gießen/Wetzlar</track>
         <type>Other</type>
-        <slug>jev22-1005-all_about_digitalcourage</slug>
+        <slug>jev22-9365-all_about_digitalcourage</slug>
       </event>
     </room>
-    <room name="Seminarraum">
+    <room name="Rave Cave"/>
+    <room name="Lounge"/>
+    <room name="Spezial Raum"/>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="5136" guid="5c136451-b07a-5290-bda4-838406dc814c">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Seminarraum</room>
+        <room>WICMP Seminarraum</room>
         <slug>jev22-5136-operational_transconductance_amplifiers</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/</url>
         <title>Operational Transconductance Amplifiers</title>
@@ -8858,7 +8861,7 @@ This talk will take top-down approach starting with the operational principles a
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>Seminarraum</room>
+        <room>WICMP Seminarraum</room>
         <slug>jev22-5620-das_matrix_protokoll</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/</url>
         <title>Das Matrix-Protokoll</title>
@@ -8881,9 +8884,6 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
-    <room name="Rave Cave"/>
-    <room name="Lounge"/>
-    <room name="Spezial Raum"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="3014" guid="fdfad7ee-e1ed-48e0-8f52-0946315b5d38">
         <logo/>
@@ -10084,10 +10084,10 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Seminarraum"/>
     <room name="Rave Cave"/>
     <room name="Lounge"/>
     <room name="Spezial Raum"/>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Theater Hall E.T.I." guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="Track 2 room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>

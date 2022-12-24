@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-24 11:55; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 11:55; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 12:21; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 12:21; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -129,15 +129,6 @@
         "stream": null
       },
       {
-        "name": "Seminarraum",
-        "guid": null,
-        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
-        "capacity": 20,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "Seminarraum",
-        "stream": null
-      },
-      {
         "name": "Rave Cave",
         "guid": null,
         "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
@@ -163,6 +154,15 @@
         "location": "Erlangen, Bits'n'Bugs + ZAM",
         "schedule_name": "Spezial Raum",
         "stream": null
+      },
+      {
+        "name": "WICMP Seminarraum",
+        "guid": "99808216-837b-11ed-85fb-6c400891b752",
+        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "WICMP Seminarraum",
+        "stream": "s2"
       },
       {
         "name": "Winterchaos",

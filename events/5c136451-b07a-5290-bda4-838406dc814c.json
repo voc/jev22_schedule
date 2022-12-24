@@ -5,7 +5,7 @@
   "date": "2022-12-30T14:00:00+01:00",
   "start": "14:00",
   "duration": "00:30",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-5136-operational_transconductance_amplifiers",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/",
   "title": "Operational Transconductance Amplifiers",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

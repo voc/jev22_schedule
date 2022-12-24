@@ -5,7 +5,7 @@
   "date": "2022-12-29T13:00:00+01:00",
   "start": "13:00",
   "duration": "00:30",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
   "title": "intro to time- & organisation-concepts and useful tricks",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

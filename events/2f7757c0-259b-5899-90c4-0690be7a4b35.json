@@ -5,7 +5,7 @@
   "date": "2022-12-29T14:00:00+01:00",
   "start": "14:00",
   "duration": "00:45",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-2775-surviving_as_a_nerd_deutsch",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/7R9URV/",
   "title": "Surviving as a NERD (Deutsch)",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

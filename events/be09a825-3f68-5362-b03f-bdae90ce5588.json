@@ -5,7 +5,7 @@
   "date": "2022-12-29T15:15:00+01:00",
   "start": "15:15",
   "duration": "00:30",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/TWELKD/",
   "title": "Schlangenprogrammiernacht \u2013 Ein Blick hinter die Kulissen",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

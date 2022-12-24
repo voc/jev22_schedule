@@ -5,7 +5,7 @@
   "date": "2022-12-27T16:45:00+01:00",
   "start": "16:45",
   "duration": "00:30",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-6708-werd_dein_eigener_ispv6",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/",
   "title": "Werd Dein eigener ISPv6",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

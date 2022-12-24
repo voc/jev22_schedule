@@ -5,7 +5,7 @@
   "date": "2022-12-28T16:00:00+01:00",
   "start": "16:00",
   "duration": "00:45",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-9908-wie_funktioniert_eigentlich_filmentwicklung",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/",
   "title": "Wie funktioniert eigentlich Filmentwicklung?",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

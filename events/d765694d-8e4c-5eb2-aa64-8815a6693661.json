@@ -5,7 +5,7 @@
   "date": "2022-12-29T16:15:00+01:00",
   "start": "16:15",
   "duration": "02:00",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-7656-schafkopf_fuer_anfaenger",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/YLYW79/",
   "title": "Schafkopf f\u00fcr Anf\u00e4nger",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }

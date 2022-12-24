@@ -5,7 +5,7 @@
   "date": "2022-12-27T15:30:00+01:00",
   "start": "15:30",
   "duration": "00:45",
-  "room": "Seminarraum",
+  "room": "WICMP Seminarraum",
   "slug": "jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/",
   "title": "GNU Taler -- mit Krypto bezahlen ohne Blockchain?",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
   "origin": "talks.w.icmp.camp"
 }
