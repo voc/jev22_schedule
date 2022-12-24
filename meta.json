@@ -1,6 +1,395 @@
 {
   "data": {
-    "version": "2022-12-24 11:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 11:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 11:55; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 11:55; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "rooms": [
+      {
+        "name": "Fireshonks-Stream",
+        "guid": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+        "description": "Der Stream von Talks und gestreamten Workshops bei Haecksen  und R3S",
+        "capacity": 1000,
+        "location": "Remote & W\u00fclfrath",
+        "schedule_name": "Fireshonks-Stream",
+        "stream": "fireshonks"
+      },
+      {
+        "name": "Fireshonks-Workshop",
+        "guid": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+        "description": "Workshops f\u00fcr Teilnehmende (keine Aufzeichnung, ein \u00f6ffentliches Streaming)",
+        "capacity": null,
+        "location": "Remote & W\u00fclfrath",
+        "schedule_name": "Fireshonks-Workshop",
+        "stream": null
+      },
+      {
+        "name": "RTC-B\u00fchne (Sparti)",
+        "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
+        "description": "Haupt-Raum .. Streaming-B\u00fchne mit (kleinem) Publikum",
+        "capacity": 50,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "RTC-B\u00fchne (Sparti)",
+        "stream": "s4"
+      },
+      {
+        "name": "RTC-Workshop 1 (Sem1)",
+        "guid": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
+        "description": null,
+        "capacity": 25,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "RTC-Workshop 1 (Sem1)",
+        "stream": null
+      },
+      {
+        "name": "Haus 2",
+        "guid": "146a5fe7-e0e6-41cd-b1ff-ea926a8b61cc",
+        "description": "HackCenter",
+        "capacity": 40,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "Haus 2",
+        "stream": null
+      },
+      {
+        "name": "Theaterraum (22)",
+        "guid": "0ba794eb-69bb-4381-9ce6-422529fc8291",
+        "description": null,
+        "capacity": null,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "Theaterraum (22)",
+        "stream": null
+      },
+      {
+        "name": "Seminarraum 2 (24)",
+        "guid": "ce023d5e-a406-4bc0-ad0b-f0ce64c7f206",
+        "description": null,
+        "capacity": null,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "Seminarraum 2 (24)",
+        "stream": null
+      },
+      {
+        "name": "Seminarraum 3 (21)",
+        "guid": "9d6724e4-a5ff-4fca-b4da-1fc28b59882a",
+        "description": null,
+        "capacity": null,
+        "location": "Potsdam, Chaostreff",
+        "schedule_name": "Seminarraum 3 (21)",
+        "stream": null
+      },
+      {
+        "name": "Bierschoine",
+        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+        "description": "Gro\u00dfer Vortragsr\u00e4um mit B\u00fchne und integriertem Hackcenter",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Bierschoine",
+        "stream": "s6"
+      },
+      {
+        "name": "Salon",
+        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
+        "description": "Gasthaus 1. OG. Raum f\u00fcr kleiner Sofarunden und die Lagerfeuervortr\u00e4ge.",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Salon",
+        "stream": null
+      },
+      {
+        "name": "Bastelstube",
+        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
+        "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Bastelstube",
+        "stream": null
+      },
+      {
+        "name": "xrelog22 - Stream",
+        "guid": "ad28953f-122e-4293-836d-860320183a1c",
+        "description": "Main-Stream",
+        "capacity": 100000,
+        "location": "Hamburg, FTZ/HAW",
+        "schedule_name": "xrelog22 - Stream",
+        "stream": "xrelog22"
+      },
+      {
+        "name": "icc|bs",
+        "guid": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
+        "description": "Matrix - Intergalactic Chaos Communication | Broadcast Studio",
+        "capacity": 498,
+        "location": "Hamburg, FTZ/HAW",
+        "schedule_name": "icc|bs",
+        "stream": null
+      },
+      {
+        "name": "Multiversum B\u00fchne",
+        "guid": "a5515405-a6a1-47f7-97dc-bd9ef73819a1",
+        "description": "Realraum B\u00fchne f\u00fcr Panels, Impuls-Vortr\u00e4ge, Lighntins-Talks & mehr",
+        "capacity": 50,
+        "location": "Hamburg, FTZ/HAW",
+        "schedule_name": "Multiversum B\u00fchne",
+        "stream": null
+      },
+      {
+        "name": "Seminarraum",
+        "guid": null,
+        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Seminarraum",
+        "stream": null
+      },
+      {
+        "name": "Rave Cave",
+        "guid": null,
+        "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Rave Cave",
+        "stream": null
+      },
+      {
+        "name": "Lounge",
+        "guid": null,
+        "description": "Die Lounge direkt im Hauptraum.",
+        "capacity": 120,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Lounge",
+        "stream": null
+      },
+      {
+        "name": "Spezial Raum",
+        "guid": null,
+        "description": "Schaut in der Beschreibung des Workshops nach dem Ort",
+        "capacity": 120,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Spezial Raum",
+        "stream": null
+      },
+      {
+        "name": "Winterchaos",
+        "guid": "99411f15-7335-4d36-abac-3ff0419ec954",
+        "description": "Talks at LuXerias and LABOR Luzerns Winterchaos 2022",
+        "capacity": null,
+        "location": "Luzern, CH",
+        "schedule_name": "Winterchaos",
+        "stream": null
+      },
+      {
+        "name": "Theater Hall E.T.I.",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+        "description": "Main conference stagen",
+        "capacity": 110,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "Theater Hall E.T.I.",
+        "stream": null
+      },
+      {
+        "name": "Track 2 room 2",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+        "description": "Main conference stagen 2",
+        "capacity": 70,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "Track 2 room 2",
+        "stream": null
+      },
+      {
+        "name": "workshop room 3",
+        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+        "description": "tbd",
+        "capacity": 12,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "workshop room 3",
+        "stream": null
+      },
+      {
+        "name": "soldering room 7",
+        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+        "description": "tbd",
+        "capacity": 12,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "soldering room 7",
+        "stream": null
+      },
+      {
+        "name": "c-base mainhall",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+        "description": null,
+        "capacity": 100,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "c-base mainhall",
+        "stream": null
+      },
+      {
+        "name": "Merch Desk",
+        "guid": null,
+        "description": "You can find the preordered merch here",
+        "capacity": null,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "Merch Desk",
+        "stream": null
+      },
+      {
+        "name": "Vortragsraum 1 - Ahlam - H2-1.6",
+        "guid": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+        "description": "Vortragsraum 1 - Ahlam",
+        "capacity": 111,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Vortragsraum 1 - Ahlam - H2-1.6",
+        "stream": "s1"
+      },
+      {
+        "name": "Vortragsraum 2 - Bhavani - H1-5.2",
+        "guid": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
+        "description": "Vortragsraum 2",
+        "capacity": 112,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Vortragsraum 2 - Bhavani - H1-5.2",
+        "stream": "s5"
+      },
+      {
+        "name": "Workshopraum 1 - H2-2.5",
+        "guid": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
+        "description": "Workshopraum 1",
+        "capacity": 82,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Workshopraum 1 - H2-2.5",
+        "stream": null
+      },
+      {
+        "name": "Workshopraum 2 - H2-3.4",
+        "guid": null,
+        "description": "Workshopraum 2",
+        "capacity": 64,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Workshopraum 2 - H2-3.4",
+        "stream": null
+      },
+      {
+        "name": "Workshopraum 3 - H2-3.6",
+        "guid": null,
+        "description": "Workshopraum 3",
+        "capacity": 82,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Workshopraum 3 - H2-3.6",
+        "stream": null
+      },
+      {
+        "name": "Workshopraum 4 - H2-4.4",
+        "guid": null,
+        "description": "Workshopraum 4",
+        "capacity": 64,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Workshopraum 4 - H2-4.4",
+        "stream": null
+      },
+      {
+        "name": "Klangkeller - H1-U.1",
+        "guid": null,
+        "description": "Klangkeller",
+        "capacity": 72,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Klangkeller - H1-U.1",
+        "stream": null
+      },
+      {
+        "name": "Ruheraum - H1-2.1",
+        "guid": null,
+        "description": "Ruheraum",
+        "capacity": 38,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Ruheraum - H1-2.1",
+        "stream": null
+      },
+      {
+        "name": "Ausstellungsraum 1 - H2-1.3",
+        "guid": null,
+        "description": "Ausstellungsraum 1 (Dusche)",
+        "capacity": 8,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Ausstellungsraum 1 - H2-1.3",
+        "stream": null
+      },
+      {
+        "name": "Austellungsraum 2 - H2-2.4",
+        "guid": null,
+        "description": "Austellungsraum 2",
+        "capacity": 84,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Austellungsraum 2 - H2-2.4",
+        "stream": null
+      },
+      {
+        "name": "Ausstellungsraum 3 - H2-2.7",
+        "guid": null,
+        "description": "Ausstellungsraum",
+        "capacity": 12,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Ausstellungsraum 3 - H2-2.7",
+        "stream": null
+      },
+      {
+        "name": "Ausstellungsraum 4 - H2-3.3",
+        "guid": null,
+        "description": "Ausstellungsraum 4 (Dusche)",
+        "capacity": 8,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Ausstellungsraum 4 - H2-3.3",
+        "stream": null
+      },
+      {
+        "name": "Austellungsraum 5 - H1-3.1",
+        "guid": null,
+        "description": "Austellungsraum 5",
+        "capacity": 93,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Austellungsraum 5 - H1-3.1",
+        "stream": null
+      },
+      {
+        "name": "Forumszentrum - H1-0.1",
+        "guid": null,
+        "description": "Forumszentrum & Info-Point",
+        "capacity": 15,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Forumszentrum - H1-0.1",
+        "stream": null
+      },
+      {
+        "name": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+        "guid": null,
+        "description": "Bibliothek +  Siebdruck +  Kleidertausch",
+        "capacity": 32,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+        "stream": null
+      },
+      {
+        "name": "Kantine - H2-4.7",
+        "guid": null,
+        "description": "Kantine",
+        "capacity": 44,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Kantine - H2-4.7",
+        "stream": null
+      },
+      {
+        "name": "St\u00e4nde - H2-4.8",
+        "guid": null,
+        "description": "St\u00e4nde",
+        "capacity": 36,
+        "location": "M\u00fcnchen",
+        "schedule_name": "St\u00e4nde - H2-4.8",
+        "stream": null
+      },
+      {
+        "name": "Timeout Raum - H2-5.1",
+        "guid": null,
+        "description": "Timeout Raum",
+        "capacity": 54,
+        "location": "M\u00fcnchen",
+        "schedule_name": "Timeout Raum - H2-5.1",
+        "stream": null
+      }
+    ],
     "conferences": [
       {
         "url": "https://pretalx.c3voc.de/fire-shonks-2022",
@@ -244,180 +633,6 @@
           "https://dezentrale.space/posts/2022/11/localverse2022-call-for-participation/",
           "https://matrix.to/#/#localverse2022:chat.dezentrale.space"
         ]
-      }
-    ],
-    "rooms": [
-      {
-        "guid": "c62a781e-48a3-4546-bb5c-dee2080738f7",
-        "schedule_name": "Fireshonks-Stream"
-      },
-      {
-        "guid": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
-        "schedule_name": "Fireshonks-Workshop"
-      },
-      {
-        "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
-        "schedule_name": "RTC-B\u00fchne (Sparti)"
-      },
-      {
-        "guid": "a8878181-5c2d-4882-a4aa-2f799d256fdb",
-        "schedule_name": "RTC-Workshop 1 (Sem1)"
-      },
-      {
-        "guid": "146a5fe7-e0e6-41cd-b1ff-ea926a8b61cc",
-        "schedule_name": "Haus 2"
-      },
-      {
-        "guid": "0ba794eb-69bb-4381-9ce6-422529fc8291",
-        "schedule_name": "Theaterraum (22)"
-      },
-      {
-        "guid": "ce023d5e-a406-4bc0-ad0b-f0ce64c7f206",
-        "schedule_name": "Seminarraum 2 (24)"
-      },
-      {
-        "guid": "9d6724e4-a5ff-4fca-b4da-1fc28b59882a",
-        "schedule_name": "Seminarraum 3 (21)"
-      },
-      {
-        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
-        "schedule_name": "Bierschoine"
-      },
-      {
-        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
-        "schedule_name": "Salon"
-      },
-      {
-        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
-        "schedule_name": "Bastelstube"
-      },
-      {
-        "guid": "ad28953f-122e-4293-836d-860320183a1c",
-        "schedule_name": "xrelog22 - Stream"
-      },
-      {
-        "guid": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
-        "schedule_name": "icc|bs"
-      },
-      {
-        "guid": "a5515405-a6a1-47f7-97dc-bd9ef73819a1",
-        "schedule_name": "Multiversum B\u00fchne"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Seminarraum"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Rave Cave"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Lounge"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Spezial Raum"
-      },
-      {
-        "guid": "99411f15-7335-4d36-abac-3ff0419ec954",
-        "schedule_name": "Winterchaos"
-      },
-      {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-        "schedule_name": "Theater Hall E.T.I."
-      },
-      {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-        "schedule_name": "Track 2 room 2"
-      },
-      {
-        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "schedule_name": "workshop room 3"
-      },
-      {
-        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-        "schedule_name": "soldering room 7"
-      },
-      {
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
-        "schedule_name": "c-base mainhall"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Merch Desk"
-      },
-      {
-        "guid": "568cabc6-82f2-11ed-82f7-cf29158272bb",
-        "schedule_name": "Vortragsraum 1 - Ahlam - H2-1.6"
-      },
-      {
-        "guid": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
-        "schedule_name": "Vortragsraum 2 - Bhavani - H1-5.2"
-      },
-      {
-        "guid": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
-        "schedule_name": "Workshopraum 1 - H2-2.5"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Workshopraum 2 - H2-3.4"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Workshopraum 3 - H2-3.6"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Workshopraum 4 - H2-4.4"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Klangkeller - H1-U.1"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Ruheraum - H1-2.1"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Ausstellungsraum 1 - H2-1.3"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Austellungsraum 2 - H2-2.4"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Ausstellungsraum 3 - H2-2.7"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Ausstellungsraum 4 - H2-3.3"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Austellungsraum 5 - H1-3.1"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Forumszentrum - H1-0.1"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Kantine - H2-4.7"
-      },
-      {
-        "guid": null,
-        "schedule_name": "St\u00e4nde - H2-4.8"
-      },
-      {
-        "guid": null,
-        "schedule_name": "Timeout Raum - H2-5.1"
       }
     ]
   }

@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "78bad"
+      "version": "41648"
     },
-    "version": "2022-12-24 11:30",
+    "version": "2022-12-24 11:55",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -324,326 +324,6 @@
           "day_start": "2022-12-27T09:00:00+01:00",
           "day_end": "2022-12-27T09:00:00+01:00",
           "rooms": {
-            "c62a781e-48a3-4546-bb5c-dee2080738f7": [],
-            "6f12618c-0f1c-4318-a201-099152f86ac0": [],
-            "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
-            "Seminarraum": [
-              {
-                "id": 9081,
-                "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
-                "logo": "",
-                "date": "2022-12-27T15:30:00+01:00",
-                "start": "15:30",
-                "duration": "00:45",
-                "room": "Seminarraum",
-                "slug": "jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/",
-                "title": "GNU Taler -- mit Krypto bezahlen ohne Blockchain?",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es f\u00fcr eine Veranstaltung betreiben kann.\r\n\r\nSpoiler: Es ist *keine* Kryptow\u00e4hrung ;).",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 2,
-                    "code": "SGJPZQ",
-                    "public_name": "Windfisch",
-                    "biography": "Hacker aus Erlangen, der eigentlich eher in der Embedded- und Musikrichtung unterwegs ist, aber seit diesem Jahr in der Finanzbranche arbeitet.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 6708,
-                "guid": "a67ef084-e55e-5910-98fd-db72b633e5ce",
-                "logo": "",
-                "date": "2022-12-27T16:45:00+01:00",
-                "start": "16:45",
-                "duration": "00:30",
-                "room": "Seminarraum",
-                "slug": "jev22-6708-werd_dein_eigener_ispv6",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/",
-                "title": "Werd Dein eigener ISPv6",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.",
-                "description": "IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und\r\neine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt\r\nIPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix\r\nhaben und da dr\u00fcber End-to-End Server betreiben k\u00f6nnen. Ist aber leider gar nicht\r\nso. Weil mich das  ge\u00e4rgert hat, hab ich angefangen, mich durch die Formalit\u00e4ten\r\nzu k\u00e4mpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.\r\nDabei was gelernt \u00fcber:\r\n   - Formulare\r\n   - Tunnels\r\n   - \"Sponsoring LIRs\"\r\n   - RIPE Databases\r\n   - Border Gateway Protocol\r\nErgebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 17,
-                    "code": "KBUJLV",
-                    "public_name": "bauerm",
-                    "biography": "Lange Haare, Bart, macht was mit Computern",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 1721,
-                "guid": "a1bbd7a2-1274-530f-a651-8399166c9d6b",
-                "logo": "",
-                "date": "2022-12-27T17:45:00+01:00",
-                "start": "17:45",
-                "duration": "00:30",
-                "room": "Seminarraum",
-                "slug": "jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/",
-                "title": "Nix gelernt und eine Einf\u00fchrung in das Thema IaC",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Warum?\r\nEs ist nicht nur sehr nervig sich immer wieder durch die gleichen Dinge in einem UI zu klicken, es kostet auch relativ viel Zeit und erm\u00f6glicht Fehler wie Typos. Genau diese Probleme versuchen IaC-L\u00f6sungen in Angriff zu nehmen.\r\n\r\nWer?\r\nEinsteiger und generell interesierte Wesen.",
-                "description": "Erkl\u00e4rung der Nomenklatur.\r\nWas ist eingetlich Infrastructure as Code?\r\nIn diesem Talk wird es einen kleinen \u00dcberblick geben was f\u00fcr Technologien in dem Feld existieren (unvollst\u00e4ndig).\r\nDanach gebe ich noch ein paar Beispiele mit Nixos.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 24,
-                    "code": "SCCMH8",
-                    "public_name": "Janik",
-                    "biography": "~ a chaotic neutral snowflake \u2744\ufe0f",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
-              {
-                "id": 4969,
-                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
-                "logo": "",
-                "date": "2022-12-27T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
-                "title": "Lass mich durch - Wege befreien im urbanen Raum",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Viola und Ich halten einen Vortrag, in dem wir die Zuh\u00f6renden anstiften unliebsame Z\u00e4une und andere Hindernisse in ihrer Umgebung zu \u00fcberwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualit\u00e4t steigert.",
-                "description": "Unser Anliegen besteht darin eine Aufmerksamkeit f\u00fcr die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern k\u00f6nnen. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir \u00fcberzeugt.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 122,
-                    "code": "DNHE9D",
-                    "public_name": "Fran\u00e7ois",
-                    "biography": "Ich mache Kunst mit Bildern, Musik und Texten. Ich habe keine Hobbies mehr.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 5664,
-                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
-                "logo": "",
-                "date": "2022-12-27T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:50",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
-                "title": "Raum f\u00fcr die sch\u00f6ne Welt",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "In diesem Vortrag m\u00f6chte Tobias Budesheim Vorstandmitglied von Students for Ukraine Raum geben f\u00fcr die sch\u00f6ne Welt. Er pr\u00e4sentiert Hoffnungsbilder in einer Zeit in der es scheint, als ob die Welt aus den Fugen ger\u00e4t. Was sind meine Freiheitsr\u00e4ume? Wo ist die Welt noch sch\u00f6n?",
-                "description": "Wer ist wirklich frei? Ein Raum ist nur so gro\u00df, wie wir ihn uns erschaffen. Das gilt auch f\u00fcr unsere Gedanken. Wir f\u00fcllen einen Raum mit Menschen, M\u00f6beln, Bildern und Erinnerungen. Das gilt auch f\u00fcr das Menschliche Gehirn. Wann aber ist der Raum den wir erschaffen bedroht? Diese Frage stellten sich schon viele Autoren, \u00d6konomen, Wissenschaftler, Politiker und sogar Menschen in der Steinzeit. Was sind unsere Abwehrhandlungen? Wie gehen wir damit um? Und wie k\u00f6nnen wir mit unsere vielen sogenannten \"Bias\" umgehen? Schaffen wir es neue R\u00e4ume zu gestalten? Oder bleiben wir in unseren alten R\u00e4ume?",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 123,
-                    "code": "ZPDZJX",
-                    "public_name": "Tobias Budesheim",
-                    "biography": "Tobias Budesheim, 23 Jahre alt, Vorstandsmitglied bei Students for Ukraine Munich e.V, Studium in Betriebswirtschaft und Unternehmensf\u00fchrung, aber auch k\u00fcnstlerisch unterwegs und hat eine musikalische Ader. Schaffen von neuen R\u00e4umen und innovative nachhaltige Gedanken sind sein Weg die Sch\u00f6nheit der Welt einzufangen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 759,
-                "guid": "075fb9be-d1c5-5458-9062-bca338f100b8",
-                "logo": "",
-                "date": "2022-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
-                "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Diskussion",
-                "language": "de",
-                "abstract": "Michael Hirsch: \u201eK \u2013 Kulturarbeit\u201c (Verlag.: Textem). Arbeit an der Kunst, Berufung statt Beruf?",
-                "description": "Hirsch pl\u00e4diert f\u00fcr das Anerkennen pluraler Arbeitsidentit\u00e4ten und ein Loslassen des Traums von der Festanstellung. Ein Abgesang auf die K\u00fcnstler:in als Genie und eine Verteidigung der konkreten Utopie des `wahren` Lebens.\r\nBuchpr\u00e4sentation, Vortrag und Diskussion von Dr. Michael Hirsch, Privatdozent f\u00fcr Politische Theorie und Ideengeschichte an der Uni Siegen und freier Autor, mit anschl. Diskussion \r\nhttps://www.michael-hirsch-archiv.de/\r\n\r\nModeration: Peter Arun Pfaff",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 139,
-                    "code": "UMSJZX",
-                    "public_name": "Peter Arun Pfaff",
-                    "biography": "CV von Hirsch und Pfaff folgen",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
-              {
-                "id": 2242,
-                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
-                "logo": "",
-                "date": "2022-12-27T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-2242-gebaerdensprache_und_freiraum_deafolution",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
-                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
-                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 191,
-                    "code": "V3YXGR",
-                    "public_name": "Matthias Ranner",
-                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 3592,
-                "guid": "3c5b9ac2-199b-5a83-90b5-bbbe3bd21c9a",
-                "logo": "/media/freiraumforum/submissions/8FYURU/KUI_Newsletter_Main_Juli_8N4nAkr.jpg",
-                "date": "2022-12-27T14:05:00+01:00",
-                "start": "14:05",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-3592-kunst_im_umbau_workshops_talks",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/",
-                "title": "Kunst im Umbau - Workshops & Talks",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Vortrag und Diskussion \u00fcber das Projekt:\r\nAuf dem Areal des Kreativquartiers in M\u00fcnchen fand am 08. und 09. Juli 2022 eine Veranstaltung statt, bei der k\u00fcnstlerische Positionen zum Thema \u201eKunst im Umbau\u201c in Form von Workshops erarbeitet, pr\u00e4sentiert und diskutiert wurden.",
-                "description": "Das M\u00fcnchner Kreativquartier ist ein Stadtentwicklungsareal, das sich in einem rasanten Wandlungsprozess befindet. Auf dem Areal zwischen Dachauer- und Schwere-Reiter-Stra\u00dfe ist ein neues Stadtquartier in Planung, das in Zukunft Wohnen und Arbeiten mit Kunst und Kultur verkn\u00fcpfen will. Ist das \u00fcberhaupt trotz unterschiedlicher Interessen und Bed\u00fcrfnisse m\u00f6glich? Und was passiert mit den gewachsenen Strukturen, die sich momentan auf dem Areal befinden?\r\n\r\nDiese Ausgangslage und der Ort waren Inspirationsquelle und Experimentierfeld f\u00fcr die Workshops. Anhand von verschiedenen k\u00fcnstlerischen Herangehensweisen wurde erforscht, inwieweit zeitgen\u00f6ssische Kunstpraktiken \u2013 tempor\u00e4r, performativ, interaktiv und vielleicht auch dauerhaft \u2013 \r\nin Umbauprozesse eingreifen k\u00f6nnen.\r\n\r\nWelche M\u00f6glichkeiten ergeben sich aus dem Moment des Dazwischen? \r\nWie wichtig ist der k\u00fcnstlerische Blick auf den Wandlungsprozess?\r\nWie k\u00f6nnen vorhandene gewachsene Strukturen in die Stadtentwicklung integriert werden?\r\nWomit k\u00f6nnten die g\u00e4ngigen Formate wie \u201eZwischennutzung\u201c und \u201eKunst am Bau\u201c erweitert werden?",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 189,
-                    "code": "RACSGX",
-                    "public_name": "Ursula Gaisbauer",
-                    "biography": "Ursula Gaisbauer (*1986) lebt und arbeitet derzeit in M\u00fcnchen und Wien. Sie studierte Landschaftsdesign und ortsbezogene Kunst an der Universit\u00e4t f\u00fcr angewandte Kunst Wien. Ihre meist tempor\u00e4ren Arbeiten liegen im Spannungsfeld von Kunst und Architektur und setzen sich konzeptuell mit dem Ort und dessen Kontext auseinander. So entstehen sehr unterschiedliche Arbeiten von Interventionen im \u00f6ffentlichen Raum, Film und Performances bis hin zu raumgreifenden Installationen, die Kunst in den Umbauprozess integrieren.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 6634,
-                "guid": "f6634d3c-8085-54e2-8ace-e2d5f8601a7d",
-                "logo": "",
-                "date": "2022-12-27T16:30:00+01:00",
-                "start": "16:30",
-                "duration": "00:20",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-6634-design_clubcult_dance",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/",
-                "title": "Design Clubcult - Dance!",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "en",
-                "abstract": "{Design Clubcult - Dance!} A short experimental documentary about the revolutionary potential of dance and clubculture.",
-                "description": "{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 166,
-                    "code": "RMJD9W",
-                    "public_name": "Emma Mann",
-                    "biography": "Emma Mann born 1999 in Berlin grew up in Munich where she studies since 2022 at the Academy of Fine Arts in the class of Pamela Rosenkranz.\r\nShe worked several times as an assistant for the munich based choreographer Ceren Oran,  \r\nand lived and worked temporarily in Tbilisi (2019), Leipzig (2020), Hildesheim(2021/22) and Marseille (2022).",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 1313,
-                "guid": "b13d136b-b324-5937-ad11-b215d855ced5",
-                "logo": "",
-                "date": "2022-12-27T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-1313-geschlossene_gesellschaft",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/",
-                "title": "Geschlossene Gesellschaft",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "en",
-                "abstract": "Der Film begleitet verschiedene M\u00fcnchner Clubs durch die Pandemie.",
-                "description": "\u201eIch war mir felsenfest sicher, jeder wird immer feiern, essen und trinken.\u201c Doch die Pandemie zerst\u00f6rte diese jahrhundertealte Gewissheit, denn die Clubs waren die ersten, die geschlossen haben und die letzten, die wieder \u00f6ffnen durften. GESCHLOSSENE GESELLSCHAFT startet im Jahr 2 des Ausnahmezustands im Moment der gr\u00f6\u00dften Unsicherheit, als man in Bayern um 21 Uhr die Wohnung eigentlich nicht mehr verlassen durfte. Vier ganz unterschiedliche Clubs in M\u00fcnchen werden durch die Pandemie begleitet: Backstage, Harry Klein, Milla und P1. Sie alle eint das kreative Auflehnen gegen die mentale und finanzielle Insolvenz. Ein Film \u00fcber die Transformation des Nachtlebens und die ekstatische Wiederauferstehung eines generations\u00fcbergreifenden Sehnsuchtsorts. Ludwig Sporrer\r\nMehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 147,
-                    "code": "REUMEM",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "ad28953f-122e-4293-836d-860320183a1c": [],
             "Fireshonks-Stream": [
               {
                 "id": 49230,
@@ -997,106 +677,33 @@
               }
             ],
             "Bierschoine": [],
-            "xrelog22 - Stream": []
-          }
-        },
-        {
-          "index": 2,
-          "date": "2022-12-28",
-          "day_start": "2022-12-28T09:00:00+01:00",
-          "day_end": "2022-12-28T09:00:00+01:00",
-          "rooms": {
-            "c62a781e-48a3-4546-bb5c-dee2080738f7": [],
-            "6f12618c-0f1c-4318-a201-099152f86ac0": [],
-            "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
+            "xrelog22 - Stream": [],
             "Seminarraum": [
               {
-                "id": 4958,
-                "guid": "a49e5c85-1ad9-5e2f-9427-627eb6a77ca3",
-                "logo": "/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png",
-                "date": "2022-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "01:30",
-                "room": "Seminarraum",
-                "slug": "jev22-4958-das_zam_im_wandel_der_zeit",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/PFNABK/",
-                "title": "Das ZAM im Wandel der Zeit",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Wo sind wir hier eigentlich? Was ist das f\u00fcr ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum f\u00fcr Austausch und Machen.",
-                "description": "Wir m\u00f6chten euch diesen neuen Ort in der Erlanger Kulturlandschaft erkl\u00e4ren und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige F\u00fchrung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 5,
-                    "code": "SYJ7LM",
-                    "public_name": "Julian \"codemonk\"",
-                    "biography": "Auf Bergen, in H\u00f6hlen und in der Luft unterwegs. Manchmal auch in Hack- und Makespaces.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9167,
-                "guid": "91f6e743-93b2-590f-b64b-1d51bd2673c4",
+                "id": 9081,
+                "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
                 "logo": "",
-                "date": "2022-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:30",
-                "room": "Seminarraum",
-                "slug": "jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/",
-                "title": "Gib mir mal die Datei... Dateien verteilen in 2022",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungel\u00f6stes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?\r\n\r\nDieser talk gibt einen kleinen \u00dcberblick \u00fcber derzeit verf\u00fcgbare freie Software und deren Anwendungsgebiete.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9,
-                    "code": "MEA8TX",
-                    "public_name": "C-Keen",
-                    "biography": "Teil des Nerdberg Chaos.\r\n\r\nKaffee _und_ Tee, mag emacs, kann vi bedienen, mag Nischenprogrammiersprachen und -betriebssysteme.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9908,
-                "guid": "9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50",
-                "logo": "",
-                "date": "2022-12-28T16:00:00+01:00",
-                "start": "16:00",
+                "date": "2022-12-27T15:30:00+01:00",
+                "start": "15:30",
                 "duration": "00:45",
                 "room": "Seminarraum",
-                "slug": "jev22-9908-wie_funktioniert_eigentlich_filmentwicklung",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/",
-                "title": "Wie funktioniert eigentlich Filmentwicklung?",
+                "slug": "jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/",
+                "title": "GNU Taler -- mit Krypto bezahlen ohne Blockchain?",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Vor 196 Jahren erfand Joseph Ni\u00e9pce die Heliographie, die weltweit erste fotographische Technik.\r\n    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach f\u00fcr die gesamte Bev\u00f6lkerung erschwinglich.\r\n    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdr\u00e4ngt.\r\n    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdr\u00e4ngt worden.\r\n    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der urspr\u00fcnglichen fotografischen Technik in Ber\u00fchrung zu kommen.\r\n    Das ist schade, stellt sie doch eine gro\u00dfartige kulturelle Errungenschaft dar.\r\n    In diesem Vortrag m\u00f6chte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abl\u00e4uft.",
+                "abstract": "Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es f\u00fcr eine Veranstaltung betreiben kann.\r\n\r\nSpoiler: Es ist *keine* Kryptow\u00e4hrung ;).",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 26,
-                    "code": "JDHLEG",
-                    "public_name": "Beowulf",
-                    "biography": "-",
+                    "id": 2,
+                    "code": "SGJPZQ",
+                    "public_name": "Windfisch",
+                    "biography": "Hacker aus Erlangen, der eigentlich eher in der Embedded- und Musikrichtung unterwegs ist, aber seit diesem Jahr in der Finanzbranche arbeitet.",
                     "answers": []
                   }
                 ],
@@ -1104,30 +711,61 @@
                 "attachments": []
               },
               {
-                "id": 6207,
-                "guid": "6a20a7c8-1c7a-5d01-8de8-cd233b06a34c",
+                "id": 6708,
+                "guid": "a67ef084-e55e-5910-98fd-db72b633e5ce",
                 "logo": "",
-                "date": "2022-12-28T17:15:00+01:00",
-                "start": "17:15",
-                "duration": "01:00",
+                "date": "2022-12-27T16:45:00+01:00",
+                "start": "16:45",
+                "duration": "00:30",
                 "room": "Seminarraum",
-                "slug": "jev22-6207-schokolade_essen",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/",
-                "title": "Schokolade essen",
+                "slug": "jev22-6708-werd_dein_eigener_ispv6",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/",
+                "title": "Werd Dein eigener ISPv6",
                 "subtitle": "",
                 "track": "Erlangen",
-                "type": "Workshop",
+                "type": "Talk",
                 "language": "de",
-                "abstract": "Schokolade essen? Das kann doch jeder!\r\nRichtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. \r\nDennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein St\u00fcck Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.",
-                "description": "Ein Workshop der besonderen Art.\r\nHinweis:\r\nBei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es f\u00fcr dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.",
+                "abstract": "Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.",
+                "description": "IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und\r\neine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt\r\nIPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix\r\nhaben und da dr\u00fcber End-to-End Server betreiben k\u00f6nnen. Ist aber leider gar nicht\r\nso. Weil mich das  ge\u00e4rgert hat, hab ich angefangen, mich durch die Formalit\u00e4ten\r\nzu k\u00e4mpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.\r\nDabei was gelernt \u00fcber:\r\n   - Formulare\r\n   - Tunnels\r\n   - \"Sponsoring LIRs\"\r\n   - RIPE Databases\r\n   - Border Gateway Protocol\r\nErgebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 21,
-                    "code": "79EN8S",
-                    "public_name": "Roman St\u00f6hr",
-                    "biography": "Ich lebe f\u00fcr die Momente in denen Spontanit\u00e4t, Leichtigkeit und Lebendigkeit aufeinander treffen und m\u00f6chte diese mit euch teilen. \r\nWenn dann noch Zeit ist, arbeite ich an meiner Informatik-Promotion - das vielleicht um endlich diesen einen XKCD-Comic zu verstehen!!1!",
+                    "id": 17,
+                    "code": "KBUJLV",
+                    "public_name": "bauerm",
+                    "biography": "Lange Haare, Bart, macht was mit Computern",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1721,
+                "guid": "a1bbd7a2-1274-530f-a651-8399166c9d6b",
+                "logo": "",
+                "date": "2022-12-27T17:45:00+01:00",
+                "start": "17:45",
+                "duration": "00:30",
+                "room": "Seminarraum",
+                "slug": "jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/",
+                "title": "Nix gelernt und eine Einf\u00fchrung in das Thema IaC",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Warum?\r\nEs ist nicht nur sehr nervig sich immer wieder durch die gleichen Dinge in einem UI zu klicken, es kostet auch relativ viel Zeit und erm\u00f6glicht Fehler wie Typos. Genau diese Probleme versuchen IaC-L\u00f6sungen in Angriff zu nehmen.\r\n\r\nWer?\r\nEinsteiger und generell interesierte Wesen.",
+                "description": "Erkl\u00e4rung der Nomenklatur.\r\nWas ist eingetlich Infrastructure as Code?\r\nIn diesem Talk wird es einen kleinen \u00dcberblick geben was f\u00fcr Technologien in dem Feld existieren (unvollst\u00e4ndig).\r\nDanach gebe ich noch ein paar Beispiele mit Nixos.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 24,
+                    "code": "SCCMH8",
+                    "public_name": "Janik",
+                    "biography": "~ a chaotic neutral snowflake \u2744\ufe0f",
                     "answers": []
                   }
                 ],
@@ -1137,68 +775,30 @@
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
-                "id": 8672,
-                "guid": "867208f4-ebf6-5158-89c1-bd9f623f50f2",
+                "id": 4969,
+                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
                 "logo": "",
-                "date": "2022-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "03:00",
+                "date": "2022-12-27T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-8672-kritische_maennlichkeit",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/",
-                "title": "Kritische M\u00e4nnlichkeit",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Wie beeinflussen patriarchale Vorstellungen von M\u00e4nnlichkeit unser Zusammenleben, und wie k\u00f6nnen wir im Austausch zwischen allen Geschlechtern neue Praktiken entwickeln?",
-                "description": "Wann wird von wem \"M\u00e4nnlichkeit\" erwartet? Was bedeutet das \u00fcberhaupt? Wie wirkt sich das auf unser Miteinander aus, und welche Probleme kann das bereiten? Mit welchen zwischenmenschlichen Praktiken k\u00f6nnen wir diesen entgegenwirken, und wie k\u00f6nnen wir uns diese aneignen?\r\n\r\nZiel des Workshops ist es, sich diesen Fragen durch zug\u00e4ngliche und strukturierte Diskussion und praktische \u00dcbungen zu \u00f6ffnen, und gemeinsam konkrete Handlungsoptionen zu entwickeln.\r\n\r\nDer Workshop ist explizit f\u00fcr alle Menschen unabh\u00e4ngig von ihrer Geschlechtsidentit\u00e4t angelegt.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 38,
-                    "code": "XP7KZZ",
-                    "public_name": "Martin Barner",
-                    "biography": "Martin ist Coautor des Buches \"Tools for Men-with-Feminist-Ambitions\" (sabotage L.A. publishing). Er setzt sich in engem Austausch mit anderen damit auseinander, wie \"kritische M\u00e4nnlichkeit\" in konrekten zwischenmenschlichen Praktiken umgesetzt werden kann.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
-                "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
-                "date": "2022-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
-                "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
+                "slug": "jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
+                "title": "Lass mich durch - Wege befreien im urbanen Raum",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
-                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
+                "abstract": "Viola und Ich halten einen Vortrag, in dem wir die Zuh\u00f6renden anstiften unliebsame Z\u00e4une und andere Hindernisse in ihrer Umgebung zu \u00fcberwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualit\u00e4t steigert.",
+                "description": "Unser Anliegen besteht darin eine Aufmerksamkeit f\u00fcr die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern k\u00f6nnen. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir \u00fcberzeugt.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
-                    "answers": []
-                  },
-                  {
-                    "id": 158,
-                    "code": "Y9XTHZ",
-                    "public_name": "Assoziation:E e.V.",
-                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "id": 122,
+                    "code": "DNHE9D",
+                    "public_name": "Fran\u00e7ois",
+                    "biography": "Ich mache Kunst mit Bildern, Musik und Texten. Ich habe keine Hobbies mehr.",
                     "answers": []
                   }
                 ],
@@ -1206,37 +806,30 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
-                "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
-                "date": "2022-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
+                "id": 5664,
+                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
+                "logo": "",
+                "date": "2022-12-27T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:50",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
-                "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
+                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
+                "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
-                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
+                "abstract": "In diesem Vortrag m\u00f6chte Tobias Budesheim Vorstandmitglied von Students for Ukraine Raum geben f\u00fcr die sch\u00f6ne Welt. Er pr\u00e4sentiert Hoffnungsbilder in einer Zeit in der es scheint, als ob die Welt aus den Fugen ger\u00e4t. Was sind meine Freiheitsr\u00e4ume? Wo ist die Welt noch sch\u00f6n?",
+                "description": "Wer ist wirklich frei? Ein Raum ist nur so gro\u00df, wie wir ihn uns erschaffen. Das gilt auch f\u00fcr unsere Gedanken. Wir f\u00fcllen einen Raum mit Menschen, M\u00f6beln, Bildern und Erinnerungen. Das gilt auch f\u00fcr das Menschliche Gehirn. Wann aber ist der Raum den wir erschaffen bedroht? Diese Frage stellten sich schon viele Autoren, \u00d6konomen, Wissenschaftler, Politiker und sogar Menschen in der Steinzeit. Was sind unsere Abwehrhandlungen? Wie gehen wir damit um? Und wie k\u00f6nnen wir mit unsere vielen sogenannten \"Bias\" umgehen? Schaffen wir es neue R\u00e4ume zu gestalten? Oder bleiben wir in unseren alten R\u00e4ume?",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
-                    "answers": []
-                  },
-                  {
-                    "id": 158,
-                    "code": "Y9XTHZ",
-                    "public_name": "Assoziation:E e.V.",
-                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "id": 123,
+                    "code": "ZPDZJX",
+                    "public_name": "Tobias Budesheim",
+                    "biography": "Tobias Budesheim, 23 Jahre alt, Vorstandsmitglied bei Students for Ukraine Munich e.V, Studium in Betriebswirtschaft und Unternehmensf\u00fchrung, aber auch k\u00fcnstlerisch unterwegs und hat eine musikalische Ader. Schaffen von neuen R\u00e4umen und innovative nachhaltige Gedanken sind sein Weg die Sch\u00f6nheit der Welt einzufangen.",
                     "answers": []
                   }
                 ],
@@ -1244,22 +837,22 @@
                 "attachments": []
               },
               {
-                "id": 3812,
-                "guid": "3d8b12dd-02d1-57ac-8fc1-46693e923846",
+                "id": 759,
+                "guid": "075fb9be-d1c5-5458-9062-bca338f100b8",
                 "logo": "",
-                "date": "2022-12-28T17:00:00+01:00",
+                "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "01:30",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/",
-                "title": "Kunst und Kommerz, ein problematisches Verh\u00e4ltnis",
+                "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
+                "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Diskussion",
                 "language": "de",
-                "abstract": "Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
-                "description": "Pravu Mazumdar (Philosoph) \r\nRosanna Marie Pondorf (Rosa Stern Space/K\u00fcnstlerin)\r\n\r\nModeration: Peter Arun Pfaff",
+                "abstract": "Michael Hirsch: \u201eK \u2013 Kulturarbeit\u201c (Verlag.: Textem). Arbeit an der Kunst, Berufung statt Beruf?",
+                "description": "Hirsch pl\u00e4diert f\u00fcr das Anerkennen pluraler Arbeitsidentit\u00e4ten und ein Loslassen des Traums von der Festanstellung. Ein Abgesang auf die K\u00fcnstler:in als Genie und eine Verteidigung der konkreten Utopie des `wahren` Lebens.\r\nBuchpr\u00e4sentation, Vortrag und Diskussion von Dr. Michael Hirsch, Privatdozent f\u00fcr Politische Theorie und Ideengeschichte an der Uni Siegen und freier Autor, mit anschl. Diskussion \r\nhttps://www.michael-hirsch-archiv.de/\r\n\r\nModeration: Peter Arun Pfaff",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1277,22 +870,115 @@
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
-                "id": 958,
-                "guid": "09f58cbb-4be7-5a04-8006-f4a2ec335112",
+                "id": 2242,
+                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
                 "logo": "",
-                "date": "2022-12-28T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:30",
+                "date": "2022-12-27T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "02:00",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-958-alles_ist_1_ausser_der_0",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/",
-                "title": "Alles ist 1. Au\u00dfer der 0.",
+                "slug": "jev22-2242-gebaerdensprache_und_freiraum_deafolution",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
+                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
+                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "V3YXGR",
+                    "public_name": "Matthias Ranner",
+                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3592,
+                "guid": "3c5b9ac2-199b-5a83-90b5-bbbe3bd21c9a",
+                "logo": "/media/freiraumforum/submissions/8FYURU/KUI_Newsletter_Main_Juli_8N4nAkr.jpg",
+                "date": "2022-12-27T14:05:00+01:00",
+                "start": "14:05",
+                "duration": "00:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-3592-kunst_im_umbau_workshops_talks",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/",
+                "title": "Kunst im Umbau - Workshops & Talks",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Vortrag und Diskussion \u00fcber das Projekt:\r\nAuf dem Areal des Kreativquartiers in M\u00fcnchen fand am 08. und 09. Juli 2022 eine Veranstaltung statt, bei der k\u00fcnstlerische Positionen zum Thema \u201eKunst im Umbau\u201c in Form von Workshops erarbeitet, pr\u00e4sentiert und diskutiert wurden.",
+                "description": "Das M\u00fcnchner Kreativquartier ist ein Stadtentwicklungsareal, das sich in einem rasanten Wandlungsprozess befindet. Auf dem Areal zwischen Dachauer- und Schwere-Reiter-Stra\u00dfe ist ein neues Stadtquartier in Planung, das in Zukunft Wohnen und Arbeiten mit Kunst und Kultur verkn\u00fcpfen will. Ist das \u00fcberhaupt trotz unterschiedlicher Interessen und Bed\u00fcrfnisse m\u00f6glich? Und was passiert mit den gewachsenen Strukturen, die sich momentan auf dem Areal befinden?\r\n\r\nDiese Ausgangslage und der Ort waren Inspirationsquelle und Experimentierfeld f\u00fcr die Workshops. Anhand von verschiedenen k\u00fcnstlerischen Herangehensweisen wurde erforscht, inwieweit zeitgen\u00f6ssische Kunstpraktiken \u2013 tempor\u00e4r, performativ, interaktiv und vielleicht auch dauerhaft \u2013 \r\nin Umbauprozesse eingreifen k\u00f6nnen.\r\n\r\nWelche M\u00f6glichkeiten ergeben sich aus dem Moment des Dazwischen? \r\nWie wichtig ist der k\u00fcnstlerische Blick auf den Wandlungsprozess?\r\nWie k\u00f6nnen vorhandene gewachsene Strukturen in die Stadtentwicklung integriert werden?\r\nWomit k\u00f6nnten die g\u00e4ngigen Formate wie \u201eZwischennutzung\u201c und \u201eKunst am Bau\u201c erweitert werden?",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 189,
+                    "code": "RACSGX",
+                    "public_name": "Ursula Gaisbauer",
+                    "biography": "Ursula Gaisbauer (*1986) lebt und arbeitet derzeit in M\u00fcnchen und Wien. Sie studierte Landschaftsdesign und ortsbezogene Kunst an der Universit\u00e4t f\u00fcr angewandte Kunst Wien. Ihre meist tempor\u00e4ren Arbeiten liegen im Spannungsfeld von Kunst und Architektur und setzen sich konzeptuell mit dem Ort und dessen Kontext auseinander. So entstehen sehr unterschiedliche Arbeiten von Interventionen im \u00f6ffentlichen Raum, Film und Performances bis hin zu raumgreifenden Installationen, die Kunst in den Umbauprozess integrieren.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 6634,
+                "guid": "f6634d3c-8085-54e2-8ace-e2d5f8601a7d",
+                "logo": "",
+                "date": "2022-12-27T16:30:00+01:00",
+                "start": "16:30",
+                "duration": "00:20",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-6634-design_clubcult_dance",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/",
+                "title": "Design Clubcult - Dance!",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Film",
-                "language": "de",
-                "abstract": "Die Geschichte des legend\u00e4ren Chaos Computer Club (CCC) und seiner Gr\u00fcnderseele Wau Holland (Dr. Wau).",
-                "description": "Vom Computer-Nerd zum Datenk\u00fcnstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die gro\u00dfen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.\r\nMehr Infos: https://allesisteins.film/",
+                "language": "en",
+                "abstract": "{Design Clubcult - Dance!} A short experimental documentary about the revolutionary potential of dance and clubculture.",
+                "description": "{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 166,
+                    "code": "RMJD9W",
+                    "public_name": "Emma Mann",
+                    "biography": "Emma Mann born 1999 in Berlin grew up in Munich where she studies since 2022 at the Academy of Fine Arts in the class of Pamela Rosenkranz.\r\nShe worked several times as an assistant for the munich based choreographer Ceren Oran,  \r\nand lived and worked temporarily in Tbilisi (2019), Leipzig (2020), Hildesheim(2021/22) and Marseille (2022).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1313,
+                "guid": "b13d136b-b324-5937-ad11-b215d855ced5",
+                "logo": "",
+                "date": "2022-12-27T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-1313-geschlossene_gesellschaft",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/",
+                "title": "Geschlossene Gesellschaft",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "en",
+                "abstract": "Der Film begleitet verschiedene M\u00fcnchner Clubs durch die Pandemie.",
+                "description": "\u201eIch war mir felsenfest sicher, jeder wird immer feiern, essen und trinken.\u201c Doch die Pandemie zerst\u00f6rte diese jahrhundertealte Gewissheit, denn die Clubs waren die ersten, die geschlossen haben und die letzten, die wieder \u00f6ffnen durften. GESCHLOSSENE GESELLSCHAFT startet im Jahr 2 des Ausnahmezustands im Moment der gr\u00f6\u00dften Unsicherheit, als man in Bayern um 21 Uhr die Wohnung eigentlich nicht mehr verlassen durfte. Vier ganz unterschiedliche Clubs in M\u00fcnchen werden durch die Pandemie begleitet: Backstage, Harry Klein, Milla und P1. Sie alle eint das kreative Auflehnen gegen die mentale und finanzielle Insolvenz. Ein Film \u00fcber die Transformation des Nachtlebens und die ekstatische Wiederauferstehung eines generations\u00fcbergreifenden Sehnsuchtsorts. Ludwig Sporrer\r\nMehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1306,40 +992,16 @@
                 ],
                 "links": [],
                 "attachments": []
-              },
-              {
-                "id": 4783,
-                "guid": "478320e4-3feb-5594-8b47-3950f0edf5af",
-                "logo": "/media/freiraumforum/submissions/EJRDFX/seebruecke_muenchen_logo_21_LpiNEFz.jpg",
-                "date": "2022-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/",
-                "title": "Br\u00fccken statt Mauern - grenzenlose Solidarit\u00e4t",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "de",
-                "abstract": "Film und Gespr\u00e4ch \u00fcber die europ\u00e4ischen Au\u00dfengrenzen und was wir dem entgegensetzen k\u00f6nnen",
-                "description": "Wir zeigen einen Kurzfilm polnischer Aktivist*innen zur Situation an der Grenze Polen/Belarus. Davon ausgehend k\u00f6nnen wir z.B. gemeinsam \u00fcber folgende Themen sprechen:\r\n-sichere und legale Fluchtwege\r\n-Perspektiven globaler Solidarit\u00e4t\r\n-solidarische Stadt",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 144,
-                    "code": "HDLC3T",
-                    "public_name": "Seebr\u00fccke M\u00fcnchen",
-                    "biography": "Die Seebr\u00fccke M\u00fcnchen ist eine Lokalgruppe der zivilgesellschaftlichen Bewegung der Seebr\u00fccke und setzt sich f\u00fcr sichere und legale Fluchtweg, sicheres Ankommen und Bleibeperspektiven ein.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
               }
-            ],
-            "ad28953f-122e-4293-836d-860320183a1c": [],
+            ]
+          }
+        },
+        {
+          "index": 2,
+          "date": "2022-12-28",
+          "day_start": "2022-12-28T09:00:00+01:00",
+          "day_end": "2022-12-28T09:00:00+01:00",
+          "rooms": {
             "Fireshonks-Stream": [
               {
                 "id": 49154,
@@ -1981,44 +1643,33 @@
                 "links": [],
                 "attachments": []
               }
-            ]
-          }
-        },
-        {
-          "index": 3,
-          "date": "2022-12-29",
-          "day_start": "2022-12-29T09:00:00+01:00",
-          "day_end": "2022-12-29T09:00:00+01:00",
-          "rooms": {
-            "c62a781e-48a3-4546-bb5c-dee2080738f7": [],
-            "6f12618c-0f1c-4318-a201-099152f86ac0": [],
-            "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
+            ],
             "Seminarraum": [
               {
-                "id": 5092,
-                "guid": "50923b4d-ca00-5303-94be-b014fb3af89d",
-                "logo": "",
-                "date": "2022-12-29T13:00:00+01:00",
+                "id": 4958,
+                "guid": "a49e5c85-1ad9-5e2f-9427-627eb6a77ca3",
+                "logo": "/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png",
+                "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
-                "duration": "00:30",
+                "duration": "01:30",
                 "room": "Seminarraum",
-                "slug": "jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
-                "title": "intro to time- & organisation-concepts and useful tricks",
+                "slug": "jev22-4958-das_zam_im_wandel_der_zeit",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/PFNABK/",
+                "title": "Das ZAM im Wandel der Zeit",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?\r\nWant to get organized and get an efficient overview of all your TODOs?\r\nOr already using some concepts and want to go deeper and learn (hopefully) some new tricks?\r\nThen join this talk.",
-                "description": "First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind & workflows.\r\n\r\nSecond half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) \r\n\r\nThird is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.\r\nBest way to learn and teach is by communicating, so lets talk!",
+                "abstract": "Wo sind wir hier eigentlich? Was ist das f\u00fcr ein Ort? Was war und was kommt hier? Viele Fragen und einige Antworten, zum ZAM, dem Zentrum f\u00fcr Austausch und Machen.",
+                "description": "Wir m\u00f6chten euch diesen neuen Ort in der Erlanger Kulturlandschaft erkl\u00e4ren und zeigen. Geplant ist eine kurze Vorstellung und eine ausgiebige F\u00fchrung durchs Haus. Damit verbunden eine Reise durch die Zeit von ~1690 bis ins Jahr 2032.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 28,
-                    "code": "RBRX7K",
-                    "public_name": "MaW",
-                    "biography": "Hi, I am MaW, and broadly interested in a lot of topics, with always new ideas and never enough time to realize them.\r\n\r\nThinking about organization systems since around 15 years and always trying to find and optimize existing solutions before developing new ones.",
+                    "id": 5,
+                    "code": "SYJ7LM",
+                    "public_name": "Julian \"codemonk\"",
+                    "biography": "Auf Bergen, in H\u00f6hlen und in der Luft unterwegs. Manchmal auch in Hack- und Makespaces.",
                     "answers": []
                   }
                 ],
@@ -2026,37 +1677,61 @@
                 "attachments": []
               },
               {
-                "id": 2775,
-                "guid": "2f7757c0-259b-5899-90c4-0690be7a4b35",
-                "logo": "/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg",
-                "date": "2022-12-29T14:00:00+01:00",
-                "start": "14:00",
+                "id": 9167,
+                "guid": "91f6e743-93b2-590f-b64b-1d51bd2673c4",
+                "logo": "",
+                "date": "2022-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "Seminarraum",
+                "slug": "jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/",
+                "title": "Gib mir mal die Datei... Dateien verteilen in 2022",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungel\u00f6stes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?\r\n\r\nDieser talk gibt einen kleinen \u00dcberblick \u00fcber derzeit verf\u00fcgbare freie Software und deren Anwendungsgebiete.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 9,
+                    "code": "MEA8TX",
+                    "public_name": "C-Keen",
+                    "biography": "Teil des Nerdberg Chaos.\r\n\r\nKaffee _und_ Tee, mag emacs, kann vi bedienen, mag Nischenprogrammiersprachen und -betriebssysteme.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 9908,
+                "guid": "9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50",
+                "logo": "",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
                 "duration": "00:45",
                 "room": "Seminarraum",
-                "slug": "jev22-2775-surviving_as_a_nerd_deutsch",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/7R9URV/",
-                "title": "Surviving as a NERD (Deutsch)",
+                "slug": "jev22-9908-wie_funktioniert_eigentlich_filmentwicklung",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/",
+                "title": "Wie funktioniert eigentlich Filmentwicklung?",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Ein Relationship Survival Guide f\u00fcr Nerds",
-                "description": "Talking Points:\r\nWas wir mit Nerd meinen\r\nEgoismus vs. Authentisches Selbst\r\nDas Ziel\r\nHack dein (sozial) Leben\r\nHack deine Beziehungen",
+                "abstract": "Vor 196 Jahren erfand Joseph Ni\u00e9pce die Heliographie, die weltweit erste fotographische Technik.\r\n    War ein Portrait von sich anfertigen zu lassen bis zu diesem Zeitpunkt Statussymbol einer kleinen, wohlhabenden, adeligen Schicht, so wurde es in den Folgejahren nach und nach f\u00fcr die gesamte Bev\u00f6lkerung erschwinglich.\r\n    Seitdem hat sich viel getan: die Anfangs noch recht unhandlichen chemischen Prozesse wurden perfektioniert und Anfang der 2000er Jahre dann von der Digitalfotografie verdr\u00e4ngt.\r\n    Dedizierte Fotoapparate spielen inzwischen kaum noch eine Rolle und sind weitgehend von Mobiltelefonen verdr\u00e4ngt worden.\r\n    Die meisten Menschen wachsen heutzutage auf, ohne jemals mit der urspr\u00fcnglichen fotografischen Technik in Ber\u00fchrung zu kommen.\r\n    Das ist schade, stellt sie doch eine gro\u00dfartige kulturelle Errungenschaft dar.\r\n    In diesem Vortrag m\u00f6chte ich dem Publikum nahebringen, was sich hinter analoger Fotografie verbirgt und was in physikalischer und chemischer Hinsicht beim Entstehen eines Schwarz-Weiss-Fotos abl\u00e4uft.",
+                "description": "",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 13,
-                    "code": "HVX9XK",
-                    "public_name": "Akira DeLaine",
-                    "biography": "CisMale, Poly, SozP\u00e4d",
-                    "answers": []
-                  },
-                  {
-                    "id": 14,
-                    "code": "YCT79Z",
-                    "public_name": "SycretSoul",
-                    "biography": "I'm a Color Nerd and a woman living in polyamorous relationship.",
+                    "id": 26,
+                    "code": "JDHLEG",
+                    "public_name": "Beowulf",
+                    "biography": "-",
                     "answers": []
                   }
                 ],
@@ -2064,61 +1739,30 @@
                 "attachments": []
               },
               {
-                "id": 982,
-                "guid": "be09a825-3f68-5362-b03f-bdae90ce5588",
+                "id": 6207,
+                "guid": "6a20a7c8-1c7a-5d01-8de8-cd233b06a34c",
                 "logo": "",
-                "date": "2022-12-29T15:15:00+01:00",
-                "start": "15:15",
-                "duration": "00:30",
+                "date": "2022-12-28T17:15:00+01:00",
+                "start": "17:15",
+                "duration": "01:00",
                 "room": "Seminarraum",
-                "slug": "jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/TWELKD/",
-                "title": "Schlangenprogrammiernacht \u2013 Ein Blick hinter die Kulissen",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein f\u00fcr die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.",
-                "description": "Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!\r\n\r\nKonkret wird es darum gehen\u2026\r\n\r\n- wie der Gameserver mit den Bot-Prozessen kommuniziert,\r\n- wie die Unterst\u00fctzung mehrerer Programmiersprachen umgesetzt ist und\r\n- wie verhindert wird, dass die User mit ihrem Code das Hostsystem \u00fcbernehmen.\r\n\r\nSolltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 20,
-                    "code": "PDAFL8",
-                    "public_name": "Thomas \u201ecfr34k\u201c",
-                    "biography": "Normalerweise sind meine Projekte eher hardwarenah (Mikrocontroller-Firmware und Elektronik), aber manchmal entstehen doch auch reine Softwareprojekte, die man herzeigen kann, wie zum Beispiel die [Schlangenprogrammiernacht](https://schlangen.bytewerk.org).",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 7656,
-                "guid": "d765694d-8e4c-5eb2-aa64-8815a6693661",
-                "logo": "/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg",
-                "date": "2022-12-29T16:15:00+01:00",
-                "start": "16:15",
-                "duration": "02:00",
-                "room": "Seminarraum",
-                "slug": "jev22-7656-schafkopf_fuer_anfaenger",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/YLYW79/",
-                "title": "Schafkopf f\u00fcr Anf\u00e4nger",
+                "slug": "jev22-6207-schokolade_essen",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/",
+                "title": "Schokolade essen",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Workshop",
                 "language": "de",
-                "abstract": "Mal was Analoges - Schafkopfen f\u00fcr Anf\u00e4nger:\r\nSchafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken",
-                "description": "",
+                "abstract": "Schokolade essen? Das kann doch jeder!\r\nRichtig. Bei diesem Workshop sind alle Teilnehmenden bereits Experten oder zumindest Fortgeschrittene. \r\nDennoch gibt es hier ganz viel zu erfahren. In knapp einer Stunde essen wir ein St\u00fcck Schokolade und es wird nicht langweilig. Bitte lasse dich darauf ein.",
+                "description": "Ein Workshop der besonderen Art.\r\nHinweis:\r\nBei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte bring dir dazu was mit, damit es f\u00fcr dich warm und bequem funktionieren kann. Alternativ klappt es im Sitzen ebenfalls wunderbar.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 7,
-                    "code": "BRCTHC",
-                    "public_name": "MikeTsenatek",
-                    "biography": "Nerd aus F\u00fcrth der auf dem Land aufgewachsen ist inkl. regelm\u00e4\u00dfiger Schafkopfrunden im Wirtshaus.",
+                    "id": 21,
+                    "code": "79EN8S",
+                    "public_name": "Roman St\u00f6hr",
+                    "biography": "Ich lebe f\u00fcr die Momente in denen Spontanit\u00e4t, Leichtigkeit und Lebendigkeit aufeinander treffen und m\u00f6chte diese mit euch teilen. \r\nWenn dann noch Zeit ist, arbeite ich an meiner Informatik-Promotion - das vielleicht um endlich diesen einen XKCD-Comic zu verstehen!!1!",
                     "answers": []
                   }
                 ],
@@ -2128,37 +1772,68 @@
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
-                "id": 3706,
-                "guid": "37fc0602-d596-56a7-bdce-72253b7b5164",
-                "logo": "/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png",
-                "date": "2022-12-29T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "01:00",
+                "id": 8672,
+                "guid": "867208f4-ebf6-5158-89c1-bd9f623f50f2",
+                "logo": "",
+                "date": "2022-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3706-slapp",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/",
-                "title": "SLAPP: Rechtsmissbrauch zulasten der kritischen \u00d6ffentlichkeit - und was dagegen getan werden kann.",
+                "slug": "jev22-8672-kritische_maennlichkeit",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/",
+                "title": "Kritische M\u00e4nnlichkeit",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Wie beeinflussen patriarchale Vorstellungen von M\u00e4nnlichkeit unser Zusammenleben, und wie k\u00f6nnen wir im Austausch zwischen allen Geschlechtern neue Praktiken entwickeln?",
+                "description": "Wann wird von wem \"M\u00e4nnlichkeit\" erwartet? Was bedeutet das \u00fcberhaupt? Wie wirkt sich das auf unser Miteinander aus, und welche Probleme kann das bereiten? Mit welchen zwischenmenschlichen Praktiken k\u00f6nnen wir diesen entgegenwirken, und wie k\u00f6nnen wir uns diese aneignen?\r\n\r\nZiel des Workshops ist es, sich diesen Fragen durch zug\u00e4ngliche und strukturierte Diskussion und praktische \u00dcbungen zu \u00f6ffnen, und gemeinsam konkrete Handlungsoptionen zu entwickeln.\r\n\r\nDer Workshop ist explizit f\u00fcr alle Menschen unabh\u00e4ngig von ihrer Geschlechtsidentit\u00e4t angelegt.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 38,
+                    "code": "XP7KZZ",
+                    "public_name": "Martin Barner",
+                    "biography": "Martin ist Coautor des Buches \"Tools for Men-with-Feminist-Ambitions\" (sabotage L.A. publishing). Er setzt sich in engem Austausch mit anderen damit auseinander, wie \"kritische M\u00e4nnlichkeit\" in konrekten zwischenmenschlichen Praktiken umgesetzt werden kann.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
+                "date": "2022-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
+                "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Immer mehr Unternehmen, staatliche Akteure und reiche Einzelpersonen nutzen rechtliche Mittel, um Kritiker*innen zum Schweigen zu bringen. Blueprint for Free Speech und RA Dr. Jasper Prigge stellen das Ph\u00e4nomen der \u201cStrategic Lawsuits Against Public Participation\u201d und m\u00f6gliche Gegenma\u00dfnahmen vor.",
-                "description": "Die Kurzform SLAPP kommt aus den USA: \u00dcberm\u00e4chtige Player, die Journalisti oder Aktivisti mit juristischen \u201cOhrfeigen\u201d zum schweigen bringen wollen. Nicht immer sind die Forderungen juristisch unbegr\u00fcndet, aber in jedem Fall haben sie einen einsch\u00fcchternden Effekt. Weil SLAPPs ein strategisches Mittel in der Auseinandersetzung um f\u00fcr die \u00d6ffentlichkeit wesentliche Themen sind, handelt es sich nicht zuletzt um Ohrfeigen f\u00fcr die Demokratie.\r\n\r\nSLAPPs sind darauf gerichtet, \u00f6ffentliche Partizipation zu schw\u00e4chen, indem sie Kritiker:innen einsch\u00fcchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfl\u00e4che so klein wie m\u00f6glich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. \r\n\r\nBlueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge (https://www.prigge-recht.de) in die Thematik einf\u00fchren, inkl. Q&A.",
+                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
+                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 163,
-                    "code": "9TX7P3",
-                    "public_name": "Blueprint For Free Speech",
-                    "biography": "Blueprint for Free Speech is a non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. Our research and advocacy strive to defend Article 19 of the Universal Declaration of Human Rights, which asserts the right to freedom of opinion and expression for all people.\r\n\r\nhttps://www.blueprintforfreespeech.net",
+                    "id": 138,
+                    "code": "8UNDWN",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
                     "answers": []
                   },
                   {
-                    "id": 198,
-                    "code": "CTUZ7V",
-                    "public_name": "Arbeitskreis kritischer Jurist*innen",
-                    "biography": "Der Arbeitskreis kritischer Jurist*innen (AKJ) ist eine Initiative aus Studierenden und Referendar*innen, die sich mit gesellschaftspolitisch relevanten juristischen Themen auseinandersetzt, versucht diese zu reflektieren und Verbesserungen im System anzustreben. Neben dem Bundesarbeitskreis (BAKJ), gibt es Arbeitskreise in mehreren St\u00e4dten Deutschlands. Der Vortrag und das anschlie\u00dfende Q&A mit Dr. Jasper Prigge zu anti-SLAPPs wird repr\u00e4sentativ vom AKJ M\u00fcnchen moderiert.",
+                    "id": 158,
+                    "code": "Y9XTHZ",
+                    "public_name": "Assoziation:E e.V.",
+                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
                     "answers": []
                   }
                 ],
@@ -2166,61 +1841,68 @@
                 "attachments": []
               },
               {
-                "id": 2550,
-                "guid": "b25509b8-b579-5e8e-94f7-ae1c8cd3cc75",
-                "logo": "",
-                "date": "2022-12-29T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "01:00",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
+                "date": "2022-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/",
-                "title": "Solidarisch essen, ackern, imkern und wohnen",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "de",
-                "abstract": "Im Dokumentarfilm \"Connected\" werden vier solidarische Projekte in M\u00fcnchen vorgestellt. Mit anschlie\u00dfender Diskussion.",
-                "description": "Anhand des Dokumentarfilms \"Connected\" wollen wir euch die solidarische Landwirtschaft Donihof, das Mietsh\u00e4user Syndikatsprojekt Ligsalz8, den Stattpark Olga und die solidarische Imkerei Schwarmstimmung vorstellen und im Anschluss mit euch \u00fcber die Situation solidarischer Projekte in M\u00fcnchen diskutieren.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 193,
-                    "code": "VF8WZU",
-                    "public_name": "Peter von der Schwarmstimmung",
-                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 4443,
-                "guid": "4f44d39f-3189-59d2-87ce-3cd41ec43123",
-                "logo": "/media/freiraumforum/submissions/QVPQKG/G128_H3EDpmJ.png",
-                "date": "2022-12-29T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/",
-                "title": "Das Mietsh\u00e4user Syndikat und das Neubauprojekt G\u00f6rzer128",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
+                "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Die G\u00f6rzer128 wird gebaut - 14 Jahre nach der Ligsalz8, M\u00fcnchens zweites Projekt im Verbund mit dem Mietsh\u00e4user Syndikat.",
-                "description": "Unser Neubauprojekt G\u00f6rzer128 wird ab dem kommenden Jahr sowohl bezahlbaren Wohnraum, als auch einen unkommerziellen Veranstaltungs- und Begegnungsort schaffen. Im Fr\u00fchling 2021 haben wir den Zuschlag f\u00fcr ein Grundst\u00fcck in der G\u00f6rzerstra\u00dfe 128 in Ramersdorf-Perlach von der Stadt M\u00fcnchen erhalten. Nun wurde der Bauantrag eingereicht und 2023 wird gebaut. In unserem Projekt setzen wir auf Selbstverwaltung, Schwarmintelligenz und Skillsharing. Wir sind Teil des Mietsh\u00e4user Syndikats, das mittlerweile aus ca. 180 selbstverwalteten Hausprojekten besteht, dessen Funktionsweise wir euch gerne vorstellen und euch motivieren wollen. Denn: Schlie\u00dft euch zusammen, nehmt euch Platz und schafft Freir\u00e4ume. Es werden weitere Grundst\u00fccke von der Stadt, auch f\u00fcr weitere Syndikatsprojekte ausgeschrieben werden. \r\n\r\nWenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Mietsh\u00e4user Syndikat habt kommt vorbei und redet mit uns. Wir sind vor Ort mit einem Infotisch, haben Flyer, Infomaterial und teilen gerne unser Wissen. Ihr k\u00f6nnt euch auch jederzeit online unter www.goerzer128.de \u00fcber unseren aktuellen Stand informieren und euch auf unserem Newsletter eintragen. Meldet euch.",
+                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
+                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 193,
-                    "code": "VF8WZU",
-                    "public_name": "Peter von der Schwarmstimmung",
-                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
+                    "id": 138,
+                    "code": "8UNDWN",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  },
+                  {
+                    "id": 158,
+                    "code": "Y9XTHZ",
+                    "public_name": "Assoziation:E e.V.",
+                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3812,
+                "guid": "3d8b12dd-02d1-57ac-8fc1-46693e923846",
+                "logo": "",
+                "date": "2022-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/",
+                "title": "Kunst und Kommerz, ein problematisches Verh\u00e4ltnis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Diskussion",
+                "language": "de",
+                "abstract": "Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
+                "description": "Pravu Mazumdar (Philosoph) \r\nRosanna Marie Pondorf (Rosa Stern Space/K\u00fcnstlerin)\r\n\r\nModeration: Peter Arun Pfaff",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 139,
+                    "code": "UMSJZX",
+                    "public_name": "Peter Arun Pfaff",
+                    "biography": "CV von Hirsch und Pfaff folgen",
                     "answers": []
                   }
                 ],
@@ -2230,84 +1912,22 @@
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
-                "id": 6202,
-                "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
+                "id": 958,
+                "guid": "09f58cbb-4be7-5a04-8006-f4a2ec335112",
                 "logo": "",
-                "date": "2022-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "02:00",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:30",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-6202-gebaerdensprache_und_freiraum_deafolution",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
-                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
-                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 191,
-                    "code": "V3YXGR",
-                    "public_name": "Matthias Ranner",
-                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 4985,
-                "guid": "4fb985fc-b2a9-5fa7-b8c8-6925415a6cde",
-                "logo": "/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png",
-                "date": "2022-12-29T14:30:00+01:00",
-                "start": "14:30",
-                "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/",
-                "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverh\u00e4ltnissen",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Ein kurzer Exkurs, warum W\u00e4hlen gehen f\u00fcr j\u00fcngere Generationen in Zukunft immer wichtiger wird und Konzepte wie Deutsche Wohnen & Co enteignen wahrscheinlich nicht weit genug gehen.",
-                "description": "Ein theoretischer Vortrag mit einer uterhaltsamen Pr\u00e4sentation \u00fcber die Zukunft von Deutschland. Basierend auf den \u00dcberlegungen von Stefan Schulz, Autor von 'die Alten Republik' wird unter Ber\u00fccksichtigung der aktuellen Zahlen und W\u00e4hlerverhalten, insbesondere dem der sogenannten Boomer-Generation, wird W\u00e4hlen trotz einer antiautorit\u00e4ren Grundhaltung zur B\u00fcrgerpflicht. Aus der relativ d\u00fcsteren Prognose leitet sich die weiterf\u00fchrende \u00dcberlegung ab, dass Ideen, wie 'Deutsche Wohnen & Co enteignen!' nicht durchdacht genug sind. Wohnbesitz wird in Zukunft wieder mehr Machtmittel sein, vergleiche dazu Oliver Webers \u00dcberlegungen bei Jung und Naiv. Da der Wohnraum auch \u00fcberwiegend in Besitz der Boomer ist, laufen beide Themen parallel. Im Vortrag geht es weniger um einen L\u00f6sungsvorschlag als viel mehr darum eine Idee weiter zu tragen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 173,
-                    "code": "PYTB9N",
-                    "public_name": "Lorenz Wittmann",
-                    "biography": "1981 in M\u00fcnchen geboren, seit Ende der Neunziger in verschiedenen Bereichen der M\u00fcnchner Sub-/Jugendkultur aktiv, ob Organisation von illegalen Partys, Street Art, Jugendmagazinen, Musik oder einfach nur hinter der Bar, gelernter Grafiker, Creative Director und seit 2021 Student Management der sozialen Innovationen an der HM.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 755,
-                "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
-                "logo": "",
-                "date": "2022-12-29T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "01:31",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-755-kampf_um_die_a49",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/",
-                "title": "Kampf um die A49",
+                "slug": "jev22-958-alles_ist_1_ausser_der_0",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/",
+                "title": "Alles ist 1. Au\u00dfer der 0.",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Film",
-                "language": "en",
-                "abstract": "Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten m\u00fcssen den Weg frei machen f\u00fcr die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.",
-                "description": "Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse f\u00fchrt durch jahrhundertealte W\u00e4lder, vorbei an verschlafenen D\u00f6rfern. \u00dcber 600 Aktivisten haben in Dannenrod in Mittelhessen 7 \"Barrios\" mit bis zu 100 Baumh\u00e4usern in schwindelerregender H\u00f6he gebaut. Die R\u00e4umung durch Spezialeinsatzkr\u00e4fte der Polizei steht unmittelbar bevor.\u00a0\r\nIn Planung ist die A 49 schon seit \u00fcber 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten \u00fcber Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GR\u00dcNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der gr\u00fcne Verkehrsminister, n\u00e4mlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-gr\u00fcnen Landesregierung politisch durchsetzen. \r\nKlaus Stern und Frank Pfeiffer begleiten Bef\u00fcrworter der Autobahn, langj\u00e4hrige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister w\u00e4hrend des Rodungs- und Bauprozesses.\u00a0\r\nWie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.\r\nMehr Infos: https://www.die-autobahn-derfilm.de/",
+                "language": "de",
+                "abstract": "Die Geschichte des legend\u00e4ren Chaos Computer Club (CCC) und seiner Gr\u00fcnderseele Wau Holland (Dr. Wau).",
+                "description": "Vom Computer-Nerd zum Datenk\u00fcnstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die gro\u00dfen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.\r\nMehr Infos: https://allesisteins.film/",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -2321,9 +1941,47 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 4783,
+                "guid": "478320e4-3feb-5594-8b47-3950f0edf5af",
+                "logo": "/media/freiraumforum/submissions/EJRDFX/seebruecke_muenchen_logo_21_LpiNEFz.jpg",
+                "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/",
+                "title": "Br\u00fccken statt Mauern - grenzenlose Solidarit\u00e4t",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "de",
+                "abstract": "Film und Gespr\u00e4ch \u00fcber die europ\u00e4ischen Au\u00dfengrenzen und was wir dem entgegensetzen k\u00f6nnen",
+                "description": "Wir zeigen einen Kurzfilm polnischer Aktivist*innen zur Situation an der Grenze Polen/Belarus. Davon ausgehend k\u00f6nnen wir z.B. gemeinsam \u00fcber folgende Themen sprechen:\r\n-sichere und legale Fluchtwege\r\n-Perspektiven globaler Solidarit\u00e4t\r\n-solidarische Stadt",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 144,
+                    "code": "HDLC3T",
+                    "public_name": "Seebr\u00fccke M\u00fcnchen",
+                    "biography": "Die Seebr\u00fccke M\u00fcnchen ist eine Lokalgruppe der zivilgesellschaftlichen Bewegung der Seebr\u00fccke und setzt sich f\u00fcr sichere und legale Fluchtweg, sicheres Ankommen und Bleibeperspektiven ein.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
-            ],
-            "ad28953f-122e-4293-836d-860320183a1c": [],
+            ]
+          }
+        },
+        {
+          "index": 3,
+          "date": "2022-12-29",
+          "day_start": "2022-12-29T09:00:00+01:00",
+          "day_end": "2022-12-29T09:00:00+01:00",
+          "rooms": {
             "Fireshonks-Stream": [
               {
                 "id": 49270,
@@ -3165,44 +2823,33 @@
                 "links": [],
                 "attachments": []
               }
-            ]
-          }
-        },
-        {
-          "index": 4,
-          "date": "2022-12-30",
-          "day_start": "2022-12-30T09:00:00+01:00",
-          "day_end": "2022-12-30T09:00:00+01:00",
-          "rooms": {
-            "c62a781e-48a3-4546-bb5c-dee2080738f7": [],
-            "6f12618c-0f1c-4318-a201-099152f86ac0": [],
-            "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
+            ],
             "Seminarraum": [
               {
-                "id": 5136,
-                "guid": "5c136451-b07a-5290-bda4-838406dc814c",
+                "id": 5092,
+                "guid": "50923b4d-ca00-5303-94be-b014fb3af89d",
                 "logo": "",
-                "date": "2022-12-30T14:00:00+01:00",
-                "start": "14:00",
+                "date": "2022-12-29T13:00:00+01:00",
+                "start": "13:00",
                 "duration": "00:30",
                 "room": "Seminarraum",
-                "slug": "jev22-5136-operational_transconductance_amplifiers",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/",
-                "title": "Operational Transconductance Amplifiers",
+                "slug": "jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
+                "title": "intro to time- & organisation-concepts and useful tricks",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Operational Transconductance Amplifiers (OTAs) are fascinating electronic devices:\r\nThey behave like Operational Amplifiers (OP-Amps), but with a controllable current output.\r\nThat enables a lot of interesting possible use cases e.g., voltage controlled amplifiers, voltage controlled filters and voltage controlled simulations of passive electronic components.\r\nDue to their versatility, they can be seen as secret heroes in analog audio circuits, but still their underlying circuit is still relatively simple and therefore comprehensible.\r\nThis talk will take top-down approach starting with the operational principles and various example applications to then continue a bit further down the rabbit hole and take a high-level look at the inner circuit.",
-                "description": "",
+                "abstract": "GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?\r\nWant to get organized and get an efficient overview of all your TODOs?\r\nOr already using some concepts and want to go deeper and learn (hopefully) some new tricks?\r\nThen join this talk.",
+                "description": "First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind & workflows.\r\n\r\nSecond half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) \r\n\r\nThird is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.\r\nBest way to learn and teach is by communicating, so lets talk!",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
-                    "id": 27,
-                    "code": "BFVTJU",
-                    "public_name": "etXzat",
-                    "biography": "Computer scientist, electronics repair technician and passionate hobby musician. I like understanding, fixing and creating things.",
+                    "id": 28,
+                    "code": "RBRX7K",
+                    "public_name": "MaW",
+                    "biography": "Hi, I am MaW, and broadly interested in a lot of topics, with always new ideas and never enough time to realize them.\r\n\r\nThinking about organization systems since around 15 years and always trying to find and optimize existing solutions before developing new ones.",
                     "answers": []
                   }
                 ],
@@ -3210,30 +2857,99 @@
                 "attachments": []
               },
               {
-                "id": 5620,
-                "guid": "5d62000d-a88e-5e1b-b591-7007860146e6",
-                "logo": "",
-                "date": "2022-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:30",
+                "id": 2775,
+                "guid": "2f7757c0-259b-5899-90c4-0690be7a4b35",
+                "logo": "/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg",
+                "date": "2022-12-29T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:45",
                 "room": "Seminarraum",
-                "slug": "jev22-5620-das_matrix_protokoll",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/",
-                "title": "Das Matrix-Protokoll",
+                "slug": "jev22-2775-surviving_as_a_nerd_deutsch",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/7R9URV/",
+                "title": "Surviving as a NERD (Deutsch)",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Matrix (matrix.org) ist ein Protokollstandard f\u00fcr (Gruppen)chats, die \u00fcber mehrere Server teilt sind. Ich m\u00f6chte die Funktion und Konzepte des Protokolls erkl\u00e4ren und welche Probleme es l\u00f6st - insbesondere:\r\n - Verteilte Verwaltung von R\u00e4umen (Moderationsrechte, Mitgliedschaft)\r\n - Ende-zu-Ende-Verschl\u00fcsselung mit mehreren Ger\u00e4ten pro Benutzer",
-                "description": "",
+                "abstract": "Ein Relationship Survival Guide f\u00fcr Nerds",
+                "description": "Talking Points:\r\nWas wir mit Nerd meinen\r\nEgoismus vs. Authentisches Selbst\r\nDas Ziel\r\nHack dein (sozial) Leben\r\nHack deine Beziehungen",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 30,
-                    "code": "RPF3US",
-                    "public_name": "thejonny",
-                    "biography": "@thejonny:bruckbu.de",
+                    "id": 13,
+                    "code": "HVX9XK",
+                    "public_name": "Akira DeLaine",
+                    "biography": "CisMale, Poly, SozP\u00e4d",
+                    "answers": []
+                  },
+                  {
+                    "id": 14,
+                    "code": "YCT79Z",
+                    "public_name": "SycretSoul",
+                    "biography": "I'm a Color Nerd and a woman living in polyamorous relationship.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 982,
+                "guid": "be09a825-3f68-5362-b03f-bdae90ce5588",
+                "logo": "",
+                "date": "2022-12-29T15:15:00+01:00",
+                "start": "15:15",
+                "duration": "00:30",
+                "room": "Seminarraum",
+                "slug": "jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/TWELKD/",
+                "title": "Schlangenprogrammiernacht \u2013 Ein Blick hinter die Kulissen",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein f\u00fcr die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.",
+                "description": "Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!\r\n\r\nKonkret wird es darum gehen\u2026\r\n\r\n- wie der Gameserver mit den Bot-Prozessen kommuniziert,\r\n- wie die Unterst\u00fctzung mehrerer Programmiersprachen umgesetzt ist und\r\n- wie verhindert wird, dass die User mit ihrem Code das Hostsystem \u00fcbernehmen.\r\n\r\nSolltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 20,
+                    "code": "PDAFL8",
+                    "public_name": "Thomas \u201ecfr34k\u201c",
+                    "biography": "Normalerweise sind meine Projekte eher hardwarenah (Mikrocontroller-Firmware und Elektronik), aber manchmal entstehen doch auch reine Softwareprojekte, die man herzeigen kann, wie zum Beispiel die [Schlangenprogrammiernacht](https://schlangen.bytewerk.org).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7656,
+                "guid": "d765694d-8e4c-5eb2-aa64-8815a6693661",
+                "logo": "/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg",
+                "date": "2022-12-29T16:15:00+01:00",
+                "start": "16:15",
+                "duration": "02:00",
+                "room": "Seminarraum",
+                "slug": "jev22-7656-schafkopf_fuer_anfaenger",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/YLYW79/",
+                "title": "Schafkopf f\u00fcr Anf\u00e4nger",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Mal was Analoges - Schafkopfen f\u00fcr Anf\u00e4nger:\r\nSchafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 7,
+                    "code": "BRCTHC",
+                    "public_name": "MikeTsenatek",
+                    "biography": "Nerd aus F\u00fcrth der auf dem Land aufgewachsen ist inkl. regelm\u00e4\u00dfiger Schafkopfrunden im Wirtshaus.",
                     "answers": []
                   }
                 ],
@@ -3243,99 +2959,37 @@
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
-                "id": 1708,
-                "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
-                "logo": "/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg",
-                "date": "2022-12-30T10:00:00+01:00",
-                "start": "10:00",
+                "id": 3706,
+                "guid": "37fc0602-d596-56a7-bdce-72253b7b5164",
+                "logo": "/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png",
+                "date": "2022-12-29T14:00:00+01:00",
+                "start": "14:00",
                 "duration": "01:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-1708-oberlab_ein_fablab_im_oberland",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
-                "title": "Oberlab - Ein FabLab im Oberland",
+                "slug": "jev22-3706-slapp",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/",
+                "title": "SLAPP: Rechtsmissbrauch zulasten der kritischen \u00d6ffentlichkeit - und was dagegen getan werden kann.",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Gemeinn\u00fctzige Nutzungsalternativen von zentral gelegenen R\u00e4umlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. M\u00f6belgeschaftes in Gmund am Tegernsee in einen gemeinn\u00fctzigen **Makerspace** inkl. MINT F\u00f6rderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).",
-                "description": "Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-F\u00f6rderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.\r\n\r\nEine \u00dcbersicht zu dem Projekt getragen durch einen gemeinn\u00fctzigen Verein ist unter https://oberlab.de/ zu finden.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 97,
-                    "code": "AHMGBT",
-                    "public_name": "Lukas Lischke",
-                    "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 3801,
-                "guid": "a3ecb801-4ef2-50c0-9ad0-9b6777826df6",
-                "logo": "/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png",
-                "date": "2022-12-30T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "00:45",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/",
-                "title": "Wohnheim Collegium Academicum - Selbstverwaltet, \u00f6kologisch, bezahlbar",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, f\u00fcr \u00fcber 250 Menschen bezahlbaren, selbstverwalteten und \u00f6kologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir pr\u00e4sentieren, wie Freir\u00e4ume zum Leben und Entfalten geschaffen werden k\u00f6nnen - auch auf angespannten Wohnungsm\u00e4rkten.",
-                "description": "Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem <a href=\"https://collegiumacademicum.de/\">Collegium Academicum (CA)</a> wird in Heidelberg ein etwas anderes Gro\u00dfprojekt geschaffen. Als Teil des <a href=\"https://www.syndikat.org/\">Mietsh\u00e4user Syndikats</a> geh\u00f6rt das Geb\u00e4ude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.\r\nWie wir \u00f6kologische Holzbauweise mit flexiblen Wohnraumgr\u00f6\u00dfen verbinden, das Projekt planen und finanzieren, erf\u00e4hrst du in diesem Vortrag.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 107,
-                    "code": "9DEB7Z",
-                    "public_name": "Jojo",
-                    "biography": ".",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 183,
-                "guid": "0bb18303-6daa-56b6-8b83-13530ca96311",
-                "logo": "/media/freiraumforum/submissions/D9NJMY/Foto_CareWerkstatt_i6S4PZd.jpg",
-                "date": "2022-12-30T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/",
-                "title": "Care Werkstatt // Who Cares? Werkstatt f\u00fcr F\u00fcrsorge(praktiken). by Assoziation:E",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Who cares ist Bildungsangebot und Anlaufstelle f\u00fcr Menschen, die f\u00fcr andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren m\u00f6chten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bew\u00e4ltigung eurer F\u00fcrsorgearbeit!",
-                "description": "Who Cares (ist) konzipiert (f\u00fcr) soziale R\u00e4ume, in denen Menschen emanzipatorische Ans\u00e4tze zur praktischen Bew\u00e4ltigung von F\u00fcrsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum k\u00f6nnen verschiedene Ans\u00e4tze f\u00fcr radikal z\u00e4rtliche Beziehungsweisen entwickelt und reflektiert werden. \r\n\r\nVerschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und \u00dcberwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Au\u00dferdem k\u00f6nnen verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) F\u00fcrsorge herstellen. \r\n\r\nWho cares m\u00f6chte angesichts versch\u00e4rfter sozialer Notlagen individuelle Handlungsf\u00e4higkeit in solidarischen, z\u00e4rtlichen Beziehungsweisen erm\u00f6glichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben f\u00fcr alle Menschen greifbar machen. Und gemeinsam die Abh\u00e4ngigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu \u00fcberwinden.",
+                "abstract": "Immer mehr Unternehmen, staatliche Akteure und reiche Einzelpersonen nutzen rechtliche Mittel, um Kritiker*innen zum Schweigen zu bringen. Blueprint for Free Speech und RA Dr. Jasper Prigge stellen das Ph\u00e4nomen der \u201cStrategic Lawsuits Against Public Participation\u201d und m\u00f6gliche Gegenma\u00dfnahmen vor.",
+                "description": "Die Kurzform SLAPP kommt aus den USA: \u00dcberm\u00e4chtige Player, die Journalisti oder Aktivisti mit juristischen \u201cOhrfeigen\u201d zum schweigen bringen wollen. Nicht immer sind die Forderungen juristisch unbegr\u00fcndet, aber in jedem Fall haben sie einen einsch\u00fcchternden Effekt. Weil SLAPPs ein strategisches Mittel in der Auseinandersetzung um f\u00fcr die \u00d6ffentlichkeit wesentliche Themen sind, handelt es sich nicht zuletzt um Ohrfeigen f\u00fcr die Demokratie.\r\n\r\nSLAPPs sind darauf gerichtet, \u00f6ffentliche Partizipation zu schw\u00e4chen, indem sie Kritiker:innen einsch\u00fcchtern und zum Schweigen zu bringen. Der beste Schutz gegen juristische Angriffe ist, bereits im Vorfeld die Angriffsfl\u00e4che so klein wie m\u00f6glich zu halten. Kommt es dann doch zur Abmahnung oder gar zur Anzeige, gilt es, besonnen und schnell zu handeln. \r\n\r\nBlueprint for Free Speech ist eine international agierende non-profit organization, die anti-SLAPP Trainings in Deutschland organisiert. Beim Vortrag auf dem Freiraumforum wird der Blueprint-Trainer RA Dr. Jasper Prigge (https://www.prigge-recht.de) in die Thematik einf\u00fchren, inkl. Q&A.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "id": 163,
+                    "code": "9TX7P3",
+                    "public_name": "Blueprint For Free Speech",
+                    "biography": "Blueprint for Free Speech is a non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. Our research and advocacy strive to defend Article 19 of the Universal Declaration of Human Rights, which asserts the right to freedom of opinion and expression for all people.\r\n\r\nhttps://www.blueprintforfreespeech.net",
                     "answers": []
                   },
                   {
-                    "id": 158,
-                    "code": "Y9XTHZ",
-                    "public_name": "Assoziation:E e.V.",
-                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "id": 198,
+                    "code": "CTUZ7V",
+                    "public_name": "Arbeitskreis kritischer Jurist*innen",
+                    "biography": "Der Arbeitskreis kritischer Jurist*innen (AKJ) ist eine Initiative aus Studierenden und Referendar*innen, die sich mit gesellschaftspolitisch relevanten juristischen Themen auseinandersetzt, versucht diese zu reflektieren und Verbesserungen im System anzustreben. Neben dem Bundesarbeitskreis (BAKJ), gibt es Arbeitskreise in mehreren St\u00e4dten Deutschlands. Der Vortrag und das anschlie\u00dfende Q&A mit Dr. Jasper Prigge zu anti-SLAPPs wird repr\u00e4sentativ vom AKJ M\u00fcnchen moderiert.",
                     "answers": []
                   }
                 ],
@@ -3343,30 +2997,61 @@
                 "attachments": []
               },
               {
-                "id": 8684,
-                "guid": "86dfbd8c-47d1-5c2a-bbc6-1ff2da203924",
+                "id": 2550,
+                "guid": "b25509b8-b579-5e8e-94f7-ae1c8cd3cc75",
                 "logo": "",
-                "date": "2022-12-30T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "01:30",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-8684-wdzwo_wir_squatten_das_outback",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/",
-                "title": "WdZwo - Wir squatten das Outback",
+                "slug": "jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/",
+                "title": "Solidarisch essen, ackern, imkern und wohnen",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
-                "type": "Diskussion",
+                "type": "Film",
                 "language": "de",
-                "abstract": "In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns \u00fcber Austausch auch allgemein zum Thema Besetzung.",
-                "description": "Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem \u00f6ffentlich-werden erfolgte die R\u00e4umung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.",
+                "abstract": "Im Dokumentarfilm \"Connected\" werden vier solidarische Projekte in M\u00fcnchen vorgestellt. Mit anschlie\u00dfender Diskussion.",
+                "description": "Anhand des Dokumentarfilms \"Connected\" wollen wir euch die solidarische Landwirtschaft Donihof, das Mietsh\u00e4user Syndikatsprojekt Ligsalz8, den Stattpark Olga und die solidarische Imkerei Schwarmstimmung vorstellen und im Anschluss mit euch \u00fcber die Situation solidarischer Projekte in M\u00fcnchen diskutieren.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
-                    "id": 142,
-                    "code": "VDPXSV",
-                    "public_name": "Aaron",
-                    "biography": "Bin ein Fan selbstorganisierter Freir\u00e4ume, deshalb liebe ich dieses Forum!",
+                    "id": 193,
+                    "code": "VF8WZU",
+                    "public_name": "Peter von der Schwarmstimmung",
+                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 4443,
+                "guid": "4f44d39f-3189-59d2-87ce-3cd41ec43123",
+                "logo": "/media/freiraumforum/submissions/QVPQKG/G128_H3EDpmJ.png",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/",
+                "title": "Das Mietsh\u00e4user Syndikat und das Neubauprojekt G\u00f6rzer128",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Die G\u00f6rzer128 wird gebaut - 14 Jahre nach der Ligsalz8, M\u00fcnchens zweites Projekt im Verbund mit dem Mietsh\u00e4user Syndikat.",
+                "description": "Unser Neubauprojekt G\u00f6rzer128 wird ab dem kommenden Jahr sowohl bezahlbaren Wohnraum, als auch einen unkommerziellen Veranstaltungs- und Begegnungsort schaffen. Im Fr\u00fchling 2021 haben wir den Zuschlag f\u00fcr ein Grundst\u00fcck in der G\u00f6rzerstra\u00dfe 128 in Ramersdorf-Perlach von der Stadt M\u00fcnchen erhalten. Nun wurde der Bauantrag eingereicht und 2023 wird gebaut. In unserem Projekt setzen wir auf Selbstverwaltung, Schwarmintelligenz und Skillsharing. Wir sind Teil des Mietsh\u00e4user Syndikats, das mittlerweile aus ca. 180 selbstverwalteten Hausprojekten besteht, dessen Funktionsweise wir euch gerne vorstellen und euch motivieren wollen. Denn: Schlie\u00dft euch zusammen, nehmt euch Platz und schafft Freir\u00e4ume. Es werden weitere Grundst\u00fccke von der Stadt, auch f\u00fcr weitere Syndikatsprojekte ausgeschrieben werden. \r\n\r\nWenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Mietsh\u00e4user Syndikat habt kommt vorbei und redet mit uns. Wir sind vor Ort mit einem Infotisch, haben Flyer, Infomaterial und teilen gerne unser Wissen. Ihr k\u00f6nnt euch auch jederzeit online unter www.goerzer128.de \u00fcber unseren aktuellen Stand informieren und euch auf unserem Newsletter eintragen. Meldet euch.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 193,
+                    "code": "VF8WZU",
+                    "public_name": "Peter von der Schwarmstimmung",
+                    "biography": "Wir sind mehrere Aktive aus solidarischen Zusammenh\u00e4ngen.",
                     "answers": []
                   }
                 ],
@@ -3376,30 +3061,61 @@
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
-                "id": 651,
-                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
+                "id": 6202,
+                "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
                 "logo": "",
-                "date": "2022-12-30T11:00:00+01:00",
+                "date": "2022-12-29T11:00:00+01:00",
                 "start": "11:00",
+                "duration": "02:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-6202-gebaerdensprache_und_freiraum_deafolution",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
+                "title": "Geb\u00e4rdensprache und Freiraum - Deafolution!",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
+                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "V3YXGR",
+                    "public_name": "Matthias Ranner",
+                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 4985,
+                "guid": "4fb985fc-b2a9-5fa7-b8c8-6925415a6cde",
+                "logo": "/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png",
+                "date": "2022-12-29T14:30:00+01:00",
+                "start": "14:30",
                 "duration": "01:00",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
-                "title": "Lass mich durch - Wege befreien im urbanen Raum",
+                "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/",
+                "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverh\u00e4ltnissen",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Viola und Ich halten einen Vortrag, in dem wir die Zuh\u00f6renden anstiften unliebsame Z\u00e4une und andere Hindernisse in ihrer Umgebung zu \u00fcberwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualit\u00e4t steigert.",
-                "description": "Unser Anliegen besteht darin eine Aufmerksamkeit f\u00fcr die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern k\u00f6nnen. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir \u00fcberzeugt.",
+                "abstract": "Ein kurzer Exkurs, warum W\u00e4hlen gehen f\u00fcr j\u00fcngere Generationen in Zukunft immer wichtiger wird und Konzepte wie Deutsche Wohnen & Co enteignen wahrscheinlich nicht weit genug gehen.",
+                "description": "Ein theoretischer Vortrag mit einer uterhaltsamen Pr\u00e4sentation \u00fcber die Zukunft von Deutschland. Basierend auf den \u00dcberlegungen von Stefan Schulz, Autor von 'die Alten Republik' wird unter Ber\u00fccksichtigung der aktuellen Zahlen und W\u00e4hlerverhalten, insbesondere dem der sogenannten Boomer-Generation, wird W\u00e4hlen trotz einer antiautorit\u00e4ren Grundhaltung zur B\u00fcrgerpflicht. Aus der relativ d\u00fcsteren Prognose leitet sich die weiterf\u00fchrende \u00dcberlegung ab, dass Ideen, wie 'Deutsche Wohnen & Co enteignen!' nicht durchdacht genug sind. Wohnbesitz wird in Zukunft wieder mehr Machtmittel sein, vergleiche dazu Oliver Webers \u00dcberlegungen bei Jung und Naiv. Da der Wohnraum auch \u00fcberwiegend in Besitz der Boomer ist, laufen beide Themen parallel. Im Vortrag geht es weniger um einen L\u00f6sungsvorschlag als viel mehr darum eine Idee weiter zu tragen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 122,
-                    "code": "DNHE9D",
-                    "public_name": "Fran\u00e7ois",
-                    "biography": "Ich mache Kunst mit Bildern, Musik und Texten. Ich habe keine Hobbies mehr.",
+                    "id": 173,
+                    "code": "PYTB9N",
+                    "public_name": "Lorenz Wittmann",
+                    "biography": "1981 in M\u00fcnchen geboren, seit Ende der Neunziger in verschiedenen Bereichen der M\u00fcnchner Sub-/Jugendkultur aktiv, ob Organisation von illegalen Partys, Street Art, Jugendmagazinen, Musik oder einfach nur hinter der Bar, gelernter Grafiker, Creative Director und seit 2021 Student Management der sozialen Innovationen an der HM.",
                     "answers": []
                   }
                 ],
@@ -3407,146 +3123,22 @@
                 "attachments": []
               },
               {
-                "id": 1324,
-                "guid": "132f4a45-1f42-5695-b7dd-02765afb08bd",
-                "logo": "/media/freiraumforum/submissions/PPKXXZ/20221018_145703_lq_t6DK9IJ.jpg",
-                "date": "2022-12-30T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-1324-treibgut_die_materialquelle_fuer_projekte",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/",
-                "title": "treibgut - Die Materialquelle f\u00fcr Projekte",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 172,
-                    "code": "HTG3LJ",
-                    "public_name": "treibgut",
-                    "biography": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.\r\nMehr Infos:\r\nInsta: treibgut.lager.muc\r\nhttp://www.treibgut-lager.de/",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 7917,
-                "guid": "79b17ad3-ce71-53d5-9512-d7b31343c73c",
+                "id": 755,
+                "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
                 "logo": "",
-                "date": "2022-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:17",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:31",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/",
-                "title": "CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
+                "slug": "jev22-755-kampf_um_die_a49",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/",
+                "title": "Kampf um die A49",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Film",
-                "language": "de",
-                "abstract": "\u201eCulture is not dead!\u201c ist eine kritische Kurzdoku \u00fcber den Kultursommer 2021 im G\u00e4ngeviertel / Hamburg.",
-                "description": "\u201eCulture is not dead!\u201c ist eine kritische Kurzdoku \u00fcber den Kultursommer 2021 im G\u00e4ngeviertel.\r\nUm den Auswirkungen der Coronakrise auf die Kultur etwas entgegenzusetzen, f\u00f6rderte die Beh\u00f6rde f\u00fcr Kultur und Medien unter dem Motto \u201ePLAY OUT LOUD\u201c \u00fcber 100 Kulturveranstaltungen in Hamburg. Dieser sogenannte Kultursommer fand vom 15. Juli bis 16. August mit \u00fcber 1.800 Veranstaltungen statt. Auch im G\u00e4ngeviertel, einem der letzten Freir\u00e4ume inmitten von Hamburgs gentrifizierter Innenstadt, gab es eine ganze Reihe von Veranstaltungen. H\u00f6rt sich toll an! War es auch. Es gab sehr viel zu sehen, das seht ihr in der Doku. Doch wie nachhaltig ist so eine F\u00f6rderung eigentlich f\u00fcr die K\u00fcnstler*Innen? Und wie war das f\u00fcr die Kulturbetriebe, speziell das G\u00e4ngeviertel?  Was sagen die Menschen, die daran beteiligt waren? \r\n\r\nFalls ihr gerne mehr \u00fcber das G\u00e4ngeviertel wissen m\u00f6chtet, schaut doch hier vorbei:\r\nhttps://das-gaengeviertel.info/\r\n\r\nWollt ihr mehr \u00fcber das Filmkollektiv hinter dem Film wissen, dann schaut hier:\r\nhttps://shittypants.de/\r\nInsta: shittypantsproductions\r\n\r\nund auch hier:\r\nhttps://www.jonas-albrecht.de/\r\nInsta: zwischensequenzen",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 145,
-                    "code": "EWTBXE",
-                    "public_name": "Dion",
-                    "biography": "Mein Name ist Dion und ich bin Programmleitung im G\u00e4ngeviertel.\r\nKurzfilm: CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 3800,
-                "guid": "3f8000e5-befe-5ad5-8eba-d32147ba3bdf",
-                "logo": "",
-                "date": "2022-12-30T15:15:00+01:00",
-                "start": "15:15",
-                "duration": "00:08",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/",
-                "title": "Cheers to 10 years! - 10 Jahre G\u00e4ngeviertel",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "de",
-                "abstract": "10 Jahre G\u00e4ngeviertel - Zum zehnj\u00e4hrigen Bestehen hat sich das G\u00e4ngeviertel mal einen fantastischen Film geg\u00f6nnt. Vielen Dank an Jana, Carsten, Lion und die Crew vom Kino-Kabaret f\u00fcr diese Produktion!\r\nKomm in die G\u00e4nge! Cheers to 10 years!",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 145,
-                    "code": "EWTBXE",
-                    "public_name": "Dion",
-                    "biography": "Mein Name ist Dion und ich bin Programmleitung im G\u00e4ngeviertel.\r\nKurzfilm: CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 4864,
-                "guid": "48ff64f6-0b5f-5dcd-a921-50fd47787bbc",
-                "logo": "/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg",
-                "date": "2022-12-30T16:15:00+01:00",
-                "start": "16:15",
-                "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/",
-                "title": "Hacking social entrepreneurship // Jeder Mensch ist gemeinn\u00fctzig / Kulturator | Gute-Dinge-Stiftung",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Kurz & unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf f\u00fcr gute Dinge, gegen B\u00fcrokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gr\u00fcndet um ein offenes Dach f\u00fcr gute Ideen ohne B\u00fcrokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, B\u00fcrokratie second.",
-                "description": "Johannes und Max haben 2016 den Kulturator gegr\u00fcndet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gr\u00fcnden \u2013 zu jedem Zweck der Welt \u2013 damit alle netten Menschen unter diesem Dach offiziell gemeinn\u00fctzig aktiv werden k\u00f6nnen.\r\n\r\nDann kann man auch mit gefl\u00fcchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gr\u00fcnden. Das geht aber nicht allein. Also gr\u00fcnden viele Menschen potemkinsche Vereinsd\u00f6rfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will \u2013 nur um am Ende mit Kindern in den Zoo zu fahren.\r\n\r\nDie meisten lassen das nat\u00fcrlich bleiben. \r\nAber jetzt gibt's uns \u2013 und Ihr k\u00f6nnt alle endlich einfach nett sein :)",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 6,
-                    "code": "YZM9NW",
-                    "public_name": "Johannes Schricker (Kulturator)",
-                    "biography": "Johannes ist die nette Zeit ehrenamtlicher Vorstand und Stifter des Kulturators (www.kulturator.de). Die andere Zeit freiberuflicher Dipl. Ing. Stratege. Heute geht's um die nette Zeit :)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 497,
-                "guid": "0ec497a0-547c-537c-9229-9b0ae01b7df6",
-                "logo": "",
-                "date": "2022-12-30T19:30:00+01:00",
-                "start": "19:30",
-                "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-497-allesandersplatz",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/",
-                "title": "Allesandersplatz",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "de",
-                "abstract": "50.000 Quadratmeter Leerstand mitten in Berlin? Ein Film \u00fcber das Haus der Statistik am Alexanderplatz.",
-                "description": "Urbanisierung, Beton, Stein, verschwindendes Gr\u00fcn. Am zentralsten Punkt Berlins \u2013 am Alexanderplatz \u2013 steht das Haus der Statistik, das in den letzten 12 Jahren langsam zur Ruine verk\u00fcmmerte. In einer Protestaktion besetzen K\u00fcnstler*innen das Haus, in dem in der DDR die amtlichen Statistiken gemacht wurden. Langsam erwacht das Geb\u00e4ude aus dem Dornr\u00f6schenschlaf. Stadtverwaltung, Planer*innen, Kreative und Zivilgesellschaft tun sich zusammen, um Raum f\u00fcr Kunst, Kultur und Soziales zu schaffen. ALLESANDERSPLATZ begleitet den Prozess der Transformation dieses Ortes, der durch Pionier*innennutzungen versucht, ein alternatives, gemeinwohlorientiertes Konzept von Stadt zu entwickeln.\r\nGelingt es dem Allesandersplatz ein Vorbild f\u00fcr eine nachhaltige und diverse Zukunft der Stadt zu sein? Ein Ort, an dem alles anders ist?\r\nMehr Infos: https://www.allesandersplatz.berlin/",
+                "language": "en",
+                "abstract": "Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten m\u00fcssen den Weg frei machen f\u00fcr die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.",
+                "description": "Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse f\u00fchrt durch jahrhundertealte W\u00e4lder, vorbei an verschlafenen D\u00f6rfern. \u00dcber 600 Aktivisten haben in Dannenrod in Mittelhessen 7 \"Barrios\" mit bis zu 100 Baumh\u00e4usern in schwindelerregender H\u00f6he gebaut. Die R\u00e4umung durch Spezialeinsatzkr\u00e4fte der Polizei steht unmittelbar bevor.\u00a0\r\nIn Planung ist die A 49 schon seit \u00fcber 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten \u00fcber Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GR\u00dcNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der gr\u00fcne Verkehrsminister, n\u00e4mlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-gr\u00fcnen Landesregierung politisch durchsetzen. \r\nKlaus Stern und Frank Pfeiffer begleiten Bef\u00fcrworter der Autobahn, langj\u00e4hrige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister w\u00e4hrend des Rodungs- und Bauprozesses.\u00a0\r\nWie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.\r\nMehr Infos: https://www.die-autobahn-derfilm.de/",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -3561,8 +3153,15 @@
                 "links": [],
                 "attachments": []
               }
-            ],
-            "ad28953f-122e-4293-836d-860320183a1c": [],
+            ]
+          }
+        },
+        {
+          "index": 4,
+          "date": "2022-12-30",
+          "day_start": "2022-12-30T09:00:00+01:00",
+          "day_end": "2022-12-30T09:00:00+01:00",
+          "rooms": {
             "Fireshonks-Stream": [
               {
                 "id": 49167,
@@ -4180,6 +3779,391 @@
                 "links": [],
                 "attachments": []
               }
+            ],
+            "Seminarraum": [
+              {
+                "id": 5136,
+                "guid": "5c136451-b07a-5290-bda4-838406dc814c",
+                "logo": "",
+                "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:30",
+                "room": "Seminarraum",
+                "slug": "jev22-5136-operational_transconductance_amplifiers",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/",
+                "title": "Operational Transconductance Amplifiers",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Operational Transconductance Amplifiers (OTAs) are fascinating electronic devices:\r\nThey behave like Operational Amplifiers (OP-Amps), but with a controllable current output.\r\nThat enables a lot of interesting possible use cases e.g., voltage controlled amplifiers, voltage controlled filters and voltage controlled simulations of passive electronic components.\r\nDue to their versatility, they can be seen as secret heroes in analog audio circuits, but still their underlying circuit is still relatively simple and therefore comprehensible.\r\nThis talk will take top-down approach starting with the operational principles and various example applications to then continue a bit further down the rabbit hole and take a high-level look at the inner circuit.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 27,
+                    "code": "BFVTJU",
+                    "public_name": "etXzat",
+                    "biography": "Computer scientist, electronics repair technician and passionate hobby musician. I like understanding, fixing and creating things.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 5620,
+                "guid": "5d62000d-a88e-5e1b-b591-7007860146e6",
+                "logo": "",
+                "date": "2022-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:30",
+                "room": "Seminarraum",
+                "slug": "jev22-5620-das_matrix_protokoll",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/",
+                "title": "Das Matrix-Protokoll",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Matrix (matrix.org) ist ein Protokollstandard f\u00fcr (Gruppen)chats, die \u00fcber mehrere Server teilt sind. Ich m\u00f6chte die Funktion und Konzepte des Protokolls erkl\u00e4ren und welche Probleme es l\u00f6st - insbesondere:\r\n - Verteilte Verwaltung von R\u00e4umen (Moderationsrechte, Mitgliedschaft)\r\n - Ende-zu-Ende-Verschl\u00fcsselung mit mehreren Ger\u00e4ten pro Benutzer",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 30,
+                    "code": "RPF3US",
+                    "public_name": "thejonny",
+                    "biography": "@thejonny:bruckbu.de",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Vortragsraum 1 - Ahlam - H2-1.6": [
+              {
+                "id": 1708,
+                "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
+                "logo": "/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg",
+                "date": "2022-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-1708-oberlab_ein_fablab_im_oberland",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
+                "title": "Oberlab - Ein FabLab im Oberland",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Gemeinn\u00fctzige Nutzungsalternativen von zentral gelegenen R\u00e4umlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. M\u00f6belgeschaftes in Gmund am Tegernsee in einen gemeinn\u00fctzigen **Makerspace** inkl. MINT F\u00f6rderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).",
+                "description": "Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-F\u00f6rderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.\r\n\r\nEine \u00dcbersicht zu dem Projekt getragen durch einen gemeinn\u00fctzigen Verein ist unter https://oberlab.de/ zu finden.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 97,
+                    "code": "AHMGBT",
+                    "public_name": "Lukas Lischke",
+                    "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3801,
+                "guid": "a3ecb801-4ef2-50c0-9ad0-9b6777826df6",
+                "logo": "/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png",
+                "date": "2022-12-30T12:00:00+01:00",
+                "start": "12:00",
+                "duration": "00:45",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/",
+                "title": "Wohnheim Collegium Academicum - Selbstverwaltet, \u00f6kologisch, bezahlbar",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Seit 2013 arbeiten wir als ehrenamtliche Projektgruppe daran, f\u00fcr \u00fcber 250 Menschen bezahlbaren, selbstverwalteten und \u00f6kologisch vertretbaren Wohnraum in Heidelberg zu schaffen. Wir pr\u00e4sentieren, wie Freir\u00e4ume zum Leben und Entfalten geschaffen werden k\u00f6nnen - auch auf angespannten Wohnungsm\u00e4rkten.",
+                "description": "Ist es realistisch, dass eine Gruppe Auszubildender und Studierender einfach loslegt, um ein Wohnheim zu konzipieren, zu bauen und zwar selbstverwaltet und nachhaltig? Die Antwort ist ja. Mit dem <a href=\"https://collegiumacademicum.de/\">Collegium Academicum (CA)</a> wird in Heidelberg ein etwas anderes Gro\u00dfprojekt geschaffen. Als Teil des <a href=\"https://www.syndikat.org/\">Mietsh\u00e4user Syndikats</a> geh\u00f6rt das Geb\u00e4ude keinen Investor:innen, sondern den Menschen, die dort wohnen - Menschen wie du und ich.\r\nWie wir \u00f6kologische Holzbauweise mit flexiblen Wohnraumgr\u00f6\u00dfen verbinden, das Projekt planen und finanzieren, erf\u00e4hrst du in diesem Vortrag.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 107,
+                    "code": "9DEB7Z",
+                    "public_name": "Jojo",
+                    "biography": ".",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 183,
+                "guid": "0bb18303-6daa-56b6-8b83-13530ca96311",
+                "logo": "/media/freiraumforum/submissions/D9NJMY/Foto_CareWerkstatt_i6S4PZd.jpg",
+                "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "02:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/",
+                "title": "Care Werkstatt // Who Cares? Werkstatt f\u00fcr F\u00fcrsorge(praktiken). by Assoziation:E",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Who cares ist Bildungsangebot und Anlaufstelle f\u00fcr Menschen, die f\u00fcr andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren m\u00f6chten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bew\u00e4ltigung eurer F\u00fcrsorgearbeit!",
+                "description": "Who Cares (ist) konzipiert (f\u00fcr) soziale R\u00e4ume, in denen Menschen emanzipatorische Ans\u00e4tze zur praktischen Bew\u00e4ltigung von F\u00fcrsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum k\u00f6nnen verschiedene Ans\u00e4tze f\u00fcr radikal z\u00e4rtliche Beziehungsweisen entwickelt und reflektiert werden. \r\n\r\nVerschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und \u00dcberwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Au\u00dferdem k\u00f6nnen verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) F\u00fcrsorge herstellen. \r\n\r\nWho cares m\u00f6chte angesichts versch\u00e4rfter sozialer Notlagen individuelle Handlungsf\u00e4higkeit in solidarischen, z\u00e4rtlichen Beziehungsweisen erm\u00f6glichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben f\u00fcr alle Menschen greifbar machen. Und gemeinsam die Abh\u00e4ngigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu \u00fcberwinden.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 138,
+                    "code": "8UNDWN",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  },
+                  {
+                    "id": 158,
+                    "code": "Y9XTHZ",
+                    "public_name": "Assoziation:E e.V.",
+                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8684,
+                "guid": "86dfbd8c-47d1-5c2a-bbc6-1ff2da203924",
+                "logo": "",
+                "date": "2022-12-30T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-8684-wdzwo_wir_squatten_das_outback",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/",
+                "title": "WdZwo - Wir squatten das Outback",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Diskussion",
+                "language": "de",
+                "abstract": "In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns \u00fcber Austausch auch allgemein zum Thema Besetzung.",
+                "description": "Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem \u00f6ffentlich-werden erfolgte die R\u00e4umung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 142,
+                    "code": "VDPXSV",
+                    "public_name": "Aaron",
+                    "biography": "Bin ein Fan selbstorganisierter Freir\u00e4ume, deshalb liebe ich dieses Forum!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Vortragsraum 2 - Bhavani - H1-5.2": [
+              {
+                "id": 651,
+                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
+                "logo": "",
+                "date": "2022-12-30T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
+                "title": "Lass mich durch - Wege befreien im urbanen Raum",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Viola und Ich halten einen Vortrag, in dem wir die Zuh\u00f6renden anstiften unliebsame Z\u00e4une und andere Hindernisse in ihrer Umgebung zu \u00fcberwinden. Dabei werden wir zeigen, dass eine hohe Anzahl an Wegen die gemeinsame Lebensqualit\u00e4t steigert.",
+                "description": "Unser Anliegen besteht darin eine Aufmerksamkeit f\u00fcr die vielen versperrten Wege um uns herum zu erzeugen, welche, wenn sie erst mal befreit sind, unser Leben erleichtern und bereichern k\u00f6nnen. Besitzt der Mensch eine hohe Auswahl an begehbaren Wegen, wird ihm das verlassen festgefahrener Gedankenpfade auch leichter fallen. Davon sind wir \u00fcberzeugt.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 122,
+                    "code": "DNHE9D",
+                    "public_name": "Fran\u00e7ois",
+                    "biography": "Ich mache Kunst mit Bildern, Musik und Texten. Ich habe keine Hobbies mehr.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1324,
+                "guid": "132f4a45-1f42-5695-b7dd-02765afb08bd",
+                "logo": "/media/freiraumforum/submissions/PPKXXZ/20221018_145703_lq_t6DK9IJ.jpg",
+                "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-1324-treibgut_die_materialquelle_fuer_projekte",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/",
+                "title": "treibgut - Die Materialquelle f\u00fcr Projekte",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 172,
+                    "code": "HTG3LJ",
+                    "public_name": "treibgut",
+                    "biography": "treibgut ist eine Materialinitiative, die daf\u00fcr sorgt, dass noch brauchbare Materialien die normalerweise im Container landen wieder einer Nutzung zugef\u00fchrt werden. Die Materialien stehen allen Leuten mit Ideen und Projekten zur Verf\u00fcgung.\r\nMehr Infos:\r\nInsta: treibgut.lager.muc\r\nhttp://www.treibgut-lager.de/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7917,
+                "guid": "79b17ad3-ce71-53d5-9512-d7b31343c73c",
+                "logo": "",
+                "date": "2022-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "00:17",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/",
+                "title": "CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "de",
+                "abstract": "\u201eCulture is not dead!\u201c ist eine kritische Kurzdoku \u00fcber den Kultursommer 2021 im G\u00e4ngeviertel / Hamburg.",
+                "description": "\u201eCulture is not dead!\u201c ist eine kritische Kurzdoku \u00fcber den Kultursommer 2021 im G\u00e4ngeviertel.\r\nUm den Auswirkungen der Coronakrise auf die Kultur etwas entgegenzusetzen, f\u00f6rderte die Beh\u00f6rde f\u00fcr Kultur und Medien unter dem Motto \u201ePLAY OUT LOUD\u201c \u00fcber 100 Kulturveranstaltungen in Hamburg. Dieser sogenannte Kultursommer fand vom 15. Juli bis 16. August mit \u00fcber 1.800 Veranstaltungen statt. Auch im G\u00e4ngeviertel, einem der letzten Freir\u00e4ume inmitten von Hamburgs gentrifizierter Innenstadt, gab es eine ganze Reihe von Veranstaltungen. H\u00f6rt sich toll an! War es auch. Es gab sehr viel zu sehen, das seht ihr in der Doku. Doch wie nachhaltig ist so eine F\u00f6rderung eigentlich f\u00fcr die K\u00fcnstler*Innen? Und wie war das f\u00fcr die Kulturbetriebe, speziell das G\u00e4ngeviertel?  Was sagen die Menschen, die daran beteiligt waren? \r\n\r\nFalls ihr gerne mehr \u00fcber das G\u00e4ngeviertel wissen m\u00f6chtet, schaut doch hier vorbei:\r\nhttps://das-gaengeviertel.info/\r\n\r\nWollt ihr mehr \u00fcber das Filmkollektiv hinter dem Film wissen, dann schaut hier:\r\nhttps://shittypants.de/\r\nInsta: shittypantsproductions\r\n\r\nund auch hier:\r\nhttps://www.jonas-albrecht.de/\r\nInsta: zwischensequenzen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 145,
+                    "code": "EWTBXE",
+                    "public_name": "Dion",
+                    "biography": "Mein Name ist Dion und ich bin Programmleitung im G\u00e4ngeviertel.\r\nKurzfilm: CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3800,
+                "guid": "3f8000e5-befe-5ad5-8eba-d32147ba3bdf",
+                "logo": "",
+                "date": "2022-12-30T15:15:00+01:00",
+                "start": "15:15",
+                "duration": "00:08",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/",
+                "title": "Cheers to 10 years! - 10 Jahre G\u00e4ngeviertel",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "de",
+                "abstract": "10 Jahre G\u00e4ngeviertel - Zum zehnj\u00e4hrigen Bestehen hat sich das G\u00e4ngeviertel mal einen fantastischen Film geg\u00f6nnt. Vielen Dank an Jana, Carsten, Lion und die Crew vom Kino-Kabaret f\u00fcr diese Produktion!\r\nKomm in die G\u00e4nge! Cheers to 10 years!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 145,
+                    "code": "EWTBXE",
+                    "public_name": "Dion",
+                    "biography": "Mein Name ist Dion und ich bin Programmleitung im G\u00e4ngeviertel.\r\nKurzfilm: CULTURE IS NOT DEAD - DOKU Kultursommer 2021@G\u00e4ngeviertel",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 4864,
+                "guid": "48ff64f6-0b5f-5dcd-a921-50fd47787bbc",
+                "logo": "/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg",
+                "date": "2022-12-30T16:15:00+01:00",
+                "start": "16:15",
+                "duration": "00:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/",
+                "title": "Hacking social entrepreneurship // Jeder Mensch ist gemeinn\u00fctzig / Kulturator | Gute-Dinge-Stiftung",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Kurz & unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf f\u00fcr gute Dinge, gegen B\u00fcrokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gr\u00fcndet um ein offenes Dach f\u00fcr gute Ideen ohne B\u00fcrokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, B\u00fcrokratie second.",
+                "description": "Johannes und Max haben 2016 den Kulturator gegr\u00fcndet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gr\u00fcnden \u2013 zu jedem Zweck der Welt \u2013 damit alle netten Menschen unter diesem Dach offiziell gemeinn\u00fctzig aktiv werden k\u00f6nnen.\r\n\r\nDann kann man auch mit gefl\u00fcchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gr\u00fcnden. Das geht aber nicht allein. Also gr\u00fcnden viele Menschen potemkinsche Vereinsd\u00f6rfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will \u2013 nur um am Ende mit Kindern in den Zoo zu fahren.\r\n\r\nDie meisten lassen das nat\u00fcrlich bleiben. \r\nAber jetzt gibt's uns \u2013 und Ihr k\u00f6nnt alle endlich einfach nett sein :)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 6,
+                    "code": "YZM9NW",
+                    "public_name": "Johannes Schricker (Kulturator)",
+                    "biography": "Johannes ist die nette Zeit ehrenamtlicher Vorstand und Stifter des Kulturators (www.kulturator.de). Die andere Zeit freiberuflicher Dipl. Ing. Stratege. Heute geht's um die nette Zeit :)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 497,
+                "guid": "0ec497a0-547c-537c-9229-9b0ae01b7df6",
+                "logo": "",
+                "date": "2022-12-30T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "01:00",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-497-allesandersplatz",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/",
+                "title": "Allesandersplatz",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "de",
+                "abstract": "50.000 Quadratmeter Leerstand mitten in Berlin? Ein Film \u00fcber das Haus der Statistik am Alexanderplatz.",
+                "description": "Urbanisierung, Beton, Stein, verschwindendes Gr\u00fcn. Am zentralsten Punkt Berlins \u2013 am Alexanderplatz \u2013 steht das Haus der Statistik, das in den letzten 12 Jahren langsam zur Ruine verk\u00fcmmerte. In einer Protestaktion besetzen K\u00fcnstler*innen das Haus, in dem in der DDR die amtlichen Statistiken gemacht wurden. Langsam erwacht das Geb\u00e4ude aus dem Dornr\u00f6schenschlaf. Stadtverwaltung, Planer*innen, Kreative und Zivilgesellschaft tun sich zusammen, um Raum f\u00fcr Kunst, Kultur und Soziales zu schaffen. ALLESANDERSPLATZ begleitet den Prozess der Transformation dieses Ortes, der durch Pionier*innennutzungen versucht, ein alternatives, gemeinwohlorientiertes Konzept von Stadt zu entwickeln.\r\nGelingt es dem Allesandersplatz ein Vorbild f\u00fcr eine nachhaltige und diverse Zukunft der Stadt zu sein? Ein Ort, an dem alles anders ist?\r\nMehr Infos: https://www.allesandersplatz.berlin/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 147,
+                    "code": "REUMEM",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
             ]
           }
         },
@@ -4189,9 +4173,10 @@
           "day_start": "2022-12-31T09:00:00+01:00",
           "day_end": "2022-12-31T09:00:00+01:00",
           "rooms": {
-            "c62a781e-48a3-4546-bb5c-dee2080738f7": [],
-            "6f12618c-0f1c-4318-a201-099152f86ac0": [],
-            "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4": [],
+            "Fireshonks-Stream": [],
+            "RTC-B\u00fchne (Sparti)": [],
+            "Bierschoine": [],
+            "xrelog22 - Stream": [],
             "Seminarraum": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
@@ -4289,12 +4274,7 @@
                 "links": [],
                 "attachments": []
               }
-            ],
-            "ad28953f-122e-4293-836d-860320183a1c": [],
-            "Fireshonks-Stream": [],
-            "RTC-B\u00fchne (Sparti)": [],
-            "Bierschoine": [],
-            "xrelog22 - Stream": []
+            ]
           }
         }
       ]
