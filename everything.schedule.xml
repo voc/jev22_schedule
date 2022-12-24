@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-24 08:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 08:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-24 08:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 08:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -551,7 +551,17 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <abstract>installiere Dir deinen eigenen FEDI Server</abstract>
         <description>Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle über seine Daten und kann eigenverantwortlich handeln.&#13;
 &#13;
-In diesem Workshop unterstützt Chris Burger die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers. Der Workshop setzt ein Grundverständnis für das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung für dieses Workshopangebot mit. Die Installationen erfolgen über einen Testaccout, der für die Teilnehmenden unentgeltlich zur Verfügung gestellt wird. Zum Aktivieren müssen die Teilnehmenden über einen Email-Account verfügen.</description>
+In diesem Workshop werden die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers unterstützt. &#13;
+&#13;
+Der Workshop setzt ein Grundverständnis für das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung für dieses Workshopangebot mit. &#13;
+&#13;
+Die Installationen erfolgen über einen Testaccout, der für die Teilnehmenden unentgeltlich zur Verfügung gestellt wird. Zum Aktivieren müssen die Teilnehmenden über einen Email-Account verfügen.&#13;
+&#13;
+Im Vortrag "Das Fediverse steht für Vielfalt nicht für Einfalt"&#13;
+&#13;
+https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/&#13;
+&#13;
+wird die praktische Handhabung von Hubzilla weiter demonstriert.</description>
         <recording>
           <license/>
           <optout>true</optout>
