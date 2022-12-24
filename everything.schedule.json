@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-24 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 16:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -163,9 +163,9 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "HDMI",
+          "name": "USB-C",
           "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-          "description": "Assembly Area in Room 3 (upstairs)",
+          "description": "Workshop Area (upstairs)",
           "capacity": 12,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
@@ -1484,7 +1484,7 @@
                 "attachments": []
               }
             ],
-            "HDMI": [
+            "USB-C": [
               {
                 "id": 49094,
                 "guid": "30e15886-595a-50c4-9247-3fe0df97dc1d",
@@ -1492,7 +1492,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:30",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49094-cip_chatting_in_parallel_what_s_happening_in_the_matrix_multiverses",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A9TXSW/",
                 "title": "CiP - Chatting in Parallel ... What's happening in the Matrix-Multiverses?",
@@ -1523,7 +1523,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49280-weaving_old_and_new_technology",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LADFAB/",
                 "title": "Weaving, Old and New Technology: from Design Concept to Diva Fashion",
@@ -1554,7 +1554,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:45",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49269-quantenverschluesselung_in_einer_box",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
                 "title": "Quantenverschl\u00fcsselung in einer Box",
@@ -1592,7 +1592,7 @@
                 "date": "2022-12-27T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "02:00",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49265-introduction_to_c_programming",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/",
                 "title": "Introduction to C Programming",
@@ -4772,7 +4772,7 @@
                 "attachments": []
               }
             ],
-            "HDMI": [
+            "USB-C": [
               {
                 "id": 49234,
                 "guid": "034f85e4-8d3f-535a-b780-cf0ae255bf4a",
@@ -4780,7 +4780,7 @@
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "02:20",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49234-hacking_in_parallel",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/",
                 "title": "Hacking in Parallel",
@@ -4825,7 +4825,7 @@
                 "date": "2022-12-28T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "02:00",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49258-binary_exploitation_beginner_workshop",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
                 "title": "Binary Exploitation Beginner Workshop",
@@ -4870,7 +4870,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49191-programming_games_in_go_for_pretty_much_all_platforms",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/",
                 "title": "Programming Games in Go for Pretty Much All Platforms",
@@ -4901,7 +4901,7 @@
                 "date": "2022-12-28T20:30:00+01:00",
                 "start": "20:30",
                 "duration": "01:30",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49213-designing_and_making_stencils",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/",
                 "title": "Designing and making stencils",
@@ -8027,7 +8027,7 @@
                 "attachments": []
               }
             ],
-            "HDMI": [],
+            "USB-C": [],
             "Hardware Hacking": [
               {
                 "id": 49163,
@@ -10563,7 +10563,7 @@
                 "attachments": []
               }
             ],
-            "HDMI": [
+            "USB-C": [
               {
                 "id": 49259,
                 "guid": "acb55b2d-694b-5177-bb5e-121f7ccb4ba8",
@@ -10571,7 +10571,7 @@
                 "date": "2022-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:17",
-                "room": "HDMI",
+                "room": "USB-C",
                 "slug": "jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/",
                 "title": "Of someone who went forth to find a flat in Berlin. An automation-drama in three acts \u2014 Act 3: In ultimate consequence",
@@ -11657,7 +11657,7 @@
             "Winterchaos": [],
             "Parallel Port": [],
             "Mini-DVI": [],
-            "HDMI": [],
+            "USB-C": [],
             "Hardware Hacking": [],
             "c-base mainhall": [],
             "Merch Desk": [],

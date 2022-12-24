@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-24 16:10",
+    "version": "2022-12-24 16:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -163,9 +163,9 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "HDMI",
+          "name": "USB-C",
           "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-          "description": "Assembly Area in Room 3 (upstairs)",
+          "description": "Workshop Area (upstairs)",
           "capacity": 12,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },

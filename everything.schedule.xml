@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-24 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-24 16:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1102,13 +1102,13 @@ Be warned: This talk will cover enough information to make you consider building
         <attachments/>
       </event>
     </room>
-    <room name="HDMI" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+    <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
       <event id="49094" guid="30e15886-595a-50c4-9247-3fe0df97dc1d">
         <logo/>
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:30</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49094-cip_chatting_in_parallel_what_s_happening_in_the_matrix_multiverses</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/A9TXSW/</url>
         <title>CiP - Chatting in Parallel ... What's happening in the Matrix-Multiverses?</title>
@@ -1134,7 +1134,7 @@ Goal of the workshop is to educate people enough to run their own matrix-homeser
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49280-weaving_old_and_new_technology</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LADFAB/</url>
         <title>Weaving, Old and New Technology: from Design Concept to Diva Fashion</title>
@@ -1161,7 +1161,7 @@ I also hope that this discussion will inspire collaborations for future work inv
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:45</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49269-quantenverschluesselung_in_einer_box</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/</url>
         <title>Quantenverschlüsselung in einer Box</title>
@@ -1194,7 +1194,7 @@ Die Laser-Cut-Dateien findet man unter https://tueftelakademie.de/quanten1x1/qua
         <date>2022-12-27T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>02:00</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49265-introduction_to_c_programming</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/</url>
         <title>Introduction to C Programming</title>
@@ -4047,13 +4047,13 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
         <attachments/>
       </event>
     </room>
-    <room name="HDMI" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+    <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
       <event id="49234" guid="034f85e4-8d3f-535a-b780-cf0ae255bf4a">
         <logo>/media/hip-berlin-2022/submissions/CXMGMG/DALLE_2022-12-02_17.43.20_oElVZaT.png</logo>
         <date>2022-12-28T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>02:20</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49234-hacking_in_parallel</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/</url>
         <title>Hacking in Parallel</title>
@@ -4091,7 +4091,7 @@ You need to bring some kind of notebook running Linux, some programming experien
         <date>2022-12-28T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>02:00</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49258-binary_exploitation_beginner_workshop</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/</url>
         <title>Binary Exploitation Beginner Workshop</title>
@@ -4125,7 +4125,7 @@ Throughout the workshop, at certain intervals, challenges will be solved togethe
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49191-programming_games_in_go_for_pretty_much_all_platforms</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/</url>
         <title>Programming Games in Go for Pretty Much All Platforms</title>
@@ -4158,7 +4158,7 @@ In this workshop, we'll create a simple arcade game together using Go and the Eb
         <date>2022-12-28T20:30:00+01:00</date>
         <start>20:30</start>
         <duration>01:30</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49213-designing_and_making_stencils</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/</url>
         <title>Designing and making stencils</title>
@@ -6970,7 +6970,7 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <attachments/>
       </event>
     </room>
-    <room name="HDMI" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
+    <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
     <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49163" guid="4aff93bc-0d9e-5334-b77a-4d3d33884482">
         <logo>/media/hip-berlin-2022/submissions/MVZST3/LEDstripsEverywhereForEveryone_ZHD1sqS.jpg</logo>
@@ -9126,13 +9126,13 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <attachments/>
       </event>
     </room>
-    <room name="HDMI" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+    <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
       <event id="49259" guid="acb55b2d-694b-5177-bb5e-121f7ccb4ba8">
         <logo>/media/hip-berlin-2022/submissions/39AJEL/source-jpeg-JrMYWLYMKHKjfRA2g_Dxtb3pI.jpeg</logo>
         <date>2022-12-30T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:17</duration>
-        <room>HDMI</room>
+        <room>USB-C</room>
         <slug>jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/</url>
         <title>Of someone who went forth to find a flat in Berlin. An automation-drama in three acts — Act 3: In ultimate consequence</title>
@@ -10087,7 +10087,7 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Parallel Port" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="Mini-DVI" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
-    <room name="HDMI" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
+    <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
     <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>

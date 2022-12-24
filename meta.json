@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-24 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 16:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -192,12 +192,12 @@
         "stream": null
       },
       {
-        "name": "HDMI",
+        "name": "USB-C",
         "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "description": "Assembly Area in Room 3 (upstairs)",
+        "description": "Workshop Area (upstairs)",
         "capacity": 12,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HDMI",
+        "schedule_name": "USB-C",
         "stream": null
       },
       {
