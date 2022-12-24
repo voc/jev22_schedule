@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-24 13:40; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 13:40; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-24 14:00; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 14:00; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -5458,7 +5458,7 @@ Zum Glück musst Du Dich nicht damit abfinden, „dass das halt so ist“. Denn 
 &#13;
 Wir sind ein gemeinnütziger Verein, der daran arbeitet, diese Rechte allen Menschen zugänglich zu machen. Dafür betreiben wir vor allem die Webseite Datenanfragen.de, die Dich durch den gesamten Anfragenprozess leitet und am Ende den Anfragentext generiert, den Du nur noch an die entsprechenden Organisationen abschicken musst.&#13;
 &#13;
-In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu machen und mehr darüber zu erfahren, wer welche Daten zu Dir hat. Dazu erklären wir Dir näher, was es mit Deinen Datenschutzrechten und unseren Werkzeugen auf sich hat und stellen dann gemeinsam Anfragen. Keine Sorge: Du brauchst dafür keine technischen oder rechtlichen Vorkenntnisse.</description>
+In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu machen und mehr darüber zu erfahren, wer welche Daten zu Dir hat. Dazu erklären wir Dir näher, was es mit Deinen Datenschutzrechten und unseren Werkzeugen auf sich hat und stellen dann gemeinsam Anfragen. Keine Sorge: Du brauchst dafür keine technischen oder rechtlichen Vorkenntnisse. Der Workshop richtet sich vor allem an Menschen, die bisher keine oder wenig Erfahrung mit DSGVO-Anfragen haben. Alle anderen sind aber natürlich auch willkommen.</description>
         <recording>
           <license/>
           <optout>true</optout>
