@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-24 08:50",
+    "version": "2022-12-24 09:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -731,7 +731,7 @@
                     "id": 3421,
                     "code": "BNPCQG",
                     "public_name": "chris",
-                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt - Seit 2017 im Fediverse",
+                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt \r\nhttps://gnulinux.ch/serie-fediverse-dienste-hubzilla",
                     "answers": []
                   }
                 ],
