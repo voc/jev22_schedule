@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "78bad"
     },
-    "version": "2022-12-24 07:50",
+    "version": "2022-12-24 08:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -723,7 +723,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen.",
-                "description": "Was wir gerade sehen ist das Mastodon f\u00fcr viele f\u00fcr das Fediverse gehalten wird. Was ist schade. \r\nEine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das l\u00e4sst sich nun auch angehen nachdem die mediale \u00d6ffentlichkeit mal ein wenig geweckt ist - jetzt kann es weitergehen.\r\n\r\nBlogging, Filesharing, Teilen von Wikis und Events \u2013 Hubzilla (https://hubzilla.org) ist der Allesk\u00f6nner im dezentralen Fediverse. Mit einem feinen Zugriffsrechtesystem k\u00f6nnt ihr genau bestimmen, wer was sehen darf bzw. inwieweit Ihr \u00f6ffentlich oder privat agieren m\u00f6chten. Mit einer \u201enomadischen Identit\u00e4t\u201c ist der Umzug eines Accounts von einem Server zum andern m\u00f6glich, ohne dass Inhalte verloren gehen. Ein eigener Hubzilla-Server ist \u00e4hnlich einfach installiert wie eine WordPress-Webseite. Hubzilla erm\u00f6glicht es, sich wirklich m\u00fcndig und souver\u00e4n in einem sozialen Netzwerk zu bewegen. Der Talk mit Chris Burger erm\u00f6glicht euch erste Einblicke.",
+                "description": "Was wir gerade sehen ist das Mastodon f\u00fcr viele f\u00fcr das Fediverse gehalten wird. Was ist schade. \r\nEine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das l\u00e4sst sich nun auch angehen nachdem das Interesse am Fediverse auch durch eine mediale \u00d6ffentlichkeit ein wenig geweckt ist - jetzt kann es weitergehen.\r\n\r\nIm ersten Teil des Vortrages geht es um die Geschichte und Architektur  des Fediverse und schlie\u00dflich um ein Pl\u00e4doyer das es um geht als um ActivityPub und die eine dominierende Anwendung.\r\n\r\nIm zweiten Teil wird die Fedi App Hubzilla vorgestellt und anschlie\u00dfen praktisch erkundet. \r\nBlogging, Filesharing, Teilen von Wikis und Events \u2013 Hubzilla (https://hubzilla.org) ist der Allesk\u00f6nner im dezentralen Fediverse. Mit einem feinen Zugriffsrechtesystem k\u00f6nnt ihr genau bestimmen, wer was sehen darf bzw. inwieweit Ihr \u00f6ffentlich oder privat agieren m\u00f6chten. Mit einer \u201enomadischen Identit\u00e4t\u201c ist der Umzug eines Accounts von einem Server zum andern m\u00f6glich, ohne dass Inhalte verloren gehen. Ein eigener Hubzilla-Server ist \u00e4hnlich einfach installiert wie eine WordPress-Webseite. Hubzilla erm\u00f6glicht es, sich wirklich m\u00fcndig und souver\u00e4n in einem sozialen Netzwerk zu bewegen. \r\n\r\nWer in dem Workshop \"Mein FEDI Server\" \r\nhttps://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/\r\nseinen eigenen Server installieren konnte kann hier weitere Anleitungen f\u00fcr die Handhabung von Hubzilla erhalten.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
