@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-24 19:10",
+    "version": "2022-12-24 19:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2316,7 +2316,7 @@
                     "id": 26,
                     "code": "E8A9RU",
                     "public_name": "Daniel Neagaru",
-                    "biography": "Daniel Neagaru is a 30 year old penetration tester with almost 6 years working in the security industry and 5 more as a system administrator. He created Raider 2 years ago, which became a part of the OWASP family later on.",
+                    "biography": "Daniel Neagaru is a 30-year-old penetration tester with 5+ years working in the security industry and 5 more in IT, mainly as a system administrator. He dropped out of university to pursue his passion for security, which wasn't taught back then in many places. He created Raider 2 years ago, which later became part of the OWASP family.",
                     "answers": []
                   }
                 ],
