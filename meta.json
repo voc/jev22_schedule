@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-24 14:00; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 14:00; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -174,39 +174,39 @@
         "stream": null
       },
       {
-        "name": "Theater Hall E.T.I.",
+        "name": "Parallel Port",
         "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-        "description": "Main conference stagen",
+        "description": "Main conference stage in the Theater Hall E.T.I.",
         "capacity": 110,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Theater Hall E.T.I.",
+        "schedule_name": "Parallel Port",
         "stream": null
       },
       {
-        "name": "Track 2 room 2",
+        "name": "Mini-DVI",
         "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-        "description": "Main conference stagen 2",
+        "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
         "capacity": 70,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Track 2 room 2",
+        "schedule_name": "Mini-DVI",
         "stream": null
       },
       {
-        "name": "workshop room 3",
+        "name": "HDMI",
         "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "description": "tbd",
+        "description": "Assembly Area in Room 3 (upstairs)",
         "capacity": 12,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "workshop room 3",
+        "schedule_name": "HDMI",
         "stream": null
       },
       {
-        "name": "soldering room 7",
+        "name": "Hardware Hacking",
         "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-        "description": "tbd",
+        "description": "Room 7 (upstairs)",
         "capacity": 12,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "soldering room 7",
+        "schedule_name": "Hardware Hacking",
         "stream": null
       },
       {

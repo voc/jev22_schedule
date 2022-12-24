@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-24 14:00; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 14:00; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-24 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-24 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -149,30 +149,30 @@
           "location": "Luzern, CH"
         },
         {
-          "name": "Theater Hall E.T.I.",
+          "name": "Parallel Port",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-          "description": "Main conference stagen",
+          "description": "Main conference stage in the Theater Hall E.T.I.",
           "capacity": 110,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "Track 2 room 2",
+          "name": "Mini-DVI",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-          "description": "Main conference stagen 2",
+          "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
           "capacity": 70,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "workshop room 3",
+          "name": "HDMI",
           "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-          "description": "tbd",
+          "description": "Assembly Area in Room 3 (upstairs)",
           "capacity": 12,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "soldering room 7",
+          "name": "Hardware Hacking",
           "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-          "description": "tbd",
+          "description": "Room 7 (upstairs)",
           "capacity": 12,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
@@ -1025,7 +1025,7 @@
               }
             ],
             "Winterchaos": [],
-            "Theater Hall E.T.I.": [
+            "Parallel Port": [
               {
                 "id": 49283,
                 "guid": "e862d07c-114a-56ef-b93f-4dc00f695296",
@@ -1033,7 +1033,7 @@
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49283-opening_event",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/K8FAFL/",
                 "title": "Opening Event",
@@ -1071,7 +1071,7 @@
                 "date": "2022-12-27T11:45:00+01:00",
                 "start": "11:45",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49253-crushed_by_the_wheels_industry",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EAXPTT/",
                 "title": "Crushed by the Wheels Industry",
@@ -1102,7 +1102,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49294-hide_and_seek_ueber_die_biometrie_datenbank_des_us_militaers",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/",
                 "title": "Hide and seek \u2012 \u00fcber die Biometrie-Datenbank des US-Milit\u00e4rs",
@@ -1147,7 +1147,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49218-it_security",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EJYKY7/",
                 "title": "IT Security: a game of counting the negatives, but can we do better?",
@@ -1178,7 +1178,7 @@
                 "date": "2022-12-27T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:55",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LUEPLZ/",
                 "title": "50 years of C, the good, the bad and the ugly",
@@ -1209,7 +1209,7 @@
                 "date": "2022-12-27T18:30:00+01:00",
                 "start": "18:30",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
                 "title": "US government demands direct police access to European biometric data",
@@ -1240,7 +1240,7 @@
                 "date": "2022-12-27T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49152-update_on_kubernetes_security_in_critical_infrastructure",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YYQ7DK/",
                 "title": "Update on Kubernetes Security in Critical Infrastructure",
@@ -1271,7 +1271,7 @@
                 "date": "2022-12-27T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49097-perimeter_security_is_dead_get_over_it",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9KFG8N/",
                 "title": "Perimeter security is dead, get over it.",
@@ -1302,7 +1302,7 @@
                 "date": "2022-12-27T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49211-pacman_can_have_the_cookies_and_eat_the_ghosts_too",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/HCNL3V/",
                 "title": "Pacman can have the cookies and eat the ghosts too",
@@ -1333,7 +1333,7 @@
                 "date": "2022-12-27T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49209-the_train_has_left_the_station",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WHRJMW/",
                 "title": "The train has left the station: Building systems for a +2C world",
@@ -1358,7 +1358,7 @@
                 "attachments": []
               }
             ],
-            "Track 2 room 2": [
+            "Mini-DVI": [
               {
                 "id": 49244,
                 "guid": "10710f38-5cc9-53ea-917c-aea5fc66c008",
@@ -1366,7 +1366,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49244-how_to",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/8BSVFY/",
                 "title": "How To: Legal Blockieren",
@@ -1397,7 +1397,7 @@
                 "date": "2022-12-27T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:30",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49192-regenerative_hacking",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/",
                 "title": "Regenerative Hacking : Ecosystemic design workshop for rural community hackspaces",
@@ -1428,7 +1428,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49196-what_i_learned_from_making_an_1836_led_dodecahedron",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3D3JF9/",
                 "title": "What I learned from making an 1836 LED dodecahedron",
@@ -1459,7 +1459,7 @@
                 "date": "2022-12-27T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:30",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49271-hacktivism_past_present_and_future",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/",
                 "title": "Hacktivism - past, present and future",
@@ -1484,7 +1484,7 @@
                 "attachments": []
               }
             ],
-            "workshop room 3": [
+            "HDMI": [
               {
                 "id": 49094,
                 "guid": "30e15886-595a-50c4-9247-3fe0df97dc1d",
@@ -1492,7 +1492,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:30",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49094-cip_chatting_in_parallel_what_s_happening_in_the_matrix_multiverses",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A9TXSW/",
                 "title": "CiP - Chatting in Parallel ... What's happening in the Matrix-Multiverses?",
@@ -1523,7 +1523,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49280-weaving_old_and_new_technology",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LADFAB/",
                 "title": "Weaving, Old and New Technology: from Design Concept to Diva Fashion",
@@ -1554,7 +1554,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:45",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49269-quantenverschluesselung_in_einer_box",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
                 "title": "Quantenverschl\u00fcsselung in einer Box",
@@ -1592,7 +1592,7 @@
                 "date": "2022-12-27T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "02:00",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49265-introduction_to_c_programming",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/",
                 "title": "Introduction to C Programming",
@@ -1617,7 +1617,7 @@
                 "attachments": []
               }
             ],
-            "soldering room 7": [
+            "Hardware Hacking": [
               {
                 "id": 49161,
                 "guid": "bb932d5d-3928-5364-b205-830e11d53e2c",
@@ -1625,7 +1625,7 @@
                 "date": "2022-12-27T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "03:30",
-                "room": "soldering room 7",
+                "room": "Hardware Hacking",
                 "slug": "jev22-49161-arduino_for_total_newbies",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YBPSJK/",
                 "title": "Arduino For Total Newbies",
@@ -4244,7 +4244,7 @@
                 "attachments": []
               }
             ],
-            "Theater Hall E.T.I.": [
+            "Parallel Port": [
               {
                 "id": 49261,
                 "guid": "3de04181-3400-5656-9bbe-82aa5ebf1c51",
@@ -4252,7 +4252,7 @@
                 "date": "2022-12-28T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49261-taping_out_a_systolic_array_with_an_opensource_pdk",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MJSGGS/",
                 "title": "Taping out a systolic array with an opensource PDK",
@@ -4283,7 +4283,7 @@
                 "date": "2022-12-28T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49113-takeaways_from_the_crypto_mines",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/N7V3XL/",
                 "title": "Takeaways from the crypto-mines",
@@ -4314,7 +4314,7 @@
                 "date": "2022-12-28T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49208-librevents",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YKXPH7/",
                 "title": "Librevents: \u201cliberating\u201d data from Big Tech",
@@ -4352,7 +4352,7 @@
                 "date": "2022-12-28T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49242-finding_state_malware",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PFUWNJ/",
                 "title": "Finding (state) malware: methods and tools for civil forensic analysis",
@@ -4397,7 +4397,7 @@
                 "date": "2022-12-28T16:15:00+01:00",
                 "start": "16:15",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49221-reviving_open_source_projects",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/",
                 "title": "Reviving open-source projects: at the example of OpenTracks",
@@ -4428,7 +4428,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49098-subdomain_takeover_the_use_after_free_of_the_internet",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FB78TC/",
                 "title": "Subdomain takeover, the use after free of the internet",
@@ -4459,7 +4459,7 @@
                 "date": "2022-12-28T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:40",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49202-introduction_to_reverse_engineering_with_frida",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/",
                 "title": "Introduction to Reverse Engineering with Frida",
@@ -4490,7 +4490,7 @@
                 "date": "2022-12-28T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49255-why_you_should_write_a_wayland_compositor",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/XLTFWL/",
                 "title": "Why YOU should write a wayland compositor!",
@@ -4521,7 +4521,7 @@
                 "date": "2022-12-28T21:30:00+01:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49254-false_positive_to_0_day",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/",
                 "title": "False Positive to 0-day: LPE in Lenovo Update Service",
@@ -4552,7 +4552,7 @@
                 "date": "2022-12-28T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49092-never_mind_the_gigwork_here_s_the_coffeebots",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PEAQU9/",
                 "title": "Never Mind the Gigwork - here's the Coffeebots",
@@ -4577,7 +4577,7 @@
                 "attachments": []
               }
             ],
-            "Track 2 room 2": [
+            "Mini-DVI": [
               {
                 "id": 49190,
                 "guid": "b9148114-9e85-59f4-8c90-e89266a22b17",
@@ -4585,7 +4585,7 @@
                 "date": "2022-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:25",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49190-mostly_homebrewn_metal_am",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
                 "title": "(mostly) homebrewn metal AM",
@@ -4616,7 +4616,7 @@
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:25",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49195-how_my_video_game_project_is_helping_me_learn_tech_and_conquer_my_mental_health",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SRYJMG/",
                 "title": "How my video game project is helping me learn tech and conquer my mental health",
@@ -4654,7 +4654,7 @@
                 "date": "2022-12-28T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49264-exploring_social_media_reactions_to_conflicts_in_2022",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UCQTY9/",
                 "title": "Exploring social media reactions to conflicts in 2022",
@@ -4685,7 +4685,7 @@
                 "date": "2022-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49198-it_security_for_activists",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/",
                 "title": "It security for activists",
@@ -4716,7 +4716,7 @@
                 "date": "2022-12-28T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "00:25",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49185-ikea_pallet_hacks",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/",
                 "title": "IKEA & pallet hacks!",
@@ -4747,7 +4747,7 @@
                 "date": "2022-12-28T20:30:00+01:00",
                 "start": "20:30",
                 "duration": "00:30",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49272-connecting_networks_in_global_maker_movements",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DC8TQG/",
                 "title": "Connecting Networks in Global Maker Movements: the Africa Europe Maker Innovation Ecosystem",
@@ -4772,7 +4772,7 @@
                 "attachments": []
               }
             ],
-            "workshop room 3": [
+            "HDMI": [
               {
                 "id": 49234,
                 "guid": "034f85e4-8d3f-535a-b780-cf0ae255bf4a",
@@ -4780,7 +4780,7 @@
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "02:20",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49234-hacking_in_parallel",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/",
                 "title": "Hacking in Parallel",
@@ -4825,7 +4825,7 @@
                 "date": "2022-12-28T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "02:00",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49258-binary_exploitation_beginner_workshop",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
                 "title": "Binary Exploitation Beginner Workshop",
@@ -4870,7 +4870,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49191-programming_games_in_go_for_pretty_much_all_platforms",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/",
                 "title": "Programming Games in Go for Pretty Much All Platforms",
@@ -4901,7 +4901,7 @@
                 "date": "2022-12-28T20:30:00+01:00",
                 "start": "20:30",
                 "duration": "01:30",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49213-designing_and_making_stencils",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/",
                 "title": "Designing and making stencils",
@@ -4926,7 +4926,7 @@
                 "attachments": []
               }
             ],
-            "soldering room 7": [
+            "Hardware Hacking": [
               {
                 "id": 49162,
                 "guid": "abcc1a5b-e4ac-57b5-b531-5c813b90118a",
@@ -4934,7 +4934,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:30",
-                "room": "soldering room 7",
+                "room": "Hardware Hacking",
                 "slug": "jev22-49162-learn_to_solder_digital_music_synthesis_workshop_with_ardutouch_music_synthesizer_kit",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/8TQBMA/",
                 "title": "Learn to Solder - Digital Music Synthesis workshop with ArduTouch music synthesizer kit",
@@ -7613,7 +7613,7 @@
                 "attachments": []
               }
             ],
-            "Theater Hall E.T.I.": [
+            "Parallel Port": [
               {
                 "id": 49173,
                 "guid": "2888af7a-824d-55c8-8b18-bf6935ebe0e1",
@@ -7621,7 +7621,7 @@
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49173-dns_over_coap",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/",
                 "title": "DNS over CoAP: Securing Name Resolution in the Internet of Things",
@@ -7652,7 +7652,7 @@
                 "date": "2022-12-29T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49257-das_ist_globales_hardware_hacking_in_parallel",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/QM8CSR/",
                 "title": "Das ist globales Hardware Hacking in Parallel",
@@ -7683,7 +7683,7 @@
                 "date": "2022-12-29T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49228-are_you_old_enough_to_buy_this_zero_knowledge_age_restriction_with_gnu_taler",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GRBLDD/",
                 "title": "Are you old enough to buy this? (Zero-knowledge age restriction with GNU Taler)",
@@ -7714,7 +7714,7 @@
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49160-from_idea_to_kicad_beyond",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/BGH3BG/",
                 "title": "From idea to KiCad & beyond: How to design & build an LED project",
@@ -7745,7 +7745,7 @@
                 "date": "2022-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49107-a_beginner_s_guide_to_unexpected_input",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WJBNAN/",
                 "title": "A beginner's guide to unexpected input \ud83e\udde8",
@@ -7776,7 +7776,7 @@
                 "date": "2022-12-29T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49248-no_fuzzer_has_been_there_yet",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A3ULZV/",
                 "title": "No Fuzzer has been there yet: Finding Bugs in Linux Wireless Stacks",
@@ -7807,7 +7807,7 @@
                 "date": "2022-12-29T20:15:00+01:00",
                 "start": "20:15",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49142-open_source_und_cloud_native_die_zielarchitektur_der_deutschen_verwaltungscloud",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/",
                 "title": "Open Source und Cloud Native - Die  Zielarchitektur der deutschen Verwaltungscloud",
@@ -7838,7 +7838,7 @@
                 "date": "2022-12-29T21:30:00+01:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49250-aktuelles_zur_chatkontrolle",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBU3JC/",
                 "title": "Aktuelles zur Chatkontrolle",
@@ -7876,7 +7876,7 @@
                 "date": "2022-12-29T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "01:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49245-masking_threshold",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MBJW9Z/",
                 "title": "Masking Threshold",
@@ -7901,7 +7901,7 @@
                 "attachments": []
               }
             ],
-            "Track 2 room 2": [
+            "Mini-DVI": [
               {
                 "id": 49229,
                 "guid": "0d59c727-628c-545f-9917-6b23cef4e31d",
@@ -7909,7 +7909,7 @@
                 "date": "2022-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49229-an_ontology_of_hope",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBSLXU/",
                 "title": "An ontology of hope: cognitive and blind",
@@ -7940,7 +7940,7 @@
                 "date": "2022-12-29T12:15:00+01:00",
                 "start": "12:15",
                 "duration": "01:00",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49277-b3_buntesbugbounty_den_hackerparagraphen_hacken",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/",
                 "title": "B3 - BuntesBugBounty - den Hackerparagraphen Hacken",
@@ -7971,7 +7971,7 @@
                 "date": "2022-12-29T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "00:55",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49182-an_introduction_to_scientific_journalism",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/",
                 "title": "An Introduction to Scientific Journalism",
@@ -8002,7 +8002,7 @@
                 "date": "2022-12-29T16:45:00+01:00",
                 "start": "16:45",
                 "duration": "01:30",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49183-eduroam_eine_reise_durch_die_technik_hinter_der_foederation",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/",
                 "title": "eduroam - eine Reise durch die Technik hinter der F\u00f6deration",
@@ -8027,8 +8027,8 @@
                 "attachments": []
               }
             ],
-            "workshop room 3": [],
-            "soldering room 7": [
+            "HDMI": [],
+            "Hardware Hacking": [
               {
                 "id": 49163,
                 "guid": "4aff93bc-0d9e-5334-b77a-4d3d33884482",
@@ -8036,7 +8036,7 @@
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:30",
-                "room": "soldering room 7",
+                "room": "Hardware Hacking",
                 "slug": "jev22-49163-led_strips_everywhere_for_everyone",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MVZST3/",
                 "title": "LED Strips Everywhere for Everyone!",
@@ -8067,7 +8067,7 @@
                 "date": "2022-12-29T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "02:00",
-                "room": "soldering room 7",
+                "room": "Hardware Hacking",
                 "slug": "jev22-49235-beginners_workshop_how_to_plan_build_your_own_led_project",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/G9K7L8/",
                 "title": "Beginners workshop - How to plan & build your own LED project",
@@ -10428,7 +10428,7 @@
                 "attachments": []
               }
             ],
-            "Theater Hall E.T.I.": [
+            "Parallel Port": [
               {
                 "id": 49199,
                 "guid": "90027f42-d1c3-53e8-b18a-34564fda53f5",
@@ -10436,7 +10436,7 @@
                 "date": "2022-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:45",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49199-decentralised_social_media_has_a_moderation_problem",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/NUAUJG/",
                 "title": "Decentralised social media has a moderation problem",
@@ -10467,7 +10467,7 @@
                 "date": "2022-12-30T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:00",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49210-what_if_xss_was_a_browser_bug",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/",
                 "title": "What if XSS was a browser bug?",
@@ -10498,7 +10498,7 @@
                 "date": "2022-12-30T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "00:30",
-                "room": "Theater Hall E.T.I.",
+                "room": "Parallel Port",
                 "slug": "jev22-49267-placeholder_review_closing",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/",
                 "title": "placeholder, Review & Closing",
@@ -10530,7 +10530,7 @@
                 "attachments": []
               }
             ],
-            "Track 2 room 2": [
+            "Mini-DVI": [
               {
                 "id": 49222,
                 "guid": "bc17cad7-3c6b-5cea-9735-b79ec525a15a",
@@ -10538,7 +10538,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:45",
-                "room": "Track 2 room 2",
+                "room": "Mini-DVI",
                 "slug": "jev22-49222-die_physik_der_musik",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FRLYBH/",
                 "title": "die Physik der Musik",
@@ -10563,7 +10563,7 @@
                 "attachments": []
               }
             ],
-            "workshop room 3": [
+            "HDMI": [
               {
                 "id": 49259,
                 "guid": "acb55b2d-694b-5177-bb5e-121f7ccb4ba8",
@@ -10571,7 +10571,7 @@
                 "date": "2022-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:17",
-                "room": "workshop room 3",
+                "room": "HDMI",
                 "slug": "jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/",
                 "title": "Of someone who went forth to find a flat in Berlin. An automation-drama in three acts \u2014 Act 3: In ultimate consequence",
@@ -10596,7 +10596,7 @@
                 "attachments": []
               }
             ],
-            "soldering room 7": [],
+            "Hardware Hacking": [],
             "c-base mainhall": [],
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -11655,10 +11655,10 @@
             "Spezial Raum": [],
             "WICMP Seminarraum": [],
             "Winterchaos": [],
-            "Theater Hall E.T.I.": [],
-            "Track 2 room 2": [],
-            "workshop room 3": [],
-            "soldering room 7": [],
+            "Parallel Port": [],
+            "Mini-DVI": [],
+            "HDMI": [],
+            "Hardware Hacking": [],
             "c-base mainhall": [],
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [

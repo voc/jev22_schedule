@@ -5,7 +5,7 @@
   "date": "2022-12-30T14:30:00+01:00",
   "start": "14:30",
   "duration": "01:00",
-  "room": "Theater Hall E.T.I.",
+  "room": "Parallel Port",
   "slug": "jev22-49210-what_if_xss_was_a_browser_bug",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/",
   "title": "What if XSS was a browser bug?",
