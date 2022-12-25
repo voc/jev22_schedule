@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 16:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 16:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.33",
+    "version": "2022-12-25 17:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 17:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.33",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -839,7 +839,39 @@
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
             "Bierschoine": [],
-            "Salon": [],
+            "Salon": [
+              {
+                "id": 49298,
+                "guid": "f907f604-885d-582e-9c4e-92456b375215",
+                "logo": "/media/hacking-in-hell-2022/submissions/GHJERA/170_filmplakatderlautefruehling_DuwjLCl.jpg",
+                "date": "2022-12-27T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "02:00",
+                "room": "Salon",
+                "slug": "jev22-49298-film",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/GHJERA/",
+                "title": "Film: \"Der laute Fr\u00fchling\"",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Sonstiges (120)",
+                "language": "de",
+                "abstract": "Filmauff\u00fchrung und anschlie\u00dfende Diskussionsrunde mit Filmemacherin Johanna Schellhagen im Lilo Herrmann Haus Stuttgart",
+                "description": "In der globalen Klimabewegung setzt sich mehr und mehr die Erkenntnis durch, dass es so nicht weitergehen kann und dass wir einen Systemwechsel brauchen.\r\nIn \"Der laute Fr\u00fchling\" schauen wir mit Hilfe von animierten Sequenzen in die Zukunft und beschreiben, wie jene tiefgreifende gesellschaftliche Transformation, die wir brauchen, aussehen k\u00f6nnte.\r\n\r\nhttps://de.labournet.tv/project/der-laute-fruehling",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3414,
+                    "code": "QXFU7T",
+                    "public_name": "Neutrino",
+                    "biography": "nix",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Bastelstube": [
               {
                 "id": 49223,

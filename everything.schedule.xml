@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 16:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 16:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
+  <version>2022-12-25 17:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 17:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -519,7 +519,36 @@ anonymised.</abstract>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="Salon" guid="6a427063-66f2-4353-b582-65bd53390b22"/>
+    <room name="Salon" guid="6a427063-66f2-4353-b582-65bd53390b22">
+      <event id="49298" guid="f907f604-885d-582e-9c4e-92456b375215">
+        <logo>/media/hacking-in-hell-2022/submissions/GHJERA/170_filmplakatderlautefruehling_DuwjLCl.jpg</logo>
+        <date>2022-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>Salon</room>
+        <slug>jev22-49298-film</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/GHJERA/</url>
+        <title>Film: "Der laute Frühling"</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Sonstiges (120)</type>
+        <language>de</language>
+        <abstract>Filmaufführung und anschließende Diskussionsrunde mit Filmemacherin Johanna Schellhagen im Lilo Herrmann Haus Stuttgart</abstract>
+        <description>In der globalen Klimabewegung setzt sich mehr und mehr die Erkenntnis durch, dass es so nicht weitergehen kann und dass wir einen Systemwechsel brauchen.&#13;
+In "Der laute Frühling" schauen wir mit Hilfe von animierten Sequenzen in die Zukunft und beschreiben, wie jene tiefgreifende gesellschaftliche Transformation, die wir brauchen, aussehen könnte.&#13;
+&#13;
+https://de.labournet.tv/project/der-laute-fruehling</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3414">Neutrino</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Bastelstube" guid="60cd5303-5ef2-40f9-9491-77ea43ef0c30">
       <event id="49223" guid="ebe79622-1243-52c4-b111-b5eae6441a61">
         <logo/>
