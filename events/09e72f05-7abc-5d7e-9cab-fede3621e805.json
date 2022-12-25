@@ -22,7 +22,7 @@
       "id": 3361,
       "code": "XD9BP3",
       "public_name": "D. J. Bernstein",
-      "biography": null,
+      "biography": "D. J. Bernstein (@djb@cr.yp.to) designs cryptography to proactively reduce risks. His currently deployed designs, with various coauthors, include X25519, Ed25519, ChaCha20, SipHash, and NTRU Prime. He coined the phrase \"post-quantum cryptography\" in 2003.",
       "answers": []
     },
     {

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 17:10",
+    "version": "2022-12-25 18:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2245,7 +2245,7 @@
                     "id": 3361,
                     "code": "XD9BP3",
                     "public_name": "D. J. Bernstein",
-                    "biography": null,
+                    "biography": "D. J. Bernstein (@djb@cr.yp.to) designs cryptography to proactively reduce risks. His currently deployed designs, with various coauthors, include X25519, Ed25519, ChaCha20, SipHash, and NTRU Prime. He coined the phrase \"post-quantum cryptography\" in 2003.",
                     "answers": []
                   },
                   {

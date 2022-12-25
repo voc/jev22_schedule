@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 17:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 17:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.33",
+    "version": "2022-12-25 18:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 18:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.33",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -6467,7 +6467,7 @@
                     "id": 3361,
                     "code": "XD9BP3",
                     "public_name": "D. J. Bernstein",
-                    "biography": null,
+                    "biography": "D. J. Bernstein (@djb@cr.yp.to) designs cryptography to proactively reduce risks. His currently deployed designs, with various coauthors, include X25519, Ed25519, ChaCha20, SipHash, and NTRU Prime. He coined the phrase \"post-quantum cryptography\" in 2003.",
                     "answers": []
                   },
                   {
