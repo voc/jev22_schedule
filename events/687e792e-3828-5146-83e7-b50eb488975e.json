@@ -19,6 +19,13 @@
   "do_not_record": false,
   "persons": [
     {
+      "id": 3876,
+      "code": "VFSNBU",
+      "public_name": "Charlotte",
+      "biography": null,
+      "answers": []
+    },
+    {
       "id": 3771,
       "code": "KQWRER",
       "public_name": "Franz Sitzmann",
