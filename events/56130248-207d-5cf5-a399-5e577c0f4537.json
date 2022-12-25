@@ -1,0 +1,33 @@
+{
+  "id": 5613,
+  "guid": "56130248-207d-5cf5-a399-5e577c0f4537",
+  "logo": "",
+  "date": "2022-12-27T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Timeout Raum - H2-5.1",
+  "slug": "jev22-5613-die_nadel_im_fleischhaufen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GPP3KL/",
+  "title": "Die Nadel im Fleischhaufen",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Kunst",
+  "language": "de",
+  "abstract": "\"Die Nadel im Fleischhaufen\" ist eine Performance des Tattoo K\u00fcnstlers Jim Backe wo er die Grenzen der K\u00f6rperkunst an einem Versuchsobjekt erforscht.",
+  "description": "Backe wird in dieser Performance ein Tattoo stechen welches in Kombination mit Lyrischen Beitr\u00e4gen ein Interdisziplin\u00e4res Gesamtkunstwerk schafft. Ob an einem oder zwei auf einander folgenden tagen h\u00e4ngt von der Orga ab.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 117,
+      "code": "QZCERP",
+      "public_name": "JIM BACKE",
+      "biography": "I want u to get Tattoo",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
