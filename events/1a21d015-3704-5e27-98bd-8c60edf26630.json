@@ -1,0 +1,33 @@
+{
+  "id": 1210,
+  "guid": "1a21d015-3704-5e27-98bd-8c60edf26630",
+  "logo": "",
+  "date": "2022-12-31T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "02:00",
+  "room": "Workshopraum 1 - H2-2.5",
+  "slug": "jev22-1210-it_security_and_privacy_101",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/Y3CBVS/",
+  "title": "IT Security and Privacy 101",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Basic and actionable knowledge for how to secure your laptop & smartphone and keep a reasonable level of privacy",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 68,
+      "code": "9FHJL7",
+      "public_name": "Paolo",
+      "biography": "Paolo likes computers (most of the time) and is happy when they are used for good.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
+  "origin": "forum.freiraeumen.jetzt"
+}

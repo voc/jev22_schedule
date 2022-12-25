@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 15:50",
+    "version": "2022-12-25 16:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -775,14 +775,14 @@
             ],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
-                "id": 651,
-                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
+                "id": 4969,
+                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum",
+                "slug": "jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch - Wege befreien im urbanen Raum",
                 "subtitle": "",
@@ -1911,6 +1911,37 @@
               }
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
+              {
+                "id": 2161,
+                "guid": "21ec6115-cd0d-567d-b480-b5a829c1ad45",
+                "logo": "",
+                "date": "2022-12-28T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:30",
+                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "slug": "jev22-2161-12_haeuser_13_jahre_selbstverwaltetes_soziokulturelles_leben_im_gaengeviertel",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXWEAN/",
+                "title": "12 H\u00e4user, 13 Jahre selbstverwaltetes soziokulturelles Leben im G\u00e4ngeviertel",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Diskussion",
+                "language": "de",
+                "abstract": "Ausgehend der \u201akulturellen Inbesitznahme\u2018 des historischen Quartiers in der Hamburger Innenstadt hat sich ein intensives (sozio-)kulturelles Leben entwickelt, das von vielen Menschen getragen wird und seit 13,5 Jahren kulturelles Programm bietet. Was ist das G\u00e4ngeviertel und wie funktioniert es?",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 96,
+                    "code": "3UJN7J",
+                    "public_name": "Ray",
+                    "biography": "Aktivist und Stadtplaner.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 958,
                 "guid": "09f58cbb-4be7-5a04-8006-f4a2ec335112",
@@ -3955,14 +3986,14 @@
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
-                "id": 4969,
-                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
+                "id": 651,
+                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
                 "logo": "",
                 "date": "2022-12-30T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum",
+                "slug": "jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch - Wege befreien im urbanen Raum",
                 "subtitle": "",

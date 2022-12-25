@@ -2,10 +2,10 @@
   "id": 651,
   "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
   "logo": "",
-  "date": "2022-12-27T11:00:00+01:00",
+  "date": "2022-12-30T11:00:00+01:00",
   "start": "11:00",
   "duration": "01:00",
-  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
   "slug": "jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
   "title": "Lass mich durch - Wege befreien im urbanen Raum",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "room_id": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
   "origin": "forum.freiraeumen.jetzt"
 }

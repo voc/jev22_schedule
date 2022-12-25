@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 15:50</version>
+  <version>2022-12-25 16:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -440,13 +440,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
       </event>
     </room>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
-      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch - Wege befreien im urbanen Raum</title>
         <subtitle/>
@@ -1436,6 +1436,31 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+      <event id="2161" guid="21ec6115-cd0d-567d-b480-b5a829c1ad45">
+        <logo/>
+        <date>2022-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:30</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-2161-12_haeuser_13_jahre_selbstverwaltetes_soziokulturelles_leben_im_gaengeviertel</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXWEAN/</url>
+        <title>12 Häuser, 13 Jahre selbstverwaltetes soziokulturelles Leben im Gängeviertel</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Diskussion</type>
+        <language>de</language>
+        <abstract>Ausgehend der ‚kulturellen Inbesitznahme‘ des historischen Quartiers in der Hamburger Innenstadt hat sich ein intensives (sozio-)kulturelles Leben entwickelt, das von vielen Menschen getragen wird und seit 13,5 Jahren kulturelles Programm bietet. Was ist das Gängeviertel und wie funktioniert es?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="96">Ray</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="958" guid="09f58cbb-4be7-5a04-8006-f4a2ec335112">
         <logo/>
         <date>2022-12-28T16:00:00+01:00</date>
@@ -3179,13 +3204,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch - Wege befreien im urbanen Raum</title>
         <subtitle/>
