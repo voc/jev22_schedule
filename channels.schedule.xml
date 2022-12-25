@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 11:20</version>
+  <version>2022-12-25 11:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2201,7 +2201,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <type>Live Session (30)</type>
         <language>de</language>
         <abstract>mafifa - WM 2030 (2: Gruppenphase)</abstract>
-        <description>Die Gruppenphase. Vier Gruppen, vier Manschaften. Am Ende kommen die ersten beiden weiter. Garantiert Korruptionsfrei; Hust. Mate zählt nicht als Währung.</description>
+        <description>Die Gruppenphase. Vier Gruppen, vier Mannschaften. Am Ende kommen die ersten Beiden weiter. Garantiert korruptionsfrei; Hust. Mate zählt nicht als Währung.</description>
         <recording>
           <license/>
           <optout>false</optout>
