@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 20:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 20:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
+  <version>2022-12-25 22:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 22:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1159,7 +1159,7 @@ Goal of the workshop is to educate people enough to run their own matrix-homeser
         <attachments/>
       </event>
       <event id="49280" guid="58fec974-e39e-5c00-9f0d-96b35c15916d">
-        <logo/>
+        <logo>/media/hip-berlin-2022/submissions/LADFAB/talk_pic_9wt7AVU.png</logo>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
@@ -1172,7 +1172,7 @@ Goal of the workshop is to educate people enough to run their own matrix-homeser
         <type>Workshop</type>
         <language>en</language>
         <abstract>Have you ever wondered how fabric is actually woven? In this discussion i will take you along for the journey from initial concept to final wearable product of a high-fashion modern-designed wool scarf. Topics from the chemistry science of fiber and dyeing to the utilization of computer-assisted pattern design will be covered.</abstract>
-        <description>This will be a presentation documenting the process of creating a high-end designer scarf with mathematical patterns, from concept design to final product. The journey will take use from pencil, paper, and computer design, to spreadsheet assisted dyeing of yarns, to the preparation the loom, to the weaving process itself, and the final finishing touches to arrive at the beautiful finished product. Hopefully it will familiarize the uninitiated with the processes involved in creating a real world woven object.&#13;
+        <description>This will be a presentation documenting the process of creating a high-end designer scarf with mathematical patterns, from concept design to final product. The journey will take us from pencil, paper, and computer design, to spreadsheet assisted dyeing of yarns, to the preparation the loom, to the weaving process itself, and the final finishing touches to arrive at the beautiful finished product. Hopefully it will familiarize the uninitiated with the processes involved in creating a real world woven object.&#13;
 &#13;
 I also hope that this discussion will inspire collaborations for future work involving computerized looms, computer-assisted weaving designs, new tech-enhanced fibers, and anything else that could extend the possibilities of weaving. Maybe next conference we will have a working computerized loom!</description>
         <recording>
