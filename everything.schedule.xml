@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 15:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 15:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.31</version>
+  <version>2022-12-25 15:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 15:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.32</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1686,13 +1686,13 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
+      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-934-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -1718,13 +1718,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <links/>
         <attachments/>
       </event>
-      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
+      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-934-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
         <subtitle/>
@@ -2013,13 +2013,13 @@ Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundene
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+      <event id="2009" guid="bc20091c-92a7-524c-b7b8-5769d44caa19">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-2009-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -4492,27 +4492,29 @@ Mehr Infos: https://allesisteins.film/</description>
         <links/>
         <attachments/>
       </event>
-      <event id="9611" guid="96d1b1ff-e2fd-54b8-90c5-b4536f069fe7">
+      <event id="5429" guid="542e94d3-b986-5a69-be85-2db0770710ef">
         <logo/>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
-        <duration>04:00</duration>
+        <duration>03:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-9611-raum_einnehmen_im_patriarchat</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CRWYJS/</url>
-        <title>Raum einnehmen im Patriarchat?</title>
+        <slug>jev22-5429-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/</url>
+        <title>SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION FÜR FLINTA MUSIKER*INNEN</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Wer nimmt im Patriarchat wo, welchen und wieviel Raum ein und was wäre, wenn es anders wäre?</abstract>
-        <description>Freiräume können mehr sein als nur freie Räume. Im Zuge des Freiraumforums stellen wir uns die Frage, wer wo im Patriarchat wieviel Raum einnimmt und wer nicht. Wie kann ich Raum einnehmen? Genau das wollen wir ausprobieren, in einem Safer Space die voerherrschenden Raumverhältnisse aktiv auf den Kopf drehen, mit ihnen experimentieren und uns darüber austauschen.</description>
+        <abstract>Vortrag und Diskussionsrunde zum Thema Geschlechtergerechtigkeit in der Musikindustrie&#13;
+und Songwritingsession für FLINTA*-Musiker*innen</abstract>
+        <description>Die Veranstaltung soll Teilnehmer*innen eine Möglichkeit geben, das Kollektiv Sie ist kein Genre kennenzulernen und auszuprobieren. Desweiteren bietet das Event einen Saferspace für FLINTA* Musiker*innen aus München und Umgebung sich auszutauschen, kennenzulernen, zu diskutieren und zu musizieren. Inhalt der Veranstaltung sind eine Diskussionsrunde und ein Vortrag zum Thema Geschlechtergerechtigkeit in der Musikindustrie, sowie eine Songwritingsession.&#13;
+Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument mitbringen könntest und uns Bescheid gibst.</description>
         <recording>
           <license/>
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="176">NoPatriarchy</person>
+          <person id="84">Sie ist kein Genre</person>
         </persons>
         <links/>
         <attachments/>
@@ -4704,6 +4706,31 @@ Wir tauschen uns aus über eure Erfahrungen und versuchen uns dem Thema anhand d
         <links/>
         <attachments/>
       </event>
+      <event id="9611" guid="96d1b1ff-e2fd-54b8-90c5-b4536f069fe7">
+        <logo/>
+        <date>2022-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>04:00</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-9611-raum_einnehmen_im_patriarchat</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CRWYJS/</url>
+        <title>Raum einnehmen im Patriarchat?</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Wer nimmt im Patriarchat wo, welchen und wieviel Raum ein und was wäre, wenn es anders wäre?</abstract>
+        <description>Freiräume können mehr sein als nur freie Räume. Im Zuge des Freiraumforums stellen wir uns die Frage, wer wo im Patriarchat wieviel Raum einnimmt und wer nicht. Wie kann ich Raum einnehmen? Genau das wollen wir ausprobieren, in einem Safer Space die voerherrschenden Raumverhältnisse aktiv auf den Kopf drehen, mit ihnen experimentieren und uns darüber austauschen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="176">NoPatriarchy</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Klangkeller - H1-U.1">
       <event id="4718" guid="efa47185-d189-561b-ad83-b990c650daf7">
@@ -4762,33 +4789,6 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         </recording>
         <persons>
           <person id="126">Lara Loehr</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="5429" guid="542e94d3-b986-5a69-be85-2db0770710ef">
-        <logo/>
-        <date>2022-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>03:00</duration>
-        <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5429-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/</url>
-        <title>SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION FÜR FLINTA MUSIKER*INNEN</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Vortrag und Diskussionsrunde zum Thema Geschlechtergerechtigkeit in der Musikindustrie&#13;
-und Songwritingsession für FLINTA*-Musiker*innen</abstract>
-        <description>Die Veranstaltung soll Teilnehmer*innen eine Möglichkeit geben, das Kollektiv Sie ist kein Genre kennenzulernen und auszuprobieren. Desweiteren bietet das Event einen Saferspace für FLINTA* Musiker*innen aus München und Umgebung sich auszutauschen, kennenzulernen, zu diskutieren und zu musizieren. Inhalt der Veranstaltung sind eine Diskussionsrunde und ein Vortrag zum Thema Geschlechtergerechtigkeit in der Musikindustrie, sowie eine Songwritingsession.&#13;
-Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument mitbringen könntest und uns Bescheid gibst.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="84">Sie ist kein Genre</person>
         </persons>
         <links/>
         <attachments/>
@@ -5027,13 +5027,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-28T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -5104,13 +5104,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="9074" guid="90741505-0947-518e-a69b-0f4095337dea">
+      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9074-sticker_exchange</slug>
+        <slug>jev22-8400-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -7683,13 +7683,13 @@ In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber�
         <links/>
         <attachments/>
       </event>
-      <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
+      <event id="2055" guid="bdbaac2a-d05a-5188-9a5a-512e9de47072">
         <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
         <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
         <subtitle/>
@@ -7968,13 +7968,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="7146" guid="7146093d-0e64-5749-a166-b8ac8fab81b4">
+      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-7146-seltsam_klein</slug>
+        <slug>jev22-1508-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -8108,13 +8108,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-29T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-668-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -9659,13 +9659,13 @@ Der Münchner Flüchtlingsrat berät seit 2019 in der Abschiebehaftanstalt am M�
         <links/>
         <attachments/>
       </event>
-      <event id="2055" guid="bdbaac2a-d05a-5188-9a5a-512e9de47072">
+      <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
         <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
         <date>2022-12-30T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
         <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
         <subtitle/>
@@ -9978,13 +9978,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
+      <event id="3595" guid="b3c5b954-24e6-59a9-bed5-e8e65a7cc19f">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-6575-seltsam_klein</slug>
+        <slug>jev22-3595-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -10091,13 +10091,13 @@ Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundene
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="2009" guid="bc20091c-92a7-524c-b7b8-5769d44caa19">
+      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2009-mittagessen_volxkueche_muenchen</slug>
+        <slug>jev22-5655-mittagessen_volxkueche_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Mittagessen - VolxKüche München</title>
         <subtitle/>
@@ -10196,13 +10196,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
+      <event id="4966" guid="49ecb668-cc83-5920-ab25-eb5f3196c0dc">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8400-sticker_exchange</slug>
+        <slug>jev22-4966-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -10595,13 +10595,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="3595" guid="b3c5b954-24e6-59a9-bed5-e8e65a7cc19f">
+      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-31T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-3595-seltsam_klein</slug>
+        <slug>jev22-6575-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>

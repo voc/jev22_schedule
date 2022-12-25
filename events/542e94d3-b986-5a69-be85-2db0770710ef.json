@@ -5,7 +5,7 @@
   "date": "2022-12-28T14:00:00+01:00",
   "start": "14:00",
   "duration": "03:00",
-  "room": "Ruheraum - H1-2.1",
+  "room": "Workshopraum 1 - H2-2.5",
   "slug": "jev22-5429-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/",
   "title": "SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION F\u00dcR FLINTA MUSIKER*INNEN",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
   "origin": "forum.freiraeumen.jetzt"
 }

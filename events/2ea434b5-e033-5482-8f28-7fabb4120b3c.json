@@ -2,10 +2,10 @@
   "id": 2434,
   "guid": "2ea434b5-e033-5482-8f28-7fabb4120b3c",
   "logo": "/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png",
-  "date": "2022-12-29T12:00:00+01:00",
-  "start": "12:00",
+  "date": "2022-12-30T16:00:00+01:00",
+  "start": "16:00",
   "duration": "02:00",
-  "room": "Workshopraum 4 - H2-4.4",
+  "room": "Workshopraum 1 - H2-2.5",
   "slug": "jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/",
   "title": "Offene Sprechstunde & Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
   "origin": "forum.freiraeumen.jetzt"
 }
