@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 22:30</version>
+  <version>2022-12-25 23:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -342,10 +342,33 @@ anonymised.</abstract>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="8887" guid="8b8a8793-1026-5a55-bb59-32594c491d36">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-8887-opening</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Hackcenter. Kurze Eröffnung, what to hack etc.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
-        <date>2022-12-27T15:30:00+01:00</date>
-        <start>15:30</start>
+        <date>2022-12-27T17:45:00+01:00</date>
+        <start>17:45</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
         <slug>jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain</slug>
@@ -371,8 +394,8 @@ Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
       </event>
       <event id="6708" guid="a67ef084-e55e-5910-98fd-db72b633e5ce">
         <logo/>
-        <date>2022-12-27T16:45:00+01:00</date>
-        <start>16:45</start>
+        <date>2022-12-27T18:45:00+01:00</date>
+        <start>18:45</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
         <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
@@ -408,8 +431,8 @@ Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</descri
       </event>
       <event id="1721" guid="a1bbd7a2-1274-530f-a651-8399166c9d6b">
         <logo/>
-        <date>2022-12-27T17:45:00+01:00</date>
-        <start>17:45</start>
+        <date>2022-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
         <slug>jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac</slug>
