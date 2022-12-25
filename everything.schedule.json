@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 11:40; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 11:40; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-25 13:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 13:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -399,7 +399,7 @@
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/",
                 "title": "Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt",
                 "subtitle": "",
-                "track": "Digitalcourage",
+                "track": "R3S",
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.",
@@ -594,7 +594,7 @@
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
                 "title": "Mein FEDI Server",
                 "subtitle": "",
-                "track": "Digitalcourage",
+                "track": "R3S",
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "installiere Dir deinen eigenen FEDI Server",
@@ -5043,7 +5043,7 @@
                 "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
                 "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 138,
@@ -5081,7 +5081,7 @@
                 "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
                 "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 138,
@@ -8132,15 +8132,15 @@
                 "start": "22:00",
                 "duration": "00:50",
                 "room": "c-base mainhall",
-                "slug": "jev22-49145-eigenform",
+                "slug": "jev22-49145-eigenform_live",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/",
-                "title": "Eigenform",
+                "title": "Eigenform (live)",
                 "subtitle": "",
                 "track": "c-base",
                 "type": "Music/Performance/Art/Other Cool stuff",
                 "language": "en",
                 "abstract": "Live music set by Eigenform, an electronic music and multimedia project.",
-                "description": "Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.",
+                "description": "Eigenform is an electronic music and multimedia project, started by programmer and musician Artem Popov in Berlin. In his music he combines dark beats, synths, and field recordings, mixed and played with grid controllers, often using DIY synthesizers and sequencers.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -8396,7 +8396,7 @@
                 "room": "Workshopraum 1 - H2-2.5",
                 "slug": "jev22-7864-awareness_diversitaet",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/A7WNKV/",
-                "title": "Awareness & Diversit\u00e4t: Theorie & Performanz f\u00fcr(s) Freir\u00e4ume(n). by FF22 AG Awareness",
+                "title": "Awareness & Diversit\u00e4t: Theorie & Performanz f\u00fcr(s) Freir\u00e4ume(n). by 22F3 AG Awareness",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Workshop",
@@ -8404,7 +8404,7 @@
                 "abstract": "Offener Austausch \u00fcber Geschichte, Theorie und Praxis von Awareness. Mit der FF22 AG Awareness & Blackdefinitionmatters \ud83d\udea7 PlusXKollektiv & Assoziation:E & allen, die spontan Lust haben.",
                 "description": "ASPEKTE\r\n\r\n1 Geschichten von Safer Spaces & Awareness Arbeit in M\u00fcnchen & beyond: Black Definition Matters\r\nBlack Feminism, afrikanische Selbsterm\u00e4chtigungen\r\n\u2192 Blackdefinitionmatters // PlusXKollektiv\r\n\r\n2 Weitere Verst\u00e4ndnisse von Awareness\r\n--> Raum f\u00fcr weitere Geschichte(n) zum Thema\r\n \r\n3 Gesellschaftstheorie der gruppenbezogenen Abwertung\r\n\u2192 Assoziation:E\r\n\r\n4 Umgang mit diskriminierenden Strukturen: Theorie&Praxis\r\n\u2192 AG Awareness Freiraumforum: Grunds\u00e4tze & Manyfest\r\n\u2192 Offene Diskussion",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 138,

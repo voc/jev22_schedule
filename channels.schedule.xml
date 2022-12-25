@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 11:40</version>
+  <version>2022-12-25 13:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -74,7 +74,7 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/</url>
         <title>Das Fediverse steht für Vielfalt nicht für Einfalt</title>
         <subtitle/>
-        <track>Digitalcourage</track>
+        <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.</abstract>
@@ -1365,7 +1365,7 @@ Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen
 Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -1397,7 +1397,7 @@ Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen
 Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>

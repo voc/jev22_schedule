@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 11:40; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 11:40; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
+  <version>2022-12-25 13:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 13:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.27</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -74,7 +74,7 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/</url>
         <title>Das Fediverse steht für Vielfalt nicht für Einfalt</title>
         <subtitle/>
-        <track>Digitalcourage</track>
+        <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
         <abstract>Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.</abstract>
@@ -252,7 +252,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/</url>
         <title>Mein FEDI Server</title>
         <subtitle/>
-        <track>Digitalcourage</track>
+        <track>R3S</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>installiere Dir deinen eigenen FEDI Server</abstract>
@@ -4312,7 +4312,7 @@ Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen
 Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -4344,7 +4344,7 @@ Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen
 Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -7063,15 +7063,15 @@ Aber wie sieht das mit Smartphones aus? Sollten Smartphones zugelassen sein, um 
         <start>22:00</start>
         <duration>00:50</duration>
         <room>c-base mainhall</room>
-        <slug>jev22-49145-eigenform</slug>
+        <slug>jev22-49145-eigenform_live</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/W7XRGH/</url>
-        <title>Eigenform</title>
+        <title>Eigenform (live)</title>
         <subtitle/>
         <track>c-base</track>
         <type>Music/Performance/Art/Other Cool stuff</type>
         <language>en</language>
         <abstract>Live music set by Eigenform, an electronic music and multimedia project.</abstract>
-        <description>Live music set by Eigenform, an electronic music and multimedia project, combining dark beats, synth melodies, and field recordings, performed with grid controllers using DIY synthesizers and sequencers.</description>
+        <description>Eigenform is an electronic music and multimedia project, started by programmer and musician Artem Popov in Berlin. In his music he combines dark beats, synths, and field recordings, mixed and played with grid controllers, often using DIY synthesizers and sequencers.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7290,7 +7290,7 @@ Wir widmen uns folgenden Themen:&#13;
         <room>Workshopraum 1 - H2-2.5</room>
         <slug>jev22-7864-awareness_diversitaet</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/A7WNKV/</url>
-        <title>Awareness &amp; Diversität: Theorie &amp; Performanz für(s) Freiräume(n). by FF22 AG Awareness</title>
+        <title>Awareness &amp; Diversität: Theorie &amp; Performanz für(s) Freiräume(n). by 22F3 AG Awareness</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Workshop</type>
@@ -7313,7 +7313,7 @@ Black Feminism, afrikanische Selbstermächtigungen&#13;
 → Offene Diskussion</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
