@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 19:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 19:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
+  <version>2022-12-25 20:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 20:50; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -4050,7 +4050,7 @@ Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedroht
         <logo>/media/hip-berlin-2022/submissions/ECDJ3H/IMG_20191223_222139_fwrxzpp.jpg</logo>
         <date>2022-12-28T19:30:00+01:00</date>
         <start>19:30</start>
-        <duration>00:25</duration>
+        <duration>00:30</duration>
         <room>Mini-DVI</room>
         <slug>jev22-49185-ikea_pallet_hacks</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/</url>
@@ -4080,8 +4080,8 @@ With an extra of: why you shouldn't repair your ceiling for free (and I did it a
       </event>
       <event id="49272" guid="a4fe3f0c-a766-5631-9fcd-491c451b66ea">
         <logo/>
-        <date>2022-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2022-12-28T20:45:00+01:00</date>
+        <start>20:45</start>
         <duration>00:30</duration>
         <room>Mini-DVI</room>
         <slug>jev22-49272-connecting_networks_in_global_maker_movements</slug>
