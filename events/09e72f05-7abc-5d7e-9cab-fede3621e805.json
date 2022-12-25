@@ -13,7 +13,7 @@
   "track": "R3S",
   "type": "Talk",
   "language": "en",
-  "abstract": "Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker\r\nhas a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to\r\nagree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select\r\nsome systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and\r\ndeployment of post-quantum cryptography have been going wrong.",
+  "abstract": "Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and deployment of post-quantum cryptography have been going wrong.",
   "description": "Why do we still not use post-quantum cryptography? This talk sheds some light on what happened beyond the efforts of researchers to design good crypto and get it deployed. Bring your tinfoil hats.",
   "recording_license": "",
   "do_not_record": false,

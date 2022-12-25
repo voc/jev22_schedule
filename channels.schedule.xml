@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 18:10</version>
+  <version>2022-12-25 18:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1699,11 +1699,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker&#13;
-has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to&#13;
-agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select&#13;
-some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and&#13;
-deployment of post-quantum cryptography have been going wrong.</abstract>
+        <abstract>Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and deployment of post-quantum cryptography have been going wrong.</abstract>
         <description>Why do we still not use post-quantum cryptography? This talk sheds some light on what happened beyond the efforts of researchers to design good crypto and get it deployed. Bring your tinfoil hats.</description>
         <recording>
           <license/>
