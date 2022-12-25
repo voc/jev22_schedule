@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-25 16:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 16:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
+  <version>2022-12-25 16:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 16:30; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum für Freiräume - Gib Uns Mehr! 0.33</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1935,19 +1935,21 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 5 - H1-3.1</room>
-        <slug>jev22-6699-urbane_praxis</slug>
+        <slug>jev22-6699-urbane_praxis_stadt_von_unten_raum_fuer_alle</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/</url>
-        <title>Urbane Praxis</title>
+        <title>Urbane Praxis, Stadt von unten &amp; Raum für alle</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Ausstellung</type>
-        <language>en</language>
-        <abstract>Mit Urbane Liga, Gängeviertel, Haus der Statistik, Branntweinareal.</abstract>
-        <description>Die **Urbane Liga** ist ein Bündnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer Städte mit einbringen möchten. Sie ist im Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. für die nationale Stadtentwicklungspolitik zuständig ist und wird vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.&#13;
+        <language>de</language>
+        <abstract>Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und über die Urbane Liga, Gängeviertel, Haus der Statistik und das Branntweinareal.</abstract>
+        <description>Stadt von unten, Mitgestaltung und Raum für alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:&#13;
+&#13;
+Die **Urbane Liga** ist ein Bündnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer Städte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem Bündnis der letzten vier Jahre. &#13;
 &#13;
 Als wir im August 2009 in das historische **Gängeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespräche, in Ateliers, Wohnungen und sozialen Projekten. Die Häuser stehen noch, wir sind noch da – und wir arbeiten jeden Tag weiter an unserem Ziel.&#13;
 &#13;
-Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierhäuser (AbBA), eine Gruppe engagierter Künstler:innen, brachte ein großes Poster im Stile eines offiziellen Bauschilds an der Fassade an: „Hier entstehen für Berlin: Räume für Kultur, Bildung und Soziales“.</description>
+Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. Bündnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verbände, Künstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer Städte.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4947,19 +4949,21 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 5 - H1-3.1</room>
-        <slug>jev22-8600-urbane_praxis</slug>
+        <slug>jev22-8600-urbane_praxis_stadt_von_unten_raum_fuer_alle</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/</url>
-        <title>Urbane Praxis</title>
+        <title>Urbane Praxis, Stadt von unten &amp; Raum für alle</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Ausstellung</type>
-        <language>en</language>
-        <abstract>Mit Urbane Liga, Gängeviertel, Haus der Statistik, Branntweinareal.</abstract>
-        <description>Die **Urbane Liga** ist ein Bündnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer Städte mit einbringen möchten. Sie ist im Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. für die nationale Stadtentwicklungspolitik zuständig ist und wird vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.&#13;
+        <language>de</language>
+        <abstract>Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und über die Urbane Liga, Gängeviertel, Haus der Statistik und das Branntweinareal.</abstract>
+        <description>Stadt von unten, Mitgestaltung und Raum für alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:&#13;
+&#13;
+Die **Urbane Liga** ist ein Bündnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer Städte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem Bündnis der letzten vier Jahre. &#13;
 &#13;
 Als wir im August 2009 in das historische **Gängeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespräche, in Ateliers, Wohnungen und sozialen Projekten. Die Häuser stehen noch, wir sind noch da – und wir arbeiten jeden Tag weiter an unserem Ziel.&#13;
 &#13;
-Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierhäuser (AbBA), eine Gruppe engagierter Künstler:innen, brachte ein großes Poster im Stile eines offiziellen Bauschilds an der Fassade an: „Hier entstehen für Berlin: Räume für Kultur, Bildung und Soziales“.</description>
+Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. Bündnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verbände, Künstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer Städte.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8028,19 +8032,21 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 5 - H1-3.1</room>
-        <slug>jev22-1954-urbane_praxis</slug>
+        <slug>jev22-1954-urbane_praxis_stadt_von_unten_raum_fuer_alle</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/</url>
-        <title>Urbane Praxis</title>
+        <title>Urbane Praxis, Stadt von unten &amp; Raum für alle</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Ausstellung</type>
-        <language>en</language>
-        <abstract>Mit Urbane Liga, Gängeviertel, Haus der Statistik, Branntweinareal.</abstract>
-        <description>Die **Urbane Liga** ist ein Bündnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer Städte mit einbringen möchten. Sie ist im Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. für die nationale Stadtentwicklungspolitik zuständig ist und wird vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.&#13;
+        <language>de</language>
+        <abstract>Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und über die Urbane Liga, Gängeviertel, Haus der Statistik und das Branntweinareal.</abstract>
+        <description>Stadt von unten, Mitgestaltung und Raum für alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:&#13;
+&#13;
+Die **Urbane Liga** ist ein Bündnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer Städte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem Bündnis der letzten vier Jahre. &#13;
 &#13;
 Als wir im August 2009 in das historische **Gängeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespräche, in Ateliers, Wohnungen und sozialen Projekten. Die Häuser stehen noch, wir sind noch da – und wir arbeiten jeden Tag weiter an unserem Ziel.&#13;
 &#13;
-Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierhäuser (AbBA), eine Gruppe engagierter Künstler:innen, brachte ein großes Poster im Stile eines offiziellen Bauschilds an der Fassade an: „Hier entstehen für Berlin: Räume für Kultur, Bildung und Soziales“.</description>
+Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. Bündnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verbände, Künstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer Städte.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10038,19 +10044,21 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 5 - H1-3.1</room>
-        <slug>jev22-3306-urbane_praxis</slug>
+        <slug>jev22-3306-urbane_praxis_stadt_von_unten_raum_fuer_alle</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/</url>
-        <title>Urbane Praxis</title>
+        <title>Urbane Praxis, Stadt von unten &amp; Raum für alle</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Ausstellung</type>
-        <language>en</language>
-        <abstract>Mit Urbane Liga, Gängeviertel, Haus der Statistik, Branntweinareal.</abstract>
-        <description>Die **Urbane Liga** ist ein Bündnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer Städte mit einbringen möchten. Sie ist im Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. für die nationale Stadtentwicklungspolitik zuständig ist und wird vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.&#13;
+        <language>de</language>
+        <abstract>Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und über die Urbane Liga, Gängeviertel, Haus der Statistik und das Branntweinareal.</abstract>
+        <description>Stadt von unten, Mitgestaltung und Raum für alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:&#13;
+&#13;
+Die **Urbane Liga** ist ein Bündnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer Städte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem Bündnis der letzten vier Jahre. &#13;
 &#13;
 Als wir im August 2009 in das historische **Gängeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespräche, in Ateliers, Wohnungen und sozialen Projekten. Die Häuser stehen noch, wir sind noch da – und wir arbeiten jeden Tag weiter an unserem Ziel.&#13;
 &#13;
-Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierhäuser (AbBA), eine Gruppe engagierter Künstler:innen, brachte ein großes Poster im Stile eines offiziellen Bauschilds an der Fassade an: „Hier entstehen für Berlin: Räume für Kultur, Bildung und Soziales“.</description>
+Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. Bündnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verbände, Künstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer Städte.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10681,19 +10689,21 @@ Aus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesond
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 5 - H1-3.1</room>
-        <slug>jev22-7579-urbane_praxis</slug>
+        <slug>jev22-7579-urbane_praxis_stadt_von_unten_raum_fuer_alle</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/</url>
-        <title>Urbane Praxis</title>
+        <title>Urbane Praxis, Stadt von unten &amp; Raum für alle</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Ausstellung</type>
-        <language>en</language>
-        <abstract>Mit Urbane Liga, Gängeviertel, Haus der Statistik, Branntweinareal.</abstract>
-        <description>Die **Urbane Liga** ist ein Bündnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer Städte mit einbringen möchten. Sie ist im Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. für die nationale Stadtentwicklungspolitik zuständig ist und wird vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.&#13;
+        <language>de</language>
+        <abstract>Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und über die Urbane Liga, Gängeviertel, Haus der Statistik und das Branntweinareal.</abstract>
+        <description>Stadt von unten, Mitgestaltung und Raum für alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:&#13;
+&#13;
+Die **Urbane Liga** ist ein Bündnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer Städte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem Bündnis der letzten vier Jahre. &#13;
 &#13;
 Als wir im August 2009 in das historische **Gängeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespräche, in Ateliers, Wohnungen und sozialen Projekten. Die Häuser stehen noch, wir sind noch da – und wir arbeiten jeden Tag weiter an unserem Ziel.&#13;
 &#13;
-Um den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierhäuser (AbBA), eine Gruppe engagierter Künstler:innen, brachte ein großes Poster im Stile eines offiziellen Bauschilds an der Fassade an: „Hier entstehen für Berlin: Räume für Kultur, Bildung und Soziales“.</description>
+Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. Bündnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verbände, Künstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer Städte.</description>
         <recording>
           <license/>
           <optout>false</optout>
