@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "cda41"
     },
-    "version": "2022-12-25 13:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 13:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.27",
+    "version": "2022-12-25 15:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.3 beta; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-25 15:10; Wintergalaktische Club Mate Party 0.3; Winterchaos 0.2; Hacking in Parallel 0.6; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.28",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2011,37 +2011,6 @@
             ],
             "Workshopraum 3 - H2-3.6": [
               {
-                "id": 5216,
-                "guid": "eb52d160-76ce-5623-a02d-34ff077e5df1",
-                "logo": "/media/freiraumforum/submissions/KT8Z37/4B21C585-4606-4EF5-9FE6-DC7A7A84ECF2_I5gNq4w.jpeg",
-                "date": "2022-12-27T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "02:00",
-                "room": "Workshopraum 3 - H2-3.6",
-                "slug": "jev22-5216-experimentelle_fotografie",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KT8Z37/",
-                "title": "Experimentelle Fotografie",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Theoretisches Wissen \u00fcber experimentelle Fotografie, sowie praktisches Ausprobieren von verschieden Effekten und Elementen.",
-                "description": "Allgemeines theoretisches Wissen \u00fcber Fotografie und Ausprobieren von verschiedenen Elementen wie Folien, Langzeitbelichtung, Verzerrung durch zB Glas, oder Weitwinkel. Wie k\u00f6nnen bestimmte Effekte erlangt und richtig eingesetzt werden. Hierbei geht es auch um Teamwork und Ideenaustausch. Gerne Kamera mitbringen, aber Handykamera geht auch.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 25,
-                    "code": "VLUUUQ",
-                    "public_name": "Chiara",
-                    "biography": "Hi! Ich studiere Fotografie und arbeite in einem Fotostudio in Paris. W\u00fcrde das Wissen das ich dadurch erlangt habe gerne weitergeben:))",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 7246,
                 "guid": "cdca7b2c-463d-502d-8c8d-ee913ce6cedb",
                 "logo": "/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg",
@@ -2140,14 +2109,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "id": 934,
+                "guid": "a09b34e6-79c3-5470-a6e9-275bff2ffa7d",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-934-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -2171,14 +2140,14 @@
                 "attachments": []
               },
               {
-                "id": 6706,
-                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -2266,14 +2235,14 @@
             ],
             "Ausstellungsraum 1 - H2-1.3": [
               {
-                "id": 6058,
-                "guid": "6a0dd58c-b89a-50a8-88ef-2e633055a9df",
+                "id": 4522,
+                "guid": "45d2a231-7753-5139-90b5-45bc6da3f3cd",
                 "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 1 - H2-1.3",
-                "slug": "jev22-6058-dazwischen_mischen",
+                "slug": "jev22-4522-dazwischen_mischen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/",
                 "title": "Dazwischen Mischen",
                 "subtitle": "",
@@ -2424,9 +2393,104 @@
                 "attachments": []
               }
             ],
-            "Austellungsraum 5 - H1-3.1": [],
+            "Austellungsraum 5 - H1-3.1": [
+              {
+                "id": 3306,
+                "guid": "33069d84-f317-5348-9402-1ddeccb4db47",
+                "logo": "",
+                "date": "2022-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "10:00",
+                "room": "Austellungsraum 5 - H1-3.1",
+                "slug": "jev22-3306-urbane_praxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+                "title": "Urbane Praxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Ausstellung",
+                "language": "en",
+                "abstract": "Mit Urbane Liga, G\u00e4ngeviertel, Haus der Statistik, Branntweinareal.",
+                "description": "Die **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer St\u00e4dte mit einbringen m\u00f6chten. Sie ist im Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. f\u00fcr die nationale Stadtentwicklungspolitik zust\u00e4ndig ist und wird vom Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.\r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nUm den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierh\u00e4user (AbBA), eine Gruppe engagierter K\u00fcnstler:innen, brachte ein gro\u00dfes Poster im Stile eines offiziellen Bauschilds an der Fassade an: \u201eHier entstehen f\u00fcr Berlin: R\u00e4ume f\u00fcr Kultur, Bildung und Soziales\u201c.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Forumszentrum - H1-0.1": [],
-            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
+            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
+              {
+                "id": 130,
+                "guid": "d0130d63-d461-5813-9a8a-0996b9438b0f",
+                "logo": "",
+                "date": "2022-12-27T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-130-kleidertausch_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+                "title": "Kleidertausch (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "Kommt in Scharen mit alten Waren!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1241,
+                "guid": "b124de12-fb0c-5835-99b2-2ef71ba6dd18",
+                "logo": "",
+                "date": "2022-12-27T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-1241-bibliothek_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+                "title": "Bibliothek (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "B\u00fccherei und B\u00fcchertausch!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Kantine - H2-4.7": [
               {
                 "id": 668,
@@ -2460,14 +2524,14 @@
                 "attachments": []
               },
               {
-                "id": 1099,
-                "guid": "e1099d4e-4ec0-5145-9d9e-bd405dab6a1a",
+                "id": 2348,
+                "guid": "2348e047-f1ff-5dfa-8571-4194aa93ee41",
                 "logo": "",
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-1099-abendessen_volxkueche_muenchen",
+                "slug": "jev22-2348-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -2493,30 +2557,30 @@
             ],
             "St\u00e4nde - H2-4.8": [
               {
-                "id": 7068,
-                "guid": "f7068987-fe5c-5432-a943-3451f79d6780",
+                "id": 9100,
+                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "08:00",
+                "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-7068-frei_raum_im_kontext_des_speziesismus",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
-                "title": "(FREI)RAUM im Kontext des Speziesismus",
+                "slug": "jev22-9100-no_future_for_iaa_solistand",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
+                "title": "No Future for IAA Solistand",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
                 "language": "de",
-                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
-                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
+                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
+                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 137,
-                    "code": "GXJPUL",
-                    "public_name": "Meri V\u00e4yrynen",
-                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
+                    "id": 100,
+                    "code": "E9UAQE",
+                    "public_name": "No Future",
+                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
                     "answers": []
                   }
                 ],
@@ -2555,30 +2619,30 @@
                 "attachments": []
               },
               {
-                "id": 9100,
-                "guid": "b9100420-0099-5a56-a006-e4b480a45c8c",
+                "id": 116,
+                "guid": "01ddea1d-6c6f-5ed2-8972-d458e36aad92",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
-                "duration": "01:30",
+                "duration": "08:00",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-9100-no_future_for_iaa_solistand",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8RQYVF/",
-                "title": "No Future for IAA Solistand",
+                "slug": "jev22-116-frei_raum_im_kontext_des_speziesismus",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
+                "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Stand",
                 "language": "de",
-                "abstract": "St\u00e4nde von No Future for IAA und  \"(FREI)RAUM im Kontext des Speziesismus\"",
-                "description": "No Future for IAA: Bei diesem Stand k\u00f6nnt ihr euch neben Infomaterial auch Merch von No Future for IAA besorgen. Das Geld soll Menschen helfen, die aufgrund der Proteste von 2021 Repression erfahren haben und die Proteste 2023 mitfinanzieren.\r\n\r\n(FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "abstract": "Der Stand soll sich mit Themen rund um die (Frei)R\u00e4ume in der Stadt M\u00fcnchen f\u00fcr Tiere handeln. Wir zeigen auf, wie (Frei)R\u00e4ume bereits beansprucht werden von Menschen, die sich f\u00fcr Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.",
+                "description": "Unser Stand soll eine Ausstellungsfl\u00e4che sein, die alle einl\u00e4dt, ein Gef\u00fchl daf\u00fcr zu bekommen, wie der Raum f\u00fcr und gegen Tiere in M\u00fcnchen genutzt wird, wie eine Stadt mit speziesismusfreien R\u00e4umen aussehen kann und wie diese idealerweise etabliert werden k\u00f6nnen. Unsere Kernfragen lauten: Was ist der Status quo momentan in M\u00fcnchen? Wie verankert ist Diskriminierung? Welche Spannungsfelder gibt es? Werden diese \u00fcberhaupt wahrgenommen? Wie viel (Frei)raum haben Tiere in der Stadt? Wie viel davon beansprucht die Tierindustrie? Wie nehmen Tierrechtsaktivisti (Frei)raum ein? Wie viel Raum nimmt der Speziesismus ein? Wie viel Potenzial kann aktiviert werden, wenn die Fl\u00e4chen der Tierindustrie weggedacht und eines Tages tats\u00e4chlich abgeschafft werden?\r\n\r\n\u00dcber einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen & Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft \u00e4ndern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren & dem Speziesismus auseinaderzusetzen.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 100,
-                    "code": "E9UAQE",
-                    "public_name": "No Future",
-                    "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
+                    "id": 137,
+                    "code": "GXJPUL",
+                    "public_name": "Meri V\u00e4yrynen",
+                    "biography": "Ich bin Meri, freie Videojournalistin, Editorin und Tierrechtsaktivistin wohnhaft in M\u00fcnchen. Gemeinsam wollen wir, verschiedene Tierrechtsaktivisti aus Deutschland, an unserem Stand informieren \u00fcber Tiere, den Umgang mit ihnen, \u00fcber den Speziesismus und dabei zeigen wie wir in der Stadt M\u00fcnchen aktiv sind, wie wir allgemein den (Frei)raum in M\u00fcnchen wahrnehmen und wo alles Potential verborgen liegt. Wir sind der Ansicht: der Speziesismus geh\u00f6rt abgeschafft und damit auch die Tierausbeutung, die fl\u00e4chendeckend in M\u00fcnchen vorzufinden ist. Was passiert, wenn diese Fl\u00e4chen frei werden?",
                     "answers": []
                   }
                 ],
@@ -5026,14 +5090,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
@@ -5064,14 +5128,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
@@ -5323,15 +5387,17 @@
                 ],
                 "links": [],
                 "attachments": []
-              },
+              }
+            ],
+            "Workshopraum 3 - H2-3.6": [
               {
                 "id": 9351,
                 "guid": "93e518fb-000b-5c0e-8325-27f0435ef007",
                 "logo": "",
-                "date": "2022-12-28T18:30:00+01:00",
-                "start": "18:30",
+                "date": "2022-12-28T10:30:00+01:00",
+                "start": "10:30",
                 "duration": "01:30",
-                "room": "Workshopraum 2 - H2-3.4",
+                "room": "Workshopraum 3 - H2-3.6",
                 "slug": "jev22-9351-mehr_inklusion_im_nachtleben",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/LTTQ9U/",
                 "title": "Mehr Inklusion im Nachtleben",
@@ -5354,9 +5420,7 @@
                 ],
                 "links": [],
                 "attachments": []
-              }
-            ],
-            "Workshopraum 3 - H2-3.6": [
+              },
               {
                 "id": 9600,
                 "guid": "9b60f057-befa-5f57-bbe1-911698395629",
@@ -5488,14 +5552,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 6347,
-                "guid": "63e4cf72-b654-5deb-9f3d-53734b73c4ee",
+                "id": 6706,
+                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6347-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -5519,14 +5583,14 @@
                 "attachments": []
               },
               {
-                "id": 352,
-                "guid": "d03ac525-1644-505b-b66d-fc53f1fa17cb",
+                "id": 5429,
+                "guid": "542e94d3-b986-5a69-be85-2db0770710ef",
                 "logo": "",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "03:00",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-352-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen",
+                "slug": "jev22-5429-sie_ist_kein_genre_workshop_vortrag_und_songwritingsession_fuer_flinta_musiker_innen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/",
                 "title": "SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION F\u00dcR FLINTA MUSIKER*INNEN",
                 "subtitle": "",
@@ -5552,14 +5616,14 @@
             ],
             "Ausstellungsraum 1 - H2-1.3": [
               {
-                "id": 5929,
-                "guid": "a59295db-415e-590c-903e-3d00b1038154",
+                "id": 6058,
+                "guid": "6a0dd58c-b89a-50a8-88ef-2e633055a9df",
                 "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 1 - H2-1.3",
-                "slug": "jev22-5929-dazwischen_mischen",
+                "slug": "jev22-6058-dazwischen_mischen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/",
                 "title": "Dazwischen Mischen",
                 "subtitle": "",
@@ -5710,9 +5774,103 @@
                 "attachments": []
               }
             ],
-            "Austellungsraum 5 - H1-3.1": [],
+            "Austellungsraum 5 - H1-3.1": [
+              {
+                "id": 8600,
+                "guid": "e8e6bbd0-fcf0-5f5d-b210-0904f0bac9f6",
+                "logo": "",
+                "date": "2022-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "10:00",
+                "room": "Austellungsraum 5 - H1-3.1",
+                "slug": "jev22-8600-urbane_praxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+                "title": "Urbane Praxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Ausstellung",
+                "language": "en",
+                "abstract": "Mit Urbane Liga, G\u00e4ngeviertel, Haus der Statistik, Branntweinareal.",
+                "description": "Die **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer St\u00e4dte mit einbringen m\u00f6chten. Sie ist im Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. f\u00fcr die nationale Stadtentwicklungspolitik zust\u00e4ndig ist und wird vom Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.\r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nUm den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierh\u00e4user (AbBA), eine Gruppe engagierter K\u00fcnstler:innen, brachte ein gro\u00dfes Poster im Stile eines offiziellen Bauschilds an der Fassade an: \u201eHier entstehen f\u00fcr Berlin: R\u00e4ume f\u00fcr Kultur, Bildung und Soziales\u201c.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
+              {
+                "id": 6460,
+                "guid": "64bcd608-55f4-56f6-bbee-df1411983fd4",
+                "logo": "",
+                "date": "2022-12-28T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-6460-kleidertausch_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+                "title": "Kleidertausch (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "Kommt in Scharen mit alten Waren!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 5871,
+                "guid": "5d8be714-c222-55e6-84f7-598588592a8f",
+                "logo": "",
+                "date": "2022-12-28T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-5871-bibliothek_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+                "title": "Bibliothek (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "B\u00fccherei und B\u00fcchertausch!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 8127,
                 "guid": "c812c79f-df86-541c-a77e-512e83a86d1c",
@@ -5747,14 +5905,14 @@
             ],
             "Kantine - H2-4.7": [
               {
-                "id": 2009,
-                "guid": "bc20091c-92a7-524c-b7b8-5769d44caa19",
+                "id": 5655,
+                "guid": "5655ac27-0e1a-5bb2-97f6-807f3812c57e",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-28T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-2009-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-5655-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -5778,14 +5936,14 @@
                 "attachments": []
               },
               {
-                "id": 2348,
-                "guid": "2348e047-f1ff-5dfa-8571-4194aa93ee41",
+                "id": 3058,
+                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
                 "logo": "",
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-2348-abendessen_volxkueche_muenchen",
+                "slug": "jev22-3058-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -5873,14 +6031,14 @@
                 "attachments": []
               },
               {
-                "id": 8239,
-                "guid": "8239fa77-7734-5442-81be-aa66d5d14585",
+                "id": 7068,
+                "guid": "f7068987-fe5c-5432-a943-3451f79d6780",
                 "logo": "",
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8239-frei_raum_im_kontext_des_speziesismus",
+                "slug": "jev22-7068-frei_raum_im_kontext_des_speziesismus",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3ZF8G8/",
                 "title": "(FREI)RAUM im Kontext des Speziesismus",
                 "subtitle": "",
@@ -8323,30 +8481,37 @@
                 "attachments": []
               },
               {
-                "id": 755,
-                "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
+                "id": 8094,
+                "guid": "fd80f9bc-4e06-5c0f-a133-73602c90e9f1",
                 "logo": "",
-                "date": "2022-12-29T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "01:31",
+                "date": "2022-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "02:00",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-755-kampf_um_die_a49",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/",
-                "title": "Kampf um die A49",
+                "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
+                "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
                 "subtitle": "",
                 "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "en",
-                "abstract": "Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten m\u00fcssen den Weg frei machen f\u00fcr die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.",
-                "description": "Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse f\u00fchrt durch jahrhundertealte W\u00e4lder, vorbei an verschlafenen D\u00f6rfern. \u00dcber 600 Aktivisten haben in Dannenrod in Mittelhessen 7 \"Barrios\" mit bis zu 100 Baumh\u00e4usern in schwindelerregender H\u00f6he gebaut. Die R\u00e4umung durch Spezialeinsatzkr\u00e4fte der Polizei steht unmittelbar bevor.\u00a0\r\nIn Planung ist die A 49 schon seit \u00fcber 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten \u00fcber Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GR\u00dcNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der gr\u00fcne Verkehrsminister, n\u00e4mlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-gr\u00fcnen Landesregierung politisch durchsetzen. \r\nKlaus Stern und Frank Pfeiffer begleiten Bef\u00fcrworter der Autobahn, langj\u00e4hrige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister w\u00e4hrend des Rodungs- und Bauprozesses.\u00a0\r\nWie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.\r\nMehr Infos: https://www.die-autobahn-derfilm.de/",
+                "type": "Gespr\u00e4ch",
+                "language": "de",
+                "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
+                "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
-                    "id": 147,
-                    "code": "REUMEM",
+                    "id": 138,
+                    "code": "8UNDWN",
                     "public_name": "Forum f\u00fcr Freiraum",
                     "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  },
+                  {
+                    "id": 170,
+                    "code": "FSN8DS",
+                    "public_name": "Kathi",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -8568,44 +8733,6 @@
                     "code": "E9UAQE",
                     "public_name": "No Future",
                     "biography": "No Future for IAA ist ein antikapitalitische Gruppe aus M\u00fcnchnen,  die sich zusammen gefunden hat, um Widerstand gegen die klimafeindliche IAA (Internationale Automobil-Ausstellung) auf die Stra\u00dfe zu bringen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 8094,
-                "guid": "fd80f9bc-4e06-5c0f-a133-73602c90e9f1",
-                "logo": "",
-                "date": "2022-12-29T19:30:00+01:00",
-                "start": "19:30",
-                "duration": "02:00",
-                "room": "Workshopraum 2 - H2-3.4",
-                "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
-                "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Gespr\u00e4ch",
-                "language": "de",
-                "abstract": "Wann wollen wir uns (nicht) als links bezeichnen? Was verbinden wir mit diesem (und verwandten) Begriffen? Welche Rolle spielen Ressentiment und Scham dabei? Und welche strategischen Implikationen hat diese Frage? Dazu wollen wir in einem kooperativen Rahmen assoziieren und Perspektiven austauschen.",
-                "description": "Assoziation:E:n ist ein Format, das Menschen mit kritisch-emanzipatorischen Ansinnen eine gemeinsame Plattform bietet: Perspektiven auszutauschen, gemeinsame Standpunkte auszuarbeiten und diesen Standpunkten auch Taten folgen zu lassen. Wir suchen Antworten auf die Frage, wie ein Raum emanzipatorischen Dialogs in unserer Zeit aussehen kann. Welche Themen werden wie diskutiert, welche Rolle spielt dabei pers\u00f6nlicher und/oder fachlicher Hintergrund oder die Selbstverortung in kollektiven Strukturen?\r\n\r\nAssoziation:E:n sucht im Gespr\u00e4ch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beitr\u00e4gen zu Beginn der Sessions einige Hintergrundinformationen und m\u00f6gliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachsp\u00fcren, was den Weg zu einer befreiten Gesellschaft versperrt.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
-                    "answers": []
-                  },
-                  {
-                    "id": 170,
-                    "code": "FSN8DS",
-                    "public_name": "Kathi",
-                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -8945,14 +9072,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 934,
-                "guid": "a09b34e6-79c3-5470-a6e9-275bff2ffa7d",
+                "id": 4638,
+                "guid": "46384d6a-6fd7-5faa-8c69-29a62d73b89d",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-934-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-4638-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -8978,14 +9105,14 @@
             ],
             "Ausstellungsraum 1 - H2-1.3": [
               {
-                "id": 5083,
-                "guid": "5cd0839f-be0e-5c91-aebb-dffcbb510980",
+                "id": 404,
+                "guid": "bca040fe-47d5-5e6b-b150-eda1eeba5966",
                 "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 1 - H2-1.3",
-                "slug": "jev22-5083-dazwischen_mischen",
+                "slug": "jev22-404-dazwischen_mischen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/",
                 "title": "Dazwischen Mischen",
                 "subtitle": "",
@@ -9136,9 +9263,103 @@
                 "attachments": []
               }
             ],
-            "Austellungsraum 5 - H1-3.1": [],
+            "Austellungsraum 5 - H1-3.1": [
+              {
+                "id": 1954,
+                "guid": "19eeefb5-492f-5d7e-8d1d-26bdbb0153d7",
+                "logo": "",
+                "date": "2022-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "10:00",
+                "room": "Austellungsraum 5 - H1-3.1",
+                "slug": "jev22-1954-urbane_praxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+                "title": "Urbane Praxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Ausstellung",
+                "language": "en",
+                "abstract": "Mit Urbane Liga, G\u00e4ngeviertel, Haus der Statistik, Branntweinareal.",
+                "description": "Die **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer St\u00e4dte mit einbringen m\u00f6chten. Sie ist im Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. f\u00fcr die nationale Stadtentwicklungspolitik zust\u00e4ndig ist und wird vom Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.\r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nUm den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierh\u00e4user (AbBA), eine Gruppe engagierter K\u00fcnstler:innen, brachte ein gro\u00dfes Poster im Stile eines offiziellen Bauschilds an der Fassade an: \u201eHier entstehen f\u00fcr Berlin: R\u00e4ume f\u00fcr Kultur, Bildung und Soziales\u201c.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Forumszentrum - H1-0.1": [],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
+              {
+                "id": 1201,
+                "guid": "1ae2a014-f9ba-559e-a8be-6ca17a9ec684",
+                "logo": "",
+                "date": "2022-12-29T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-1201-kleidertausch_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+                "title": "Kleidertausch (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "Kommt in Scharen mit alten Waren!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 6870,
+                "guid": "68fd7e01-e735-5f73-932d-b024a7947221",
+                "logo": "",
+                "date": "2022-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-6870-bibliothek_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+                "title": "Bibliothek (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "B\u00fccherei und B\u00fcchertausch!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 6364,
                 "guid": "c6364e5a-5727-509a-8d11-0013ce310f31",
@@ -9173,14 +9394,14 @@
             ],
             "Kantine - H2-4.7": [
               {
-                "id": 5655,
-                "guid": "5655ac27-0e1a-5bb2-97f6-807f3812c57e",
+                "id": 1144,
+                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-29T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-5655-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -9204,14 +9425,14 @@
                 "attachments": []
               },
               {
-                "id": 3058,
-                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
+                "id": 945,
+                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
                 "logo": "",
                 "date": "2022-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-3058-abendessen_volxkueche_muenchen",
+                "slug": "jev22-945-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -9268,14 +9489,14 @@
                 "attachments": []
               },
               {
-                "id": 7457,
-                "guid": "c74cf5e7-6403-5677-babd-1ff0615c6d57",
+                "id": 3824,
+                "guid": "38248cf3-c8b2-5f8b-af8c-47dc59a1a3fd",
                 "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-7457-mindzone_infostand",
+                "slug": "jev22-3824-mindzone_infostand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
                 "title": "Mindzone Infostand",
                 "subtitle": "",
@@ -9392,7 +9613,39 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": []
+            "Timeout Raum - H2-5.1": [
+              {
+                "id": 755,
+                "guid": "e0d7fd5b-5fd5-59f4-a508-e21c3c99251e",
+                "logo": "",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:31",
+                "room": "Timeout Raum - H2-5.1",
+                "slug": "jev22-755-kampf_um_die_a49",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/",
+                "title": "Kampf um die A49",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "en",
+                "abstract": "Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten m\u00fcssen den Weg frei machen f\u00fcr die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.",
+                "description": "Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse f\u00fchrt durch jahrhundertealte W\u00e4lder, vorbei an verschlafenen D\u00f6rfern. \u00dcber 600 Aktivisten haben in Dannenrod in Mittelhessen 7 \"Barrios\" mit bis zu 100 Baumh\u00e4usern in schwindelerregender H\u00f6he gebaut. Die R\u00e4umung durch Spezialeinsatzkr\u00e4fte der Polizei steht unmittelbar bevor.\u00a0\r\nIn Planung ist die A 49 schon seit \u00fcber 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten \u00fcber Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GR\u00dcNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der gr\u00fcne Verkehrsminister, n\u00e4mlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-gr\u00fcnen Landesregierung politisch durchsetzen. \r\nKlaus Stern und Frank Pfeiffer begleiten Bef\u00fcrworter der Autobahn, langj\u00e4hrige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister w\u00e4hrend des Rodungs- und Bauprozesses.\u00a0\r\nWie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.\r\nMehr Infos: https://www.die-autobahn-derfilm.de/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 147,
+                    "code": "REUMEM",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ]
           }
         },
         {
@@ -10601,37 +10854,6 @@
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
-                "id": 1708,
-                "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
-                "logo": "/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg",
-                "date": "2022-12-30T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-1708-oberlab_ein_fablab_im_oberland",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
-                "title": "Oberlab - Ein FabLab im Oberland",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Gemeinn\u00fctzige Nutzungsalternativen von zentral gelegenen R\u00e4umlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. M\u00f6belgeschaftes in Gmund am Tegernsee in einen gemeinn\u00fctzigen **Makerspace** inkl. MINT F\u00f6rderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).",
-                "description": "Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-F\u00f6rderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.\r\n\r\nEine \u00dcbersicht zu dem Projekt getragen durch einen gemeinn\u00fctzigen Verein ist unter https://oberlab.de/ zu finden.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 97,
-                    "code": "AHMGBT",
-                    "public_name": "Lukas Lischke",
-                    "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 3801,
                 "guid": "a3ecb801-4ef2-50c0-9ad0-9b6777826df6",
                 "logo": "/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png",
@@ -10830,8 +11052,8 @@
                 "id": 3800,
                 "guid": "3f8000e5-befe-5ad5-8eba-d32147ba3bdf",
                 "logo": "",
-                "date": "2022-12-30T15:15:00+01:00",
-                "start": "15:15",
+                "date": "2022-12-30T15:25:00+01:00",
+                "start": "15:25",
                 "duration": "00:08",
                 "room": "Vortragsraum 2 - Bhavani - H1-5.2",
                 "slug": "jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel",
@@ -11149,14 +11371,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 4638,
-                "guid": "46384d6a-6fd7-5faa-8c69-29a62d73b89d",
+                "id": 6347,
+                "guid": "63e4cf72-b654-5deb-9f3d-53734b73c4ee",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-4638-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-6347-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -11213,14 +11435,14 @@
             ],
             "Ausstellungsraum 1 - H2-1.3": [
               {
-                "id": 7033,
-                "guid": "7c0f3c31-7312-5818-b8e2-98412415337a",
+                "id": 5929,
+                "guid": "a59295db-415e-590c-903e-3d00b1038154",
                 "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 1 - H2-1.3",
-                "slug": "jev22-7033-dazwischen_mischen",
+                "slug": "jev22-5929-dazwischen_mischen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/",
                 "title": "Dazwischen Mischen",
                 "subtitle": "",
@@ -11371,19 +11593,114 @@
                 "attachments": []
               }
             ],
-            "Austellungsraum 5 - H1-3.1": [],
+            "Austellungsraum 5 - H1-3.1": [
+              {
+                "id": 6699,
+                "guid": "6da699c9-d78a-5773-9a8d-4d25566b1667",
+                "logo": "",
+                "date": "2022-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "10:00",
+                "room": "Austellungsraum 5 - H1-3.1",
+                "slug": "jev22-6699-urbane_praxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+                "title": "Urbane Praxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Ausstellung",
+                "language": "en",
+                "abstract": "Mit Urbane Liga, G\u00e4ngeviertel, Haus der Statistik, Branntweinareal.",
+                "description": "Die **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer St\u00e4dte mit einbringen m\u00f6chten. Sie ist im Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. f\u00fcr die nationale Stadtentwicklungspolitik zust\u00e4ndig ist und wird vom Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.\r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nUm den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierh\u00e4user (AbBA), eine Gruppe engagierter K\u00fcnstler:innen, brachte ein gro\u00dfes Poster im Stile eines offiziellen Bauschilds an der Fassade an: \u201eHier entstehen f\u00fcr Berlin: R\u00e4ume f\u00fcr Kultur, Bildung und Soziales\u201c.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Forumszentrum - H1-0.1": [],
-            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
+            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
+              {
+                "id": 8249,
+                "guid": "8b2ec493-9e6c-5d40-942d-7a3f385d0945",
+                "logo": "",
+                "date": "2022-12-30T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-8249-kleidertausch_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+                "title": "Kleidertausch (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "Kommt in Scharen mit alten Waren!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8893,
+                "guid": "889def37-7351-59d2-8bf3-088b9e4247b3",
+                "logo": "",
+                "date": "2022-12-30T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-8893-bibliothek_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+                "title": "Bibliothek (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "B\u00fccherei und B\u00fcchertausch!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Kantine - H2-4.7": [
               {
-                "id": 1144,
-                "guid": "1144eab1-e330-57cc-966c-f5aefc320cd2",
+                "id": 2009,
+                "guid": "bc20091c-92a7-524c-b7b8-5769d44caa19",
                 "logo": "/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg",
                 "date": "2022-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-1144-mittagessen_volxkueche_muenchen",
+                "slug": "jev22-2009-mittagessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/",
                 "title": "Mittagessen - VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -11407,14 +11724,14 @@
                 "attachments": []
               },
               {
-                "id": 945,
-                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
+                "id": 1099,
+                "guid": "e1099d4e-4ec0-5145-9d9e-bd405dab6a1a",
                 "logo": "",
                 "date": "2022-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-945-abendessen_volxkueche_muenchen",
+                "slug": "jev22-1099-abendessen_volxkueche_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Abendessen / VolxK\u00fcche M\u00fcnchen",
                 "subtitle": "",
@@ -11471,14 +11788,14 @@
                 "attachments": []
               },
               {
-                "id": 8525,
-                "guid": "8525932d-cbf0-51d1-9ee5-7e0dc4cafc6e",
+                "id": 7457,
+                "guid": "c74cf5e7-6403-5677-babd-1ff0615c6d57",
                 "logo": "/media/freiraumforum/submissions/KNJKNK/mindzone-sauberdrauf-logo-sticker-002-white_8aKyKh0.jpg",
                 "date": "2022-12-30T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "01:30",
                 "room": "St\u00e4nde - H2-4.8",
-                "slug": "jev22-8525-mindzone_infostand",
+                "slug": "jev22-7457-mindzone_infostand",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KNJKNK/",
                 "title": "Mindzone Infostand",
                 "subtitle": "",
@@ -11663,6 +11980,37 @@
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
               {
+                "id": 1708,
+                "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
+                "logo": "/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg",
+                "date": "2022-12-31T11:00:00+01:00",
+                "start": "11:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-1708-oberlab_ein_fablab_im_oberland",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
+                "title": "Oberlab - Ein FabLab im Oberland",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Gemeinn\u00fctzige Nutzungsalternativen von zentral gelegenen R\u00e4umlichkeiten in Gemeinden am Beispiel der Umgestaltung eines ehem. M\u00f6belgeschaftes in Gmund am Tegernsee in einen gemeinn\u00fctzigen **Makerspace** inkl. MINT F\u00f6rderung an den umliegenden Schulen, dem so genannten [Oberlab](https://oberlab.de/).",
+                "description": "Vorstellung eines ehrenamtlichen Makerspaces im Oberland inkl. Mint-F\u00f6rderung an den umliegenden Schulen unter anderem im Rahmen eines mobilen Fablabs.\r\n\r\nEine \u00dcbersicht zu dem Projekt getragen durch einen gemeinn\u00fctzigen Verein ist unter https://oberlab.de/ zu finden.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 97,
+                    "code": "AHMGBT",
+                    "public_name": "Lukas Lischke",
+                    "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 2668,
                 "guid": "26688fbf-7ea1-56a8-aa18-a19cf261a2d0",
                 "logo": "",
@@ -11798,14 +12146,14 @@
             "Ruheraum - H1-2.1": [],
             "Ausstellungsraum 1 - H2-1.3": [
               {
-                "id": 404,
-                "guid": "bca040fe-47d5-5e6b-b150-eda1eeba5966",
+                "id": 7033,
+                "guid": "7c0f3c31-7312-5818-b8e2-98412415337a",
                 "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 1 - H2-1.3",
-                "slug": "jev22-404-dazwischen_mischen",
+                "slug": "jev22-7033-dazwischen_mischen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/VMFB7K/",
                 "title": "Dazwischen Mischen",
                 "subtitle": "",
@@ -11956,9 +12304,104 @@
                 "attachments": []
               }
             ],
-            "Austellungsraum 5 - H1-3.1": [],
+            "Austellungsraum 5 - H1-3.1": [
+              {
+                "id": 7579,
+                "guid": "ed757a91-cc0a-5159-a1f6-b07d96fb6f19",
+                "logo": "",
+                "date": "2022-12-31T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "10:00",
+                "room": "Austellungsraum 5 - H1-3.1",
+                "slug": "jev22-7579-urbane_praxis",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+                "title": "Urbane Praxis",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Ausstellung",
+                "language": "en",
+                "abstract": "Mit Urbane Liga, G\u00e4ngeviertel, Haus der Statistik, Branntweinareal.",
+                "description": "Die **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher, die sich aktiv in die Gestaltung ihrer St\u00e4dte mit einbringen m\u00f6chten. Sie ist im Bundesministerium f\u00fcr Wohnen, Stadtentwicklung und Bauwesen (BMWSB) angesiedelt, das u.a. f\u00fcr die nationale Stadtentwicklungspolitik zust\u00e4ndig ist und wird vom Bundesinstitut f\u00fcr Bau-, Stadt- und Raumforschung (BBSR) wissenschaftlich begleitet.\r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nUm den Verkauf des **Haus der Statistik** an Investoren und den damit verbundenen Abriss zu verhindern wurde im September 2015 eine Kunstaktion am Haus der Statistik inszeniert. Die Allianz bedrohter Berliner Atelierh\u00e4user (AbBA), eine Gruppe engagierter K\u00fcnstler:innen, brachte ein gro\u00dfes Poster im Stile eines offiziellen Bauschilds an der Fassade an: \u201eHier entstehen f\u00fcr Berlin: R\u00e4ume f\u00fcr Kultur, Bildung und Soziales\u201c.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Forumszentrum - H1-0.1": [],
-            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [],
+            "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
+              {
+                "id": 8734,
+                "guid": "f8734889-2c55-55ef-9d81-cb9b69953f04",
+                "logo": "",
+                "date": "2022-12-31T10:00:00+01:00",
+                "start": "10:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-8734-kleidertausch_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+                "title": "Kleidertausch (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "Kommt in Scharen mit alten Waren!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 4449,
+                "guid": "e4e4b4bb-99c5-5751-9ecd-85ab8345f00d",
+                "logo": "",
+                "date": "2022-12-31T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "03:00",
+                "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+                "slug": "jev22-4449-bibliothek_ganztags",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+                "title": "Bibliothek (ganztags)",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "en",
+                "abstract": "B\u00fccherei und B\u00fcchertausch!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 160,
+                    "code": "K8UHKP",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Kantine - H2-4.7": [],
             "St\u00e4nde - H2-4.8": [
               {

@@ -1,0 +1,33 @@
+{
+  "id": 6870,
+  "guid": "68fd7e01-e735-5f73-932d-b024a7947221",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "03:00",
+  "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+  "slug": "jev22-6870-bibliothek_ganztags",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZCJJXM/",
+  "title": "Bibliothek (ganztags)",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Weiteres",
+  "language": "en",
+  "abstract": "B\u00fccherei und B\u00fcchertausch!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
