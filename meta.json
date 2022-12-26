@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-26 12:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 12:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.35",
+    "version": "2022-12-26 13:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:10; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -174,21 +174,21 @@
         "stream": null
       },
       {
-        "name": "Parallel Port",
+        "name": "HIP22 - Track 1 - Room 5",
         "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
         "description": "Main conference stage in the Theater Hall E.T.I.",
         "capacity": 110,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Parallel Port",
+        "schedule_name": "HIP22 - Track 1 - Room 5",
         "stream": null
       },
       {
-        "name": "Mini-DVI",
+        "name": "HIP22 - Track 2 - Room 2",
         "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
         "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
         "capacity": 70,
         "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Mini-DVI",
+        "schedule_name": "HIP22 - Track 2 - Room 2",
         "stream": null
       },
       {

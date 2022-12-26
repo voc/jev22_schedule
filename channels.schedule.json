@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 12:50",
+    "version": "2022-12-26 13:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -149,14 +149,14 @@
           "location": "Luzern, CH"
         },
         {
-          "name": "Parallel Port",
+          "name": "HIP22 - Track 1 - Room 5",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
           "description": "Main conference stage in the Theater Hall E.T.I.",
           "capacity": 110,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "Mini-DVI",
+          "name": "HIP22 - Track 2 - Room 2",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
           "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
           "capacity": 70,
@@ -1967,14 +1967,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
@@ -2005,14 +2005,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
                 "subtitle": "",
