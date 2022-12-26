@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 14:10</version>
+  <version>2022-12-26 14:28</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -14,6 +14,7 @@
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
@@ -463,6 +464,7 @@ anonymised.</abstract>
       </event>
     </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
@@ -619,10 +621,10 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-759-k</slug>
+        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
-        <title>K</title>
-        <subtitle> – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</subtitle>
+        <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
@@ -1216,6 +1218,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
         <logo/>
@@ -2189,6 +2192,7 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
         <logo/>
@@ -3109,6 +3113,7 @@ I will wander around the event and ask you about your project. If you are intere
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49238" guid="af560f6b-6dcb-5655-bea5-fb60c5081df4">
         <logo/>
@@ -3531,6 +3536,7 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">

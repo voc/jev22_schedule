@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "e297f"
+      "version": "b83c3"
     },
-    "version": "2022-12-26 14:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 14:10; Wintergalaktische Club Mate Party 0.5; Winterchaos 0.2; Hacking in Parallel 0.8; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36",
+    "version": "2022-12-26 14:28; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 14:28; Winterchaos 0.2; Hacking in Parallel 0.8; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -91,6 +91,11 @@
           "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
           "capacity": null,
           "location": "Brandenburg, Alte H\u00f6lle"
+        },
+        {
+          "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
+          "name": "Halle 4K",
+          "location": "Hamburg"
         },
         {
           "name": "xrelog22 - Stream",
@@ -335,6 +340,7 @@
             "Bierschoine": [],
             "Salon": [],
             "Bastelstube": [],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
@@ -1562,8 +1568,8 @@
                 "room": "Salon",
                 "slug": "jev22-49298-film",
                 "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/GHJERA/",
-                "title": "Film",
-                "subtitle": ": \"Der laute Fr\u00fchling\"",
+                "title": "Film: \"Der laute Fr\u00fchling\"",
+                "subtitle": "",
                 "track": "Hellarious",
                 "type": "Sonstiges (120)",
                 "language": "de",
@@ -1617,27 +1623,10 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "ChilyConChaos": [
-              {
-                "guid": "1ca0f00e-f061-4f80-b94e-59807d66b73b",
-                "title": "Raspberry Pi Pico mit CircuitPy",
-                "subtitle": null,
-                "abstract": "Christian \"CWB\" Wenzel-Benner",
-                "description": "",
-                "date": "2022-12-28T04:00:00+01:00",
-                "start": "04:00",
-                "duration": "1:00",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Other",
-                "id": 1000,
-                "slug": "jev22-1000-raspberry_pi_pico_mit_circuitpy"
-              }
-            ],
             "Rave Cave": [
               {
                 "id": 6931,
@@ -1790,6 +1779,24 @@
                 ],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "ChilyConChaos": [
+              {
+                "guid": "1ca0f00e-f061-4f80-b94e-59807d66b73b",
+                "title": "Raspberry Pi Pico mit CircuitPy",
+                "subtitle": null,
+                "abstract": "Christian \"CWB\" Wenzel-Benner",
+                "description": "",
+                "date": "2022-12-28T04:00:00+01:00",
+                "start": "04:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 1000,
+                "slug": "jev22-1000-raspberry_pi_pico_mit_circuitpy"
               }
             ],
             "Winterchaos": [],
@@ -2537,10 +2544,10 @@
                 "start": "17:00",
                 "duration": "01:30",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-759-k",
+                "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
-                "title": "K",
-                "subtitle": " \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch",
+                "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch",
+                "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Diskussion",
                 "language": "de",
@@ -4422,8 +4429,8 @@
                 "room": "Salon",
                 "slug": "jev22-51232-film",
                 "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RDJX9Y/",
-                "title": "Film",
-                "subtitle": ": \"Alles ist eins. Au\u00dfer der 0.\"",
+                "title": "Film: \"Alles ist eins. Au\u00dfer der 0.\"",
+                "subtitle": "",
                 "track": "Hellarious",
                 "type": "Sonstiges (120)",
                 "language": "de",
@@ -4500,6 +4507,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49308,
@@ -4660,24 +4668,6 @@
               }
             ],
             "Multiversum B\u00fchne": [],
-            "ChilyConChaos": [
-              {
-                "guid": "fa4243fa-206d-4de8-9704-ddfa829ff51b",
-                "title": "Schafkopf lernen",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-28T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "1:00",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Other",
-                "id": 4243,
-                "slug": "jev22-4243-schafkopf_lernen"
-              }
-            ],
             "Rave Cave": [
               {
                 "id": 7169,
@@ -4869,6 +4859,24 @@
                 ],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "ChilyConChaos": [
+              {
+                "guid": "fa4243fa-206d-4de8-9704-ddfa829ff51b",
+                "title": "Schafkopf lernen",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 4243,
+                "slug": "jev22-4243-schafkopf_lernen"
               }
             ],
             "Winterchaos": [
@@ -7882,6 +7890,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49306,
@@ -8072,88 +8081,6 @@
             ],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "ChilyConChaos": [
-              {
-                "guid": "1834e88b-0bd7-441e-a5b1-2baaa8db6601",
-                "title": "IT-Sicherheit ist kein Waschmittel",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Talk",
-                "id": 1834,
-                "slug": "jev22-1834-it_sicherheit_ist_kein_waschmittel"
-              },
-              {
-                "guid": "085c83b8-0c0a-44a8-8b9c-f9c480efd1b1",
-                "title": "Was ist FragDenStaat.de? \t",
-                "subtitle": null,
-                "abstract": "Anna, mit Q&A",
-                "description": "",
-                "date": "2022-12-29T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Other",
-                "id": 8583,
-                "slug": "jev22-8583-was_ist_fragdenstaat_de"
-              },
-              {
-                "guid": "964fb295-5e5c-4bce-beeb-4f52d1e058b0",
-                "title": "Amateurfunk mit Kurzwelle, Satellit und Packetradio",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "7:00",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Workshop",
-                "id": 9642,
-                "slug": "jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio"
-              },
-              {
-                "guid": "b4f4b341-d776-48bf-8a83-d2356968daef",
-                "title": "WTF eG. Geschichte, M\u00f6glichkeiten, Grundlagen",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Talk",
-                "id": 4434,
-                "slug": "jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen"
-              },
-              {
-                "guid": "f509eb97-0aa6-4fb7-bfec-887de9899eaf",
-                "title": "Warum fliegt ein Flugzeug",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-29T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "auch auf dem R\u00fccken)? (Vortrag",
-                "id": 5099,
-                "slug": "jev22-5099-warum_fliegt_ein_flugzeug"
-              }
-            ],
             "Rave Cave": [
               {
                 "id": 1973,
@@ -8383,6 +8310,88 @@
                 ],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "ChilyConChaos": [
+              {
+                "guid": "1834e88b-0bd7-441e-a5b1-2baaa8db6601",
+                "title": "IT-Sicherheit ist kein Waschmittel",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Talk",
+                "id": 1834,
+                "slug": "jev22-1834-it_sicherheit_ist_kein_waschmittel"
+              },
+              {
+                "guid": "085c83b8-0c0a-44a8-8b9c-f9c480efd1b1",
+                "title": "Was ist FragDenStaat.de? \t",
+                "subtitle": null,
+                "abstract": "Anna, mit Q&A",
+                "description": "",
+                "date": "2022-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 8583,
+                "slug": "jev22-8583-was_ist_fragdenstaat_de"
+              },
+              {
+                "guid": "964fb295-5e5c-4bce-beeb-4f52d1e058b0",
+                "title": "Amateurfunk mit Kurzwelle, Satellit und Packetradio",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "7:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Workshop",
+                "id": 9642,
+                "slug": "jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio"
+              },
+              {
+                "guid": "b4f4b341-d776-48bf-8a83-d2356968daef",
+                "title": "WTF eG. Geschichte, M\u00f6glichkeiten, Grundlagen",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Talk",
+                "id": 4434,
+                "slug": "jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen"
+              },
+              {
+                "guid": "f509eb97-0aa6-4fb7-bfec-887de9899eaf",
+                "title": "Warum fliegt ein Flugzeug",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "auch auf dem R\u00fccken)? (Vortrag",
+                "id": 5099,
+                "slug": "jev22-5099-warum_fliegt_ein_flugzeug"
               }
             ],
             "Winterchaos": [
@@ -11107,6 +11116,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49238,
@@ -11235,40 +11245,6 @@
             ],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "ChilyConChaos": [
-              {
-                "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",
-                "title": "Securing UnSafe Rust with XRust",
-                "subtitle": null,
-                "abstract": null,
-                "description": "",
-                "date": "2022-12-30T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "1:00",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Votrag",
-                "id": 3249,
-                "slug": "jev22-3249-securing_unsafe_rust_with_xrust"
-              },
-              {
-                "guid": "93d65e3e-6a7b-48be-b229-dd7c356238f6",
-                "title": "All about DigitalCourage",
-                "subtitle": null,
-                "abstract": "Jakob, mit Q&A",
-                "description": "",
-                "date": "2022-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Other",
-                "id": 9365,
-                "slug": "jev22-9365-all_about_digitalcourage"
-              }
-            ],
             "Rave Cave": [],
             "Lounge": [],
             "Spezial Raum": [],
@@ -11334,6 +11310,40 @@
                 ],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "ChilyConChaos": [
+              {
+                "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",
+                "title": "Securing UnSafe Rust with XRust",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Votrag",
+                "id": 3249,
+                "slug": "jev22-3249-securing_unsafe_rust_with_xrust"
+              },
+              {
+                "guid": "93d65e3e-6a7b-48be-b229-dd7c356238f6",
+                "title": "All about DigitalCourage",
+                "subtitle": null,
+                "abstract": "Jakob, mit Q&A",
+                "description": "",
+                "date": "2022-12-30T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 9365,
+                "slug": "jev22-9365-all_about_digitalcourage"
               }
             ],
             "Winterchaos": [
@@ -11443,8 +11453,8 @@
                 "room": "Winterchaos",
                 "slug": "jev22-3018-git",
                 "url": "https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it",
-                "title": "Git",
-                "subtitle": ": Let's f*ck up history, and then restore it",
+                "title": "Git: Let's f*ck up history, and then restore it",
+                "subtitle": "",
                 "track": "Winterchaos",
                 "type": "Talk",
                 "language": "de",
@@ -12808,6 +12818,7 @@
             "Bierschoine": [],
             "Salon": [],
             "Bastelstube": [],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 14:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 14:10; Wintergalaktische Club Mate Party 0.5; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
+  <version>2022-12-26 14:28; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 14:28; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -22,6 +22,7 @@
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="Salon" guid="6a427063-66f2-4353-b582-65bd53390b22"/>
     <room name="Bastelstube" guid="60cd5303-5ef2-40f9-9491-77ea43ef0c30"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
@@ -1136,8 +1137,8 @@ anonymised.</abstract>
         <room>Salon</room>
         <slug>jev22-49298-film</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/GHJERA/</url>
-        <title>Film</title>
-        <subtitle>: "Der laute Frühling"</subtitle>
+        <title>Film: "Der laute Frühling"</title>
+        <subtitle/>
         <track>Hellarious</track>
         <type>Sonstiges (120)</type>
         <language>de</language>
@@ -1184,25 +1185,10 @@ https://de.labournet.tv/project/der-laute-fruehling</description>
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="ChilyConChaos">
-      <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1000">
-        <title>Raspberry Pi Pico mit CircuitPy</title>
-        <subtitle/>
-        <abstract>Christian "CWB" Wenzel-Benner</abstract>
-        <description/>
-        <date>2022-12-28T04:00:00+01:00</date>
-        <start>04:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-1000-raspberry_pi_pico_mit_circuitpy</slug>
-      </event>
-    </room>
     <room name="Rave Cave">
       <event id="6931" guid="69c3158b-3b1e-53f5-802c-31258611f7e6">
         <logo/>
@@ -1354,6 +1340,22 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="ChilyConChaos">
+      <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1000">
+        <title>Raspberry Pi Pico mit CircuitPy</title>
+        <subtitle/>
+        <abstract>Christian "CWB" Wenzel-Benner</abstract>
+        <description/>
+        <date>2022-12-28T04:00:00+01:00</date>
+        <start>04:00</start>
+        <duration>1:00</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Other</type>
+        <slug>jev22-1000-raspberry_pi_pico_mit_circuitpy</slug>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
@@ -2023,10 +2025,10 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-759-k</slug>
+        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
-        <title>K</title>
-        <subtitle> – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</subtitle>
+        <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
@@ -3656,8 +3658,8 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <room>Salon</room>
         <slug>jev22-51232-film</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RDJX9Y/</url>
-        <title>Film</title>
-        <subtitle>: "Alles ist eins. Außer der 0."</subtitle>
+        <title>Film: "Alles ist eins. Außer der 0."</title>
+        <subtitle/>
         <track>Hellarious</track>
         <type>Sonstiges (120)</type>
         <language>de</language>
@@ -3729,6 +3731,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
         <logo/>
@@ -3895,22 +3898,6 @@ It breaks then down roughly like this:&#13;
       </event>
     </room>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="ChilyConChaos">
-      <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="4243">
-        <title>Schafkopf lernen</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-4243-schafkopf_lernen</slug>
-      </event>
-    </room>
     <room name="Rave Cave">
       <event id="7169" guid="71d695b0-de75-579e-9863-117b1290a204">
         <logo/>
@@ -4076,6 +4063,22 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="ChilyConChaos">
+      <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="4243">
+        <title>Schafkopf lernen</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Other</type>
+        <slug>jev22-4243-schafkopf_lernen</slug>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
@@ -6733,6 +6736,7 @@ Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leb
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
         <logo/>
@@ -6906,78 +6910,6 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
     </room>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="ChilyConChaos">
-      <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1834">
-        <title>IT-Sicherheit ist kein Waschmittel</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Talk</type>
-        <slug>jev22-1834-it_sicherheit_ist_kein_waschmittel</slug>
-      </event>
-      <event guid="085c83b8-0c0a-44a8-8b9c-f9c480efd1b1" id="8583">
-        <title>Was ist FragDenStaat.de? 	</title>
-        <subtitle/>
-        <abstract>Anna, mit Q&amp;A</abstract>
-        <description/>
-        <date>2022-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-8583-was_ist_fragdenstaat_de</slug>
-      </event>
-      <event guid="964fb295-5e5c-4bce-beeb-4f52d1e058b0" id="9642">
-        <title>Amateurfunk mit Kurzwelle, Satellit und Packetradio</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>7:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Workshop</type>
-        <slug>jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
-      </event>
-      <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="4434">
-        <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Talk</type>
-        <slug>jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
-      </event>
-      <event guid="f509eb97-0aa6-4fb7-bfec-887de9899eaf" id="5099">
-        <title>Warum fliegt ein Flugzeug</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>auch auf dem Rücken)? (Vortrag</type>
-        <slug>jev22-5099-warum_fliegt_ein_flugzeug</slug>
-      </event>
-    </room>
     <room name="Rave Cave">
       <event id="1973" guid="fe1b973f-6e41-542e-8230-a1a07f030ca9">
         <logo/>
@@ -7186,6 +7118,78 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="ChilyConChaos">
+      <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1834">
+        <title>IT-Sicherheit ist kein Waschmittel</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Talk</type>
+        <slug>jev22-1834-it_sicherheit_ist_kein_waschmittel</slug>
+      </event>
+      <event guid="085c83b8-0c0a-44a8-8b9c-f9c480efd1b1" id="8583">
+        <title>Was ist FragDenStaat.de? 	</title>
+        <subtitle/>
+        <abstract>Anna, mit Q&amp;A</abstract>
+        <description/>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Other</type>
+        <slug>jev22-8583-was_ist_fragdenstaat_de</slug>
+      </event>
+      <event guid="964fb295-5e5c-4bce-beeb-4f52d1e058b0" id="9642">
+        <title>Amateurfunk mit Kurzwelle, Satellit und Packetradio</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>7:00</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Workshop</type>
+        <slug>jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
+      </event>
+      <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="4434">
+        <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Talk</type>
+        <slug>jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
+      </event>
+      <event guid="f509eb97-0aa6-4fb7-bfec-887de9899eaf" id="5099">
+        <title>Warum fliegt ein Flugzeug</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>auch auf dem Rücken)? (Vortrag</type>
+        <slug>jev22-5099-warum_fliegt_ein_flugzeug</slug>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
@@ -9590,6 +9594,7 @@ I will wander around the event and ask you about your project. If you are intere
         <attachments/>
       </event>
     </room>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49238" guid="af560f6b-6dcb-5655-bea5-fb60c5081df4">
         <logo/>
@@ -9696,36 +9701,6 @@ You can also spectate the event on PeerTube.</description>
     </room>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="ChilyConChaos">
-      <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
-        <title>Securing UnSafe Rust with XRust</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Votrag</type>
-        <slug>jev22-3249-securing_unsafe_rust_with_xrust</slug>
-      </event>
-      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
-        <title>All about DigitalCourage</title>
-        <subtitle/>
-        <abstract>Jakob, mit Q&amp;A</abstract>
-        <description/>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-9365-all_about_digitalcourage</slug>
-      </event>
-    </room>
     <room name="Rave Cave"/>
     <room name="Lounge"/>
     <room name="Spezial Raum"/>
@@ -9785,6 +9760,36 @@ This talk will take top-down approach starting with the operational principles a
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="ChilyConChaos">
+      <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
+        <title>Securing UnSafe Rust with XRust</title>
+        <subtitle/>
+        <abstract/>
+        <description/>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Votrag</type>
+        <slug>jev22-3249-securing_unsafe_rust_with_xrust</slug>
+      </event>
+      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
+        <title>All about DigitalCourage</title>
+        <subtitle/>
+        <abstract>Jakob, mit Q&amp;A</abstract>
+        <description/>
+        <date>2022-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>ChilyConChaos</room>
+        <persons/>
+        <track>Gießen/Wetzlar</track>
+        <type>Other</type>
+        <slug>jev22-9365-all_about_digitalcourage</slug>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
@@ -9872,8 +9877,8 @@ This talk will take top-down approach starting with the operational principles a
         <room>Winterchaos</room>
         <slug>jev22-3018-git</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3018-git-lets-fck-up-history-and-then-restore-it</url>
-        <title>Git</title>
-        <subtitle>: Let's f*ck up history, and then restore it</subtitle>
+        <title>Git: Let's f*ck up history, and then restore it</title>
+        <subtitle/>
         <track>Winterchaos</track>
         <type>Talk</type>
         <language>de</language>
@@ -11066,6 +11071,7 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="Salon" guid="6a427063-66f2-4353-b582-65bd53390b22"/>
     <room name="Bastelstube" guid="60cd5303-5ef2-40f9-9491-77ea43ef0c30"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>

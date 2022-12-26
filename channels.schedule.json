@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "e297f"
+      "version": "b83c3"
     },
-    "version": "2022-12-26 14:10",
+    "version": "2022-12-26 14:28",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -91,6 +91,11 @@
           "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
           "capacity": null,
           "location": "Brandenburg, Alte H\u00f6lle"
+        },
+        {
+          "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
+          "name": "Halle 4K",
+          "location": "Hamburg"
         },
         {
           "name": "xrelog22 - Stream",
@@ -327,6 +332,7 @@
             "Fireshonks-Stream": [],
             "RTC-B\u00fchne (Sparti)": [],
             "Bierschoine": [],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "WICMP Seminarraum": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -818,6 +824,7 @@
               }
             ],
             "Bierschoine": [],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "WICMP Seminarraum": [
               {
@@ -985,10 +992,10 @@
                 "start": "17:00",
                 "duration": "01:30",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-759-k",
+                "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
-                "title": "K",
-                "subtitle": " \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch",
+                "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch",
+                "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Diskussion",
                 "language": "de",
@@ -1659,6 +1666,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49308,
@@ -2808,6 +2816,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49306,
@@ -3864,6 +3873,7 @@
                 "attachments": []
               }
             ],
+            "Halle 4K": [],
             "xrelog22 - Stream": [
               {
                 "id": 49238,
@@ -4355,6 +4365,7 @@
             "Fireshonks-Stream": [],
             "RTC-B\u00fchne (Sparti)": [],
             "Bierschoine": [],
+            "Halle 4K": [],
             "xrelog22 - Stream": [],
             "WICMP Seminarraum": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
