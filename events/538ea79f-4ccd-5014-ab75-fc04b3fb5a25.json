@@ -5,7 +5,7 @@
   "date": "2022-12-28T14:30:00+01:00",
   "start": "14:30",
   "duration": "02:00",
-  "room": "USB-C",
+  "room": "HDMI (room 3)",
   "slug": "jev22-49258-binary_exploitation_beginner_workshop",
   "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
   "title": "Binary Exploitation Beginner Workshop",

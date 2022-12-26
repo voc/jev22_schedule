@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 15:40",
+    "version": "2022-12-26 16:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -168,7 +168,7 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "USB-C",
+          "name": "HDMI (room 3)",
           "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
           "description": "Workshop Area (upstairs)",
           "capacity": 12,
@@ -361,6 +361,37 @@
                     "code": "UMSJZX",
                     "public_name": "Peter Arun Pfaff",
                     "biography": "Peter Arun Pfaff,\r\nIn Detroit (Mich. USA) geb., arbeitet als DJ, VJ, Moderator, Dokumentar Filmer, Musiker, Dramaturg, Regisseur und Aktivist. Er studierte Philosophie, Geschichte und  u.A. Psychoanalyse.\r\n-Von 1999 bis 2001 Booker der l-o-k in M\u00fcnchen. \r\n- An den Kammerspielen: \u201eFassbinder at the Hotel\u201d, 2009 Dramaturg in \u201eRettet die V\u00f6gel\u201c.  2016 Regie von \u201cGolden Sargassum\u201d. \r\n-2011 Mitgr\u00fcnder der Integrier-BAR, 2014 von G\u00f6the Protokoll, sowie 2016 von Mono-Kultur M\u00fcnchen.\r\n-2018 organisierte er m.A. das Synthesizer Festival Knobs&Wires.\r\n-2020 W\u00e4hrend Covid die Talk-show Lockdown Learning.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7897,
+                "guid": "78ab97db-ee0e-5391-97f0-9b82debd3b05",
+                "logo": "",
+                "date": "2022-12-26T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-7897-streaming_engelschulung",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/7YXWJG/",
+                "title": "Streaming-Engelschulung",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "de",
+                "abstract": "Alles was ihr wissen m\u00fcsst, um einen Livestream zu betreuen.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 183,
+                    "code": "UPAHZK",
+                    "public_name": "terru",
+                    "biography": null,
                     "answers": []
                   }
                 ],

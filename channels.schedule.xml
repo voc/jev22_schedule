@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 15:40</version>
+  <version>2022-12-26 16:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -47,6 +47,31 @@ Moderation: Peter Arun Pfaff</description>
         </recording>
         <persons>
           <person id="139">Peter Arun Pfaff</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7897" guid="78ab97db-ee0e-5391-97f0-9b82debd3b05">
+        <logo/>
+        <date>2022-12-26T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <slug>jev22-7897-streaming_engelschulung</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/7YXWJG/</url>
+        <title>Streaming-Engelschulung</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>Alles was ihr wissen müsst, um einen Livestream zu betreuen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="183">terru</person>
         </persons>
         <links/>
         <attachments/>

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 15:40; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 15:40; Winterchaos 0.2; Hacking in Parallel 0.9; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-26 16:00; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 16:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -168,7 +168,7 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "USB-C",
+          "name": "HDMI (room 3)",
           "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
           "description": "Workshop Area (upstairs)",
           "capacity": 12,
@@ -351,7 +351,7 @@
             "Winterchaos": [],
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],
-            "USB-C": [],
+            "HDMI (room 3)": [],
             "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
@@ -381,6 +381,37 @@
                     "code": "UMSJZX",
                     "public_name": "Peter Arun Pfaff",
                     "biography": "Peter Arun Pfaff,\r\nIn Detroit (Mich. USA) geb., arbeitet als DJ, VJ, Moderator, Dokumentar Filmer, Musiker, Dramaturg, Regisseur und Aktivist. Er studierte Philosophie, Geschichte und  u.A. Psychoanalyse.\r\n-Von 1999 bis 2001 Booker der l-o-k in M\u00fcnchen. \r\n- An den Kammerspielen: \u201eFassbinder at the Hotel\u201d, 2009 Dramaturg in \u201eRettet die V\u00f6gel\u201c.  2016 Regie von \u201cGolden Sargassum\u201d. \r\n-2011 Mitgr\u00fcnder der Integrier-BAR, 2014 von G\u00f6the Protokoll, sowie 2016 von Mono-Kultur M\u00fcnchen.\r\n-2018 organisierte er m.A. das Synthesizer Festival Knobs&Wires.\r\n-2020 W\u00e4hrend Covid die Talk-show Lockdown Learning.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 7897,
+                "guid": "78ab97db-ee0e-5391-97f0-9b82debd3b05",
+                "logo": "",
+                "date": "2022-12-26T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "slug": "jev22-7897-streaming_engelschulung",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/7YXWJG/",
+                "title": "Streaming-Engelschulung",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "de",
+                "abstract": "Alles was ihr wissen m\u00fcsst, um einen Livestream zu betreuen.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 183,
+                    "code": "UPAHZK",
+                    "public_name": "terru",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -2266,7 +2297,7 @@
                 "attachments": []
               }
             ],
-            "USB-C": [
+            "HDMI (room 3)": [
               {
                 "id": 49094,
                 "guid": "30e15886-595a-50c4-9247-3fe0df97dc1d",
@@ -2274,7 +2305,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:30",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49094-cip_chatting_in_parallel_what_s_happening_in_the_matrix_multiverses",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A9TXSW/",
                 "title": "CiP - Chatting in Parallel ... What's happening in the Matrix-Multiverses?",
@@ -2305,7 +2336,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49280-weaving_old_and_new_technology",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LADFAB/",
                 "title": "Weaving, Old and New Technology",
@@ -2336,7 +2367,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:45",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49269-quantenverschluesselung_in_einer_box",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
                 "title": "Quantenverschl\u00fcsselung in einer Box",
@@ -2388,7 +2419,7 @@
                 "date": "2022-12-27T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "02:00",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49265-introduction_to_c_programming",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/",
                 "title": "Introduction to C Programming",
@@ -2905,14 +2936,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 6706,
-                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -2936,14 +2967,14 @@
                 "attachments": []
               },
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "id": 6706,
+                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
+                "slug": "jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness - eine Einf\u00fchrung in Achtsamkeitspraxis",
                 "subtitle": "",
@@ -3111,14 +3142,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 9346,
-                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
+                "id": 5338,
+                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -5572,7 +5603,7 @@
                 "attachments": []
               }
             ],
-            "USB-C": [
+            "HDMI (room 3)": [
               {
                 "id": 49234,
                 "guid": "034f85e4-8d3f-535a-b780-cf0ae255bf4a",
@@ -5580,7 +5611,7 @@
                 "date": "2022-12-28T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "02:20",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49234-hacking_in_parallel",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/",
                 "title": "Hacking in Parallel",
@@ -5625,7 +5656,7 @@
                 "date": "2022-12-28T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "02:00",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49258-binary_exploitation_beginner_workshop",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
                 "title": "Binary Exploitation Beginner Workshop",
@@ -5670,7 +5701,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49191-programming_games_in_go_for_pretty_much_all_platforms",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/RTYQRS/",
                 "title": "Programming Games in Go for Pretty Much All Platforms",
@@ -5701,7 +5732,7 @@
                 "date": "2022-12-28T20:30:00+01:00",
                 "start": "20:30",
                 "duration": "01:30",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49213-designing_and_making_stencils",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/",
                 "title": "Designing and making stencils",
@@ -9015,7 +9046,7 @@
                 "attachments": []
               }
             ],
-            "USB-C": [],
+            "HDMI (room 3)": [],
             "Soldering Workshop Room": [
               {
                 "id": 49163,
@@ -10046,14 +10077,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 5338,
-                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
+                "id": 559,
+                "guid": "05c59248-8fa2-5116-9a66-22bb6d51728e",
                 "logo": "",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-559-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -11646,7 +11677,7 @@
                 "attachments": []
               }
             ],
-            "USB-C": [
+            "HDMI (room 3)": [
               {
                 "id": 49259,
                 "guid": "acb55b2d-694b-5177-bb5e-121f7ccb4ba8",
@@ -11654,7 +11685,7 @@
                 "date": "2022-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:17",
-                "room": "USB-C",
+                "room": "HDMI (room 3)",
                 "slug": "jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/",
                 "title": "Of someone who went forth to find a flat in Berlin. An automation-drama in three acts \u2014 Act 3",
@@ -12345,14 +12376,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 559,
-                "guid": "05c59248-8fa2-5116-9a66-22bb6d51728e",
+                "id": 2493,
+                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
                 "logo": "",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-559-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -12836,7 +12867,7 @@
             "Winterchaos": [],
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],
-            "USB-C": [],
+            "HDMI (room 3)": [],
             "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
@@ -13120,14 +13151,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 2493,
-                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
+                "id": 9346,
+                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
                 "logo": "",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
