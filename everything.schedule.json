@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 16:40; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 16:40; Winterchaos 0.2; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-26 17:00; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 17:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -500,7 +500,7 @@
                 "abstract": "Geschichte der Jugendzentrumsbewegung in Deutschland",
                 "description": "Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den T\u00e4tern und Helfern der Nationalsozialisten besch\u00e4ftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum gen\u00f6tigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorg\u00e4ngern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen St\u00e4dten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen d\u00f6rflichen Gemeinden kleine politisch-kulturelle Revolutionen ausl\u00f6ste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch \u00fcbrig ist.\r\nMehr Infos: https://freieraeume-film.de/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 147,
@@ -1233,9 +1233,9 @@
                 "id": 49181,
                 "guid": "948ef99e-e3ea-53bb-b73d-c61f49e8038d",
                 "logo": "/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg",
-                "date": "2022-12-27T18:15:00+01:00",
-                "start": "18:15",
-                "duration": "01:00",
+                "date": "2022-12-27T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:40",
                 "room": "Fireshonks-Stream",
                 "slug": "jev22-49181-best_of_digitalzwangmelder",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
@@ -1338,37 +1338,6 @@
               }
             ],
             "Fireshonks-Workshop": [
-              {
-                "id": 49312,
-                "guid": "581ddee3-911d-5fac-bc46-2892feb474b0",
-                "logo": "",
-                "date": "2022-12-27T11:45:00+01:00",
-                "start": "11:45",
-                "duration": "01:30",
-                "room": "Fireshonks-Workshop",
-                "slug": "jev22-49312-mein_fedi_server",
-                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
-                "title": "Mein FEDI Server",
-                "subtitle": "",
-                "track": "Haecksen",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "installiere Dir deinen eigenen FEDI Server",
-                "description": "Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle \u00fcber seine Daten und kann eigenverantwortlich handeln.\r\n\r\nIn diesem Workshop werden die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers unterst\u00fctzt. \r\n\r\nDer Workshop setzt ein Grundverst\u00e4ndnis f\u00fcr das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung f\u00fcr dieses Workshopangebot mit. \r\n\r\nDie Installationen erfolgen \u00fcber einen Testaccout, der f\u00fcr die Teilnehmenden unentgeltlich zur Verf\u00fcgung gestellt wird.\u00a0Zum Aktivieren m\u00fcssen die Teilnehmenden \u00fcber einen Email-Account verf\u00fcgen.\r\n\r\nIm Vortrag \"Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt\"\r\n\r\nhttps://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/\r\n\r\nwird die praktische Handhabung von Hubzilla weiter demonstriert.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3421,
-                    "code": "BNPCQG",
-                    "public_name": "chris",
-                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt \r\nhttps://gnulinux.ch/serie-fediverse-dienste-hubzilla",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 49079,
                 "guid": "a266a0da-fe02-551e-936c-53da79fafc69",
@@ -7474,6 +7443,37 @@
                     "code": "KYLAZR",
                     "public_name": "Hetti",
                     "biography": "Hetti ist ein IT-Security Experte aus Wien und Teil des feinsten Wiener Hackspaces [Metalab](https://metalab.at). \r\nIn seiner Freizeit f\u00e4hrt er sehr gerne auf community basierte IT (Security) Konferenzen und Camps.\r\nDie [Wiener Cryptoparty](https://cryptoparty.at) ist von ihm organisiert, bei der er auch Vortr\u00e4ge und Workshops zu verschiedenen Themen der IT-Security & Privatssph\u00e4re h\u00e4lt.\r\nMan findet ihn auch beim [Chaos Computer Club Vienna (C3W)](https://c3w.at) und an manchen Wochenenden ist er auf Flaggenjagd mit dem erfolgreichen akademischen CTF Team [We_0wn_Y0u](https://w0y.at).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49312,
+                "guid": "581ddee3-911d-5fac-bc46-2892feb474b0",
+                "logo": "",
+                "date": "2022-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "01:30",
+                "room": "Fireshonks-Workshop",
+                "slug": "jev22-49312-mein_fedi_server",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
+                "title": "Mein FEDI Server",
+                "subtitle": "",
+                "track": "Haecksen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "installiere Dir deinen eigenen FEDI Server",
+                "description": "Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle \u00fcber seine Daten und kann eigenverantwortlich handeln.\r\n\r\nIn diesem Workshop werden die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers unterst\u00fctzt. \r\n\r\nDer Workshop setzt ein Grundverst\u00e4ndnis f\u00fcr das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung f\u00fcr dieses Workshopangebot mit. \r\n\r\nDie Installationen erfolgen \u00fcber einen Testaccout, der f\u00fcr die Teilnehmenden unentgeltlich zur Verf\u00fcgung gestellt wird.\u00a0Zum Aktivieren m\u00fcssen die Teilnehmenden \u00fcber einen Email-Account verf\u00fcgen.\r\n\r\nIm Vortrag \"Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt\"\r\n\r\nhttps://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/\r\n\r\nwird die praktische Handhabung von Hubzilla weiter demonstriert.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3421,
+                    "code": "BNPCQG",
+                    "public_name": "chris",
+                    "biography": "Fediverse Akivist - souver\u00e4n und m\u00fcndig digital vernetzt \r\nhttps://gnulinux.ch/serie-fediverse-dienste-hubzilla",
                     "answers": []
                   }
                 ],

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 16:40</version>
+  <version>2022-12-26 17:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -149,7 +149,7 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
 Mehr Infos: https://freieraeume-film.de/</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -303,9 +303,9 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
       </event>
       <event id="49181" guid="948ef99e-e3ea-53bb-b73d-c61f49e8038d">
         <logo>/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg</logo>
-        <date>2022-12-27T18:15:00+01:00</date>
-        <start>18:15</start>
-        <duration>01:00</duration>
+        <date>2022-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49181-best_of_digitalzwangmelder</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/</url>

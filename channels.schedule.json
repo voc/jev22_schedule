@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 16:40",
+    "version": "2022-12-26 17:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -480,7 +480,7 @@
                 "abstract": "Geschichte der Jugendzentrumsbewegung in Deutschland",
                 "description": "Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den T\u00e4tern und Helfern der Nationalsozialisten besch\u00e4ftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum gen\u00f6tigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorg\u00e4ngern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen St\u00e4dten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen d\u00f6rflichen Gemeinden kleine politisch-kulturelle Revolutionen ausl\u00f6ste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch \u00fcbrig ist.\r\nMehr Infos: https://freieraeume-film.de/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 147,
@@ -662,9 +662,9 @@
                 "id": 49181,
                 "guid": "948ef99e-e3ea-53bb-b73d-c61f49e8038d",
                 "logo": "/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg",
-                "date": "2022-12-27T18:15:00+01:00",
-                "start": "18:15",
-                "duration": "01:00",
+                "date": "2022-12-27T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:40",
                 "room": "Fireshonks-Stream",
                 "slug": "jev22-49181-best_of_digitalzwangmelder",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
