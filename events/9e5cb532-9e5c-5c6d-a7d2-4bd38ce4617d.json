@@ -1,0 +1,33 @@
+{
+  "id": 9553,
+  "guid": "9e5cb532-9e5c-5c6d-a7d2-4bd38ce4617d",
+  "logo": "/media/jev-2022/submissions/QMGCPZ/2022-12-23_23-40-17_ap56Ft2.jpg",
+  "date": "2022-12-29T20:05:00+01:00",
+  "start": "20:05",
+  "duration": "00:30",
+  "room": "Hackwerk",
+  "slug": "jev22-9553-hack_bag_im_backpack",
+  "url": "https://pretalx.hackwerk.fun/jev-2022/talk/QMGCPZ/",
+  "title": "Hack-Bag im Backpack",
+  "subtitle": "",
+  "track": null,
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der normale Hacker, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 12,
+      "code": "NZHEBP",
+      "public_name": "hanser",
+      "biography": "OpenData-Nerd und Bastler",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
+  "origin": "pretalx.hackwerk.fun"
+}
