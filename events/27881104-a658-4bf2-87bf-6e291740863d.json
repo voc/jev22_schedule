@@ -16,7 +16,7 @@
   "abstract": "",
   "description": "Hast du dich jemals gewundert, wie sich die Temperatur und Luftqualit\u00e4t in deinem Zuhause \u00fcber den Tag hinweg ver\u00e4ndert? In diesem Vortrag m\u00f6chte euch zeigen, wie ich mit sehr g\u00fcnstiger Hardware und open source Software ein eigenes System zur Raumluftqualit\u00e4ts\u00fcberwachung gebaut habe.<br />",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 3,

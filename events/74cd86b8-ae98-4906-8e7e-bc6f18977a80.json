@@ -16,7 +16,7 @@
   "abstract": "",
   "description": "Oder: How to get rid of `my_git_project_bkp (copy1-10)`<br /><br />Ein kleiner Vortrag \u00fcber fortgeschrittene Operationen im Git-Versionssystem: Wie macht man Rebasing, File Purging und Recovery via `git reflog`.<br />",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 17,

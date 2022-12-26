@@ -1,25 +1,7 @@
 {
   "data": {
-    "version": "2022-12-26 18:20; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 18:20; Winterchaos 0.2; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-26 18:40; Reconnect To Chaos! 2.1; Curious Community Labs Chaos Experience 0.1.3; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 18:40; Winterchaos 0.2; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "rooms": [
-      {
-        "name": "Fireshonks-Stream",
-        "guid": "c62a781e-48a3-4546-bb5c-dee2080738f7",
-        "description": "Der Stream von Talks und gestreamten Workshops bei Haecksen  und R3S",
-        "capacity": 1000,
-        "location": "Remote & W\u00fclfrath",
-        "schedule_name": "Fireshonks-Stream",
-        "stream": "fireshonks"
-      },
-      {
-        "name": "Fireshonks-Workshop",
-        "guid": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
-        "description": "Workshops f\u00fcr Teilnehmende (keine Aufzeichnung, ein \u00f6ffentliches Streaming)",
-        "capacity": null,
-        "location": "Remote & W\u00fclfrath",
-        "schedule_name": "Fireshonks-Workshop",
-        "stream": null
-      },
       {
         "name": "RTC-B\u00fchne (Sparti)",
         "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
@@ -75,65 +57,11 @@
         "stream": null
       },
       {
-        "name": "Bierschoine",
-        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
-        "description": "Gro\u00dfer Vortragsr\u00e4um mit B\u00fchne und integriertem Hackcenter",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Bierschoine",
-        "stream": "s6"
-      },
-      {
-        "name": "Salon",
-        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
-        "description": "Gasthaus 1. OG. Raum f\u00fcr kleiner Sofarunden und die Lagerfeuervortr\u00e4ge.",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Salon",
-        "stream": null
-      },
-      {
-        "name": "Bastelstube",
-        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
-        "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Bastelstube",
-        "stream": null
-      },
-      {
         "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
         "name": "Halle 4K",
         "location": "Hamburg",
         "schedule_name": "Halle 4K",
         "stream": "s3"
-      },
-      {
-        "name": "xrelog22 - Stream",
-        "guid": "ad28953f-122e-4293-836d-860320183a1c",
-        "description": "Main-Stream",
-        "capacity": 100000,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "xrelog22 - Stream",
-        "stream": "xrelog22"
-      },
-      {
-        "name": "icc|bs",
-        "guid": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
-        "description": "Matrix - Intergalactic Chaos Communication | Broadcast Studio",
-        "capacity": 498,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "icc|bs",
-        "stream": null
-      },
-      {
-        "name": "Multiversum B\u00fchne",
-        "guid": "a5515405-a6a1-47f7-97dc-bd9ef73819a1",
-        "description": "Realraum B\u00fchne f\u00fcr Panels, Impuls-Vortr\u00e4ge, Lighntins-Talks & mehr",
-        "capacity": 50,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "Multiversum B\u00fchne",
-        "stream": null
       },
       {
         "name": "Rave Cave",
@@ -178,60 +106,6 @@
         "capacity": null,
         "location": "Luzern, CH",
         "schedule_name": "Winterchaos",
-        "stream": null
-      },
-      {
-        "name": "HIP - Track 1 - Room 5",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-        "description": "Main conference stage in the Theater Hall E.T.I.",
-        "capacity": 110,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HIP - Track 1 - Room 5",
-        "stream": null
-      },
-      {
-        "name": "HIP - Track 2 - Room 2",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-        "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
-        "capacity": 70,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HIP - Track 2 - Room 2",
-        "stream": null
-      },
-      {
-        "name": "HDMI (room 3)",
-        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "description": "Workshop Area (upstairs)",
-        "capacity": 12,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HDMI (room 3)",
-        "stream": null
-      },
-      {
-        "name": "Soldering Workshop Room",
-        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-        "description": "Room 7 (upstairs)",
-        "capacity": 12,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Soldering Workshop Room",
-        "stream": null
-      },
-      {
-        "name": "c-base mainhall",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
-        "description": null,
-        "capacity": 100,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "c-base mainhall",
-        "stream": null
-      },
-      {
-        "name": "Merch Desk",
-        "guid": null,
-        "description": "You can find the preordered merch here",
-        "capacity": null,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Merch Desk",
         "stream": null
       },
       {
@@ -394,6 +268,15 @@
         "capacity": 54,
         "location": "M\u00fcnchen",
         "schedule_name": "Timeout Raum - H2-5.1",
+        "stream": null
+      },
+      {
+        "name": "Raum 1",
+        "guid": null,
+        "description": null,
+        "capacity": null,
+        "location": "Aalen, Hackwerk",
+        "schedule_name": "Raum 1",
         "stream": null
       }
     ],
@@ -1044,7 +927,20 @@
             "feed": "https://pretalx.hackwerk.fun/jev-2022/schedule/feed.xml"
           }
         },
-        "rooms": []
+        "rooms": [
+          {
+            "id": 3,
+            "guid": null,
+            "name": {
+              "de": "Raum 1",
+              "en": "Room 1"
+            },
+            "description": {},
+            "capacity": null,
+            "position": null,
+            "url": "/orga/event/jev-2022/schedule/rooms/3/"
+          }
+        ]
       },
       {
         "url": "TBD",
