@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 17:20",
+    "version": "2022-12-26 18:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -862,7 +862,31 @@
               }
             ],
             "Bierschoine": [],
-            "Halle 4K": [],
+            "Halle 4K": [
+              {
+                "id": 2158,
+                "guid": "cd2bc158-39c7-4f9c-bd87-0bf9d6061875",
+                "date": "2022-12-27T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "4:00",
+                "room": "Halle 4K",
+                "slug": "jev22-2158-malzbierbrauen",
+                "title": "Malzbierbrauen",
+                "subtitle": "Workshop",
+                "track": "Curious Community Labs",
+                "type": "Other",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "do_not_record": false,
+                "recording_license": "",
+                "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+                "logo": "",
+                "attachments": [],
+                "links": [],
+                "persons": []
+              }
+            ],
             "xrelog22 - Stream": [],
             "WICMP Seminarraum": [
               {
@@ -1704,7 +1728,115 @@
                 "attachments": []
               }
             ],
-            "Halle 4K": [],
+            "Halle 4K": [
+              {
+                "id": 6037,
+                "guid": "60c37cca-de6c-510c-89f5-4c7bf3c0ab75",
+                "date": "2022-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "1:00",
+                "room": "Halle 4K",
+                "slug": "jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit",
+                "title": "Martyra Peng und die Zukunft der Sexarbeit",
+                "subtitle": "",
+                "track": "Curious Community Labs",
+                "type": "Other",
+                "language": "de",
+                "abstract": "",
+                "description": "Sexualisierte Gewalt/erzwungene Sexarbeit. Meine Thesen \u00fcber toxische Gesch\u00e4ftsmodelle im Plattformkapitalismus beruhen auf langj\u00e4hriger Forschung in sozialen Netzwerken \u00fcber die technischen Voraussetzungen von Patriarchaler Machtaus\u00fcbung am Beispiel sexueller Ausbeutung. Dazu erschien von mir das Buch Sexwork 3.0 Stichworte: Internet \u00d6konomie Gesellschaft",
+                "do_not_record": false,
+                "recording_license": "",
+                "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+                "logo": "",
+                "attachments": [],
+                "persons": [
+                  {
+                    "id": 1000,
+                    "public_name": "Martyra Peng"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 309,
+                "guid": "0b3095e5-9da6-5d36-9f41-f57e4aa265f5",
+                "date": "2022-12-28T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "1:00",
+                "room": "Halle 4K",
+                "slug": "jev22-309-mikroskopieren_und_kochen",
+                "title": "Mikroskopieren und Kochen",
+                "subtitle": "Workshop",
+                "track": "Curious Community Labs",
+                "type": "Other",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "do_not_record": false,
+                "recording_license": "",
+                "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+                "logo": "",
+                "attachments": [],
+                "persons": [],
+                "links": []
+              },
+              {
+                "id": 6311,
+                "guid": "63115c2b-d2d8-502c-90d8-132dfe7a3ee0",
+                "date": "2022-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "Halle 4K",
+                "slug": "jev22-6311-die_wunderbare_welt_der_flaschengaerten",
+                "title": "Die wunderbare Welt der Flascheng\u00e4rten",
+                "subtitle": "",
+                "track": "Curious Community Labs",
+                "type": "Other",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "do_not_record": false,
+                "recording_license": "",
+                "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+                "logo": "",
+                "attachments": [],
+                "persons": [
+                  {
+                    "id": 1001,
+                    "public_name": "Felix Schimmeyer"
+                  }
+                ],
+                "links": []
+              },
+              {
+                "id": 9195,
+                "guid": "919dcf50-7477-5f1a-b363-cd880113d3fc",
+                "date": "2022-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "Halle 4K",
+                "slug": "jev22-9195-building_your_personal_dna_synthesizer",
+                "title": "Building your personal DNA-Synthesizer",
+                "subtitle": "",
+                "track": "Curious Community Labs",
+                "type": "Other",
+                "language": "de",
+                "abstract": "",
+                "description": "",
+                "do_not_record": false,
+                "recording_license": "",
+                "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+                "logo": "",
+                "attachments": [],
+                "persons": [
+                  {
+                    "id": 1002,
+                    "public_name": "Bernhard Tittelbach"
+                  }
+                ],
+                "links": []
+              }
+            ],
             "xrelog22 - Stream": [
               {
                 "id": 49308,

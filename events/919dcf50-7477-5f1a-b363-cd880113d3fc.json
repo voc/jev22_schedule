@@ -1,0 +1,30 @@
+{
+  "id": 9195,
+  "guid": "919dcf50-7477-5f1a-b363-cd880113d3fc",
+  "date": "2022-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "1:00",
+  "room": "Halle 4K",
+  "slug": "jev22-9195-building_your_personal_dna_synthesizer",
+  "title": "Building your personal DNA-Synthesizer",
+  "subtitle": "",
+  "track": "Curious Community Labs",
+  "type": "Other",
+  "language": "de",
+  "abstract": "",
+  "description": "",
+  "do_not_record": false,
+  "recording_license": "",
+  "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+  "logo": "",
+  "attachments": [],
+  "persons": [
+    {
+      "id": 1002,
+      "public_name": "Bernhard Tittelbach"
+    }
+  ],
+  "links": [],
+  "room_id": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
+  "origin": "data.jtbx.de"
+}

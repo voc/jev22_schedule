@@ -1,0 +1,30 @@
+{
+  "id": 6037,
+  "guid": "60c37cca-de6c-510c-89f5-4c7bf3c0ab75",
+  "date": "2022-12-28T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "1:00",
+  "room": "Halle 4K",
+  "slug": "jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit",
+  "title": "Martyra Peng und die Zukunft der Sexarbeit",
+  "subtitle": "",
+  "track": "Curious Community Labs",
+  "type": "Other",
+  "language": "de",
+  "abstract": "",
+  "description": "Sexualisierte Gewalt/erzwungene Sexarbeit. Meine Thesen \u00fcber toxische Gesch\u00e4ftsmodelle im Plattformkapitalismus beruhen auf langj\u00e4hriger Forschung in sozialen Netzwerken \u00fcber die technischen Voraussetzungen von Patriarchaler Machtaus\u00fcbung am Beispiel sexueller Ausbeutung. Dazu erschien von mir das Buch Sexwork 3.0 Stichworte: Internet \u00d6konomie Gesellschaft",
+  "do_not_record": false,
+  "recording_license": "",
+  "url": "https://curious.bio/2022/11/remote-chaos-experience/",
+  "logo": "",
+  "attachments": [],
+  "persons": [
+    {
+      "id": 1000,
+      "public_name": "Martyra Peng"
+    }
+  ],
+  "links": [],
+  "room_id": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
+  "origin": "data.jtbx.de"
+}
