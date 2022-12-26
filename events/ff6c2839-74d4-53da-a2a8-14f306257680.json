@@ -1,0 +1,33 @@
+{
+  "id": 49213,
+  "guid": "ff6c2839-74d4-53da-a2a8-14f306257680",
+  "logo": "/media/hip-berlin-2022/submissions/7NLVUF/_DSF0052_aSHgamf.JPG",
+  "date": "2022-12-28T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:30",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-49213-designing_and_making_stencils",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NLVUF/",
+  "title": "Designing and making stencils",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "In this workshop I'll walk you through the process of designing and making stencils using a laser/vinyl cutter. Come if you've ever wanted to cover something in paint. No arts skills needed!",
+  "description": "Stencils are a great way to cover things (walls, pavements, cars, whatever) in paint. I couldn't find a good beginner tutorial for making them, and thus this talk was born. I assume that you:\r\n\r\n- know nothing about stencils\r\n- are not artsy\r\n- have a bare minimum of manual skills.\r\n\r\n(just like me a year ago)\r\n\r\nAll you need is a computer, and access to a laser/vinyl cutter (don't bring yours to the workshop, we'll provide one).",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3338,
+      "code": "YMDAGT",
+      "public_name": "Marcin",
+      "biography": "Hardware engineer.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

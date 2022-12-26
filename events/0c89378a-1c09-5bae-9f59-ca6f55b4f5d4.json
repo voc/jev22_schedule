@@ -1,0 +1,33 @@
+{
+  "id": 49219,
+  "guid": "0c89378a-1c09-5bae-9f59-ca6f55b4f5d4",
+  "logo": "",
+  "date": "2022-12-28T23:00:00+01:00",
+  "start": "23:00",
+  "duration": "00:30",
+  "room": "xrelog22 - Stream",
+  "slug": "jev22-49219-mafifa_wm_2030",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/",
+  "title": "mafifa - WM 2030",
+  "subtitle": "",
+  "track": "Activism",
+  "type": "Live Session (30)",
+  "language": "de",
+  "abstract": "mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.",
+  "description": "Finden wir den n\u00e4chsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei m\u00fcssen raus!\r\nErmittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live \u00fcbertragen und kommentiert. Belly Rethy ist raus.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3253,
+      "code": "TEGQXR",
+      "public_name": "CodeFreezR",
+      "biography": "Bassist & Enterprise Engineer & Think Tanker. Fullstack Architect, Polyglot No|Coder & MultiCloud DevOpsian. Driven by #dnb, #ikigai, #lifelonglearning & #100DaysOfCode.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ad28953f-122e-4293-836d-860320183a1c",
+  "origin": "pretalx.c3voc.de"
+}

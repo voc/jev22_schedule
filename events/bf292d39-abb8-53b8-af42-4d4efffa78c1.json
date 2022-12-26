@@ -1,0 +1,33 @@
+{
+  "id": 49146,
+  "guid": "bf292d39-abb8-53b8-af42-4d4efffa78c1",
+  "logo": "",
+  "date": "2022-12-27T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49146-gemuetliches_stricktreffen",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/G7BASV/",
+  "title": "Gem\u00fctliches Stricktreffen",
+  "subtitle": "",
+  "track": "Haecksen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Gem\u00fctliches gemeinsames Stricktreffen f\u00fcr alle zum Austausch, sowohl f\u00fcr Anf\u00e4nger*innen als auch f\u00fcr Fortgeschittene\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+  "description": "Wir treffen uns, um gemeinsam \u00fcber unsere geplanten, aktuellen und vergangenen Strickprojekte zu sprechen und auszutauschen. \r\nDas soll ein offenes Treffen sein f\u00fcr alle,  die gerne stricken oder Interesse am Stricken haben. Auch wenn ihr konkrete Fragen zu einem Projekt haben, k\u00f6nnen wir diese kl\u00e4ren.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3283,
+      "code": "KT9EJQ",
+      "public_name": "shortkath",
+      "biography": "Python, SQL, Stricken, P&P, Brettspiele und Katzen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

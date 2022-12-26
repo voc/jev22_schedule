@@ -1,0 +1,33 @@
+{
+  "id": 49257,
+  "guid": "9f490ab6-c9fe-5455-8669-59baf6f86984",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "HIP - Track 1 - Room 5",
+  "slug": "jev22-49257-das_ist_globales_hardware_hacking_in_parallel",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/QM8CSR/",
+  "title": "Das ist globales Hardware Hacking in Parallel",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "\u00dcberall auf der Welt arbeiten Menschen in Makerspaces, Hackerspaces, offenen Werkst\u00e4tten daran, Probleme ihrer Community zu l\u00f6sen.",
+  "description": "Ich bin beim Verein Global Innovation Gathering (GIG) aktiv, wir sind sozusagen ein globaler Erfahrungsaustauschkreis, ein Netzwerk von Hacker*innen, die gr\u00f6\u00dftenteils aus dem \u201aglobalen S\u00fcden\u2018 kommen. Letzte Woche haben wir uns mit einigen Mitgliedern des Netzwerks Offene Werkst\u00e4tten getroffen und es fiel der Satz \u201eIch habe noch nie dar\u00fcber nachgedacht, dass es auch Makerspaces im \u201aglobalen S\u00fcden\u2019 gibt \u2013 aber klar, dass es die gibt!\u201c\r\n\r\nIch m\u00f6chte euch in diesem Vortrag einige davon vorstellen. Gro\u00dfartige Menschen und Initiativen, die an verschiedenen Orten lokale Probleme l\u00f6sen und dabei Teil einer globalen Gemeinschaft sind, Open Source Hardware nutzen und dazu beitragen. Sie bauen Mikroskope in Nigeria, entwickeln Hilfsmittel gemeinsam mit Menschen mit Behinderung in Nepal, Trinkwasserfilter in Kenia oder urban Gardening in Brasilien.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 388,
+      "code": "8KXKVD",
+      "public_name": "aprica",
+      "biography": "Berlin based political consultant and activist. Board member of the Global Innovation Gathering e.V., a global network of social and technological innovators.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+  "origin": "pretalx.c3voc.de"
+}

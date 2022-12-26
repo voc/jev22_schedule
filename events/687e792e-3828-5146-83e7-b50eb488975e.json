@@ -1,0 +1,54 @@
+{
+  "id": 49269,
+  "guid": "687e792e-3828-5146-83e7-b50eb488975e",
+  "logo": "/media/hip-berlin-2022/submissions/3QLP7D/QeyGen_Ve4Ww8I.png",
+  "date": "2022-12-27T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:45",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-49269-quantenverschluesselung_in_einer_box",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3QLP7D/",
+  "title": "Quantenverschl\u00fcsselung in einer Box",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Da zuk\u00fcnftige Quantencomputer besonders gut darin sind, klassische Verschl\u00fcsselungen zu knacken, werden andere Formen der Schl\u00fcsselgenerierung ben\u00f6tigt.\r\nEine m\u00f6gliche L\u00f6sung ist die Erzeugung von sogenannten Quantenschl\u00fcsseln, die eine besondere Eigenheit der Quantenmechanik ausnutzen.\r\nStatt mit einzelnen Photonen werden wir im Workshop einen Schl\u00fcssel mit dem extra daf\u00fcr entwickelten Quantenschl\u00fcsselgenerator, kurz Qey-Gen, erzeugen. So kann jeder direkt hands-on das Verfahren ausprobieren und verstehen.",
+  "description": "In den letzten Jahrzehnten ist die Transistordichte so hoch geworden, dass klassische Computer mit den Eigenheiten der Quantenmechanik zu k\u00e4mpfen haben. Auf der anderen Seite machen sich Quantencomputer genau diese zunutze und revolutionieren moderne Rechenprozesse. So versprechen sie beispielsweise sichere Kommunikation, Simulation komplexer Molek\u00fcle und vieles mehr.\r\nEine Problemstellung, in denen Quantencomputer besonders stark sind, ist die Primfaktorzerlegung, auf Basis welcher viele unserer heutigen Kommunikationsschl\u00fcssel erzeugt werden. Um in Zukunft sicherer zu kommunizieren, wird vor allem auf sogenannte Quantenschl\u00fcssel gesetzt.\r\nIm Workshop werden wir uns genauer auf das BB84 Protokoll konzentrieren. Um die quantenmechanischen Grundlagen zu erkl\u00e4ren und den Schl\u00fcssel zu generieren, benutzen wir eine open source laser-gecuttete Holzbox.\r\n\r\nDie Box wurde in Zusammenarbeit mit den Jungen T\u00fcftler:innen und der TU Berlin entwickelt und wurde vom Bildungsministerium f\u00fcr Bildung und Forschung gef\u00f6rdert.\r\nDie Laser-Cut-Dateien findet man unter https://tueftelakademie.de/quanten1x1/quantenverschluesselung/gey-gen",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3885,
+      "code": "SHGGF7",
+      "public_name": "Kasper Rothaus",
+      "biography": "Projektleiter bei Junge t\u00fcftler*innen \r\nQuanten 1x1",
+      "answers": []
+    },
+    {
+      "id": 3876,
+      "code": "VFSNBU",
+      "public_name": "Charlotte",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 3771,
+      "code": "KQWRER",
+      "public_name": "Franz Sitzmann",
+      "biography": "Franz is a natural-born technology enthusiast. As a teenager, he was already accidentally locked up at school for tinkering with his robots for too long. He loves learning and wants to understand how technology works. As a mentor in digital education for young people and adults, he thinks up crazy gadgets and shows others how they can develop some themselves. That's why he leads the project Quanten1x1 at Junge T\u00fcftler in cooperation with TU Berlin and the Einstein Center. His great passion is making complex technologies easily accessible. He has already developed a whole series of workshops and infogames on the topic of artificial intelligence. As part of the BMBF project \u201cQuantum Aktiv\u201d, he has been on an adventure into the quantum world for the last year. In the process, he interviewed more than 20 experts and made his way through the quantum jungle to IBM's quantum computer in Zurich.",
+      "answers": []
+    },
+    {
+      "id": 3372,
+      "code": "JWENKQ",
+      "public_name": "Tobias Schubert",
+      "biography": "Neben meinem Physikstudium habe ich bereits seid mehreren Jahren Erfahrungen im Bereich der Wissenschaftskommunikation machen k\u00f6nnen. Ob auf Freizeitveranstaltungen wie Musikfestivals, in Einkaufszentren oder Tagen der offenen T\u00fcren, Menschen haben immer Lust herauszufinden wie die Dinge funktionieren. Um an diese spielerische Neugier anzukn\u00fcpfen, macht es mir Spa\u00df interaktive Installationen zu entwickeln, die wissenschaftliche Inhalte kommunizieren.\r\nSeit 2020 arbeite ich als wissenschaftlicher Mitarbeiter an der FU Berlin im \"Projektlabor Wissenschaftskommunikation\".",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

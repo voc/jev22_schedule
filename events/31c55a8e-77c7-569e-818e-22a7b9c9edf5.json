@@ -1,0 +1,33 @@
+{
+  "id": 49310,
+  "guid": "31c55a8e-77c7-569e-818e-22a7b9c9edf5",
+  "logo": "",
+  "date": "2022-12-28T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "00:30",
+  "room": "Bierschoine",
+  "slug": "jev22-49310-opening",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/",
+  "title": "Opening",
+  "subtitle": "",
+  "track": "Hellarious",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Herzlich Willkommen bei Hellarious - Hacking in Hell!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 265,
+      "code": "HQZJFN",
+      "public_name": "Carina Haupt",
+      "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+  "origin": "pretalx.c3voc.de"
+}

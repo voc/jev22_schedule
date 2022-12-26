@@ -1,0 +1,33 @@
+{
+  "id": 49255,
+  "guid": "4102757e-2547-52bf-aae7-cb9c4517d747",
+  "logo": "",
+  "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "HIP - Track 1 - Room 5",
+  "slug": "jev22-49255-why_you_should_write_a_wayland_compositor",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/XLTFWL/",
+  "title": "Why YOU should write a wayland compositor!",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Ever wondered why the Linux Desktop shifts to the Wayland protocol? What exactly makes it \"better\", how do it's internals exactly work and how YOU could utilize it? I'll give you a quick rundown!",
+  "description": "Hi! My name is Victoria and I have worked on a wayland compositor library called \"smithay\" for the past 5 years. Right now I am working for system76 on their new desktop environment, I am member of  wayland-protocols and have been contributing to the wider ecosystem. So if you even wanted to learn about the wayland ecosystem and linux desktops, I can and will try to do my best to explain. Even better, I want to give you reason to use this technology for your projects!\r\n\r\nThe Talk is roughly divided into two parts:\r\n\r\nFirst off the background, to get everybody on the same page\r\n  - What exactly is wayland?\r\n  - How is it different from X11 in the most important ways?\r\n  - Technical details! Or how a modern linux desktop is build!\r\n    - We'll be talking about the \"Direct Rendering Manager\", \"EGL\", \"libinput\", \"Client-side-decorations?\", \"nvidia?!\", \"WSL?!?\" You name it!\r\n    - Feel free to bring some own questions as well.\r\n\r\nTHE Showcase!\r\n\r\nHopefully you'll understand a lot about the stack now, but you have no idea what to use it for or feel like nothing of it is relevant for you work? Don't be deceived, people use wayland in embedded and automotive applications, for automated testing and continuous integration, for virtualization, XR Applications, Game streaming, Remote Computing, ...!\r\nLet me show you, what weird things did people build with it and lets unlock more of it's potential together!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3369,
+      "code": "GNKP8E",
+      "public_name": "Victoria Brekenfeld",
+      "biography": "Hi! Ich bin Victoria aus Berlin und irgendwie in die Linux Desktop Szene reingerutscht.\r\nAktuell arbeite ich bei System76, wenn du mich sieht und keine Werbung zu Wayland or Rust h\u00f6ren willst, renn lieber schnell weg! Ansonsten bei\u00dfe ich aber nicht und man findet mich \u00f6fters mal auf Veranstaltungen der Chaos-Blase. Mit mir kann man auch super \u00fcber Games, VR, Pen&Paper und Musik quatschen! :)",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+  "origin": "pretalx.c3voc.de"
+}

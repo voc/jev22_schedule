@@ -1,0 +1,47 @@
+{
+  "id": 49116,
+  "guid": "9ebf813b-dc3f-5c65-bf30-98fcf3d3f184",
+  "logo": "",
+  "date": "2022-12-29T15:30:00+01:00",
+  "start": "15:30",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49116-datenschutzrechte_zum_mitmachen",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/TBBNKB/",
+  "title": "Datenschutzrechte zum Mitmachen",
+  "subtitle": " \u2013 DSGVO-Anfragen stellen mit Datenanfragen.de",
+  "track": "Haecksen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Die DSGVO ist in aller Munde, aber was bedeutet sie eigentlich f\u00fcr Dich? Wir wollen uns die Rechte, die Dir durch die DSGVO zugesichert werden, einmal genauer anschauen und \u2013 vor allem \u2014 ausprobieren. In unserem Workshop lernst Du, mit Datenanfragen.de Anfragen zu stellen, um an Deine Daten zu kommen, sie l\u00f6schen zu lassen, zu berichtigen oder Widerspruch gegen Direktwerbung einzulegen.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+  "description": "Online-Shops, Streamingdienste, Banken, Handy-Apps, \u00f6ffentliche Stellen, Versicherungen, soziale Netzwerke \u2026 Die Liste an Organisationen, die Deine Daten haben wollen, ist sehr lang. Wahrscheinlich gibt es sogar etliche Unternehmen wie Adressh\u00e4ndler und Auskunfteien, die zwar Deine Daten haben, von denen Du aber noch nie etwas geh\u00f6rt hast.\r\n\r\nZum Gl\u00fcck musst Du Dich nicht damit abfinden, \u201edass das halt so ist\u201c. Denn Du hast ein Recht auf Datenschutz! Wenn Unternehmen, Beh\u00f6rden und andere Organisationen Deine personenbezogenen Daten nutzen wollen, m\u00fcssen sie sich dabei an die Datenschutz-Grundverordnung (DSGVO) halten. Damit Du die Kontrolle \u00fcber Deine Daten behalten kannst, gew\u00e4hrt Dir die DSGVO eine Reihe von Rechten, die Du den Organisationen gegen\u00fcber kostenlos geltendmachen darfst: Das Recht auf Auskunft dar\u00fcber, welche Daten zu Dir verarbeitet werden, einschlie\u00dflich einer Kopie dieser Daten, das Recht auf Berichtigung falscher Daten zu Dir, das Recht auf L\u00f6schung Deiner Daten unter bestimmten Umst\u00e4nden, und das Recht auf Werbewiderspruch.\r\n\r\nWir sind ein gemeinn\u00fctziger Verein, der daran arbeitet, diese Rechte allen Menschen zug\u00e4nglich zu machen. Daf\u00fcr betreiben wir vor allem die Webseite Datenanfragen.de, die Dich durch den gesamten Anfragenprozess leitet und am Ende den Anfragentext generiert, den Du nur noch an die entsprechenden Organisationen abschicken musst.\r\n\r\nIn diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu machen und mehr dar\u00fcber zu erfahren, wer welche Daten zu Dir hat. Dazu erkl\u00e4ren wir Dir n\u00e4her, was es mit Deinen Datenschutzrechten und unseren Werkzeugen auf sich hat und stellen dann gemeinsam Anfragen. Keine Sorge: Du brauchst daf\u00fcr keine technischen oder rechtlichen Vorkenntnisse. Der Workshop richtet sich vor allem an Menschen, die bisher keine oder wenig Erfahrung mit DSGVO-Anfragen haben. Alle anderen sind aber nat\u00fcrlich auch willkommen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3286,
+      "code": "87XSHM",
+      "public_name": "Malte Wessels",
+      "biography": "Malte Wessels ist Vorstandsbeisitzer des Datenanfragen.de e.V., ein gemeinn\u00fctziger Verein der Dir helfen will deine Datenschutzrechte wahrzunehmen. Au\u00dferdem ist er Doktorand am Institut f\u00fcr Anwendungssicherheit der TU Braunschweig und besch\u00e4ftigt sich dort unter anderem mit *mobile privacy*. (er/ihm)",
+      "answers": []
+    },
+    {
+      "id": 3276,
+      "code": "DTRHPL",
+      "public_name": "Lorenz Sieben (zner0L)",
+      "biography": "Pronomen: er/ihm\r\nIch finde Computer sollten auch noch zu was anderem gut sein, als uns zu \u00fcberwachen, glaube aber dass wir daf\u00fcr was ganz grundlegend \u00e4ndern m\u00fcssen an der Weise wie wir uns aufeinander beziehen. Deswegen mache ich Datenschutzaktivismus bei Datenanfragen.de.\r\nIhr findet mich im Fediverse hier: @zner0L@chaos.social",
+      "answers": []
+    },
+    {
+      "id": 3263,
+      "code": "HBWQ7Q",
+      "public_name": "Benjamin Altpeter",
+      "biography": "Benni ist Datenschutzaktivist und Vorstandsvorsitzender des Datenanfragen.de e. V., eines gemeinn\u00fctzigen Vereins, der es sich zur Aufgabe gemacht hat, Menschen bei der Aus\u00fcbung ihres Grundrechts auf Datenschutz zu helfen. Er hat Informatik an der TU Braunschweig studiert und interessiert sich f\u00fcr IT-Sicherheit und Open-Source-Software. (er/ihm)\r\n\r\nMastodon: [@baltpeter@mastodon.social](https://mastodon.social/@baltpeter), Website: <https://benjamin-altpeter.de/>",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

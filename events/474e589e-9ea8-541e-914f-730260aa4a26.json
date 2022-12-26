@@ -1,0 +1,33 @@
+{
+  "id": 49263,
+  "guid": "474e589e-9ea8-541e-914f-730260aa4a26",
+  "logo": "/media/hip-berlin-2022/submissions/ADCSSQ/rover_1YtEEQZ.jpeg",
+  "date": "2022-12-28T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "c-base mainhall",
+  "slug": "jev22-49263-cuber_mondforschung_und_erkundung_und_modularen_nanorovern",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ADCSSQ/",
+  "title": "CubeR - Mondforschung und \u2013Erkundung und modularen Nanorovern",
+  "subtitle": "",
+  "track": "c-base",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Matthias Maurer beschreibt den Mond als unser *Sprungbrett zum Mars*. Und nicht nur f\u00fcr Missionen zum n\u00e4chsten Planeten, sondern auch f\u00fcr wesentlich weiter entfernte Ziele, wo nie ein Mensch zuvor gewesen ist, wird es unabdingbar sein, den Mond als Trainingsgel\u00e4nde zu nutzen. Mit Hilfe unserer **CubeR** soll die Oberfl\u00e4che des Mondes sowohl f\u00fcr die Wissenschaft als auch f\u00fcr die Industrie zug\u00e4nglich werden. Unsere nach einem offenen Standard entwickelten Nano-Rover stellen eine Grundlage f\u00fcr die Erforschung der unendlichen Weiten des Weltraums dar.",
+  "description": "Mit dem vision\u00e4ren Ziel der europ\u00e4ischen Raumfahrtagentur ESA, bis 2040 eine bemannte Basis auf dem Mond aufzubauen, r\u00fcckt der Mond mehr und mehr in den Fokus von Industrie und Forschung. Die Entwicklung von Nanosatelliten f\u00fcr den Erdorbit, sogenannten CubeSats, hat in den letzten Jahrzehnten eine Revolution in Sachen Zugang zum Weltraum bewirkt. Ziel der 2020 von *Irene Selvanathan* gegr\u00fcndeten **NEUROSPACE GmbH** ist die Erweiterung dieses Wandels bis hin zur Mondoberfl\u00e4che. Dabei gilt es zu untersuchen, in wie weit bestehende CubeSat-Technologie f\u00fcr den Einsatz in der doch sehr \u00e4hnlichen Umgebung geeignet ist. Mit Hilfe eines offenen Standards f\u00fcr die Entwicklung lunarer Rover will NEUROSPACE bewirken, dass zuk\u00fcnftige Missionen sich mehr auf den eigentlichen Anwendungsfall fokussieren k\u00f6nnen, anstatt auf die Entwicklung und Zertifizierung ben\u00f6tigter Komponenten. In diesem Vortrag wird das von Neurospace entwickelte CubeR-Konzept vorgestellt und eine Einordnung der zuk\u00fcnftigen Bedeutung robotischer Systeme f\u00fcr die lunare Erforschung vorgenommen. Dabei wird auf die besonderen Herausforderungen, die es bei der Entwicklung derartiger Systeme zu \u00fcberwinden gibt eingegangen und unser ehrgeiziger Plan beschrieben, wie eine Vielzahl von CubeR-Robotern auf dem Mond die Arbeiten der Astronautinnen und Astronauten \u00fcbernehmen kann.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3375,
+      "code": "NDG3EE",
+      "public_name": "Maximilian von Unwerth",
+      "biography": "Experte f\u00fcr Weltraumrobotik, leidenschaftlicher Dozent und ein Enthusiast f\u00fcr die unendlichen Weiten des Weltraums, promoviert gerade \u00fcber Lunar Exploration Rover und arbeitet als Entwicklungsingenieur bei dem Berliner Raumfahrt-Startup NEUROSPACE GmbH. Mit ihrer neuesten Entwicklung namens CubeR m\u00f6chte NEUROSPACE ihren Kunden die M\u00f6glichkeit bieten, ihre eigenen Fu\u00dfspuren auf dem Mond zu hinterlassen. Dazu haben die Ingenieurinnen und Ingenieure von NEUROSPACE eine neuartige, standardisierte und kostensparende Mond-Rover-L\u00f6sung realisiert. Maximilian studierte Robotik und im Nebenfach Luft- und Raumfahrttechnik an der TU Braunschweig. Er war wissenschaftlicher Mitarbeiter bei der Entwicklung von MIRA3D, einem autonomen Mondrover-Demonstrator f\u00fcr die additive Fertigung von Mondregolith und Teamleiter des European Rover Challenge Siegerteams 2020. Er arbeitete als wissenschaftlicher Assistent f\u00fcr die Vermittlung der Grundlagen des Programmierens und war Organisator des Vorkurses in Computerwissenschaften. Als LEGO-Lab-Mentor inspirierte er junge Entdecker f\u00fcr die Robotik. Um die Informatik in den Schulen zu st\u00e4rken, engagierte er sich als Lehrer am Gymnasium und nahm mit einem Team von Sch\u00fclern an der First LEGO League teil.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+  "origin": "pretalx.c3voc.de"
+}

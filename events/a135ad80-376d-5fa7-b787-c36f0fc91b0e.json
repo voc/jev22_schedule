@@ -1,0 +1,33 @@
+{
+  "id": 49218,
+  "guid": "a135ad80-376d-5fa7-b787-c36f0fc91b0e",
+  "logo": "",
+  "date": "2022-12-27T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "00:45",
+  "room": "HIP - Track 1 - Room 5",
+  "slug": "jev22-49218-it_security",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EJYKY7/",
+  "title": "IT Security",
+  "subtitle": ": a game of counting the negatives, but can we do better?",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "In IT security we have been preoccupied with failures, with things that go wrong, and so we count the negatives -- the times when we failed. How about we seriously started counting the positives? More importantly, what if by adding more and more constraints to avoid the holes we have found, we are also removing the positive capacities in the system, thereby hurting our chance of success more than we hurt our chance of failure? In this talk, I will try to highlight how IT security could be done differently, by trying to focus on what goes right, rather than only focusing on what goes wrong, learning from our successes, and reinforcing them, so when next time the storm comes, we will have enough positive slack in the system to withstand the attack.",
+  "description": "IT security, just like safety, has been focusing on the negatives, trying to learn from the times when things failed. Hence, we have become experts at counting the negatives, at finding all the holes. Because we rightfully fear failure, we have put more and more constraints on our systems through policies and guidelines and ways of working that constrain how they can be built and operated to avoid all the holes we have found. However, we tend to forget that the vast majority of the times, things go well. In fact, often they go well despite all the constraints we have put on the systems. Are we missing important learning opportunities by ignoring how things go well? In this talk, I will try to demonstrate how we could bring what safety literature calls \"Safety II\" or \"Safety Differently\" into the practice of IT security.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3343,
+      "code": "EAQZVJ",
+      "public_name": "Mate Soos",
+      "biography": "Mate Soos has been working both in industry as an IT security expert, and in research, working on formal methods. In industry, he has worked from low-level chip reverse engineering, staring through the microscope at a microprobed chip, through GPGPU-based cipher reversing, all the way to designing the cloud security of large firms. Within the scope of his research, he has been working on SAT and SMT solving, model counting, and uniform sampling. The two aspects of his work have sometimes coincided, e.g. when breaking the Mifare cipher using a specially-designed SAT solver, or when using SMT solvers to prove correctness of digital contracts. Lately, he's been interested in safety engineering, bringing notions from the extensive safety literature to the IT security world.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+  "origin": "pretalx.c3voc.de"
+}

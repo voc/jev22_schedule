@@ -1,0 +1,40 @@
+{
+  "id": 49095,
+  "guid": "f10f5d46-4aac-5b6c-88bc-42d7be28a6de",
+  "logo": "",
+  "date": "2022-12-30T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:00",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49095-philosophinnen_workshop",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VXRENU/",
+  "title": "Philosophinnen Workshop",
+  "subtitle": "",
+  "track": "Haecksen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verst\u00e4ndlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen f\u00fcr die k\u00fcnstlerische Ausgestaltung sammeln.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+  "description": "In der Philosophie gibt es wenig bekannte Frauen. Wir, die Philohaecksen, sind daher daran interessiert herauszufinden, welchen Beitrag Frauen zur Philosophie beigetragen haben. Zus\u00e4tzlich m\u00f6chten wir die Arbeiten und Ideen von Philosphinnen verst\u00e4ndlich darstellen. Am einfachsten zug\u00e4nglich sind die Philosophinnen der Gegenwart. Durch Entwicklungen in der KI stellt sich in der Philosophie auch die Frage nach der Stellung des Menschen im Universum neu. Donna Haraway ist durch ihr Cyborg Manifest bekannt geworden. Martha Nussbaum hat mit ihrem Bef\u00e4higungsansatz ein Konzept f\u00fcr alle f\u00fchlenden Wesen (Menschen + Tiere + ?) entwickelt. Erste Skizzen zu diesen beiden Philosophinnen haben wir schon. Diese wollen wir Euch vorstellen und mit Euch weiterentwickeln. Insbesondere brauchen wir Ideen und Mitstreitende f\u00fcr die k\u00fcnstlerische Ausgestaltung.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3316,
+      "code": "BZL3QV",
+      "public_name": "Smettbo",
+      "biography": "Hallo ich bin Smettbo und seit 2021 bei den Haecksen aktiv. Mit Waldseenixe und Piko habe ich die Philhaecksen ins Leben gerufen. Dort sprechen wir \u00fcber das Spannungsfeld Philosophie und Technik. Ich bin Ingenieurin f\u00fcr Luft-und Raumfahrttechnik und studiere nebenberuflich Philosophie.",
+      "answers": []
+    },
+    {
+      "id": 3252,
+      "code": "KW9PQN",
+      "public_name": "Waldseenixe",
+      "biography": "Ich bin Mathematikerin und war 30 Jahre bei einem IT Konzern als Entwicklerin, wissenschaftliche Mitarbeiterin und Beraterin t\u00e4tig. Heute bin ich Pension\u00e4rin und freie Dozentin und besch\u00e4ftige mich mehr und mehr mit Philosophie.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

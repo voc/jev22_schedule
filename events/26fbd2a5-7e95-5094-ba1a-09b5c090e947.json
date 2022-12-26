@@ -1,0 +1,33 @@
+{
+  "id": 49235,
+  "guid": "26fbd2a5-7e95-5094-ba1a-09b5c090e947",
+  "logo": "",
+  "date": "2022-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "02:00",
+  "room": "Soldering Workshop Room",
+  "slug": "jev22-49235-beginners_workshop_how_to_plan_build_your_own_led_project",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/G9K7L8/",
+  "title": "Beginners workshop - How to plan & build your own LED project",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Learn how to make LED strips glow and how to plan & build your own LED project!",
+  "description": "Are you curious about playing around with LED strips and building your own LED project? But you don't know how to get started and don't have much experience in electronics and soldering? Then join us at our beginner's workshop!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 346,
+      "code": "XM7QC9",
+      "public_name": "Marco",
+      "biography": "Maker, LED enthusiast, educator - and just your average cat onesie wearing guy from next door.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+  "origin": "pretalx.c3voc.de"
+}

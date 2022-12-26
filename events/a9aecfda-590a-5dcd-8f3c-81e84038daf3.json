@@ -1,0 +1,33 @@
+{
+  "id": 49143,
+  "guid": "a9aecfda-590a-5dcd-8f3c-81e84038daf3",
+  "logo": "",
+  "date": "2022-12-27T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "00:45",
+  "room": "HIP - Track 1 - Room 5",
+  "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
+  "title": "US government demands direct police access to European biometric data",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "The \"Enhanced Border Security Partnership\" poses an unprecedented threat to civil liberties in Europe.",
+  "description": "Visa-free entry to the United States is to be tied to a new rule. Authorities of the US Department of Homeland Security want in return permission to search for fingerprints and facial images in the databases of the countries concerned. The demand is of utmost political importance, because in Germany alone this would affect several million facial images and fingerprints in police and asylum databases. There are now questions in Brussels about the EU's competence. From a legal point of view, are these bilateral agreements between individual states and the government in Washington, or is the EU-US visa regime as a whole affected, for which the EU Commission must ensure equal treatment of all members? At least three EU states are said to have already unilaterally agreed, also Israel and Great Britain. How should digital civil society react to this unprecedented generosity for extremely sensitive data?",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3280,
+      "code": "9CLNLW",
+      "public_name": "Matthias Monroy",
+      "biography": "Knowledge worker, activist, editor of the German civil rights journal B\u00fcrgerrechte & Polizei/CILIP and nd.Der Tag. Focussing on policing in the European Union, migration control, undercover cops, internet monitoring, surveillance and interception technologies, police gadgets, satellite intelligence, drones. \r\nPublishing in left-wing newspapers and online-media like netzpolitik.org or Golem. \r\nTexts at https://digit.so36.net (multilanguage). Twitter @matthimon and Mastodon https://chaos.social/@matthimon.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+  "origin": "pretalx.c3voc.de"
+}

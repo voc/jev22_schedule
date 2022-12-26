@@ -1,0 +1,40 @@
+{
+  "id": 49301,
+  "guid": "3b0de8b2-71a0-5178-90d9-75474acc1a14",
+  "logo": "",
+  "date": "2022-12-30T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Bierschoine",
+  "slug": "jev22-49301-hack_tell",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/",
+  "title": "Hack && Tell",
+  "subtitle": "",
+  "track": "Hellarious",
+  "type": "Sonstiges (60)",
+  "language": "de",
+  "abstract": "Hier habt ihr die M\u00f6glichkeit eure Hacks und Projekte im Rahmen einer F\u00fcnfminutenpr\u00e4sentation der Community vorzustellen. \r\n\r\nThis is your chance to show your hacks or projects in 5-minute-presentations to the community.",
+  "description": "Ich werde w\u00e4hrend der Veranstaltung umherlaufen und euch auf eure Projekte ansprechen. Ihr werdet die M\u00f6glichkeit bekommen eure Hacks und Projekte als F\u00fcnfminutenpr\u00e4sentation der Community vorstellen zu k\u00f6nnen. Ich werde die Beitr\u00e4ge sammeln und sortieren, sowie den Slot moderieren. Wir freuen uns auf eure Beitr\u00e4ge.\r\n\r\nI will wander around the event and ask you about your project. If you are interested you can show your work to the community in a 5-minute-presentation. I will collect your works and put them in order to moderate the slot. We are happy about your contributions.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3419,
+      "code": "B9LDFP",
+      "public_name": "Mayo Freude",
+      "biography": null,
+      "answers": []
+    },
+    {
+      "id": 3416,
+      "code": "M3Q7TL",
+      "public_name": "Christoph G\u00f6bel",
+      "biography": "Ich bin Sympathisant der Alten H\u00f6lle und ein guter Freund der Teufelin.\r\nIch hatte noch eine Rechnung mit ihr offen und l\u00f6se diese nun ein. Als Erlebnisp\u00e4dagoge ist es meine Aufgabe Menschen dazu zu bewegen sich zu zeigen, sich zu \u00f6ffnen und auch \u00fcber sich hinauszuwachsen. Diese F\u00e4higkeit kommt mir zu gute, denn ich werde dieses Jahr zusammen mit meiner Partnerin Marika den \"hack&tell\" moderieren und euch dazu bewegen der Community zu zeigen, was auf euren Bildschirmen, in euren Laboren oder eurer Werkstatt abgeht.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+  "origin": "pretalx.c3voc.de"
+}

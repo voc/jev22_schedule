@@ -1,0 +1,40 @@
+{
+  "id": 49226,
+  "guid": "3c648f09-105f-5d30-b681-ad8ef98bb308",
+  "logo": "",
+  "date": "2022-12-28T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:45",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49226-operation_mindfuck_vol_6",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/",
+  "title": "Operation Mindfuck Vol. 6",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!",
+  "description": "You can find recordings of the previous iterations here:\r\n\r\n- [Vol. 1](https://blinry.org/operation-mindfuck/) (German)\r\n- [Vol. 2](https://blinry.org/operation-mindfuck-2/) (German)\r\n- [Vol. 3](https://blinry.org/operation-mindfuck-3/) (German)\r\n- [Vol. 4](https://blinry.org/operation-mindfuck-4/) (English)\r\n- [Vol. 5](https://blinry.org/operation-mindfuck-5/) (English)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 514,
+      "code": "RTVRS9",
+      "public_name": "bleeptrack",
+      "biography": "bleeptrack is a Creative Technologist. Her main interests lie in the areas of generative or AI art, digital fabrication and DIY electronics. Her generative artworks have been presented at several international exhibitions. In November 2019, she received the \u201cF\u00f6rderpreis junge Ulmer Kunst\u201d art award for young artists and had her first solo exhibition at Museum Ulm. Currently, she is artist in residence at 42 Heilbronn, working on generative visualizations of data streams.",
+      "answers": []
+    },
+    {
+      "id": 293,
+      "code": "7G8QBA",
+      "public_name": "blinry",
+      "biography": "blinry is enthusiastic about many things, including computer science, programming, and design! They like free licenses, value autonomy, creativity and curiosity, and try to keep an open mind and heart. After doing research in the field of computational geometry for a while, they are now working as an independent programmer, artist, and game designer. They have attended a scientific workshop on Origami in the Caribbean, backpacked through Japan, and like collecting accidental art or drawing algorithm assembly instructions. They love their communities \u2013 Jugend Hackt, the Recurse Center, the Chaos community.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

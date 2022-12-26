@@ -1,0 +1,33 @@
+{
+  "id": 49164,
+  "guid": "dc229c46-4da1-5b34-bbe1-5c219428a716",
+  "logo": "",
+  "date": "2022-12-30T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49164-oreboot_auf_risc_v_vergleichende_analyse_zweier_implementierungen",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/",
+  "title": "oreboot auf RISC-V - Vergleichende Analyse zweier Implementierungen",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den\r\nJH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.",
+  "description": "Dieser Kurzvortrag stellt die Boot Flows der beiden Chips gegen\u00fcber und\r\nanalysiert Aufwand und Verst\u00e4ndlichkeit der Plattformen. Zum Abschluss\r\nevaluieren wir, wie sich die Implementierungsans\u00e4tze auf Basis eines [aus einer\r\nSVD-Datei generierten Rust Peripheral Access Crates (PAC)](\r\nhttps://docs.rust-embedded.org/book/start/registers.html) und mittels h\u00e4ndisch\r\ngeschriebenen Definitionen von Registern, Bl\u00f6cken und Hilfsfunktionen\r\nunterscheiden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 261,
+      "code": "TJDR8S",
+      "public_name": "Daniel Maslowski",
+      "biography": "I like giving [talks and workshops](https://metaspora.org).\r\n\r\nIn my free time, I work on free and open source software, especially operating systems and distributions, bringup and application firmware, with a focus on tooling, integration, and documentation.\r\n\r\nI created [Fiedka the Firmware Editor](https://fiedka.app).\r\n\r\n---\r\n\r\nIch halte gern [Vortr\u00e4ge und gebe Workshops](https://metaspora.org).\r\n\r\nIn meiner Freizeit arbeite ich an open source Software, insbesondere an Betriebssystemen und Distributionen, bringup und application Firmware, mit einem Fokus auf Tooling, Integration und Dokumentation.\r\n\r\nIch habe [Fiedka den Firmwareeditor](https://fiedka.app) geschaffen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

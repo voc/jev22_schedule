@@ -1,0 +1,33 @@
+{
+  "id": 49185,
+  "guid": "67d55924-cfdc-5432-a2cb-e89877fd9966",
+  "logo": "/media/hip-berlin-2022/submissions/ECDJ3H/IMG_20191223_222139_fwrxzpp.jpg",
+  "date": "2022-12-28T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "00:30",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-49185-ikea_pallet_hacks",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/",
+  "title": "IKEA & pallet hacks!",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "From regular furniture to geodesic domes. \r\nWith an extra of: why you shouldn't repair your ceiling for free (and I did it anyway)",
+  "description": "From regular furniture to geodesic domes.  Pallet furniture and other upcycling projects.\r\n\r\nBest practices and how-tos concerning working with pallets and IKEA resources.\r\n\r\nHow to hack your rental apartment deposit free.\r\n\r\nWith an extra of: why you shouldn't repair your ceiling for free (and I did it anyway)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3317,
+      "code": "RGRP9P",
+      "public_name": "Bart",
+      "biography": "Bart is a spontaneous problem solver who enjoys tinkering, building, and breaking things.\r\nHis native habitat is around Hackerspace.Gent (Belgium) but is known to roam around Europe regularly by train between conferences, camps and hackerspaces. Bart enjoys upcycling and repairing items as well as building things with old and new electronics, pallets, or pieces of code. His hobbies include diving, interrail travel, volunteering and meeting new people.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}

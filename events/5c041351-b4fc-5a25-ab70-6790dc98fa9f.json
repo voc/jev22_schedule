@@ -1,0 +1,33 @@
+{
+  "id": 49284,
+  "guid": "5c041351-b4fc-5a25-ab70-6790dc98fa9f",
+  "logo": "",
+  "date": "2022-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49284-barrierefrei_posten",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/",
+  "title": "Barrierefrei posten",
+  "subtitle": ": Bildbeschreibungen auf Social Media",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.",
+  "description": "Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde \u00fcberhaupt Farben? All diese Fragen und mehr m\u00f6chte ich anhand von einigen Beispielen exemplarisch beantworten und mit euch gemeinsam daf\u00fcr sorgen, dass eure Pr\u00e4senzen im Cyberspace f\u00fcr alle zug\u00e4nglicher werden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3247,
+      "code": "7XY7NU",
+      "public_name": "Casey Kreer",
+      "biography": "sie/ihr | they/them",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

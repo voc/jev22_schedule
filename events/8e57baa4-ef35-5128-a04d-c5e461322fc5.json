@@ -1,0 +1,33 @@
+{
+  "id": 49302,
+  "guid": "8e57baa4-ef35-5128-a04d-c5e461322fc5",
+  "logo": "",
+  "date": "2022-12-29T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "00:30",
+  "room": "Bierschoine",
+  "slug": "jev22-49302-iridium_reverse_engineering",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/",
+  "title": "Iridium reverse engineering",
+  "subtitle": ": News seit 2016",
+  "track": "Hellarious",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.",
+  "description": "Dieser Vortrag gibt eine Uebersicht zu den Verbessungen der Tools, neu verfuegbarer Hardware und zum Verstaendnis der Daten die sich ueber das Netzwerk sammeln lassen.\r\n\r\nSeit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 379,
+      "code": "XUSLJP",
+      "public_name": "schneider",
+      "biography": "I usually deal with topics that involve stuff. Can be blinky things, noisy things, radiating things, receving things...\r\n\r\nYou might associate me with the following terms: r0ket, rad1o, card10, Iridium, SDR, muccc",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49154,
+  "guid": "642a2250-a5b9-5e4a-bf53-984f1f0c0a70",
+  "logo": "/media/fire-shonks-2022/submissions/LMFMJN/logo_ekPeMOF.png",
+  "date": "2022-12-28T11:55:00+01:00",
+  "start": "11:55",
+  "duration": "01:45",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49154-platform_system_interface_design_und_evaluation_holistischer_computerarchitektur",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/",
+  "title": "Platform System Interface - Design und Evaluation holistischer Computerarchitektur",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Konnten wir sie je verstehen, und begreifen wir Computer heute noch wirklich?\r\nAuf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.",
+  "description": "Ausgehend von einer Metaperspektive schauen wir uns die vielen verworrenen Facetten an, die zusammen die Elektronik der heutigen Zeit ergeben, von Gadgets und Mobilger\u00e4ten bis zu gro\u00dfen Rechnern, um schlie\u00dflich zur\u00fcckzufinden zu ihrem Ursprung: den Menschen, die sie geschaffen haben, die mit ihnen arbeiten und spielen, wie sich jene doch gar kaum unterscheiden und was sie antreibt.\r\nDies legt den Grundstein zum \u00fcbergreifenden [Platform System Interface](https://github.com/platform-system-interface)-Projekt, das darauf abzielt, die gemeinsame Gestaltung von Hard- und Software im Ganzen zu dokumentieren mit der [psi-spec](https://github.com/platform-system-interface/psi-spec) in Prosa, und dar\u00fcber hinaus Anleitungen, Werkzeuge und ein Framework bereitzustellen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 261,
+      "code": "TJDR8S",
+      "public_name": "Daniel Maslowski",
+      "biography": "I like giving [talks and workshops](https://metaspora.org).\r\n\r\nIn my free time, I work on free and open source software, especially operating systems and distributions, bringup and application firmware, with a focus on tooling, integration, and documentation.\r\n\r\nI created [Fiedka the Firmware Editor](https://fiedka.app).\r\n\r\n---\r\n\r\nIch halte gern [Vortr\u00e4ge und gebe Workshops](https://metaspora.org).\r\n\r\nIn meiner Freizeit arbeite ich an open source Software, insbesondere an Betriebssystemen und Distributionen, bringup und application Firmware, mit einem Fokus auf Tooling, Integration und Dokumentation.\r\n\r\nIch habe [Fiedka den Firmwareeditor](https://fiedka.app) geschaffen.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

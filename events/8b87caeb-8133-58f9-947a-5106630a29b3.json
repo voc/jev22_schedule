@@ -1,0 +1,33 @@
+{
+  "id": 49289,
+  "guid": "8b87caeb-8133-58f9-947a-5106630a29b3",
+  "logo": "",
+  "date": "2022-12-29T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "00:30",
+  "room": "Bierschoine",
+  "slug": "jev22-49289-the_state_of_the_state_die_wichtigsten_themen_der_digitalen_verwaltung",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/",
+  "title": "The state of the state - die wichtigsten Themen der digitalen Verwaltung",
+  "subtitle": "",
+  "track": "Hellarious",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Verwaltungsdigitalisierung is trodding on.",
+  "description": "Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3395,
+      "code": "CF7BY7",
+      "public_name": "Spyro",
+      "biography": "Hat hauptberuflich und privat starke Meinungen zu Verwaltungsdigitalisierung.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 49225,
+  "guid": "63e62165-616d-5595-bf2d-daf29adf4e05",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:30",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49225-neurodivers_treffen_von_haecksen_fuer_finta",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UBEXMV/",
+  "title": "Neurodivers-Treffen von Haecksen f\u00fcr FINTA",
+  "subtitle": "",
+  "track": "Haecksen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Treffen zum Austausch und Plaudern von und mit Haecksen, offen f\u00fcr alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversit\u00e4ten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+  "description": "Treffen zum Austausch und Plaudern von und mit Haecksen, offen f\u00fcr alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversit\u00e4ten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3287,
+      "code": "7VZLH3",
+      "public_name": "dakoraa",
+      "biography": "To queer to write a biography.",
+      "answers": []
+    },
+    {
+      "id": 3239,
+      "code": "BGKNHG",
+      "public_name": "merline",
+      "biography": "Haeckse und Macherin // Haeckse and maker",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

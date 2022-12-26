@@ -1,0 +1,33 @@
+{
+  "id": 49307,
+  "guid": "6be5205a-e021-58e5-aac5-fbf654757933",
+  "logo": "",
+  "date": "2022-12-30T20:30:00+01:00",
+  "start": "20:30",
+  "duration": "01:00",
+  "room": "xrelog22 - Stream",
+  "slug": "jev22-49307-overte",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/",
+  "title": "Overte",
+  "subtitle": ": Logic using the JavaScript API",
+  "track": "Sachen Machen",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Casual introduction into the capabilities of Overte's scripting engine.",
+  "description": "Try out scripting in Overte and see the endless possibilities.\r\nYou can join using the client from https://overte.org/#downloads (Windows or Linux)\r\nYou can also spectate the event on PeerTube.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3418,
+      "code": "NX83XB",
+      "public_name": "Julian Gro\u00df",
+      "biography": "I am one of the people behind Overte.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ad28953f-122e-4293-836d-860320183a1c",
+  "origin": "pretalx.c3voc.de"
+}

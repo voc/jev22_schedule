@@ -1,0 +1,33 @@
+{
+  "id": 49306,
+  "guid": "bf6ca943-8410-5ca8-93a5-6672b3d8d222",
+  "logo": "",
+  "date": "2022-12-29T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "01:00",
+  "room": "xrelog22 - Stream",
+  "slug": "jev22-49306-overte",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/T3KYPP/",
+  "title": "Overte",
+  "subtitle": ": World hopping",
+  "track": "VR Welten",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "Let's visit worlds in Overte together!",
+  "description": "Try out Overte and explore some of the existing worlds with the developers.\r\nYou can join using the client from https://overte.org/#downloads (Windows or Linux)\r\nYou can also spectate the event on PeerTube.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3418,
+      "code": "NX83XB",
+      "public_name": "Julian Gro\u00df",
+      "biography": "I am one of the people behind Overte.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ad28953f-122e-4293-836d-860320183a1c",
+  "origin": "pretalx.c3voc.de"
+}

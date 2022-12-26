@@ -1,0 +1,33 @@
+{
+  "id": 49272,
+  "guid": "a4fe3f0c-a766-5631-9fcd-491c451b66ea",
+  "logo": "",
+  "date": "2022-12-28T20:45:00+01:00",
+  "start": "20:45",
+  "duration": "00:30",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-49272-connecting_networks_in_global_maker_movements",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DC8TQG/",
+  "title": "Connecting Networks in Global Maker Movements",
+  "subtitle": ": the Africa Europe Maker Innovation Ecosystem",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "We're creating a network of maker networks \u2013 very meta indeed. Through this we want to leverage the potential of open hardware for digital innovation, skill building and job creation.",
+  "description": "The participating networks all support spaces and makers in Africa and Europe, through them we want to promote Open Hardware and the Internet of Production.\r\n\r\nmAkE is a trans-disciplinary approach to connect European and African Digital Innovation Hubs, EU funded through the Horizon 2020 programme.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 388,
+      "code": "8KXKVD",
+      "public_name": "aprica",
+      "biography": "Berlin based political consultant and activist. Board member of the Global Innovation Gathering e.V., a global network of social and technological innovators.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}

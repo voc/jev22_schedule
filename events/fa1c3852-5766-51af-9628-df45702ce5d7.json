@@ -1,0 +1,33 @@
+{
+  "id": 49178,
+  "guid": "fa1c3852-5766-51af-9628-df45702ce5d7",
+  "logo": "",
+  "date": "2022-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-49178-kein_perso_ohne_finger_abdruecke_mehr_was_tun",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/",
+  "title": "Kein Perso ohne Finger(abdr\u00fccke) mehr - was tun?",
+  "subtitle": "",
+  "track": "Digitalcourage",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.",
+  "description": "Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdr\u00fccke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir \u00fcberzeugt: das ist \u00fcbergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europ\u00e4ischen Gerichtshof gegen die Fingerabdruckspflicht.\r\nIn dem Talk erkl\u00e4ren wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 302,
+      "code": "XQZELM",
+      "public_name": "Konstantin Macher (Digitalcourage)",
+      "biography": "Konstantin ist Politikwissenschaftler mit lebenslanger Technikbegeisterung und Freude am Basteln. Seinem Drang nach gesellschaftlichem Engagement kommt er besonders durch seine Arbeit als Campaigner bei Digitalcourage e.V. nach. Dort bearbeitet er meist sicherheitspolitische Themen und koordiniert sich mit anderen Aktiven, z.B. zu den Themen #Chatkontrolle, #ReclaimYourFace, #PersoOhneFinger, #Vorratsdatenspeicherung und vieles mehr.\r\nKontakt gerne im Fediverse an @konstantin@digitalcourage.social",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

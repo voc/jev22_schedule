@@ -1,0 +1,33 @@
+{
+  "id": 49224,
+  "guid": "16a5d335-e9b3-527e-b6c5-4beea8531752",
+  "logo": "/media/hip-berlin-2022/submissions/SCGVSD/c4bda1cf-c0be-46be-97be-b0cc70b65e35_Aw63DNe.jpeg",
+  "date": "2022-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "c-base mainhall",
+  "slug": "jev22-49224-berlin_hack_and_tell",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SCGVSD/",
+  "title": "Berlin Hack and Tell",
+  "subtitle": "",
+  "track": "c-base",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "stand up hacking - 8 dynamically allocated Slots(5min presentation + 5min conversation with the audience)\r\nPast hacks here: https://berlinhackandtell.rocks",
+  "description": "Berlin Hack and Tell is a monthly(ish) meetup where eight entities can show their hacks at c-base space station every(ish) last Tuesday of the month.\r\nThis time the last Tuesday of the month is in parallel to HIP as a special edition.\r\nYou have five minutes followed by up to five minutes of interaction with the audience. \r\nShow us code or other cool stuff, not slides or a sales pitch! Show off a silly/hobby project that you can\u2019t present elsewhere. Do some software archaeology and dig in ancient code. Show some code that makes your life a little better. As long as it is interesting and/or fun and not pitch-y you are welcome to present kind of anything that can be considered hack in a wider scope you are invited to show it.\r\nThink of it like \u201cstand up hacking\u201d. \r\nCheck out the past projects here: \r\nhttps://berlinhackandtell.rocks\r\nReserve a slot by dropping a mail to mail@berlinhackandtell.rocks",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3348,
+      "code": "SAAWPJ",
+      "public_name": "ligi",
+      "biography": "* [https://ligi.de](https://ligi.de)\r\n* [https://github.com/ligi](https://github.com/ligi)\r\n* [https://chaos.social/@ligi](https://chaos.social/@ligi)\r\n* [https://twitter.com/mr_ligi](https://twitter.com/mr_ligi)",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+  "origin": "pretalx.c3voc.de"
+}

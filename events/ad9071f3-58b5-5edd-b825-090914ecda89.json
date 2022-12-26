@@ -1,0 +1,33 @@
+{
+  "id": 49202,
+  "guid": "ad9071f3-58b5-5edd-b825-090914ecda89",
+  "logo": "/media/hip-berlin-2022/submissions/PYSPFN/frida_WbLyUQ8.png",
+  "date": "2022-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:40",
+  "room": "HIP - Track 1 - Room 5",
+  "slug": "jev22-49202-introduction_to_reverse_engineering_with_frida",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/",
+  "title": "Introduction to Reverse Engineering with Frida",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Want to learn reverse engineering? Looking for the tool assisting you in reversing almost everything? With Frida, you can reprogram software during runtime, so-called hooking, and view or change the program logic without source code access.",
+  "description": "This talk provides a short overview on Frida capabilities and how to use them, including live demos. Frida supports various operating systems, including Linux, Windows, macOS, iOS, Android. You will be able to use this knowledge to get started with reverse engineering on your own :)",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3328,
+      "code": "7Q9QZN",
+      "public_name": "jiska",
+      "biography": "Jiska Classen is a wireless and mobile security researcher. The intersection of these topics means that she digs into iOS internals, reverse engineers wireless firmware, and analyzes proprietary protocols. Her practical work on public Bluetooth security analysis tooling uncovered remote code execution and cryptographic flaws in billions of mobile devices. She also likes to work on obscure and upcoming wireless technologies, for example, she recently uncovered vulnerabilities in Ultra-wideband distance measurement and reverse-engineered Apple's AirTag communication protocol.\r\n\r\nShe has previously spoken at Black Hat USA, DEF CON, RECon, hardwear.io, Chaos Communication Congress, Chaos Communication Camp, Gulasch Programmer Nacht, MRMCDs, Easterhegg, Troopers, Pass the Salt, NotPinkCon, gave various lectures and training, and published at prestigious academic venues.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+  "origin": "pretalx.c3voc.de"
+}

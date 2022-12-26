@@ -1,0 +1,33 @@
+{
+  "id": 49265,
+  "guid": "6b39010f-ddb8-5b50-a751-92418a503ac0",
+  "logo": "",
+  "date": "2022-12-27T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "02:00",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-49265-introduction_to_c_programming",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EWAQC7/",
+  "title": "Introduction to C Programming",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "In this workshop you will learn C through many hands on exercises of varying difficulty or bring-your-own projects.  Everyone will be learning on their own time, the only requirement is motivation!  Groups welcome as well, and if you already started a small project I can also provide you a small review and perhaps ideas on how to improve.\r\n\r\nThe platform will be mostly Linux and UNIX/POSIX (BSD, macOS, Solaris) due to personal experience there, but Windows is possible as well (with a bit more limited help).  Alternatively the Windows Subsystem for Linux can be used to develop and target Linux from Windows.",
+  "description": "C is still one of the major programming languages used for development and maintenance of existing software.  It has a deep history as being the language that was designed for developing UNIX with.  Due to this, it traditionally has no features other than those strictly required for building a 1970s era operating system.\r\n\r\nWhile it is probably not fit for developing the Next Big Thing, it's still the language of choice for many due to its versatility and \"simplicity\".  Many critical components are written in C or at least expose a C interface, as such, C can be considered the \"lingua franca\" of interoperability, required for glueing everything together.\r\n\r\nThis workshop's goal is to have fun while learning C and also, hopefully, understanding some of its design choices.\r\n\r\nC is a small language making it easy to cover in such a short time\u2014yet difficult to master, due its age and the complexity that arise through that.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3378,
+      "code": "WALKSP",
+      "public_name": "Leo (he/his) || Janis (she/her) || * (they/them)",
+      "biography": "I'm a genderqueer hacker from Berlin. Currently working in IT Security, my interests are also in systems engineering, typesetting/typography and cryptography. Additionally, I love teaching about these subjects as well as engaging in politics, having been part of the student's \"Fachschaftsinitiative\" of the CS department at the Freie Universit\u00e4t Berlin and active in various roles in the Ausbildungskommission, Institutsrat, Fachbereichsrat, Studierendenparlament and briefly as a member of the Academic Senate, before retiring from student life.\r\n\r\nA number of open source projects are hosted all over the place at\r\n\r\n* https://github.com/ljrk0\r\n* https://codeberg.org/ljrk\r\n* https://gitlab.com/ljrk\r\n\r\nand you can reach me in the Fediverse over\r\n\r\n* https://todon.eu/@ljrk\r\n\r\nas well as read my blog over at\r\n\r\n* https://ljrk.codeberg.page/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

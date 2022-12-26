@@ -1,0 +1,47 @@
+{
+  "id": 49104,
+  "guid": "52842ce0-1c84-5c32-b2b2-8f8a4a085810",
+  "logo": "/media/fire-shonks-2022/submissions/GNXXZ9/hexe_HY5bs8l.png",
+  "date": "2022-12-28T17:30:00+01:00",
+  "start": "17:30",
+  "duration": "01:00",
+  "room": "Fireshonks-Workshop",
+  "slug": "jev22-49104-hack_yourself_digitale_selbstverteidigung",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GNXXZ9/",
+  "title": "Hack yourself - Digitale Selbstverteidigung",
+  "subtitle": "",
+  "track": "Haecksen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Was f\u00fcr Infos gebe ich preis, wof\u00fcr sind diese Daten \u00fcberhaupt relevant und was k\u00f6nnen Kriminelle damit machen? In diesem interaktiven Workshop lernen die Teilnehmer*innen die Grundlagen der digitalen Selbstverteidigung. Wie lernen gemeinsam Schwachstellen zu erkennen und zu beheben, damit sie zuk\u00fcnftig vermieden werden k\u00f6nnen. Dieser Workshop eignet sich f\u00fcr jedes Alter und jeden Kenntnisstand, f\u00fcr newbies und digital natives, aber auch f\u00fcr DICH, wenn du mal eine Auffrischung in diesem Bereich gebrauchen kannst.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+  "description": "Das Absch\u00e4tzen von Risiken geh\u00f6rt zu unserem Alltag, mal bewusst mal weniger. Unabh\u00e4ngig davon, in welchem Umfang wir das Internet nutzen und egal, ob nur privat oder beruflich, treffen wir Entscheidungen, die unsere Sicherheit betreffen.\r\n**Es ist daher sehr ratsam, sich mit der praktischen Umsetzung zu befassen, die wir bei einer Risikominimierung bis hin zur Vermeidung helfen.** M\u00f6chte ich dieses Produkt nutzen? Muss ich dieses Produkt nutzen? Wie sieht es mit dem Datenschutz dabei aus? Haben die Herrsteller bereits Ma\u00dfnahmen getroffen oder bieten mir sogar die Option f\u00fcr einen besseren Schutz? Wie wichtig ist mir das Konto und was ist das schlimmste, was dabei passieren kann? Welche Schwachstellen ergeben sich, wenn ich mich z.B. f\u00fcr mehr Komfort statt f\u00fcr Sicherheit entscheide und wie kann ich das besser absch\u00e4tzen?\r\n\r\nDer Workshop soll Personen dabei helfen, mehr \u00fcber ihr Verhalten im Internet rauszufinden und dabei u.a. folgende Aspekte zu ber\u00fccksichtigen:\r\n* Was f\u00fcr Infos geben ich preis?\r\n* Habe ich bereits ein Problem mit Zugangsdaten, weil diese in einem Breach sind und ich sie nicht ge\u00e4ndert habe?\r\n* Nutze ich dieselben Zugangsdaten bei mehreren Diensten?\r\n* In case of emergency: Wohin kann ich mich wenden, wenn \"was\" (Data Breach, Identit\u00e4tsdiebstahl, ...) passiert ist?",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3377,
+      "code": "YVPD3T",
+      "public_name": "Lunikell",
+      "biography": "Nordlicht im s\u00fcddeutschen Exil, macht tags\u00fcber was mit Mechatronik und abends lieber Kram an Computern",
+      "answers": []
+    },
+    {
+      "id": 3342,
+      "code": "H3FGTA",
+      "public_name": "Catrin (sie/ihr)",
+      "biography": "Catrin macht schon immer irgendwas und davon sehr viel mit IT und mag Menschen. Deshalb liegt ihr das Thema IT-Sicherheit und die Auswirkungen der Digitalisierung auf die Gesellschaft sehr am Herzen.",
+      "answers": []
+    },
+    {
+      "id": 43,
+      "code": "7NGZ9Q",
+      "public_name": "C_ristina",
+      "biography": "Defense Haeckse, Gynformation, geekfem, Cryptoparty HH, hat Pony-gro\u00dfe Hunde und \u00fcberall wo es Pommes gibt.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ed7a9e51-8a51-402a-bcf9-1068fac7dd6c",
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 49259,
+  "guid": "acb55b2d-694b-5177-bb5e-121f7ccb4ba8",
+  "logo": "/media/hip-berlin-2022/submissions/39AJEL/source-jpeg-JrMYWLYMKHKjfRA2g_Dxtb3pI.jpeg",
+  "date": "2022-12-30T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "00:17",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/",
+  "title": "Of someone who went forth to find a flat in Berlin. An automation-drama in three acts \u2014 Act 3",
+  "subtitle": ": In ultimate consequence",
+  "track": "E.T.I.",
+  "type": "Music/Performance/Art/Other Cool stuff",
+  "language": "de",
+  "abstract": "Fully automated puppet theater, 17 minutes (starts on demand)\r\nClemens Sch\u00f6ll, 2020\r\n\r\nIn the \"little automation theater\" the story is told of the princess (who wants to move to Berlin after her art studies), Kasperle and the Wohnungsbot (apartment bot - who must realize that there are no technical solutions to social problems). The stage adaptation of the software success!",
+  "description": "The princess realizes that she must move to Berlin when she sees a banner reading \"An artist who does not live in Berlin is no artist\" at an exhibition in Leipzig. \r\nLuckily she meets Kasperle while looking for an apartment, who introduces her to the Wohnungsbot at its launching exhibition. The Wohnungsbot is a free, open source bot (software) that offers a fully automated flat application process in Berlin [Download and more info at wohnungsbot.de] and was launched in Act II \u201cThe bot\u2019s promise\u201d. \r\nBut although the Wohnungsbot has already freed countless people from the symptoms of rent madness, this mission plunges the Wohnungsbot into an existential crisis: A lessor-bot was created which rejects all applications of the princess because her net income is too little. \r\nIn the final monologue, the Wohnungsbot (transformed into a physical figure) recognizes its failure and reflects on the impossibility of technological solutions to social problems.\r\n\r\nThe software Wohnungsbot was published as an apparent \"technical fix\". It promised the visitors to be able to escape the rent insanity in a growing Berlin. But afterall the promise of the bot will burst. For now, the Wohnungsbot functions, but the third act \"In ultimate consequence\" anticipates what must come to happen: the lessors or the housing platforms will react with counter-automations and thus lead to an ever further accelerated and mechanized housing search automation spiral. This will hardly end in favor of the tenants.\r\nThe \"small automation theater\" uses its own medium of automated puppet theatre to debate, already today, how we want automation to shape our lives in the future and how we want apartments in our cities to be allocated.\r\n\r\nwith\r\nKasperle\r\nPrinzessin\r\nKrokodil\r\nWohnungsbot\r\n\r\nspoken by\r\nMonika Freinberger (Kasperle, Prinzessin, Krokodil)\r\nMarlene [AWS Polly] (Wohnungsbot)\r\n\r\nCopy editing\r\nChristopher Heyder\r\n\r\nProduction\r\nOrtrun Bargholz \r\n\r\nPremiere\r\n2020-01-17, ZAK Spandau, Berlin",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3371,
+      "code": "GWLBBT",
+      "public_name": "Clemens Sch\u00f6ll",
+      "biography": "Clemens Sch\u00f6ll is a media artist, media theorist and software engineer. He studied computer science and fine arts in Leipzig, Lissabon as well as currently Berlin. The usually information-technological works range from (virtual reality) installations, net art to performances. His work was exhibited at Kunsthalle Zurich, [...] among others. He curated the exhibition In VR we trust. Sch\u00f6ll is co-founder of the media art collective THIS IS FAKE as well as the F\u00f6rderverein Palast der Republik e.V.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

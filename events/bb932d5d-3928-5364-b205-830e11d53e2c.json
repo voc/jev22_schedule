@@ -1,0 +1,33 @@
+{
+  "id": 49161,
+  "guid": "bb932d5d-3928-5364-b205-830e11d53e2c",
+  "logo": "/media/hip-berlin-2022/submissions/YBPSJK/A4TN_EMF_Camp_2022_oouqpKy.jpg",
+  "date": "2022-12-27T14:00:00+01:00",
+  "start": "14:00",
+  "duration": "03:30",
+  "room": "Soldering Workshop Room",
+  "slug": "jev22-49161-arduino_for_total_newbies",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YBPSJK/",
+  "title": "Arduino For Total Newbies",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "''Learn Arduino using TV-B-Gone as an example project''<br>\r\n<br>\r\nYou've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.",
+  "description": "Arduino is an amazingly powerful tool that is very simple to learn to use. It was designed so that artists and non-geeks can start from nothing, and make something cool happen in less than 90 minutes. Yet, it is powerful enough so that uber-geeks can use it for their projects as well.\r\n\r\nThis workshop is easy enough for '''''total newbies''''' to learn all you need to know to get going on an Arduino.\r\n\r\nTaught by [http://en.wikipedia.org/wiki/Mitch_Altman Mitch Altman]. Participants will make their own Arduino clone, and set it up on solderless breadboards to make their own TV-B-Gone remote control to turn off TVs in public places -- a fun way to learn Arduino (and electronics) basics. Bring your laptop, if you can.\r\n\r\n''Big thanks to Ken Shirriff, who came up with the original [http://www.arcfn.com/2009/12/tv-b-gone-for-arduino.html TV-B-Gone for Arduino].''\r\n\r\n== Workshop Itinerary ==\r\n* Intro to Arduino\r\n* Very short lesson to learn everything you need to know about electronics!\r\n* Then we will learn to solder. Don't let this scare you! I've taught tens of thousands of people to solder, most of whom have never made anything before in their lives. It is actually a very easy skill to learn. It is also very useful.\r\n* Then we will each make our own Arduino clone from a kit made by Samurai Circuits: [https://cornfieldelectronics.com/cfe/u_do_it_duino_complete.php U-Do-It-Duino].\r\n* Now that we each have our own Arduino, we will set up the free and open-source software on our laptops (if you bring one) -- Windows, MacOS, or Linux are all fine!\r\n* And then its time to make something and learn how easy it is to use Aruino! I'll (very easily!) show you how to read schematic diagrams, and you'll put together your own TV-B-Gone remote control using your [https://cornfieldelectronics.com/cfe/u_do_it_duino_complete.php U-Do-It-Duino]. We will use a solderless breadboard. These are really useful, and provide a fast, and very easy way to put circuits together without needing to solder.\r\n* Target practice is available after the workshop.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 240,
+      "code": "QFFJLL",
+      "public_name": "Mitch",
+      "biography": "Mitch Altman is an international hacker and inventor, best known for inventing TV-B-Gone remote controls, a keychain that turns off TVs in public places.  He has been creating music and music synthesizers since he was a teenager, was co-founder of 3ware, a successful Silicon Valley startup in the late 1990s, and did pioneering work in Virtual Reality in the mid-1980s. He has contributed to 2600, MAKE, and other magazines, and wrote a chapter for \u201cMaker Pro\u201d, a book about making a living from projects one loves.  Mitch enjoys his frequent hacker/artist-in-residencies, where he shares, learns, and continues to cross-pollinate.  For the last several years Mitch has been giving performances, talks, leading workshops around the world, inspiring people, sharing how to make cool things with electronics, and teaching everyone to solder.  He promotes hackerspaces and open source hardware, and mentors others wherever he goes. He is a co-founder of Noisebridge hackerspace in San Francisco, and is President and CEO of Cornfield Electronics.\r\n\r\n    Wikipedia page:\r\n    http://en.wikipedia.org/wiki/Mitch_Altman\r\n\r\n    TEDxBrussels talk: \"The Hackerspace Movement\":\r\n    https://www.youtube.com/watch?v=WkiX7R1-kaY",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+  "origin": "pretalx.c3voc.de"
+}
