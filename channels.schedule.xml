@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 01:42</version>
+  <version>2022-12-26 02:14</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -23,9 +23,9 @@
         <start>15:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-9183-muc_free_space_ein_mangel_im_ueberfluss_26_12_120_min</slug>
+        <slug>jev22-9183-muc_free_space_ein_mangel_im_ueberfluss</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BGQNEC/</url>
-        <title>MUC free SPACE? Ein Mangel im Überfluss. (26.12, 120 min)</title>
+        <title>MUC free SPACE? Ein Mangel im Überfluss.</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Diskussion</type>
@@ -166,9 +166,9 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49194-how_to_prepare_files_for_lasercutting_talk</slug>
+        <slug>jev22-49194-how_to_prepare_files_for_lasercutting</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/</url>
-        <title>How to prepare files for lasercutting (Talk)</title>
+        <title>How to prepare files for lasercutting</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>
@@ -343,9 +343,9 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <start>21:30</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49177-von_der_mailbox_bis_zum_fediverse_kamingespraech</slug>
+        <slug>jev22-49177-von_der_mailbox_bis_zum_fediverse</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/A8J8AF/</url>
-        <title>Von der Mailbox bis zum Fediverse (Kamingespräch)</title>
+        <title>Von der Mailbox bis zum Fediverse</title>
         <subtitle/>
         <track>Digitalcourage</track>
         <type>Talk</type>
@@ -642,10 +642,10 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12</slug>
+        <slug>jev22-759-k</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
-        <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)</title>
-        <subtitle/>
+        <title>K</title>
+        <subtitle> – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</subtitle>
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
@@ -814,10 +814,10 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <start>14:00</start>
         <duration>01:15</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49102-10_000_seiten_spaeter_welche_spuren_der_klimabericht_bei_mir_hinterlassen_hat</slug>
+        <slug>jev22-49102-10_000_seiten_spaeter</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/</url>
-        <title>10.000 Seiten später – Welche Spuren der Klimabericht bei mir hinterlassen hat</title>
-        <subtitle/>
+        <title>10.000 Seiten später</title>
+        <subtitle> – Welche Spuren der Klimabericht bei mir hinterlassen hat</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -1141,9 +1141,9 @@ programm folgt...</description>
         <start>22:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>jev22-5374-cursedin_drum_n_bass</slug>
+        <slug>jev22-5374-cursedin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
-        <title>cursedin (Drum'n'Bass)</title>
+        <title>cursedin</title>
         <subtitle/>
         <track>Potsdam</track>
         <type>Performance</type>
@@ -1298,8 +1298,8 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <room>xrelog22 - Stream</room>
         <slug>jev22-49305-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
-        <title>Overte: In-world creation with Voxels, Physics, etc.</title>
-        <subtitle/>
+        <title>Overte</title>
+        <subtitle>: In-world creation with Voxels, Physics, etc.</subtitle>
         <track>Sachen Machen</track>
         <type>Workshop</type>
         <language>en</language>
@@ -1323,9 +1323,9 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49219-mafifa_wm_2030_1</slug>
+        <slug>jev22-49219-mafifa_wm_2030</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
-        <title>mafifa - WM 2030 (1: Auslosung)</title>
+        <title>mafifa - WM 2030</title>
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (30)</type>
@@ -1734,8 +1734,8 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
         <room>Fireshonks-Stream</room>
         <slug>jev22-49115-tracking_in_apps</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FRQGY9/</url>
-        <title>Tracking in Apps: Ist das legal? – Eine Übersicht über die mobile Trackinglandschaft</title>
-        <subtitle/>
+        <title>Tracking in Apps</title>
+        <subtitle>: Ist das legal? – Eine Übersicht über die mobile Trackinglandschaft</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -1869,8 +1869,8 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <room>Fireshonks-Stream</room>
         <slug>jev22-49246-post_quantum_cryptography</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/B7GMAL/</url>
-        <title>Post-Quantum Cryptography: Detours, delays, and disasters</title>
-        <subtitle/>
+        <title>Post-Quantum Cryptography</title>
+        <subtitle>: Detours, delays, and disasters</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
@@ -1947,8 +1947,8 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-8920-owasp_raider</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/</url>
-        <title>OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions</title>
-        <subtitle/>
+        <title>OWASP Raider</title>
+        <subtitle>: a novel framework for manipulating HTTP processes of persistent sessions</subtitle>
         <track>Potsdam</track>
         <type>Talk</type>
         <language>de</language>
@@ -2035,8 +2035,8 @@ Links to the project:&#13;
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-4704-die_mikroarchitektur_moderner_prozessoren</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/FEWKFR/</url>
-        <title>Die Mikroarchitektur moderner Prozessoren: ein Crashkurs</title>
-        <subtitle/>
+        <title>Die Mikroarchitektur moderner Prozessoren</title>
+        <subtitle>: ein Crashkurs</subtitle>
         <track>Potsdam</track>
         <type>Talk</type>
         <language>de</language>
@@ -2085,8 +2085,8 @@ Links to the project:&#13;
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-780-vitamin_d_versus_sonnenbrand</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/NVKBLS/</url>
-        <title>Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne</title>
-        <subtitle/>
+        <title>Vitamin D versus Sonnenbrand</title>
+        <subtitle>: Wissenschaftlich fundierter Umgang mit der Sonne</subtitle>
         <track>Potsdam</track>
         <type>Talk</type>
         <language>de</language>
@@ -2141,8 +2141,8 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-1140-citizen_kino</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/GURA8Y/</url>
-        <title>CiTiZEN KiNO: ( #95 ) Organisms vs. Automatons ( revisited )</title>
-        <subtitle/>
+        <title>CiTiZEN KiNO</title>
+        <subtitle>: ( #95 ) Organisms vs. Automatons</subtitle>
         <track>Potsdam</track>
         <type>Performance</type>
         <language>de</language>
@@ -2218,8 +2218,8 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <room>Bierschoine</room>
         <slug>jev22-49302-iridium_reverse_engineering</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
-        <title>Iridium reverse engineering: News seit 2016</title>
-        <subtitle/>
+        <title>Iridium reverse engineering</title>
+        <subtitle>: News seit 2016</subtitle>
         <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
@@ -2247,8 +2247,8 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <room>xrelog22 - Stream</room>
         <slug>jev22-49306-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/T3KYPP/</url>
-        <title>Overte: World hopping</title>
-        <subtitle/>
+        <title>Overte</title>
+        <subtitle>: World hopping</subtitle>
         <track>VR Welten</track>
         <type>Workshop</type>
         <language>en</language>
@@ -2339,8 +2339,8 @@ Conclusions and outlook&lt;br&gt;</description>
         <room>xrelog22 - Stream</room>
         <slug>jev22-49126-third_room</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/HP8RXT/</url>
-        <title>Third Room: Decentralized Virtual Worlds on Matrix</title>
-        <subtitle/>
+        <title>Third Room</title>
+        <subtitle>: Decentralized Virtual Worlds on Matrix</subtitle>
         <track>Matrix &amp; Thirdroom.io</track>
         <type>Live Session (30)</type>
         <language>en</language>
@@ -2389,9 +2389,9 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49237-mafifa_wm_2030_2</slug>
+        <slug>jev22-49237-mafifa_wm_2030</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/</url>
-        <title>mafifa - WM 2030 (2: Gruppenphase)</title>
+        <title>mafifa - WM 2030</title>
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (30)</type>
@@ -2449,9 +2449,9 @@ Best way to learn and teach is by communicating, so lets talk!</description>
         <start>14:00</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-2775-surviving_as_a_nerd_deutsch</slug>
+        <slug>jev22-2775-surviving_as_a_nerd</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
-        <title>Surviving as a NERD (Deutsch)</title>
+        <title>Surviving as a NERD</title>
         <subtitle/>
         <track>Erlangen</track>
         <type>Talk</type>
@@ -2480,10 +2480,10 @@ Hack deine Beziehungen</description>
         <start>15:15</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen</slug>
+        <slug>jev22-982-schlangenprogrammiernacht</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
-        <title>Schlangenprogrammiernacht – Ein Blick hinter die Kulissen</title>
-        <subtitle/>
+        <title>Schlangenprogrammiernacht</title>
+        <subtitle> – Ein Blick hinter die Kulissen</subtitle>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -2543,8 +2543,8 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
         <slug>jev22-3706-slapp</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/</url>
-        <title>SLAPP: Rechtsmissbrauch zulasten der kritischen Öffentlichkeit - und was dagegen getan werden kann.</title>
-        <subtitle/>
+        <title>SLAPP</title>
+        <subtitle>: Rechtsmissbrauch zulasten der kritischen Öffentlichkeit - und was dagegen getan werden kann.</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -2677,8 +2677,8 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
-        <title>Das Unbehagen, als "links" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</title>
-        <subtitle/>
+        <title>Das Unbehagen, als "links" wahrgenommen zu werden</title>
+        <subtitle>: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</subtitle>
         <track>Freiräume</track>
         <type>Gespräch</type>
         <language>de</language>
@@ -2709,8 +2709,8 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
         <room>Fireshonks-Stream</room>
         <slug>jev22-49167-videokonferenzen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/</url>
-        <title>Videokonferenzen: 🙈 🙉 🙊 - selbstverständlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine präsentieren</title>
-        <subtitle/>
+        <title>Videokonferenzen</title>
+        <subtitle>: 🙈 🙉 🙊 - selbstverständlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine präsentieren</subtitle>
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
@@ -2750,8 +2750,8 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <room>Fireshonks-Stream</room>
         <slug>jev22-49284-barrierefrei_posten</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/</url>
-        <title>Barrierefrei posten: Bildbeschreibungen auf Social Media</title>
-        <subtitle/>
+        <title>Barrierefrei posten</title>
+        <subtitle>: Bildbeschreibungen auf Social Media</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -3136,9 +3136,9 @@ I will wander around the event and ask you about your project. If you are intere
         <start>12:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49238-mafifa_wm_2030_3</slug>
+        <slug>jev22-49238-mafifa_wm_2030</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/HTDQN3/</url>
-        <title>mafifa - WM 2030 (3: Achtel|Viertel|Halb)</title>
+        <title>mafifa - WM 2030</title>
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (30)</type>
@@ -3188,8 +3188,8 @@ I will wander around the event and ask you about your project. If you are intere
         <room>xrelog22 - Stream</room>
         <slug>jev22-49307-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
-        <title>Overte: Logic using the JavaScript API</title>
-        <subtitle/>
+        <title>Overte</title>
+        <subtitle>: Logic using the JavaScript API</subtitle>
         <track>Sachen Machen</track>
         <type>Workshop</type>
         <language>en</language>
@@ -3213,9 +3213,9 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49239-mafifa_wm_2030_4</slug>
+        <slug>jev22-49239-mafifa_wm_2030</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/KFXRYS/</url>
-        <title>mafifa - WM 2030 (4: Finale)</title>
+        <title>mafifa - WM 2030</title>
         <subtitle/>
         <track>Activism</track>
         <type>Live Session (30)</type>
