@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 20:40; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 20:40; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 21:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 21:00; Winterchaos 0.3; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7424,7 +7424,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description>Der Verlust von Stickstoff (N) aus Agrarökosystemen ist eines der größten ungelösten&lt;br /&gt;Umweltprobleme unserer Zeit. Einerseits ist Stickstoff ein kritischer ertragsbeschränkender Nährstoff,&lt;br /&gt;und daher ist die N-Versorgung in der Landwirtschaft in Form von Dünger entscheidend für die&lt;br /&gt;Gewährleistung der Ernährungssicherheit. Andererseits geht ein Teil dieses Stickstoffdüngers verloren,&lt;br /&gt;z. B. durch Auswaschung in Form von mobilem Nitrat durch den Boden in den Grundwasserleiter.&lt;br /&gt;Aufgrund dieser Verunreinigung werden heute in vielen Regionen die Trinkwassergrenzwerte für&lt;br /&gt;Nitrat überschritten.&lt;br /&gt;&lt;br /&gt;In dieser Studie untersuchten wir die N-Transport- und Kreislaufprozesse während drei Anbauperioden&lt;br /&gt;(2017-21) auf 11 Feldern im Gäu im Schweizer Mittelland. Die Fruchtfolgen umfassten Silomais,&lt;br /&gt;Wintergetreide und Raps. Die Ziele waren, verschiedene Monitoringmethoden für die&lt;br /&gt;Nitratauswaschung zu vergleichen und die Haupteinflussfaktoren für die Nitratauswaschung aus der&lt;br /&gt;Wurzelzone zu bestimmen.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7">Hannah</person>
@@ -7449,7 +7449,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description>In der Herbstsession wurde ein grösstenteils unbeachtetes, aber brandgefährliches Gesetz verabschiedet: Das Jugendschutzgesetz.&lt;br /&gt;In diesem ist eine Altersverifikation für Gaming- und Videoplattformen vorgeschrieben. Vor der ersten Nutzung. Unabhängig vom Content (also auch für u18/u12 Material). Dies bedeutet de facto ein Ausweiszwang auf diesen Plattformen.&lt;br /&gt;Und als nächstes auf SocialMedia? Auf Nachrichtenseiten? Für jeden Klick im Internet?&lt;br /&gt;Das Gesetz muss verhindert werden. Das Referendum läuft nur noch ein paar Tage. &lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8">Pascal</person>
@@ -7502,7 +7502,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description>Der &amp;quot;Frosch im Wasserglas&amp;quot; beschreibt, wie er im warmen Wasser sitzt und nicht bemerkt, wie die Temperatur langsam erhöht wird, bis er bei lebendigem Leibe gekocht wird.&lt;br /&gt;Genau so werden bei einer Vielzahl von (geplanten) Gesetzen und Verordnungen die Daumenschrauben langsam aber stetig angezogen und die Überwachung ausgebaut, Strafen verschärft, Datensammlungen vergrössert. Es ist schwierig, die Übersicht zu behalten. Wir bringen euch auf den neuesten Stand der Grundrechtseingriffe (wie z.B. E-ID, BÜPF, VÜPF, NDG, PMT, GwV-FINMA, Mobility Pricing, Flugpassagierdatengesetz, Jugendschutzgesetz) &lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="8">Pascal</person>
