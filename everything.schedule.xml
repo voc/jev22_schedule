@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 17:00; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 17:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 17:20; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 17:20; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1687,7 +1687,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <type>Talk</type>
         <language>en</language>
         <abstract>Workshop exploring Regenerative design in the context of a rural community art and hackerspace in the small Welsh speaking town of Caernarfon in rural North Wales.</abstract>
-        <description>We will look at the emerging Regenerative Paradigm which is defined in contrast to the currently dominant exploitative paradigm. We'll take a holistic lens and look at a poor rural community in Wales, using tools introduced we'll identify the patterns of life energy in local systems (such as the food economy, the stuff economy, the local community knowledge economy) and explore how we can design a community hackerspace for a rural setting that might shift systems from the extractive to the regenerative.</description>
+        <description>We will look at the emerging Regenerative Paradigm which is often defined in contrast to the currently dominant extractive paradigm and involves taking a living systems view of the world. Is a Hackerspace a living systems? Living systems can only be understood in the context of their environment. We'll take a holistic lens and look at a poor rural community in Wales, we'll identify the patterns of life energy in local systems (such as the food economy, the stuff economy, the local community knowledge economy) and explore how we can design a community hackerspace for a rural setting that might shift systems from the extractive to the regenerative.</description>
         <recording>
           <license/>
           <optout>false</optout>
