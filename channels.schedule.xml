@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 01:27</version>
+  <version>2022-12-26 01:42</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -23,7 +23,7 @@
         <start>15:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-96-muc-free-space-ein-mangel-im-berfluss-26-12-120-min-</slug>
+        <slug>jev22-9183-muc_free_space_ein_mangel_im_ueberfluss_26_12_120_min</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BGQNEC/</url>
         <title>MUC free SPACE? Ein Mangel im Überfluss. (26.12, 120 min)</title>
         <subtitle/>
@@ -56,7 +56,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>19:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-77-1-raum-fr-die-schne-welt</slug>
+        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -83,7 +83,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>15:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-58--es-geht-durch-die-welt-ein-geflster-zeitzeug-innen-der-revolution-und-rterepublik-in-baiern-1918-19-</slug>
+        <slug>jev22-508-es_geht_durch_die_welt_ein_gefluester_zeitzeug_innen_der_revolution_und_raeterepublik_in_baiern_1918_19</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/C9NQFY/</url>
         <title>"Es geht durch die Welt ein Geflüster - Zeitzeug*innen der Revolution und Räterepublik in Baiern 1918/19"</title>
         <subtitle/>
@@ -111,7 +111,7 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         <start>18:00</start>
         <duration>01:42</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-129-freie-rume</slug>
+        <slug>jev22-8079-freie_raeume</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/</url>
         <title>Freie Räume</title>
         <subtitle/>
@@ -141,7 +141,7 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <start>11:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49230-opening</slug>
+        <slug>jev22-49230-opening</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/</url>
         <title>Opening</title>
         <subtitle/>
@@ -166,7 +166,7 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49194-how-to-prepare-files-for-lasercutting-talk-</slug>
+        <slug>jev22-49194-how_to_prepare_files_for_lasercutting_talk</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/</url>
         <title>How to prepare files for lasercutting (Talk)</title>
         <subtitle/>
@@ -193,7 +193,7 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
         <start>13:45</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49311-das-fediverse-steht-fr-vielfalt-nicht-fr-einfalt</slug>
+        <slug>jev22-49311-das_fediverse_steht_fuer_vielfalt_nicht_fuer_einfalt</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/</url>
         <title>Das Fediverse steht für Vielfalt nicht für Einfalt</title>
         <subtitle/>
@@ -230,7 +230,7 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <start>16:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49176-swarm-support-tools-digitalcourage-free-software</slug>
+        <slug>jev22-49176-swarm_support_tools_digitalcourage_free_software</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/</url>
         <title>Swarm Support Tools - Digitalcourage ♥ Free Software</title>
         <subtitle/>
@@ -255,7 +255,7 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <start>17:00</start>
         <duration>00:56</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49179-datenschutz-sabotieren-aber-richtig</slug>
+        <slug>jev22-49179-datenschutz_sabotieren_aber_richtig</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PEEU9J/</url>
         <title>Datenschutz sabotieren, aber richtig</title>
         <subtitle/>
@@ -281,7 +281,7 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
         <start>18:30</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49175-haste-mal-ne-mark-wieso-du-fr-digitale-dienste-geld-nehmen-solltest-</slug>
+        <slug>jev22-49175-haste_mal_ne_mark_wieso_du_fuer_digitale_dienste_geld_nehmen_solltest</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VRK9JD/</url>
         <title>Haste mal ne Mark? Wieso Du für digitale Dienste Geld nehmen solltest.</title>
         <subtitle/>
@@ -310,7 +310,7 @@ Aktuell arbeitet er bei Digitalcourage in Bielefeld.</description>
         <start>19:45</start>
         <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49085-leben-mit-borderline</slug>
+        <slug>jev22-49085-leben_mit_borderline</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/</url>
         <title>Leben mit Borderline</title>
         <subtitle/>
@@ -343,7 +343,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <start>21:30</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49177-von-der-mailbox-bis-zum-fediverse-kamingesprch-</slug>
+        <slug>jev22-49177-von_der_mailbox_bis_zum_fediverse_kamingespraech</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/A8J8AF/</url>
         <title>Von der Mailbox bis zum Fediverse (Kamingespräch)</title>
         <subtitle/>
@@ -371,7 +371,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <start>18:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-1-opening</slug>
+        <slug>jev22-409-opening</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/</url>
         <title>Opening</title>
         <subtitle/>
@@ -396,7 +396,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <start>19:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-12-how-to-find-the-norwegian-prime-minister-in-an-anonymized-contact-tracing-dataset</slug>
+        <slug>jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/3SS7L8/</url>
         <title>How to find the Norwegian prime minister in an "anonymized" contact tracing dataset</title>
         <subtitle/>
@@ -442,7 +442,7 @@ anonymised.</abstract>
         <start>20:00</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-17-technikgebrauch-damals-tm-</slug>
+        <slug>jev22-8149-technikgebrauch_damals_tm</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/P8HTXA/</url>
         <title>Technikgebrauch damals(tm)</title>
         <subtitle/>
@@ -471,7 +471,7 @@ anonymised.</abstract>
         <start>17:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-32-opening</slug>
+        <slug>jev22-8887-opening</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
         <title>Opening</title>
         <subtitle/>
@@ -494,7 +494,7 @@ anonymised.</abstract>
         <start>17:45</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-3-gnu-taler-mit-krypto-bezahlen-ohne-blockchain-</slug>
+        <slug>jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
         <title>GNU Taler -- mit Krypto bezahlen ohne Blockchain?</title>
         <subtitle/>
@@ -521,7 +521,7 @@ Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
         <start>18:45</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-14-werd-dein-eigener-ispv6</slug>
+        <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
         <title>Werd Dein eigener ISPv6</title>
         <subtitle/>
@@ -558,7 +558,7 @@ Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</descri
         <start>19:45</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-24-nix-gelernt-und-eine-einfhrung-in-das-thema-iac</slug>
+        <slug>jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/</url>
         <title>Nix gelernt und eine Einführung in das Thema IaC</title>
         <subtitle/>
@@ -592,7 +592,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-76-1-lass-mich-durch-wege-befreien-im-urbanen-raum</slug>
+        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch - Wege befreien im urbanen Raum</title>
         <subtitle/>
@@ -617,7 +617,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-77-0-raum-fr-die-schne-welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -642,7 +642,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-98-k-kulturarbeit-progressive-desillusionierung-und-professionelle-amateure-von-michael-hirsch-27-12-</slug>
+        <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch_27_12</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
         <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch (27.12)</title>
         <subtitle/>
@@ -673,7 +673,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-164-0-gebrdensprache-und-freiraum-deafolution-</slug>
+        <slug>jev22-2242-gebaerdensprache_und_freiraum_deafolution</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum - Deafolution!</title>
         <subtitle/>
@@ -698,7 +698,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>14:05</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-165-kunst-im-umbau-workshops-talks</slug>
+        <slug>jev22-3592-kunst_im_umbau_workshops_talks</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/</url>
         <title>Kunst im Umbau - Workshops &amp; Talks</title>
         <subtitle/>
@@ -732,7 +732,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <start>16:30</start>
         <duration>00:20</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-134-design-clubcult-dance-</slug>
+        <slug>jev22-6634-design_clubcult_dance</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/</url>
         <title>Design Clubcult - Dance!</title>
         <subtitle/>
@@ -757,7 +757,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <start>18:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-147-geschlossene-gesellschaft</slug>
+        <slug>jev22-1313-geschlossene_gesellschaft</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/</url>
         <title>Geschlossene Gesellschaft</title>
         <subtitle/>
@@ -787,7 +787,7 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <start>11:55</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49154-platform-system-interface-design-und-evaluation-holistischer-computerarchitektur</slug>
+        <slug>jev22-49154-platform_system_interface_design_und_evaluation_holistischer_computerarchitektur</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/</url>
         <title>Platform System Interface - Design und Evaluation holistischer Computerarchitektur</title>
         <subtitle/>
@@ -814,7 +814,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <start>14:00</start>
         <duration>01:15</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49102-10-000-seiten-spter-welche-spuren-der-klimabericht-bei-mir-hinterlassen-hat</slug>
+        <slug>jev22-49102-10_000_seiten_spaeter_welche_spuren_der_klimabericht_bei_mir_hinterlassen_hat</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/</url>
         <title>10.000 Seiten später – Welche Spuren der Klimabericht bei mir hinterlassen hat</title>
         <subtitle/>
@@ -840,7 +840,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <start>15:30</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49180-kann-quick-freeze-die-vorratsdatenspeicherung-endlich-beerdigen-</slug>
+        <slug>jev22-49180-kann_quick_freeze_die_vorratsdatenspeicherung_endlich_beerdigen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VFXVLS/</url>
         <title>Kann Quick Freeze die Vorratsdatenspeicherung endlich beerdigen?</title>
         <subtitle/>
@@ -865,7 +865,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <start>16:30</start>
         <duration>00:55</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49078-haecksen-gegen-cyberstalking-ein-bericht-vom-anti-stalking-projekt</slug>
+        <slug>jev22-49078-haecksen_gegen_cyberstalking_ein_bericht_vom_anti_stalking_projekt</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/U7DKAZ/</url>
         <title>Haecksen gegen Cyberstalking  ein Bericht vom Anti-Stalking Projekt</title>
         <subtitle/>
@@ -896,7 +896,7 @@ Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von
         <start>18:00</start>
         <duration>00:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49174-db-schnffelnavigator</slug>
+        <slug>jev22-49174-db_schnueffelnavigator</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/</url>
         <title>DB Schnüffelnavigator</title>
         <subtitle/>
@@ -922,7 +922,7 @@ Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Knif
         <start>19:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49178-kein-perso-ohne-finger-abdrcke-mehr-was-tun-</slug>
+        <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr_was_tun</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/</url>
         <title>Kein Perso ohne Finger(abdrücke) mehr - was tun?</title>
         <subtitle/>
@@ -948,7 +948,7 @@ In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Sta
         <start>20:15</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49100-hacking-a-sat-receiver</slug>
+        <slug>jev22-49100-hacking_a_sat_receiver</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/</url>
         <title>Hacking a sat receiver</title>
         <subtitle/>
@@ -981,7 +981,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <start>21:30</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49226-operation-mindfuck-vol-6</slug>
+        <slug>jev22-49226-operation_mindfuck_vol_6</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/</url>
         <title>Operation Mindfuck Vol. 6</title>
         <subtitle/>
@@ -1015,7 +1015,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <start>13:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-14-machen-wir-die-elektronik-durch-hardware-as-a-service-kreislauffhiger</slug>
+        <slug>jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/MCVSWU/</url>
         <title>Machen wir die Elektronik durch "Hardware as a service" kreislauffähiger</title>
         <subtitle/>
@@ -1040,7 +1040,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-7-ipv6-einfach-nutzen</slug>
+        <slug>jev22-7505-ipv6_einfach_nutzen</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/</url>
         <title>IPv6 einfach nutzen</title>
         <subtitle/>
@@ -1076,7 +1076,7 @@ https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/
         <start>19:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-9-wir-knnen-dich-durchschauen-bildgebung-in-der-medizin</slug>
+        <slug>jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
         <title>Wir können dich durchschauen - Bildgebung in der Medizin</title>
         <subtitle/>
@@ -1101,7 +1101,7 @@ https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/
         <start>21:00</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-10-antiverschwurbeltes-axiom</slug>
+        <slug>jev22-7282-antiverschwurbeltes_axiom</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/EXAGFT/</url>
         <title>antiverschwurbeltes axiom</title>
         <subtitle/>
@@ -1141,7 +1141,7 @@ programm folgt...</description>
         <start>22:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-4-cursedin-drum-n-bass-</slug>
+        <slug>jev22-5374-cursedin_drum_n_bass</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
         <title>cursedin (Drum'n'Bass)</title>
         <subtitle/>
@@ -1168,7 +1168,7 @@ programm folgt...</description>
         <start>13:00</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49310-opening</slug>
+        <slug>jev22-49310-opening</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
         <title>Opening</title>
         <subtitle/>
@@ -1193,7 +1193,7 @@ programm folgt...</description>
         <start>15:00</start>
         <duration>00:45</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49292-intro-to-show-laz0rs-hacken</slug>
+        <slug>jev22-49292-intro_to_show_laz0rs_hacken</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/AKSLWC/</url>
         <title>Intro to Show-Laz0rs hacken</title>
         <subtitle/>
@@ -1218,7 +1218,7 @@ programm folgt...</description>
         <start>18:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49309-mach-dein-softwareprojekt-nutzbar-fr-andere-</slug>
+        <slug>jev22-49309-mach_dein_softwareprojekt_nutzbar_fuer_andere</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/</url>
         <title>Mach dein Softwareprojekt nutzbar für andere!</title>
         <subtitle/>
@@ -1246,7 +1246,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <start>11:42</start>
         <duration>00:15</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49308-opening</slug>
+        <slug>jev22-49308-opening</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/M7TWWN/</url>
         <title>Opening</title>
         <subtitle/>
@@ -1271,7 +1271,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <start>17:00</start>
         <duration>02:00</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49286-open-source-culture-heritage-historiography</slug>
+        <slug>jev22-49286-open_source_culture_heritage_historiography</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/G8JCJX/</url>
         <title>Open Source Culture Heritage Historiography</title>
         <subtitle/>
@@ -1296,7 +1296,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <start>20:00</start>
         <duration>01:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49305-overte-in-world-creation-with-voxels-physics-etc-</slug>
+        <slug>jev22-49305-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
         <title>Overte: In-world creation with Voxels, Physics, etc.</title>
         <subtitle/>
@@ -1323,7 +1323,7 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49219-mafifa-wm-2030-1-auslosung-</slug>
+        <slug>jev22-49219-mafifa_wm_2030_1</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
         <title>mafifa - WM 2030 (1: Auslosung)</title>
         <subtitle/>
@@ -1351,7 +1351,7 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         <start>13:00</start>
         <duration>01:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-5-das-zam-im-wandel-der-zeit</slug>
+        <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
         <title>Das ZAM im Wandel der Zeit</title>
         <subtitle/>
@@ -1376,7 +1376,7 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         <start>15:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-7-gib-mir-mal-die-datei-dateien-verteilen-in-2022</slug>
+        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
         <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
         <subtitle/>
@@ -1403,7 +1403,7 @@ Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Softwa
         <start>16:00</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-26-wie-funktioniert-eigentlich-filmentwicklung-</slug>
+        <slug>jev22-9908-wie_funktioniert_eigentlich_filmentwicklung</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/</url>
         <title>Wie funktioniert eigentlich Filmentwicklung?</title>
         <subtitle/>
@@ -1434,7 +1434,7 @@ Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Softwa
         <start>17:15</start>
         <duration>01:00</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-19-schokolade-essen</slug>
+        <slug>jev22-6207-schokolade_essen</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/</url>
         <title>Schokolade essen</title>
         <subtitle/>
@@ -1465,7 +1465,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <start>10:00</start>
         <duration>03:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-148-kritische-mnnlichkeit</slug>
+        <slug>jev22-8672-kritische_maennlichkeit</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/</url>
         <title>Kritische Männlichkeit</title>
         <subtitle/>
@@ -1494,7 +1494,7 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-93-0-utopia-dystopia-lost-futures-interdisziplinres-forschungskolloquium-by-assoziation-e</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
         <subtitle/>
@@ -1526,7 +1526,7 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-93-1-utopia-dystopia-lost-futures-interdisziplinres-forschungskolloquium-by-assoziation-e</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
         <subtitle/>
@@ -1558,7 +1558,7 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-97-kunst-und-kommerz-ein-problematisches-verhltnis</slug>
+        <slug>jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/</url>
         <title>Kunst und Kommerz, ein problematisches Verhältnis</title>
         <subtitle/>
@@ -1588,7 +1588,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>11:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-44-12-huser-13-jahre-selbstverwaltetes-soziokulturelles-leben-im-gngeviertel</slug>
+        <slug>jev22-2161-12_haeuser_13_jahre_selbstverwaltetes_soziokulturelles_leben_im_gaengeviertel</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXWEAN/</url>
         <title>12 Häuser, 13 Jahre selbstverwaltetes soziokulturelles Leben im Gängeviertel</title>
         <subtitle/>
@@ -1613,7 +1613,7 @@ Moderation: Peter Arun Pfaff</description>
         <start>16:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-130-alles-ist-1-auer-der-0-</slug>
+        <slug>jev22-958-alles_ist_1_ausser_der_0</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/</url>
         <title>Alles ist 1. Außer der 0.</title>
         <subtitle/>
@@ -1639,7 +1639,7 @@ Mehr Infos: https://allesisteins.film/</description>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-108-brcken-statt-mauern-grenzenlose-solidaritt</slug>
+        <slug>jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/</url>
         <title>Brücken statt Mauern - grenzenlose Solidarität</title>
         <subtitle/>
@@ -1667,7 +1667,7 @@ Mehr Infos: https://allesisteins.film/</description>
         <start>19:30</start>
         <duration>01:31</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-128-kampf-um-die-a49</slug>
+        <slug>jev22-755-kampf_um_die_a49</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/</url>
         <title>Kampf um die A49</title>
         <subtitle/>
@@ -1700,7 +1700,7 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <start>12:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49270-geschlechtergerechtigkeit-und-making</slug>
+        <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
         <title>Geschlechtergerechtigkeit und Making</title>
         <subtitle/>
@@ -1732,7 +1732,7 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
         <start>13:00</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49115-tracking-in-apps-ist-das-legal-eine-bersicht-ber-die-mobile-trackinglandschaft</slug>
+        <slug>jev22-49115-tracking_in_apps</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FRQGY9/</url>
         <title>Tracking in Apps: Ist das legal? – Eine Übersicht über die mobile Trackinglandschaft</title>
         <subtitle/>
@@ -1765,7 +1765,7 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
         <start>15:30</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49279-barrierearme-datenvisualisierungen-im-web</slug>
+        <slug>jev22-49279-barrierearme_datenvisualisierungen_im_web</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QPBDTA/</url>
         <title>Barrierearme Datenvisualisierungen im Web</title>
         <subtitle/>
@@ -1792,7 +1792,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>16:30</start>
         <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49227-strmungen-kontroversen-und-paradoxien-im-anarchismus</slug>
+        <slug>jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/</url>
         <title>Strömungen, Kontroversen und Paradoxien im Anarchismus</title>
         <subtitle/>
@@ -1817,7 +1817,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>18:30</start>
         <duration>00:15</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49172--ccs-chaotischer-catalysator-stipendien</slug>
+        <slug>jev22-49172-ccs_chaotischer_catalysator_stipendien</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/</url>
         <title>#CCS - Chaotischer Catalysator Stipendien</title>
         <subtitle/>
@@ -1842,7 +1842,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>19:00</start>
         <duration>00:17</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49293-erklrhaj-experimentiert</slug>
+        <slug>jev22-49293-erklaerhaj_experimentiert</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/</url>
         <title>Erklärhaj experimentiert</title>
         <subtitle/>
@@ -1867,7 +1867,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>20:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49246-post-quantum-cryptography-detours-delays-and-disasters</slug>
+        <slug>jev22-49246-post_quantum_cryptography</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/B7GMAL/</url>
         <title>Post-Quantum Cryptography: Detours, delays, and disasters</title>
         <subtitle/>
@@ -1893,7 +1893,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>21:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49088-how-to-become-an-openstreetmap-pro</slug>
+        <slug>jev22-49088-how_to_become_an_openstreetmap_pro</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/</url>
         <title>How to become an OpenStreetMap pro</title>
         <subtitle/>
@@ -1918,7 +1918,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>22:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49109-die-bequemsten-gepckablagen-im-fernverkehr-der-deutschen-bahn</slug>
+        <slug>jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/</url>
         <title>Die bequemsten Gepäckablagen im Fernverkehr der Deutschen Bahn</title>
         <subtitle/>
@@ -1945,7 +1945,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>12:00</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-23-owasp-raider-a-novel-framework-for-manipulating-http-processes-of-persistent-sessions</slug>
+        <slug>jev22-8920-owasp_raider</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/</url>
         <title>OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions</title>
         <subtitle/>
@@ -1983,7 +1983,7 @@ Links to the project:&#13;
         <start>13:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-22-trust-in-digital-communication</slug>
+        <slug>jev22-5773-trust_in_digital_communication</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/K7J8PF/</url>
         <title>Trust in digital communication</title>
         <subtitle/>
@@ -2008,7 +2008,7 @@ Links to the project:&#13;
         <start>15:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-19-geschichten-aus-dem-leben-einer-mastodon-moderatorin</slug>
+        <slug>jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/GD8EVV/</url>
         <title>Geschichten aus dem Leben einer Mastodon-Moderatorin</title>
         <subtitle/>
@@ -2033,7 +2033,7 @@ Links to the project:&#13;
         <start>16:00</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-11-die-mikroarchitektur-moderner-prozessoren-ein-crashkurs</slug>
+        <slug>jev22-4704-die_mikroarchitektur_moderner_prozessoren</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/FEWKFR/</url>
         <title>Die Mikroarchitektur moderner Prozessoren: ein Crashkurs</title>
         <subtitle/>
@@ -2058,7 +2058,7 @@ Links to the project:&#13;
         <start>18:15</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-2-misconceptions-about-energy-assessment</slug>
+        <slug>jev22-3191-misconceptions_about_energy_assessment</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/FEK7VC/</url>
         <title>Misconceptions about Energy Assessment</title>
         <subtitle/>
@@ -2083,7 +2083,7 @@ Links to the project:&#13;
         <start>19:45</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-21-vitamin-d-versus-sonnenbrand-wissenschaftlich-fundierter-umgang-mit-der-sonne</slug>
+        <slug>jev22-780-vitamin_d_versus_sonnenbrand</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/NVKBLS/</url>
         <title>Vitamin D versus Sonnenbrand: Wissenschaftlich fundierter Umgang mit der Sonne</title>
         <subtitle/>
@@ -2108,7 +2108,7 @@ Links to the project:&#13;
         <start>20:45</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-13-exploring-social-media-reactions-to-conflicts-in-2022</slug>
+        <slug>jev22-1707-exploring_social_media_reactions_to_conflicts_in_2022</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/</url>
         <title>Exploring social media reactions to conflicts in 2022</title>
         <subtitle/>
@@ -2139,7 +2139,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>22:30</start>
         <duration>01:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-26-citizen-kino-95-organisms-vs-automatons-revisited-</slug>
+        <slug>jev22-1140-citizen_kino</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/GURA8Y/</url>
         <title>CiTiZEN KiNO: ( #95 ) Organisms vs. Automatons ( revisited )</title>
         <subtitle/>
@@ -2166,7 +2166,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49291-berwacht-mehr-insekten-</slug>
+        <slug>jev22-49291-ueberwacht_mehr_insekten</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
         <title>Überwacht mehr Insekten!</title>
         <subtitle/>
@@ -2191,7 +2191,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49289-the-state-of-the-state-die-wichtigsten-themen-der-digitalen-verwaltung</slug>
+        <slug>jev22-49289-the_state_of_the_state_die_wichtigsten_themen_der_digitalen_verwaltung</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
         <title>The state of the state - die wichtigsten Themen der digitalen Verwaltung</title>
         <subtitle/>
@@ -2216,7 +2216,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>20:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49302-iridium-reverse-engineering-news-seit-2016</slug>
+        <slug>jev22-49302-iridium_reverse_engineering</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
         <title>Iridium reverse engineering: News seit 2016</title>
         <subtitle/>
@@ -2245,7 +2245,7 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <start>13:00</start>
         <duration>01:00</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49306-overte-world-hopping</slug>
+        <slug>jev22-49306-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/T3KYPP/</url>
         <title>Overte: World hopping</title>
         <subtitle/>
@@ -2272,7 +2272,7 @@ You can also spectate the event on PeerTube.</description>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49285-the-web-3-0-house-of-cards</slug>
+        <slug>jev22-49285-the_web_3_0_house_of_cards</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/8G9NAA/</url>
         <title>The Web 3.0 House of Cards</title>
         <subtitle/>
@@ -2301,7 +2301,7 @@ The rest of the talk will be explore what happens when theory meets reality, and
         <start>17:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49282-is-the-metaverse-metaworse-</slug>
+        <slug>jev22-49282-is_the_metaverse_metaworse</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/QNYTS3/</url>
         <title>Is the Metaverse, Metaworse?</title>
         <subtitle/>
@@ -2337,7 +2337,7 @@ Conclusions and outlook&lt;br&gt;</description>
         <start>19:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49126-third-room-decentralized-virtual-worlds-on-matrix</slug>
+        <slug>jev22-49126-third_room</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/HP8RXT/</url>
         <title>Third Room: Decentralized Virtual Worlds on Matrix</title>
         <subtitle/>
@@ -2362,7 +2362,7 @@ Conclusions and outlook&lt;br&gt;</description>
         <start>21:00</start>
         <duration>01:00</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49287-menschenrechtsverletzungen-durch-facebook-meta</slug>
+        <slug>jev22-49287-menschenrechtsverletzungen_durch_facebook_meta</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/MDTAEK/</url>
         <title>Menschenrechtsverletzungen durch Facebook/Meta</title>
         <subtitle/>
@@ -2389,7 +2389,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49237-mafifa-wm-2030-2-gruppenphase-</slug>
+        <slug>jev22-49237-mafifa_wm_2030_2</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/</url>
         <title>mafifa - WM 2030 (2: Gruppenphase)</title>
         <subtitle/>
@@ -2416,7 +2416,7 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>13:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-28-intro-to-time-organisation-concepts-and-useful-tricks</slug>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
         <title>intro to time- &amp; organisation-concepts and useful tricks</title>
         <subtitle/>
@@ -2449,7 +2449,7 @@ Best way to learn and teach is by communicating, so lets talk!</description>
         <start>14:00</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-10-surviving-as-a-nerd-deutsch-</slug>
+        <slug>jev22-2775-surviving_as_a_nerd_deutsch</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
         <title>Surviving as a NERD (Deutsch)</title>
         <subtitle/>
@@ -2480,7 +2480,7 @@ Hack deine Beziehungen</description>
         <start>15:15</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-18-schlangenprogrammiernacht-ein-blick-hinter-die-kulissen</slug>
+        <slug>jev22-982-schlangenprogrammiernacht_ein_blick_hinter_die_kulissen</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
         <title>Schlangenprogrammiernacht – Ein Blick hinter die Kulissen</title>
         <subtitle/>
@@ -2513,7 +2513,7 @@ Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlange
         <start>16:15</start>
         <duration>02:00</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-6-schafkopf-fr-anfnger</slug>
+        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
         <title>Schafkopf für Anfänger</title>
         <subtitle/>
@@ -2541,7 +2541,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-92-slapp-rechtsmissbrauch-zulasten-der-kritischen-ffentlichkeit-und-was-dagegen-getan-werden-kann-</slug>
+        <slug>jev22-3706-slapp</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/</url>
         <title>SLAPP: Rechtsmissbrauch zulasten der kritischen Öffentlichkeit - und was dagegen getan werden kann.</title>
         <subtitle/>
@@ -2571,7 +2571,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <start>18:30</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-169-solidarisch-essen-ackern-imkern-und-wohnen</slug>
+        <slug>jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/</url>
         <title>Solidarisch essen, ackern, imkern und wohnen</title>
         <subtitle/>
@@ -2596,7 +2596,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <start>20:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-168-das-mietshuser-syndikat-und-das-neubauprojekt-grzer128</slug>
+        <slug>jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/</url>
         <title>Das Mietshäuser Syndikat und das Neubauprojekt Görzer128</title>
         <subtitle/>
@@ -2625,7 +2625,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-164-1-gebrdensprache-und-freiraum-deafolution-</slug>
+        <slug>jev22-6202-gebaerdensprache_und_freiraum_deafolution</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum - Deafolution!</title>
         <subtitle/>
@@ -2650,7 +2650,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>14:30</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-140-antiautoritre-gedanken-zum-generationskonflikt-und-den-daraus-resultierenden-eigentums-und-machtverhltnissen</slug>
+        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
         <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverhältnissen</title>
         <subtitle/>
@@ -2675,7 +2675,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>17:30</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-106-das-unbehagen-als-links-wahrgenommen-zu-werden-brauchen-wir-mehr-oder-weniger-davon-assoziationen-und-offenes-gesprch-zu-einer-polarisierenden-frage-</slug>
+        <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
         <title>Das Unbehagen, als "links" wahrgenommen zu werden: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</title>
         <subtitle/>
@@ -2707,7 +2707,7 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
         <start>09:00</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49167-videokonferenzen-selbstverstndlich-barrierefrei-warum-checklisten-nicht-ausreichen-wir-aber-trotzdem-eine-prsentieren</slug>
+        <slug>jev22-49167-videokonferenzen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/</url>
         <title>Videokonferenzen: 🙈 🙉 🙊 - selbstverständlich barrierefrei! Warum Checklisten nicht ausreichen, wir aber trotzdem eine präsentieren</title>
         <subtitle/>
@@ -2748,7 +2748,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <start>12:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49284-barrierefrei-posten-bildbeschreibungen-auf-social-media</slug>
+        <slug>jev22-49284-barrierefrei_posten</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/</url>
         <title>Barrierefrei posten: Bildbeschreibungen auf Social Media</title>
         <subtitle/>
@@ -2773,7 +2773,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <start>13:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49153-logrotten-it-s-not-a-bug-</slug>
+        <slug>jev22-49153-logrotten_it_s_not_a_bug</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/</url>
         <title>Logrotten - "It's not a bug"</title>
         <subtitle/>
@@ -2802,7 +2802,7 @@ In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrot
         <start>14:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49114-text-embeddings-fr-anfnger</slug>
+        <slug>jev22-49114-text_embeddings_fuer_anfaenger</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/</url>
         <title>Text Embeddings für Anfänger</title>
         <subtitle/>
@@ -2829,7 +2829,7 @@ Dieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechne
         <start>15:00</start>
         <duration>01:15</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49086-informationen-bewerten-eine-zeitreise-durch-die-welt-der-propaganda-fake-news-und-desinformation</slug>
+        <slug>jev22-49086-informationen_bewerten_eine_zeitreise_durch_die_welt_der_propaganda_fake_news_und_desinformation</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/8XTUNF/</url>
         <title>Informationen bewerten — Eine Zeitreise durch die Welt der Propaganda, Fake News und Desinformation</title>
         <subtitle/>
@@ -2861,7 +2861,7 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
         <start>17:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49164-oreboot-auf-risc-v-vergleichende-analyse-zweier-implementierungen</slug>
+        <slug>jev22-49164-oreboot_auf_risc_v_vergleichende_analyse_zweier_implementierungen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/</url>
         <title>oreboot auf RISC-V - Vergleichende Analyse zweier Implementierungen</title>
         <subtitle/>
@@ -2893,7 +2893,7 @@ unterscheiden.</description>
         <start>18:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49077-die-technik-hinter-teletext</slug>
+        <slug>jev22-49077-die_technik_hinter_teletext</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BBJ7JR/</url>
         <title>Die Technik hinter Teletext</title>
         <subtitle/>
@@ -2919,7 +2919,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>19:30</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>fire-shonks-2022-49231-closing</slug>
+        <slug>jev22-49231-closing</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VR8FJG/</url>
         <title>Closing</title>
         <subtitle/>
@@ -2946,7 +2946,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>11:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-18-technikphilosophische-jahresendgala</slug>
+        <slug>jev22-5754-technikphilosophische_jahresendgala</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/77JC7G/</url>
         <title>Technikphilosophische Jahresendgala</title>
         <subtitle/>
@@ -2971,7 +2971,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>13:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-5-infrastructure-review</slug>
+        <slug>jev22-7860-infrastructure_review</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KEWAHX/</url>
         <title>Infrastructure Review</title>
         <subtitle/>
@@ -2996,7 +2996,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>14:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>rtc22-25-closing-ceremony</slug>
+        <slug>jev22-4292-closing_ceremony</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/XQSHAS/</url>
         <title>Closing Ceremony</title>
         <subtitle/>
@@ -3023,7 +3023,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>14:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-52467-no-music-on-a-dead-planet-mde-stellt-sich-vor-</slug>
+        <slug>jev22-52467-no_music_on_a_dead_planet_mde_stellt_sich_vor</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WM8JYF/</url>
         <title>No Music On A Dead Planet - MDE stellt sich vor!</title>
         <subtitle/>
@@ -3048,7 +3048,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>16:00</start>
         <duration>00:45</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49297-kolonialismus-in-europischen-museen-was-hat-das-mit-deutschland-zu-tun-eine-kleine-einfhrung</slug>
+        <slug>jev22-49297-kolonialismus_in_europaeischen_museen_was_hat_das_mit_deutschland_zu_tun_eine_kleine_einfuehrung</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
         <title>Kolonialismus in europäischen Museen - was hat das mit Deutschland zu tun? Eine kleine Einführung</title>
         <subtitle/>
@@ -3073,7 +3073,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49296-misinfo-hacks-desinformationskampagnen-auf-der-spur</slug>
+        <slug>jev22-49296-misinfo_hacks_desinformationskampagnen_auf_der_spur</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YEKWDD/</url>
         <title>Misinfo Hacks - Desinformationskampagnen auf der Spur</title>
         <subtitle/>
@@ -3104,7 +3104,7 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Bierschoine</room>
-        <slug>hacking-in-hell-2022-49301-hack-tell</slug>
+        <slug>jev22-49301-hack_tell</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BGPUET/</url>
         <title>Hack &amp;&amp; Tell</title>
         <subtitle/>
@@ -3136,7 +3136,7 @@ I will wander around the event and ask you about your project. If you are intere
         <start>12:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49238-mafifa-wm-2030-3-achtel-viertel-halb-</slug>
+        <slug>jev22-49238-mafifa_wm_2030_3</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/HTDQN3/</url>
         <title>mafifa - WM 2030 (3: Achtel|Viertel|Halb)</title>
         <subtitle/>
@@ -3161,7 +3161,7 @@ I will wander around the event and ask you about your project. If you are intere
         <start>15:00</start>
         <duration>00:45</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49232-energie-daten</slug>
+        <slug>jev22-49232-energie_daten</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/WWKKFY/</url>
         <title>Energie &amp; Daten</title>
         <subtitle/>
@@ -3186,7 +3186,7 @@ I will wander around the event and ask you about your project. If you are intere
         <start>20:30</start>
         <duration>01:00</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49307-overte-logic-using-the-javascript-api</slug>
+        <slug>jev22-49307-overte</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
         <title>Overte: Logic using the JavaScript API</title>
         <subtitle/>
@@ -3213,7 +3213,7 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>xrelog-2022-49239-mafifa-wm-2030-4-finale-</slug>
+        <slug>jev22-49239-mafifa_wm_2030_4</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/KFXRYS/</url>
         <title>mafifa - WM 2030 (4: Finale)</title>
         <subtitle/>
@@ -3240,7 +3240,7 @@ You can also spectate the event on PeerTube.</description>
         <start>14:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-27-operational-transconductance-amplifiers</slug>
+        <slug>jev22-5136-operational_transconductance_amplifiers</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/</url>
         <title>Operational Transconductance Amplifiers</title>
         <subtitle/>
@@ -3269,7 +3269,7 @@ This talk will take top-down approach starting with the operational principles a
         <start>15:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>wicmp1-30-das-matrix-protokoll</slug>
+        <slug>jev22-5620-das_matrix_protokoll</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/</url>
         <title>Das Matrix-Protokoll</title>
         <subtitle/>
@@ -3298,7 +3298,7 @@ This talk will take top-down approach starting with the operational principles a
         <start>12:00</start>
         <duration>00:45</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-51-wohnheim-collegium-academicum-selbstverwaltet-kologisch-bezahlbar</slug>
+        <slug>jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/</url>
         <title>Wohnheim Collegium Academicum - Selbstverwaltet, ökologisch, bezahlbar</title>
         <subtitle/>
@@ -3324,7 +3324,7 @@ Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das 
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-94-care-werkstatt-who-cares-werkstatt-fr-frsorge-praktiken-by-assoziation-e</slug>
+        <slug>jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/</url>
         <title>Care Werkstatt // Who Cares? Werkstatt für Fürsorge(praktiken). by Assoziation:E</title>
         <subtitle/>
@@ -3354,7 +3354,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-101-wdzwo-wir-squatten-das-outback</slug>
+        <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
         <title>WdZwo - Wir squatten das Outback</title>
         <subtitle/>
@@ -3381,7 +3381,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-76-0-lass-mich-durch-wege-befreien-im-urbanen-raum</slug>
+        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch - Wege befreien im urbanen Raum</title>
         <subtitle/>
@@ -3406,7 +3406,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>14:00</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-150-treibgut-die-materialquelle-fr-projekte</slug>
+        <slug>jev22-1324-treibgut_die_materialquelle_fuer_projekte</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/</url>
         <title>treibgut - Die Materialquelle für Projekte</title>
         <subtitle/>
@@ -3431,7 +3431,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>15:00</start>
         <duration>00:17</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-109-culture-is-not-dead-doku-kultursommer-2021-gngeviertel</slug>
+        <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/</url>
         <title>CULTURE IS NOT DEAD - DOKU Kultursommer 2021@Gängeviertel</title>
         <subtitle/>
@@ -3468,7 +3468,7 @@ Insta: zwischensequenzen</description>
         <start>15:25</start>
         <duration>00:08</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-159-cheers-to-10-years-10-jahre-gngeviertel</slug>
+        <slug>jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/</url>
         <title>Cheers to 10 years! - 10 Jahre Gängeviertel</title>
         <subtitle/>
@@ -3494,7 +3494,7 @@ Komm in die Gänge! Cheers to 10 years!</abstract>
         <start>16:15</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-73-hacking-social-entrepreneurship-jeder-mensch-ist-gemeinntzig-kulturator-gute-dinge-stiftung</slug>
+        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
         <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
         <subtitle/>
@@ -3524,7 +3524,7 @@ Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</desc
         <start>19:30</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-146-allesandersplatz</slug>
+        <slug>jev22-497-allesandersplatz</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/</url>
         <title>Allesandersplatz</title>
         <subtitle/>
@@ -3560,7 +3560,7 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-38-oberlab-ein-fablab-im-oberland</slug>
+        <slug>jev22-1708-oberlab_ein_fablab_im_oberland</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/</url>
         <title>Oberlab - Ein FabLab im Oberland</title>
         <subtitle/>
@@ -3587,7 +3587,7 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>freiraumforum-160--mybrainmychoice-es-ist-zeit-fr-eine-neue-drogenpolitik-</slug>
+        <slug>jev22-2668-mybrainmychoice_es_ist_zeit_fuer_eine_neue_drogenpolitik</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/</url>
         <title>#mybrainmychoice - Es ist Zeit für eine neue Drogenpolitik!</title>
         <subtitle/>
@@ -3614,7 +3614,7 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-135-freie-netze-mnchen-projektvorstellung-und-routereinrichtung</slug>
+        <slug>jev22-1265-freie_netze_muenchen_projektvorstellung_und_routereinrichtung</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/</url>
         <title>Freie Netze München - Projektvorstellung und Routereinrichtung</title>
         <subtitle/>
@@ -3642,7 +3642,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <start>14:00</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>freiraumforum-138-infrastructure-review</slug>
+        <slug>jev22-194-infrastructure_review</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/</url>
         <title>Infrastructure Review</title>
         <subtitle/>
