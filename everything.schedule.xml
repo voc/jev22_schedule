@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 20:00; FireShonks 0.28; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 20:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 20:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 20:20; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -847,6 +847,31 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         </recording>
         <persons>
           <person id="3243">Wawuschel</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="54011" guid="36208253-bdbc-58cc-89df-63b622c37445">
+        <logo/>
+        <date>2022-12-27T21:45:00+01:00</date>
+        <start>21:45</start>
+        <duration>01:45</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-54011-muntere_abendunterhaltung_made_in_r3s</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/KL7RMJ/</url>
+        <title>Muntere Abendunterhaltung made in R3S</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir produzieren ein lustiges Abendprogram im WIR Haus in Wülfrath.</abstract>
+        <description>Big surprise!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3233">allen</person>
         </persons>
         <links/>
         <attachments/>
@@ -9423,6 +9448,31 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         </recording>
         <persons>
           <person id="180">Christian Berger</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="54012" guid="87c55596-2e1b-5789-99dd-c9c32bcf8ead">
+        <logo/>
+        <date>2022-12-30T18:45:00+01:00</date>
+        <start>18:45</start>
+        <duration>00:40</duration>
+        <room>Fireshonks-Stream</room>
+        <slug>jev22-54012-erklaerhaj_experimentiert_schon_wieder</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/</url>
+        <title>Erklärhaj experimentiert schon wieder</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</abstract>
+        <description>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3401">Erklärhai</person>
         </persons>
         <links/>
         <attachments/>

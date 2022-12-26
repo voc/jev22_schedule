@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 20:00",
+    "version": "2022-12-26 20:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -728,6 +728,37 @@
                     "code": "TRAMPQ",
                     "public_name": "Wawuschel",
                     "biography": "Ich bin Tanja Wawuschel, 40 Jahre alt, Crazy Cat Lady (kein Talk ohne Cat Content!)\r\nIch bin diagnostiziert mit Borderline, ADHS, Generalisierte Angst- und Panikst\u00f6rung, PTBS",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 54011,
+                "guid": "36208253-bdbc-58cc-89df-63b622c37445",
+                "logo": "",
+                "date": "2022-12-27T21:45:00+01:00",
+                "start": "21:45",
+                "duration": "01:45",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-54011-muntere_abendunterhaltung_made_in_r3s",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/KL7RMJ/",
+                "title": "Muntere Abendunterhaltung made in R3S",
+                "subtitle": "",
+                "track": "R3S",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Wir produzieren ein lustiges Abendprogram im WIR Haus in W\u00fclfrath.",
+                "description": "Big surprise!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3233,
+                    "code": "9VQEWS",
+                    "public_name": "allen",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -3746,6 +3777,37 @@
                     "code": "JVRP8M",
                     "public_name": "Christian Berger",
                     "biography": "Ich arbeite als Voice-Engineer bei einer D\u00fcsseldorfer Telefonfirma, und finde alte Technologien spannend, da sie oft die Essenz dahinter offen legen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 54012,
+                "guid": "87c55596-2e1b-5789-99dd-c9c32bcf8ead",
+                "logo": "",
+                "date": "2022-12-30T18:45:00+01:00",
+                "start": "18:45",
+                "duration": "00:40",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-54012-erklaerhaj_experimentiert_schon_wieder",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/",
+                "title": "Erkl\u00e4rhaj experimentiert schon wieder",
+                "subtitle": "",
+                "track": "R3S",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+                "description": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3401,
+                    "code": "YLYLMA",
+                    "public_name": "Erkl\u00e4rhai",
+                    "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
                     "answers": []
                   }
                 ],

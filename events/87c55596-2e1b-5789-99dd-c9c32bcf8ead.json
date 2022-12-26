@@ -1,0 +1,33 @@
+{
+  "id": 54012,
+  "guid": "87c55596-2e1b-5789-99dd-c9c32bcf8ead",
+  "logo": "",
+  "date": "2022-12-30T18:45:00+01:00",
+  "start": "18:45",
+  "duration": "00:40",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-54012-erklaerhaj_experimentiert_schon_wieder",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/",
+  "title": "Erkl\u00e4rhaj experimentiert schon wieder",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+  "description": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3401,
+      "code": "YLYLMA",
+      "public_name": "Erkl\u00e4rhai",
+      "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}
