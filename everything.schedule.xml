@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 22:40; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 22:40; Winterchaos 0.3; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 23:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 23:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -4286,7 +4286,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <description>During this presentation, the listener will learn how software dinosaurs (meant positively) like Debian can be combined with modern tools like Ansible, git and Mender by applying best practices like GitOps and infrastructure as code. The outcome will be a highly scalable, robust and traceable embedded fleet setup that is easy to operate with a reduced number of tools at a global scale using a modest server infrastructure. During the presentation a concrete example of managing an individual IoT device will be shown. The IoT device will furthermore receive an automatically built OS image that gets dispatched over the air. Hardware-in-the-loop testing guarantees the quality of the OS image. Finally a sample IoT fleet of seven devices (5 Raspberry Pis, 1 Compulab IoT gateway, 1 Variscite SOM on a development board) will be managed using a git repository instead of a typical IoT fleet management tool. The presentation done by Matthias Lüscher shall encourage the audience to discover tools and best practices from other domains and apply them successfully to embedded projects.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="2">Matthias</person>
