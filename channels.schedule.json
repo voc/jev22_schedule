@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 19:00",
+    "version": "2022-12-26 19:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1128,7 +1128,7 @@
                 "abstract": "{Design Clubcult - Dance!} A short experimental documentary about the revolutionary potential of dance and clubculture.",
                 "description": "{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 166,
@@ -1159,7 +1159,7 @@
                 "abstract": "Der Film begleitet verschiedene M\u00fcnchner Clubs durch die Pandemie.",
                 "description": "\u201eIch war mir felsenfest sicher, jeder wird immer feiern, essen und trinken.\u201c Doch die Pandemie zerst\u00f6rte diese jahrhundertealte Gewissheit, denn die Clubs waren die ersten, die geschlossen haben und die letzten, die wieder \u00f6ffnen durften. GESCHLOSSENE GESELLSCHAFT startet im Jahr 2 des Ausnahmezustands im Moment der gr\u00f6\u00dften Unsicherheit, als man in Bayern um 21 Uhr die Wohnung eigentlich nicht mehr verlassen durfte. Vier ganz unterschiedliche Clubs in M\u00fcnchen werden durch die Pandemie begleitet: Backstage, Harry Klein, Milla und P1. Sie alle eint das kreative Auflehnen gegen die mentale und finanzielle Insolvenz. Ein Film \u00fcber die Transformation des Nachtlebens und die ekstatische Wiederauferstehung eines generations\u00fcbergreifenden Sehnsuchtsorts. Ludwig Sporrer\r\nMehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 147,

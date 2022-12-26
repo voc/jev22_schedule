@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 19:00; FireShonks 0.28; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 19:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 19:40; FireShonks 0.28; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 19:40; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2123,7 +2123,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <description>{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="166">Emma Mann</person>
@@ -2149,7 +2149,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
 Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
