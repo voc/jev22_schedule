@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 16:00</version>
+  <version>2022-12-26 16:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -242,7 +242,7 @@ https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/&#13;
 seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die Handhabung von Hubzilla erhalten.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3421">chris</person>
@@ -1227,7 +1227,7 @@ programm folgt...</description>
         <title>Mach dein Softwareprojekt nutzbar für andere!</title>
         <subtitle/>
         <track>Hellarious</track>
-        <type>Talk</type>
+        <type>Workshop</type>
         <language>de</language>
         <abstract>Damit andere deinen Code ausführen, verstehen und vielleicht sogar erweitern können, braucht es nicht viel. Ein bisschen aufräumen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was gehört eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? &#13;
 In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.</abstract>

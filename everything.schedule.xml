@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 16:00; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 16:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 16:40; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 16:40; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -727,7 +727,7 @@ https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/&#13;
 seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die Handhabung von Hubzilla erhalten.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3421">chris</person>
@@ -905,7 +905,7 @@ https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/&#13;
 wird die praktische Handhabung von Hubzilla weiter demonstriert.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3421">chris</person>
@@ -3606,7 +3606,7 @@ Im Workshop stelle ich unterschiedliche Modi der Entscheidungsfindung vor und wi
         <title>Mach dein Softwareprojekt nutzbar für andere!</title>
         <subtitle/>
         <track>Hellarious</track>
-        <type>Talk</type>
+        <type>Workshop</type>
         <language>de</language>
         <abstract>Damit andere deinen Code ausführen, verstehen und vielleicht sogar erweitern können, braucht es nicht viel. Ein bisschen aufräumen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was gehört eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? &#13;
 In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.</abstract>

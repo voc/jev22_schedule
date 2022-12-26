@@ -16,7 +16,7 @@
   "abstract": "installiere Dir deinen eigenen FEDI Server",
   "description": "Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle \u00fcber seine Daten und kann eigenverantwortlich handeln.\r\n\r\nIn diesem Workshop werden die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers unterst\u00fctzt. \r\n\r\nDer Workshop setzt ein Grundverst\u00e4ndnis f\u00fcr das Fediverse voraus. Auch wer z.B. Erfahrungen mit der Installation und Administration einer WordPress Site hat, bringt gute Voraussetzung f\u00fcr dieses Workshopangebot mit. \r\n\r\nDie Installationen erfolgen \u00fcber einen Testaccout, der f\u00fcr die Teilnehmenden unentgeltlich zur Verf\u00fcgung gestellt wird.\u00a0Zum Aktivieren m\u00fcssen die Teilnehmenden \u00fcber einen Email-Account verf\u00fcgen.\r\n\r\nIm Vortrag \"Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt\"\r\n\r\nhttps://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/\r\n\r\nwird die praktische Handhabung von Hubzilla weiter demonstriert.",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 3421,
