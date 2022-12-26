@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 13:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:10; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
+  <version>2022-12-26 13:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:30; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -30,8 +30,8 @@
     <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
     <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
     <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
@@ -1356,13 +1356,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49283" guid="e862d07c-114a-56ef-b93f-4dc00f695296">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49283-opening_event</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/K8FAFL/</url>
         <title>Opening Event</title>
@@ -1390,7 +1390,7 @@ Lets fire this up.</abstract>
         <date>2022-12-27T11:45:00+01:00</date>
         <start>11:45</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49253-crushed_by_the_wheels_industry</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/EAXPTT/</url>
         <title>Crushed by the Wheels Industry</title>
@@ -1417,7 +1417,7 @@ With average run times of machines and their software of 15-20 years the consequ
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49294-hide_and_seek_ueber_die_biometrie_datenbank_des_us_militaers</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/</url>
         <title>Hide and seek ‒ über die Biometrie-Datenbank des US-Militärs</title>
@@ -1448,7 +1448,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49218-it_security</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/EJYKY7/</url>
         <title>IT Security</title>
@@ -1473,7 +1473,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <date>2022-12-27T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:55</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LUEPLZ/</url>
         <title>50 years of C, the good, the bad and the ugly</title>
@@ -1500,7 +1500,7 @@ In this presentation, I explore its history, why it's been so popular and what i
         <date>2022-12-27T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/</url>
         <title>US government demands direct police access to European biometric data</title>
@@ -1525,7 +1525,7 @@ In this presentation, I explore its history, why it's been so popular and what i
         <date>2022-12-27T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49152-update_on_kubernetes_security_in_critical_infrastructure</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/YYQ7DK/</url>
         <title>Update on Kubernetes Security in Critical Infrastructure</title>
@@ -1556,7 +1556,7 @@ The talk contains more than traces of DevSecOps, GitOps and code signing.  ~Hack
         <date>2022-12-27T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49097-perimeter_security_is_dead_get_over_it</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/9KFG8N/</url>
         <title>Perimeter security is dead, get over it.</title>
@@ -1583,7 +1583,7 @@ But lately especially malware waves have shown that its not working well anymore
         <date>2022-12-27T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49211-pacman_can_have_the_cookies_and_eat_the_ghosts_too</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/HCNL3V/</url>
         <title>Pacman can have the cookies and eat the ghosts too</title>
@@ -1624,7 +1624,7 @@ packaging ecosystem.&#13;
         <date>2022-12-27T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49209-the_train_has_left_the_station</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WHRJMW/</url>
         <title>The train has left the station</title>
@@ -1647,13 +1647,13 @@ packaging ecosystem.&#13;
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49244" guid="10710f38-5cc9-53ea-917c-aea5fc66c008">
         <logo>/media/hip-berlin-2022/submissions/8BSVFY/b33_XpEo1SV.jpg</logo>
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49244-how_to</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/8BSVFY/</url>
         <title>How To</title>
@@ -1687,7 +1687,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <date>2022-12-27T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49192-regenerative_hacking</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/</url>
         <title>Regenerative Hacking</title>
@@ -1712,7 +1712,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49196-what_i_learned_from_making_an_1836_led_dodecahedron</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/3D3JF9/</url>
         <title>What I learned from making an 1836 LED dodecahedron</title>
@@ -1741,7 +1741,7 @@ Be warned: This talk will cover enough information to make you consider building
         <date>2022-12-27T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49271-hacktivism_past_present_and_future</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/</url>
         <title>Hacktivism - past, present and future</title>
@@ -4232,13 +4232,13 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49261" guid="3de04181-3400-5656-9bbe-82aa5ebf1c51">
         <logo/>
         <date>2022-12-28T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49261-taping_out_a_systolic_array_with_an_opensource_pdk</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MJSGGS/</url>
         <title>Taping out a systolic array with an opensource PDK</title>
@@ -4265,7 +4265,7 @@ The related work can be found at https://github.com/tucanae47/etpu and https://g
         <date>2022-12-28T12:30:00+01:00</date>
         <start>12:30</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49113-takeaways_from_the_crypto_mines</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/N7V3XL/</url>
         <title>Takeaways from the crypto-mines</title>
@@ -4294,7 +4294,7 @@ All 6 of these areas have applicability beyond blockchain construction - with va
         <date>2022-12-28T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49208-librevents</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/YKXPH7/</url>
         <title>Librevents</title>
@@ -4335,7 +4335,7 @@ keywords: Fediverse, Mobilizon, data liberation, adversarial interoperability</d
         <date>2022-12-28T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49242-finding_state_malware</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PFUWNJ/</url>
         <title>Finding (state) malware</title>
@@ -4383,7 +4383,7 @@ For these steps and typical attack patterns we explain reasonable approaches and
         <date>2022-12-28T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49221-reviving_open_source_projects</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/</url>
         <title>Reviving open-source projects</title>
@@ -4414,7 +4414,7 @@ In this talk, I will present the hands-on lessons I learned in the subsequent 3 
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49098-subdomain_takeover_the_use_after_free_of_the_internet</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/FB78TC/</url>
         <title>Subdomain takeover, the use after free of the internet</title>
@@ -4441,7 +4441,7 @@ This talk is there to give you the whole context: from the basic "what is subdom
         <date>2022-12-28T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:40</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49202-introduction_to_reverse_engineering_with_frida</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/</url>
         <title>Introduction to Reverse Engineering with Frida</title>
@@ -4466,7 +4466,7 @@ This talk is there to give you the whole context: from the basic "what is subdom
         <date>2022-12-28T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49255-why_you_should_write_a_wayland_compositor</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/XLTFWL/</url>
         <title>Why YOU should write a wayland compositor!</title>
@@ -4505,7 +4505,7 @@ Let me show you, what weird things did people build with it and lets unlock more
         <date>2022-12-28T21:30:00+01:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49254-false_positive_to_0_day</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/</url>
         <title>False Positive to 0-day</title>
@@ -4536,7 +4536,7 @@ The goal is to try and make the subject approachable and less intimidating, even
         <date>2022-12-28T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49092-never_mind_the_gigwork_here_s_the_coffeebots</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PEAQU9/</url>
         <title>Never Mind the Gigwork - here's the Coffeebots</title>
@@ -4562,13 +4562,13 @@ Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49190" guid="b9148114-9e85-59f4-8c90-e89266a22b17">
         <logo>/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png</logo>
         <date>2022-12-28T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:25</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49190-mostly_homebrewn_metal_am</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/</url>
         <title>(mostly) homebrewn metal AM</title>
@@ -4593,7 +4593,7 @@ Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <date>2022-12-28T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:25</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49195-how_my_video_game_project_is_helping_me_learn_tech_and_conquer_my_mental_health</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/SRYJMG/</url>
         <title>How my video game project is helping me learn tech and conquer my mental health</title>
@@ -4627,7 +4627,7 @@ Just so you know: The video game is still in development, so we will not be able
         <date>2022-12-28T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49264-exploring_social_media_reactions_to_conflicts_in_2022</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/UCQTY9/</url>
         <title>Exploring social media reactions to conflicts in 2022</title>
@@ -4658,7 +4658,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <date>2022-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49198-it_security_for_activists</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/</url>
         <title>It security for activists</title>
@@ -4684,7 +4684,7 @@ Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedroht
         <date>2022-12-28T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49185-ikea_pallet_hacks</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/</url>
         <title>IKEA &amp; pallet hacks!</title>
@@ -4716,7 +4716,7 @@ With an extra of: why you shouldn't repair your ceiling for free (and I did it a
         <date>2022-12-28T20:45:00+01:00</date>
         <start>20:45</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49272-connecting_networks_in_global_maker_movements</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/DC8TQG/</url>
         <title>Connecting Networks in Global Maker Movements</title>
@@ -7344,13 +7344,13 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49173" guid="2888af7a-824d-55c8-8b18-bf6935ebe0e1">
         <logo/>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49173-dns_over_coap</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/</url>
         <title>DNS over CoAP</title>
@@ -7376,7 +7376,7 @@ constrained IoT but significantly outperforms when additional, CoAP standard fea
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49257-das_ist_globales_hardware_hacking_in_parallel</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/QM8CSR/</url>
         <title>Das ist globales Hardware Hacking in Parallel</title>
@@ -7403,7 +7403,7 @@ Ich möchte euch in diesem Vortrag einige davon vorstellen. Großartige Menschen
         <date>2022-12-29T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49228-are_you_old_enough_to_buy_this</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GRBLDD/</url>
         <title>Are you old enough to buy this?</title>
@@ -7436,7 +7436,7 @@ This work is funded by the project [_Concrete Contracts_](https://concretecontra
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49160-from_idea_to_kicad_beyond</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/BGH3BG/</url>
         <title>From idea to KiCad &amp; beyond</title>
@@ -7474,7 +7474,7 @@ Marco (nickname "glowingkitty") is creating open-source LED lamps and developmen
         <date>2022-12-29T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49107-a_beginner_s_guide_to_unexpected_input</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WJBNAN/</url>
         <title>A beginner's guide to unexpected input 🧨</title>
@@ -7501,7 +7501,7 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <date>2022-12-29T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49248-no_fuzzer_has_been_there_yet</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/A3ULZV/</url>
         <title>No Fuzzer has been there yet</title>
@@ -7526,7 +7526,7 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <date>2022-12-29T20:15:00+01:00</date>
         <start>20:15</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49142-open_source_und_cloud_native_die_zielarchitektur_der_deutschen_verwaltungscloud</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/</url>
         <title>Open Source und Cloud Native - Die  Zielarchitektur der deutschen Verwaltungscloud</title>
@@ -7557,7 +7557,7 @@ Wir gehen durch https://www.it-planungsrat.de/beschluss/beschluss-2022-47</descr
         <date>2022-12-29T21:30:00+01:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49250-aktuelles_zur_chatkontrolle</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JBU3JC/</url>
         <title>Aktuelles zur Chatkontrolle</title>
@@ -7585,7 +7585,7 @@ Um die Pläne noch zu verhindern müssen wir jetzt aktiv werden.</description>
         <date>2022-12-29T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>01:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49245-masking_threshold</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MBJW9Z/</url>
         <title>Masking Threshold</title>
@@ -7612,13 +7612,13 @@ Trailer: https://www.youtube.com/watch?v=c8ciPdXC6BQ&amp;</description>
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49229" guid="0d59c727-628c-545f-9917-6b23cef4e31d">
         <logo/>
         <date>2022-12-29T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49229-an_ontology_of_hope</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JBSLXU/</url>
         <title>An ontology of hope</title>
@@ -7647,7 +7647,7 @@ How can we remain hopeful, then, if hope doesn't make sense? This is what we att
         <date>2022-12-29T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49277-b3_buntesbugbounty_den_hackerparagraphen_hacken</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/</url>
         <title>B3 - BuntesBugBounty - den Hackerparagraphen Hacken</title>
@@ -7740,7 +7740,7 @@ www.inoeg.de/b3&#13;
         <date>2022-12-29T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:55</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49182-an_introduction_to_scientific_journalism</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/</url>
         <title>An Introduction to Scientific Journalism</title>
@@ -7765,7 +7765,7 @@ www.inoeg.de/b3&#13;
         <date>2022-12-29T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>01:30</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49183-eduroam_eine_reise_durch_die_technik_hinter_der_foederation</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/</url>
         <title>eduroam - eine Reise durch die Technik hinter der Föderation</title>
@@ -9916,13 +9916,13 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49199" guid="90027f42-d1c3-53e8-b18a-34564fda53f5">
         <logo/>
         <date>2022-12-30T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49199-decentralised_social_media_has_a_moderation_problem</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/NUAUJG/</url>
         <title>Decentralised social media has a moderation problem</title>
@@ -9959,7 +9959,7 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <date>2022-12-30T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:00</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49210-what_if_xss_was_a_browser_bug</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/</url>
         <title>What if XSS was a browser bug?</title>
@@ -9984,7 +9984,7 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <date>2022-12-30T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
-        <room>HIP22 - Track 1 - Room 5</room>
+        <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49267-placeholder_review_closing</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/</url>
         <title>placeholder, Review &amp; Closing</title>
@@ -10006,13 +10006,13 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <attachments/>
       </event>
     </room>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49222" guid="bc17cad7-3c6b-5cea-9735-b79ec525a15a">
         <logo>/media/hip-berlin-2022/submissions/FRLYBH/Bildschirmfoto_2022-11-27_um_20.08.02_So1CDnt.png</logo>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
-        <room>HIP22 - Track 2 - Room 2</room>
+        <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49222-die_physik_der_musik</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/FRLYBH/</url>
         <title>die Physik der Musik</title>
@@ -11075,8 +11075,8 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP22 - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
-    <room name="HIP22 - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
+    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
+    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
     <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
     <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>

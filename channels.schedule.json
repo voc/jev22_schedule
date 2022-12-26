@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 13:10",
+    "version": "2022-12-26 13:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -149,14 +149,14 @@
           "location": "Luzern, CH"
         },
         {
-          "name": "HIP22 - Track 1 - Room 5",
+          "name": "HIP - Track 1 - Room 5",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
           "description": "Main conference stage in the Theater Hall E.T.I.",
           "capacity": 110,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "HIP22 - Track 2 - Room 2",
+          "name": "HIP - Track 2 - Room 2",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
           "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
           "capacity": 70,
