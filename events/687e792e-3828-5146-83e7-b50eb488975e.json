@@ -19,6 +19,13 @@
   "do_not_record": false,
   "persons": [
     {
+      "id": 3885,
+      "code": "SHGGF7",
+      "public_name": "Kasper Rothaus",
+      "biography": "Projektleiter bei Junge t\u00fcftler*innen \r\nQuanten 1x1",
+      "answers": []
+    },
+    {
       "id": 3876,
       "code": "VFSNBU",
       "public_name": "Charlotte",

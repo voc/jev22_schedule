@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 09:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 09:30; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.34",
+    "version": "2022-12-26 10:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 10:30; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.34",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2334,6 +2334,13 @@
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
+                  {
+                    "id": 3885,
+                    "code": "SHGGF7",
+                    "public_name": "Kasper Rothaus",
+                    "biography": "Projektleiter bei Junge t\u00fcftler*innen \r\nQuanten 1x1",
+                    "answers": []
+                  },
                   {
                     "id": 3876,
                     "code": "VFSNBU",
