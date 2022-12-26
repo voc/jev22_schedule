@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 21:20",
+    "version": "2022-12-26 22:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -322,8 +322,8 @@
           "location": "M\u00fcnchen"
         },
         {
-          "name": "Raum 1",
-          "guid": null,
+          "name": "Hackwerk",
+          "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
           "description": null,
           "capacity": null,
           "location": "Aalen, Hackwerk"
