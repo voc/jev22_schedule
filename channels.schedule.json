@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 13:50",
+    "version": "2022-12-26 14:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -820,29 +820,6 @@
             "Bierschoine": [],
             "xrelog22 - Stream": [],
             "WICMP Seminarraum": [
-              {
-                "id": 8887,
-                "guid": "8b8a8793-1026-5a55-bb59-32594c491d36",
-                "logo": "",
-                "date": "2022-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "00:30",
-                "room": "WICMP Seminarraum",
-                "slug": "jev22-8887-opening",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/73AREP/",
-                "title": "Opening",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Im Hackcenter. Kurze Er\u00f6ffnung, what to hack etc.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 9081,
                 "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
@@ -1834,37 +1811,6 @@
                     "code": "SYJ7LM",
                     "public_name": "Julian \"codemonk\"",
                     "biography": "Auf Bergen, in H\u00f6hlen und in der Luft unterwegs. Manchmal auch in Hack- und Makespaces.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9167,
-                "guid": "91f6e743-93b2-590f-b64b-1d51bd2673c4",
-                "logo": "",
-                "date": "2022-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:30",
-                "room": "WICMP Seminarraum",
-                "slug": "jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/",
-                "title": "Gib mir mal die Datei... Dateien verteilen in 2022",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungel\u00f6stes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?\r\n\r\nDieser talk gibt einen kleinen \u00dcberblick \u00fcber derzeit verf\u00fcgbare freie Software und deren Anwendungsgebiete.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9,
-                    "code": "MEA8TX",
-                    "public_name": "C-Keen",
-                    "biography": "Teil des Nerdberg Chaos.\r\n\r\nKaffee _und_ Tee, mag emacs, kann vi bedienen, mag Nischenprogrammiersprachen und -betriebssysteme.",
                     "answers": []
                   }
                 ],

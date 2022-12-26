@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 13:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
+  <version>2022-12-26 14:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 14:10; Wintergalaktische Club Mate Party 0.5; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1233,14 +1233,13 @@ Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-0
       </event>
     </room>
     <room name="Lounge"/>
-    <room name="Spezial Raum"/>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+    <room name="Spezial Raum">
       <event id="8887" guid="8b8a8793-1026-5a55-bb59-32594c491d36">
         <logo/>
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Spezial Raum</room>
         <slug>jev22-8887-opening</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
         <title>Opening</title>
@@ -1258,6 +1257,8 @@ Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-0
         <links/>
         <attachments/>
       </event>
+    </room>
+    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
         <date>2022-12-27T17:45:00+01:00</date>
@@ -4012,33 +4013,6 @@ It breaks then down roughly like this:&#13;
         </recording>
         <persons>
           <person id="5">Julian "codemonk"</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="9167" guid="91f6e743-93b2-590f-b64b-1d51bd2673c4">
-        <logo/>
-        <date>2022-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
-        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
-        <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungelöstes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?&#13;
-&#13;
-Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Software und deren Anwendungsgebiete.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9">C-Keen</person>
         </persons>
         <links/>
         <attachments/>
@@ -7007,8 +6981,8 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
     <room name="Rave Cave">
       <event id="1973" guid="fe1b973f-6e41-542e-8230-a1a07f030ca9">
         <logo/>
-        <date>2022-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>02:00</duration>
         <room>Rave Cave</room>
         <slug>jev22-1973-chaotic_symphony_an_audiovisual_space_trip</slug>
@@ -7028,6 +7002,31 @@ Die Details hängen von der location ab, die wir noch gar nicht kennen. Es wird 
         </recording>
         <persons>
           <person id="8">Alexander Alber</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2260" guid="22ccc6a0-df76-5f78-ae71-9a87f04218e2">
+        <logo/>
+        <date>2022-12-29T22:20:00+01:00</date>
+        <start>22:20</start>
+        <duration>02:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-2260-neokay_dj_set</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/</url>
+        <title>neokay DJ Set</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>Rollende Bässe und sphärische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgewählte Tracks von Progressive bis FullOn</abstract>
+        <description>Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Debüt außerhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis härter, Deep Dubstep sowie Chillout gehören zu seinem Repertoire, am meisten fühlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events präsentieren. Und genau damit wird er euch auch auf der diesjährigen WICMP versorgen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">neokay</person>
         </persons>
         <links/>
         <attachments/>

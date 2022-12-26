@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 13:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.8; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36",
+    "version": "2022-12-26 14:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 14:10; Wintergalaktische Club Mate Party 0.5; Winterchaos 0.2; Hacking in Parallel 0.8; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1672,8 +1672,7 @@
               }
             ],
             "Lounge": [],
-            "Spezial Raum": [],
-            "WICMP Seminarraum": [
+            "Spezial Raum": [
               {
                 "id": 8887,
                 "guid": "8b8a8793-1026-5a55-bb59-32594c491d36",
@@ -1681,7 +1680,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Spezial Raum",
                 "slug": "jev22-8887-opening",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/73AREP/",
                 "title": "Opening",
@@ -1696,7 +1695,9 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
-              },
+              }
+            ],
+            "WICMP Seminarraum": [
               {
                 "id": 9081,
                 "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
@@ -4808,37 +4809,6 @@
                 "attachments": []
               },
               {
-                "id": 9167,
-                "guid": "91f6e743-93b2-590f-b64b-1d51bd2673c4",
-                "logo": "",
-                "date": "2022-12-28T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:30",
-                "room": "WICMP Seminarraum",
-                "slug": "jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/",
-                "title": "Gib mir mal die Datei... Dateien verteilen in 2022",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungel\u00f6stes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?\r\n\r\nDieser talk gibt einen kleinen \u00dcberblick \u00fcber derzeit verf\u00fcgbare freie Software und deren Anwendungsgebiete.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 9,
-                    "code": "MEA8TX",
-                    "public_name": "C-Keen",
-                    "biography": "Teil des Nerdberg Chaos.\r\n\r\nKaffee _und_ Tee, mag emacs, kann vi bedienen, mag Nischenprogrammiersprachen und -betriebssysteme.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 9908,
                 "guid": "9daf9aed-fe08-54c8-a1a5-2ebaaf6e1a50",
                 "logo": "",
@@ -5417,7 +5387,7 @@
                     "id": 3320,
                     "code": "BRLYXQ",
                     "public_name": "Klapauzius",
-                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical technician, first world job as a software developer (Simatic PLC/HMI) in machine building for pharmaceutical industry. Hamradio operator (Class A, callsign DH5SL, mostly short wave). More than ten years of background as a hobbyist and professional in additive manufacturing and experience in sinter based metal FFF/FDM for three years. First contact to 'information technology' on a Commodore 64 programming BASIC in '83, later on 6502 and ARM(2) assembler on an Acorn Archimedes (A310), Arduino priojects, on a journey exploring the new since. \r\nConnected to Chaostreff Dortmund (ctdo, chaos west) since 2007 and part of several conferences including chaos bbq, easterheggs, mrmcd, cc camp and c3..",
+                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical engineer , 1st world job as a software developer in control engineering (Simatic PLC/HMI).\r\n\r\nFirst contacts to information technology on a Commodore 64  programming BASIC in \u00b483, on a journey experiencing the new since. Member of \u201aChaostreff Dortmund\u2018 (chaoswest/ctdo) from 2007 being part of numerous events (chaos bbq, easterhegg, mrmcd, camp, c3).\r\n\r\nExperiences as a hobbyist and professional in FFF/FDM and mSLA additive manufacturing machines since 2013, started printing metal FFF in 2019.",
                     "answers": []
                   }
                 ],
@@ -8189,8 +8159,8 @@
                 "id": 1973,
                 "guid": "fe1b973f-6e41-542e-8230-a1a07f030ca9",
                 "logo": "",
-                "date": "2022-12-29T22:00:00+01:00",
-                "start": "22:00",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
                 "duration": "02:00",
                 "room": "Rave Cave",
                 "slug": "jev22-1973-chaotic_symphony_an_audiovisual_space_trip",
@@ -8210,6 +8180,37 @@
                     "code": "STXG7L",
                     "public_name": "Alexander Alber",
                     "biography": "Alexander macht in seiner Freizeit gerne interaktive Lichtkunst",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 2260,
+                "guid": "22ccc6a0-df76-5f78-ae71-9a87f04218e2",
+                "logo": "",
+                "date": "2022-12-29T22:20:00+01:00",
+                "start": "22:20",
+                "duration": "02:00",
+                "room": "Rave Cave",
+                "slug": "jev22-2260-neokay_dj_set",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/",
+                "title": "neokay DJ Set",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (120 min)",
+                "language": "de",
+                "abstract": "Rollende B\u00e4sse und sph\u00e4rische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgew\u00e4hlte Tracks von Progressive bis FullOn",
+                "description": "Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Deb\u00fct au\u00dferhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis h\u00e4rter, Deep Dubstep sowie Chillout geh\u00f6ren zu seinem Repertoire, am meisten f\u00fchlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events pr\u00e4sentieren. Und genau damit wird er euch auch auf der diesj\u00e4hrigen WICMP versorgen!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 12,
+                    "code": "TA8MGV",
+                    "public_name": "neokay",
+                    "biography": "Blink blink macht die LED",
                     "answers": []
                   }
                 ],

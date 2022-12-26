@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 13:50</version>
+  <version>2022-12-26 14:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -465,29 +465,6 @@ anonymised.</abstract>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
-      <event id="8887" guid="8b8a8793-1026-5a55-bb59-32594c491d36">
-        <logo/>
-        <date>2022-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
-        <slug>jev22-8887-opening</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Im Hackcenter. Kurze Eröffnung, what to hack etc.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
         <date>2022-12-27T17:45:00+01:00</date>
@@ -1366,33 +1343,6 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         </recording>
         <persons>
           <person id="5">Julian "codemonk"</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="9167" guid="91f6e743-93b2-590f-b64b-1d51bd2673c4">
-        <logo/>
-        <date>2022-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
-        <slug>jev22-9167-gib_mir_mal_die_datei_dateien_verteilen_in_2022</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/EV3HCQ/</url>
-        <title>Gib mir mal die Datei... Dateien verteilen in 2022</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Eine Datei jemandem zukommen zu lassen scheint immer noch ein ungelöstes Problem zu sein. Einmal als Anhang per E-Mail via Messenger, Facebook post oder auf Megaupload hochladen?&#13;
-&#13;
-Dieser talk gibt einen kleinen Überblick über derzeit verfügbare freie Software und deren Anwendungsgebiete.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9">C-Keen</person>
         </persons>
         <links/>
         <attachments/>

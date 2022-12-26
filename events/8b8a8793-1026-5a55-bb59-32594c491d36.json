@@ -5,7 +5,7 @@
   "date": "2022-12-27T17:00:00+01:00",
   "start": "17:00",
   "duration": "00:30",
-  "room": "WICMP Seminarraum",
+  "room": "Spezial Raum",
   "slug": "jev22-8887-opening",
   "url": "https://talks.w.icmp.camp/wicmp1/talk/73AREP/",
   "title": "Opening",
@@ -20,6 +20,6 @@
   "persons": [],
   "links": [],
   "attachments": [],
-  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
+  "room_id": null,
   "origin": "talks.w.icmp.camp"
 }

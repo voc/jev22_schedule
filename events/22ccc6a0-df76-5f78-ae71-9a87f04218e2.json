@@ -1,0 +1,33 @@
+{
+  "id": 2260,
+  "guid": "22ccc6a0-df76-5f78-ae71-9a87f04218e2",
+  "logo": "",
+  "date": "2022-12-29T22:20:00+01:00",
+  "start": "22:20",
+  "duration": "02:00",
+  "room": "Rave Cave",
+  "slug": "jev22-2260-neokay_dj_set",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/",
+  "title": "neokay DJ Set",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (120 min)",
+  "language": "de",
+  "abstract": "Rollende B\u00e4sse und sph\u00e4rische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgew\u00e4hlte Tracks von Progressive bis FullOn",
+  "description": "Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Deb\u00fct au\u00dferhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis h\u00e4rter, Deep Dubstep sowie Chillout geh\u00f6ren zu seinem Repertoire, am meisten f\u00fchlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events pr\u00e4sentieren. Und genau damit wird er euch auch auf der diesj\u00e4hrigen WICMP versorgen!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 12,
+      "code": "TA8MGV",
+      "public_name": "neokay",
+      "biography": "Blink blink macht die LED",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}
