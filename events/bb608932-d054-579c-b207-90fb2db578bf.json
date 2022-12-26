@@ -1,0 +1,33 @@
+{
+  "id": 53789,
+  "guid": "bb608932-d054-579c-b207-90fb2db578bf",
+  "logo": "",
+  "date": "2022-12-28T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "00:30",
+  "room": "xrelog22 - Stream",
+  "slug": "jev22-53789-the_evolution_of_the_metaverse",
+  "url": "https://pretalx.c3voc.de/xrelog-2022/talk/VK9JTW/",
+  "title": "The Evolution of the Metaverse",
+  "subtitle": "",
+  "track": "Activism",
+  "type": "Live Session (30)",
+  "language": "en",
+  "abstract": "The Evolution of the Metaverse (A Late Night One ...)",
+  "description": "Some toughts about the evolution of the metaverse compared to the evolution of the internet itself by DarlingVR Creator.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3886,
+      "code": "ZXFZZA",
+      "public_name": "Darling",
+      "biography": "I am hey out there coder.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "ad28953f-122e-4293-836d-860320183a1c",
+  "origin": "pretalx.c3voc.de"
+}

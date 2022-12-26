@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 20:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 20:20; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 20:40; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 20:40; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.1; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -871,7 +871,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3233">allen</person>
+          <person id="3233">hexchen</person>
         </persons>
         <links/>
         <attachments/>
@@ -3895,27 +3895,27 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <links/>
         <attachments/>
       </event>
-      <event id="49286" guid="a5aab351-7c5b-51a0-a21b-878b0c7c44df">
+      <event id="53789" guid="bb608932-d054-579c-b207-90fb2db578bf">
         <logo/>
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>02:00</duration>
+        <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49286-open_source_culture_heritage_historiography</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/G8JCJX/</url>
-        <title>Open Source Culture Heritage Historiography</title>
+        <slug>jev22-53789-the_evolution_of_the_metaverse</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/VK9JTW/</url>
+        <title>The Evolution of the Metaverse</title>
         <subtitle/>
         <track>Activism</track>
-        <type>Live Session (60)</type>
+        <type>Live Session (30)</type>
         <language>en</language>
-        <abstract>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</abstract>
-        <description>Open Source Culture Heritage Historiography, following the Wikipedagogy methodology in a performance lecture, presents a timeline database of the open source commons cultural heritage for historiographic data-analysis, composed of concerning institutions Wikipedia articles yearly-disposed in the organized categories of Open Software &amp; Open Policies, Open Economics &amp; Open Governance, Open Research &amp; Open Science, Open Access &amp; Library, Open Education &amp; Open Pedagogy, and Open Culture &amp; Open Media, so we may find better ways to implement an Open Society. This literacy project is being presented in Brazilian hacklabs and telecentres and has shown to be a great tool in promoting open source solutions spreading for the diminishing of digital divides and proposing alternative usages of the internet, as envisioned its progressive creators.</description>
+        <abstract>The Evolution of the Metaverse (A Late Night One ...)</abstract>
+        <description>Some toughts about the evolution of the metaverse compared to the evolution of the internet itself by DarlingVR Creator.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3323">Felipe "Operário" Ribeiro</person>
+          <person id="3886">Darling</person>
         </persons>
         <links/>
         <attachments/>
