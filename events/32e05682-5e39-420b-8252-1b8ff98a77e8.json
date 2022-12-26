@@ -16,7 +16,7 @@
   "abstract": "",
   "description": "Welche Daten lassen sich eigentlich von unseren Ger\u00e4ten abgreifen, wenn wir digitale R\u00e4ume betreten? Der interaktive Apparat \u00abiC-U\u00bb geht dieser Frage spielerisch nach, indem er Informationen seiner User sammelt und als individuelle Datenbl\u00e4tter ausdruckt. Der mechanisch-digitale Hybrid ist f\u00fcr die Designbiennale Z\u00fcrich 2021 entstanden und hat an bisher drei Standorten mehrere tausend Besuchende erreicht.<br />Studio absurda zeigt den Entstehungsprozess von \u00abiC-U\u00bb auf und gibt von Konzeption bis Softwareprogrammierung Einblicke, wie experimentelles Design dr\u00e4ngende Gesellschaftsfragen an ein breites Publikum bringen kann.<br /><br />  - [Zum Projekt auf der Webseite der Designbiennale Z\u00fcrich](https://www.designbiennalezurich.ch/datenbank-projekte-2021/absurda)<br />  - [Studio absurda*](https://absurda.ch/)<br />",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 10,
