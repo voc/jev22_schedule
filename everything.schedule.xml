@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 13:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:30; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
+  <version>2022-12-26 13:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 13:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1387,8 +1387,8 @@ Lets fire this up.</abstract>
       </event>
       <event id="49253" guid="32f94976-2f1c-587f-9fa9-7e7a9968fd66">
         <logo/>
-        <date>2022-12-27T11:45:00+01:00</date>
-        <start>11:45</start>
+        <date>2022-12-27T11:30:00+01:00</date>
+        <start>11:30</start>
         <duration>01:00</duration>
         <room>HIP - Track 1 - Room 5</room>
         <slug>jev22-49253-crushed_by_the_wheels_industry</slug>
