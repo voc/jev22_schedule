@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 14:28; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 14:28; Winterchaos 0.2; Hacking in Parallel 0.8; Forum für Freiräume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 15:40; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 15:40; Winterchaos 0.2; Hacking in Parallel 0.9; Forum für Freiräume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -34,7 +34,7 @@
     <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
     <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
@@ -251,7 +251,7 @@ How could I start to practice?</description>
     </room>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="4522" guid="45d2a231-7753-5139-90b5-45bc6da3f3cd">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
@@ -761,31 +761,31 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
         <links/>
         <attachments/>
       </event>
-      <event id="49175" guid="f67e9b12-567d-5dc2-998c-3a1b3cd078ef">
-        <logo/>
-        <date>2022-12-27T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>00:40</duration>
+      <event id="49181" guid="948ef99e-e3ea-53bb-b73d-c61f49e8038d">
+        <logo>/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg</logo>
+        <date>2022-12-27T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>01:00</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49175-haste_mal_ne_mark_wieso_du_fuer_digitale_dienste_geld_nehmen_solltest</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VRK9JD/</url>
-        <title>Haste mal ne Mark? Wieso Du für digitale Dienste Geld nehmen solltest.</title>
+        <slug>jev22-49181-best_of_digitalzwangmelder</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/</url>
+        <title>Best-of Digitalzwangmelder</title>
         <subtitle/>
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Viele Nutzende verwechseln gerade in Deutschland immer noch freie mit kostenloser Software. Aber auch die Anbietenden haben oft nicht den Mut, Geld für ihre Arbeit zu verlangen. Wieso das für alle Beteiligten schlecht ist, und was die Alternativen sein können, ohne wen auszuschließen, möchte ich in diesem Talk beleuchten.</abstract>
-        <description>Es gibt viele gute Gründe für ehrenamtliche Arbeit im Netz, oft richten aber gerade die besten Leute sich für die Community zu Grunde, die im schlimmsten Fall plötzlich ohne die Dienstleistung oder den Code im Regen steht. Eine Anerkennung der geleisteten Arbeit in Form von schnöder, althergebrachter Knete kann ein Faktor sein, um das zu verhindern.&#13;
-Wie man bewertet, wann die Arbeit "zu viel" wird, die erste Hürde nach Geld zu fragen überwindet, und nicht zuletzt über Systeme sicherstellt, dass trotzdem auch Leute ohne Kohle von Deiner Arbeit profitieren können, ist Thema dieses Talks.&#13;
-Gratis dazu gibt es einen Arschtritt für Nutzende, die zwar das Geld aber nicht die Bereitschaft besitzen, Leute für Kram im Netz zu bezahlen und eine Erklärung, wieso sie sich damit ins eigene Fleisch schneiden.&#13;
-Markus hat jahrelang ehrenamtlich als Admin in einem großen deutschen Gamer-Forum und auf LAN-Parties gearbeitet. Später hat er das selbe für Geld getan, was ihm sehr viel besser gefallen hat. &#13;
-Aktuell arbeitet er bei Digitalcourage in Bielefeld.</description>
+        <abstract>Wir verlesen die besten Überwachungsblüten aus dem Digitalzwangmelder.</abstract>
+        <description>"... geht nur mit App."&#13;
+"... nur noch online."&#13;
+"... laden Sie im Google-Play-Store ..."&#13;
+Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wir dazu aufgerufen uns Situationen zu schildern in denen Teilhabe am Leben nur noch mittels digitaler Mittel möglich war. Wir verlesen die besten Einsendungen.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3311">Markus</person>
+          <person id="393">padeluun</person>
+          <person id="387">Leena Simon</person>
         </persons>
         <links/>
         <attachments/>
@@ -861,7 +861,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/</url>
         <title>Mein FEDI Server</title>
         <subtitle/>
-        <track>R3S</track>
+        <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
         <abstract>installiere Dir deinen eigenen FEDI Server</abstract>
@@ -1888,13 +1888,13 @@ C is a small language making it easy to cover in such a short time—yet difficu
         <attachments/>
       </event>
     </room>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49161" guid="bb932d5d-3928-5364-b205-830e11d53e2c">
         <logo>/media/hip-berlin-2022/submissions/YBPSJK/A4TN_EMF_Camp_2022_oouqpKy.jpg</logo>
         <date>2022-12-27T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>03:30</duration>
-        <room>Hardware Hacking</room>
+        <room>Soldering Workshop Room</room>
         <slug>jev22-49161-arduino_for_total_newbies</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/YBPSJK/</url>
         <title>Arduino For Total Newbies</title>
@@ -2448,7 +2448,7 @@ Nur für schwache Nerven.</description>
     </room>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="6058" guid="6a0dd58c-b89a-50a8-88ef-2e633055a9df">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
@@ -4856,13 +4856,13 @@ All you need is a computer, and access to a laser/vinyl cutter (don't bring your
         <attachments/>
       </event>
     </room>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49162" guid="abcc1a5b-e4ac-57b5-b531-5c813b90118a">
         <logo>/media/hip-berlin-2022/submissions/8TQBMA/ArduTouch_1280x720_sA7RXXg.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:30</duration>
-        <room>Hardware Hacking</room>
+        <room>Soldering Workshop Room</room>
         <slug>jev22-49162-learn_to_solder_digital_music_synthesis_workshop_with_ardutouch_music_synthesizer_kit</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/8TQBMA/</url>
         <title>Learn to Solder - Digital Music Synthesis workshop with ArduTouch music synthesizer kit</title>
@@ -5492,7 +5492,7 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
     </room>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="5929" guid="a59295db-415e-590c-903e-3d00b1038154">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
@@ -7799,13 +7799,13 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
       </event>
     </room>
     <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49163" guid="4aff93bc-0d9e-5334-b77a-4d3d33884482">
         <logo>/media/hip-berlin-2022/submissions/MVZST3/LEDstripsEverywhereForEveryone_ZHD1sqS.jpg</logo>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
-        <room>Hardware Hacking</room>
+        <room>Soldering Workshop Room</room>
         <slug>jev22-49163-led_strips_everywhere_for_everyone</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MVZST3/</url>
         <title>LED Strips Everywhere for Everyone!</title>
@@ -7836,7 +7836,7 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <date>2022-12-29T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>02:00</duration>
-        <room>Hardware Hacking</room>
+        <room>Soldering Workshop Room</room>
         <slug>jev22-49235-beginners_workshop_how_to_plan_build_your_own_led_project</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/G9K7L8/</url>
         <title>Beginners workshop - How to plan &amp; build your own LED project</title>
@@ -8626,7 +8626,7 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
     </room>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="5083" guid="5cd0839f-be0e-5c91-aebb-dffcbb510980">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
@@ -10092,7 +10092,7 @@ Premiere&#13;
         <attachments/>
       </event>
     </room>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
@@ -10609,7 +10609,7 @@ Mit dieser Feuer-Zeremonie verbrennen wir die Dinge, die wir hinter uns lassen m
     </room>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="7033" guid="7c0f3c31-7312-5818-b8e2-98412415337a">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
@@ -11083,7 +11083,7 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
     <room name="USB-C" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
-    <room name="Hardware Hacking" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
+    <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
@@ -11255,7 +11255,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
     <room name="Ruheraum - H1-2.1"/>
     <room name="Ausstellungsraum 1 - H2-1.3">
       <event id="404" guid="bca040fe-47d5-5e6b-b150-eda1eeba5966">
-        <logo>/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg</logo>
+        <logo>/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg</logo>
         <date>2022-12-31T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>

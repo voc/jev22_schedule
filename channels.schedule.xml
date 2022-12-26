@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 14:28</version>
+  <version>2022-12-26 15:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -276,31 +276,31 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
         <links/>
         <attachments/>
       </event>
-      <event id="49175" guid="f67e9b12-567d-5dc2-998c-3a1b3cd078ef">
-        <logo/>
-        <date>2022-12-27T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>00:40</duration>
+      <event id="49181" guid="948ef99e-e3ea-53bb-b73d-c61f49e8038d">
+        <logo>/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg</logo>
+        <date>2022-12-27T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>01:00</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49175-haste_mal_ne_mark_wieso_du_fuer_digitale_dienste_geld_nehmen_solltest</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VRK9JD/</url>
-        <title>Haste mal ne Mark? Wieso Du für digitale Dienste Geld nehmen solltest.</title>
+        <slug>jev22-49181-best_of_digitalzwangmelder</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/</url>
+        <title>Best-of Digitalzwangmelder</title>
         <subtitle/>
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Viele Nutzende verwechseln gerade in Deutschland immer noch freie mit kostenloser Software. Aber auch die Anbietenden haben oft nicht den Mut, Geld für ihre Arbeit zu verlangen. Wieso das für alle Beteiligten schlecht ist, und was die Alternativen sein können, ohne wen auszuschließen, möchte ich in diesem Talk beleuchten.</abstract>
-        <description>Es gibt viele gute Gründe für ehrenamtliche Arbeit im Netz, oft richten aber gerade die besten Leute sich für die Community zu Grunde, die im schlimmsten Fall plötzlich ohne die Dienstleistung oder den Code im Regen steht. Eine Anerkennung der geleisteten Arbeit in Form von schnöder, althergebrachter Knete kann ein Faktor sein, um das zu verhindern.&#13;
-Wie man bewertet, wann die Arbeit "zu viel" wird, die erste Hürde nach Geld zu fragen überwindet, und nicht zuletzt über Systeme sicherstellt, dass trotzdem auch Leute ohne Kohle von Deiner Arbeit profitieren können, ist Thema dieses Talks.&#13;
-Gratis dazu gibt es einen Arschtritt für Nutzende, die zwar das Geld aber nicht die Bereitschaft besitzen, Leute für Kram im Netz zu bezahlen und eine Erklärung, wieso sie sich damit ins eigene Fleisch schneiden.&#13;
-Markus hat jahrelang ehrenamtlich als Admin in einem großen deutschen Gamer-Forum und auf LAN-Parties gearbeitet. Später hat er das selbe für Geld getan, was ihm sehr viel besser gefallen hat. &#13;
-Aktuell arbeitet er bei Digitalcourage in Bielefeld.</description>
+        <abstract>Wir verlesen die besten Überwachungsblüten aus dem Digitalzwangmelder.</abstract>
+        <description>"... geht nur mit App."&#13;
+"... nur noch online."&#13;
+"... laden Sie im Google-Play-Store ..."&#13;
+Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wir dazu aufgerufen uns Situationen zu schildern in denen Teilhabe am Leben nur noch mittels digitaler Mittel möglich war. Wir verlesen die besten Einsendungen.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3311">Markus</person>
+          <person id="393">padeluun</person>
+          <person id="387">Leena Simon</person>
         </persons>
         <links/>
         <attachments/>

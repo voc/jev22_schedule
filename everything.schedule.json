@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-26 14:28; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 14:28; Winterchaos 0.2; Hacking in Parallel 0.8; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-26 15:40; FireShonks 0.25; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.1; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 15:40; Winterchaos 0.2; Hacking in Parallel 0.9; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.36; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -175,7 +175,7 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "Hardware Hacking",
+          "name": "Soldering Workshop Room",
           "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
           "description": "Room 7 (upstairs)",
           "capacity": 12,
@@ -352,7 +352,7 @@
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],
             "USB-C": [],
-            "Hardware Hacking": [],
+            "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -589,7 +589,7 @@
               {
                 "id": 4522,
                 "guid": "45d2a231-7753-5139-90b5-45bc6da3f3cd",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-26T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
@@ -1199,30 +1199,37 @@
                 "attachments": []
               },
               {
-                "id": 49175,
-                "guid": "f67e9b12-567d-5dc2-998c-3a1b3cd078ef",
-                "logo": "",
-                "date": "2022-12-27T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "00:40",
+                "id": 49181,
+                "guid": "948ef99e-e3ea-53bb-b73d-c61f49e8038d",
+                "logo": "/media/fire-shonks-2022/submissions/VL33A3/Digitalzwangmelder_-_Illustration_Scribble_v01_SKTfp6v.jpg",
+                "date": "2022-12-27T18:15:00+01:00",
+                "start": "18:15",
+                "duration": "01:00",
                 "room": "Fireshonks-Stream",
-                "slug": "jev22-49175-haste_mal_ne_mark_wieso_du_fuer_digitale_dienste_geld_nehmen_solltest",
-                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VRK9JD/",
-                "title": "Haste mal ne Mark? Wieso Du f\u00fcr digitale Dienste Geld nehmen solltest.",
+                "slug": "jev22-49181-best_of_digitalzwangmelder",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
+                "title": "Best-of Digitalzwangmelder",
                 "subtitle": "",
                 "track": "Digitalcourage",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Viele Nutzende verwechseln gerade in Deutschland immer noch freie mit kostenloser Software. Aber auch die Anbietenden haben oft nicht den Mut, Geld f\u00fcr ihre Arbeit zu verlangen. Wieso das f\u00fcr alle Beteiligten schlecht ist, und was die Alternativen sein k\u00f6nnen, ohne wen auszuschlie\u00dfen, m\u00f6chte ich in diesem Talk beleuchten.",
-                "description": "Es gibt viele gute Gr\u00fcnde f\u00fcr ehrenamtliche Arbeit im Netz, oft richten aber gerade die besten Leute sich f\u00fcr die Community zu Grunde, die im schlimmsten Fall pl\u00f6tzlich ohne die Dienstleistung oder den Code im Regen steht. Eine Anerkennung der geleisteten Arbeit in Form von schn\u00f6der, althergebrachter Knete kann ein Faktor sein, um das zu verhindern.\r\nWie man bewertet, wann die Arbeit \"zu viel\" wird, die erste H\u00fcrde nach Geld zu fragen \u00fcberwindet, und nicht zuletzt \u00fcber Systeme sicherstellt, dass trotzdem auch Leute ohne Kohle von Deiner Arbeit profitieren k\u00f6nnen, ist Thema dieses Talks.\r\nGratis dazu gibt es einen Arschtritt f\u00fcr Nutzende, die zwar das Geld aber nicht die Bereitschaft besitzen, Leute f\u00fcr Kram im Netz zu bezahlen und eine Erkl\u00e4rung, wieso sie sich damit ins eigene Fleisch schneiden.\r\nMarkus hat jahrelang ehrenamtlich als Admin in einem gro\u00dfen deutschen Gamer-Forum und auf LAN-Parties gearbeitet. Sp\u00e4ter hat er das selbe f\u00fcr Geld getan, was ihm sehr viel besser gefallen hat. \r\nAktuell arbeitet er bei Digitalcourage in Bielefeld.",
+                "abstract": "Wir verlesen die besten \u00dcberwachungsbl\u00fcten aus dem Digitalzwangmelder.",
+                "description": "\"... geht nur mit App.\"\r\n\"... nur noch online.\"\r\n\"... laden Sie im Google-Play-Store ...\"\r\nImmer h\u00e4ufiger sto\u00dfen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wir dazu aufgerufen uns Situationen zu schildern in denen Teilhabe am Leben nur noch mittels digitaler Mittel m\u00f6glich war. Wir verlesen die besten Einsendungen.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "id": 3311,
-                    "code": "QSGAAT",
-                    "public_name": "Markus",
-                    "biography": "Markus betreut bei Digitalcourage den Shop und das Campaigning. \r\nEr hat viele Jahre ein gro\u00dfes deutsches Gamer-Forum administriert und Menschen auf LAN-Parties betreut, erst ehrenamtlich und dann f\u00fcr Geld.\r\nWenn er nicht gerade zwischen Weihnachten und Silvester im Internet \u00fcber Kohle redet, verwandelt er auf dem lippischen Dorf eine Wiese in einen Naturgarten und renoviert das dazugeh\u00f6rige Haus.",
+                    "id": 393,
+                    "code": "NSTENV",
+                    "public_name": "padeluun",
+                    "biography": "padeluun gr\u00fcndete 1984 zusammen mit Rena Tangens das Kunstprojekt und die Galerie Art\u00a0d\u2019Ameublement. Er ist Mitbegr\u00fcnder und Vorsitzender des Grundrechte- und Datenschutzvereins Digitalcourage (vormals FoeBuD), Mitarbeiter im Arbeitskreis Vorratsdatenspeicherung und einer der Organisatoren sowie Jurymitglied der deutschen Big Brother Awards, die seit dem Jahr 2000 j\u00e4hrlich in Bielefeld verliehen werden. Er ist Verleger der Wissensreighe kurz&m\u00fcndig. Er lebt in Bielefeld und Berlin.",
+                    "answers": []
+                  },
+                  {
+                    "id": 387,
+                    "code": "UXT9SH",
+                    "public_name": "Leena Simon",
+                    "biography": "IT-Beraterin und Netzphilosophin, Aktivistin bei Digitalcourage.\r\nHauptthemen:\r\nDigitale M\u00fcndigkeit\r\nDigitale Gewalt\r\nDigitale Bildung\r\nDatenschutz \r\nDemokratie",
                     "answers": []
                   }
                 ],
@@ -1312,7 +1319,7 @@
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/",
                 "title": "Mein FEDI Server",
                 "subtitle": "",
-                "track": "R3S",
+                "track": "Haecksen",
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "installiere Dir deinen eigenen FEDI Server",
@@ -2406,7 +2413,7 @@
                 "attachments": []
               }
             ],
-            "Hardware Hacking": [
+            "Soldering Workshop Room": [
               {
                 "id": 49161,
                 "guid": "bb932d5d-3928-5364-b205-830e11d53e2c",
@@ -2414,7 +2421,7 @@
                 "date": "2022-12-27T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "03:30",
-                "room": "Hardware Hacking",
+                "room": "Soldering Workshop Room",
                 "slug": "jev22-49161-arduino_for_total_newbies",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YBPSJK/",
                 "title": "Arduino For Total Newbies",
@@ -3026,7 +3033,7 @@
               {
                 "id": 6058,
                 "guid": "6a0dd58c-b89a-50a8-88ef-2e633055a9df",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
@@ -5719,7 +5726,7 @@
                 "attachments": []
               }
             ],
-            "Hardware Hacking": [
+            "Soldering Workshop Room": [
               {
                 "id": 49162,
                 "guid": "abcc1a5b-e4ac-57b5-b531-5c813b90118a",
@@ -5727,7 +5734,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:30",
-                "room": "Hardware Hacking",
+                "room": "Soldering Workshop Room",
                 "slug": "jev22-49162-learn_to_solder_digital_music_synthesis_workshop_with_ardutouch_music_synthesizer_kit",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/8TQBMA/",
                 "title": "Learn to Solder - Digital Music Synthesis workshop with ArduTouch music synthesizer kit",
@@ -6409,7 +6416,7 @@
               {
                 "id": 5929,
                 "guid": "a59295db-415e-590c-903e-3d00b1038154",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
@@ -9009,7 +9016,7 @@
               }
             ],
             "USB-C": [],
-            "Hardware Hacking": [
+            "Soldering Workshop Room": [
               {
                 "id": 49163,
                 "guid": "4aff93bc-0d9e-5334-b77a-4d3d33884482",
@@ -9017,7 +9024,7 @@
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:30",
-                "room": "Hardware Hacking",
+                "room": "Soldering Workshop Room",
                 "slug": "jev22-49163-led_strips_everywhere_for_everyone",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MVZST3/",
                 "title": "LED Strips Everywhere for Everyone!",
@@ -9048,7 +9055,7 @@
                 "date": "2022-12-29T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "02:00",
-                "room": "Hardware Hacking",
+                "room": "Soldering Workshop Room",
                 "slug": "jev22-49235-beginners_workshop_how_to_plan_build_your_own_led_project",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/G9K7L8/",
                 "title": "Beginners workshop - How to plan & build your own LED project",
@@ -9961,7 +9968,7 @@
               {
                 "id": 5083,
                 "guid": "5cd0839f-be0e-5c91-aebb-dffcbb510980",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-29T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
@@ -11672,7 +11679,7 @@
                 "attachments": []
               }
             ],
-            "Hardware Hacking": [],
+            "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -12260,7 +12267,7 @@
               {
                 "id": 7033,
                 "guid": "7c0f3c31-7312-5818-b8e2-98412415337a",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-30T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
@@ -12830,7 +12837,7 @@
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],
             "USB-C": [],
-            "Hardware Hacking": [],
+            "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
             "Vortragsraum 1 - Ahlam - H2-1.6": [
@@ -13035,7 +13042,7 @@
               {
                 "id": 404,
                 "guid": "bca040fe-47d5-5e6b-b150-eda1eeba5966",
-                "logo": "/media/freiraumforum/submissions/VMFB7K/IMG_6076_xdjDt5w.jpg",
+                "logo": "/media/freiraumforum/submissions/VMFB7K/plakat_f839sMv.jpg",
                 "date": "2022-12-31T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
