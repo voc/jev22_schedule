@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 02:14",
+    "version": "2022-12-26 03:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -345,8 +345,8 @@
                 "track": "Freir\u00e4ume",
                 "type": "Diskussion",
                 "language": "de",
-                "abstract": "Eine Oral-History, der Freir\u00e4ume f\u00fcr Kunst und Kultur in M\u00fcnchen, mit Ausblick auf 2023\r\nWelche K\u00e4mpfe um Freie R\u00e4ume f\u00fcr Kultur gab es in den vergangenen 100 Jahren schon in unserer Stadt und warum mussten sie gef\u00fchrt werden? Wozu hat das gef\u00fchrt und was k\u00f6nnen Wir f\u00fcr die Zukunft daraus lernen?",
-                "description": "Diskussion mit:\r\nDr. Simone Egger (Kulturwissenschaftler)\r\nDJ Upstart (Optimal Rec., Rote Sonne) (angefr.)\r\nBeate Bidjanbeg (Bezirksausschuss: Ludwigsvorstadt-Isarvorstadt)\r\nRobert Hoffmann (Zeitzeuge und Kulturarbeiter)\r\nReinhard Oefele (Zeitzeuge und Kulturarbeiter, Kunstverein Schwabing, Galerini)\r\n\r\nModeration: Peter Arun Pfaff",
+                "abstract": "Eine Oral-History der Freir\u00e4ume f\u00fcr Kunst und Kultur in M\u00fcnchen, mit Ausblick auf 2023\r\nWelche K\u00e4mpfe um Freie R\u00e4ume f\u00fcr Kultur gab es in den vergangenen 100 Jahren schon in unserer Stadt und warum mussten sie gef\u00fchrt werden? Wozu hat das gef\u00fchrt und was k\u00f6nnen Wir f\u00fcr die Zukunft daraus lernen?",
+                "description": "Diskussion mit:\r\nDr. Simone Egger (Kulturwissenschaftler)\r\nDJ Upstart (Optimal Rec., Rote Sonne)\r\nBeate Bidjanbeg (Bezirksausschuss: Ludwigsvorstadt-Isarvorstadt)\r\nRobert Hoffmann (Zeitzeuge und Kulturarbeiter)\r\nReinhard Oefele (Zeitzeuge und Kulturarbeiter, Kunstverein Schwabing, Galerini)\r\n\r\nModeration: Peter Arun Pfaff",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -354,7 +354,7 @@
                     "id": 139,
                     "code": "UMSJZX",
                     "public_name": "Peter Arun Pfaff",
-                    "biography": "CV von Hirsch und Pfaff folgen",
+                    "biography": "Peter Arun Pfaff,\r\nIn Detroit (Mich. USA) geb., arbeitet als DJ, VJ, Moderator, Dokumentar Filmer, Musiker, Dramaturg, Regisseur und Aktivist. Er studierte Philosophie, Geschichte und  u.A. Psychoanalyse.\r\n-Von 1999 bis 2001 Booker der l-o-k in M\u00fcnchen. \r\n- An den Kammerspielen: \u201eFassbinder at the Hotel\u201d, 2009 Dramaturg in \u201eRettet die V\u00f6gel\u201c.  2016 Regie von \u201cGolden Sargassum\u201d. \r\n-2011 Mitgr\u00fcnder der Integrier-BAR, 2014 von G\u00f6the Protokoll, sowie 2016 von Mono-Kultur M\u00fcnchen.\r\n-2018 organisierte er m.A. das Synthesizer Festival Knobs&Wires.\r\n-2020 W\u00e4hrend Covid die Talk-show Lockdown Learning.",
                     "answers": []
                   }
                 ],
@@ -1024,7 +1024,7 @@
                     "id": 139,
                     "code": "UMSJZX",
                     "public_name": "Peter Arun Pfaff",
-                    "biography": "CV von Hirsch und Pfaff folgen",
+                    "biography": "Peter Arun Pfaff,\r\nIn Detroit (Mich. USA) geb., arbeitet als DJ, VJ, Moderator, Dokumentar Filmer, Musiker, Dramaturg, Regisseur und Aktivist. Er studierte Philosophie, Geschichte und  u.A. Psychoanalyse.\r\n-Von 1999 bis 2001 Booker der l-o-k in M\u00fcnchen. \r\n- An den Kammerspielen: \u201eFassbinder at the Hotel\u201d, 2009 Dramaturg in \u201eRettet die V\u00f6gel\u201c.  2016 Regie von \u201cGolden Sargassum\u201d. \r\n-2011 Mitgr\u00fcnder der Integrier-BAR, 2014 von G\u00f6the Protokoll, sowie 2016 von Mono-Kultur M\u00fcnchen.\r\n-2018 organisierte er m.A. das Synthesizer Festival Knobs&Wires.\r\n-2020 W\u00e4hrend Covid die Talk-show Lockdown Learning.",
                     "answers": []
                   }
                 ],
@@ -2057,7 +2057,7 @@
                 "track": "Freir\u00e4ume",
                 "type": "Diskussion",
                 "language": "de",
-                "abstract": "Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
+                "abstract": "Welche Freiheiten (auch materielle) braucht man, um Kunst Erschaffen zu k\u00f6nnen UND Welche 'neuen' Freiheiten entstehen mit der Erschaffung von \u201cKulturg\u00fctern\u201d in alten/neuen R\u00e4umen?\r\nEin Philosophisch-praktisches Gespr\u00e4ch \u00fcber ein bekannterma\u00dfen schwieriges Problem.",
                 "description": "Pravu Mazumdar (Philosoph) \r\nRosanna Marie Pondorf (Rosa Stern Space/K\u00fcnstlerin)\r\n\r\nModeration: Peter Arun Pfaff",
                 "recording_license": "",
                 "do_not_record": false,
@@ -2066,7 +2066,7 @@
                     "id": 139,
                     "code": "UMSJZX",
                     "public_name": "Peter Arun Pfaff",
-                    "biography": "CV von Hirsch und Pfaff folgen",
+                    "biography": "Peter Arun Pfaff,\r\nIn Detroit (Mich. USA) geb., arbeitet als DJ, VJ, Moderator, Dokumentar Filmer, Musiker, Dramaturg, Regisseur und Aktivist. Er studierte Philosophie, Geschichte und  u.A. Psychoanalyse.\r\n-Von 1999 bis 2001 Booker der l-o-k in M\u00fcnchen. \r\n- An den Kammerspielen: \u201eFassbinder at the Hotel\u201d, 2009 Dramaturg in \u201eRettet die V\u00f6gel\u201c.  2016 Regie von \u201cGolden Sargassum\u201d. \r\n-2011 Mitgr\u00fcnder der Integrier-BAR, 2014 von G\u00f6the Protokoll, sowie 2016 von Mono-Kultur M\u00fcnchen.\r\n-2018 organisierte er m.A. das Synthesizer Festival Knobs&Wires.\r\n-2020 W\u00e4hrend Covid die Talk-show Lockdown Learning.",
                     "answers": []
                   }
                 ],

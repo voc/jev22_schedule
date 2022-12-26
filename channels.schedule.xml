@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 02:14</version>
+  <version>2022-12-26 03:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -30,11 +30,11 @@
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
-        <abstract>Eine Oral-History, der Freiräume für Kunst und Kultur in München, mit Ausblick auf 2023&#13;
+        <abstract>Eine Oral-History der Freiräume für Kunst und Kultur in München, mit Ausblick auf 2023&#13;
 Welche Kämpfe um Freie Räume für Kultur gab es in den vergangenen 100 Jahren schon in unserer Stadt und warum mussten sie geführt werden? Wozu hat das geführt und was können Wir für die Zukunft daraus lernen?</abstract>
         <description>Diskussion mit:&#13;
 Dr. Simone Egger (Kulturwissenschaftler)&#13;
-DJ Upstart (Optimal Rec., Rote Sonne) (angefr.)&#13;
+DJ Upstart (Optimal Rec., Rote Sonne)&#13;
 Beate Bidjanbeg (Bezirksausschuss: Ludwigsvorstadt-Isarvorstadt)&#13;
 Robert Hoffmann (Zeitzeuge und Kulturarbeiter)&#13;
 Reinhard Oefele (Zeitzeuge und Kulturarbeiter, Kunstverein Schwabing, Galerini)&#13;
@@ -1565,7 +1565,8 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
-        <abstract>Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
+        <abstract>Welche Freiheiten (auch materielle) braucht man, um Kunst Erschaffen zu können UND Welche 'neuen' Freiheiten entstehen mit der Erschaffung von “Kulturgütern” in alten/neuen Räumen?&#13;
+Ein Philosophisch-praktisches Gespräch über ein bekanntermaßen schwieriges Problem.</abstract>
         <description>Pravu Mazumdar (Philosoph) &#13;
 Rosanna Marie Pondorf (Rosa Stern Space/Künstlerin)&#13;
 &#13;
