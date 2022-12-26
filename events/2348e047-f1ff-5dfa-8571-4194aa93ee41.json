@@ -1,0 +1,33 @@
+{
+  "id": 2348,
+  "guid": "2348e047-f1ff-5dfa-8571-4194aa93ee41",
+  "logo": "",
+  "date": "2022-12-26T17:00:00+01:00",
+  "start": "17:00",
+  "duration": "03:00",
+  "room": "Kantine - H2-4.7",
+  "slug": "freiraumforum-132-4-abendessen-volxkche-mnchen-knoblauchfahne",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
+  "title": "Abendessen - VolxK\u00fcche M\u00fcnchen & Knoblauchfahne",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Weiteres",
+  "language": "de",
+  "abstract": "dieVokuekocht",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 162,
+      "code": "ESQCC8",
+      "public_name": "VolxK\u00fcche M\u00fcnchen",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

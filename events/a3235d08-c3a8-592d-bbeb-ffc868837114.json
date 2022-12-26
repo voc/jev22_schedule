@@ -1,0 +1,33 @@
+{
+  "id": 3235,
+  "guid": "a3235d08-c3a8-592d-bbeb-ffc868837114",
+  "logo": "",
+  "date": "2022-12-26T13:40:00+01:00",
+  "start": "13:40",
+  "duration": "01:30",
+  "room": "St\u00e4nde - H2-4.8",
+  "slug": "freiraumforum-179-0-fachstelle-pop-infostand",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/",
+  "title": "Fachstelle Pop Infostand",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Stand",
+  "language": "en",
+  "abstract": "Die Fachstelle Pop ist eine Anlaufstelle zur F\u00f6rderung, Vernetzung und Interessenvertretung der popkulturellen Szenen in M\u00fcnchen.",
+  "description": "Wir werden gef\u00f6rdert vom Kulturreferat der LH M\u00fcnchen und unterst\u00fctzen und beraten Musiker*innen, Bands, K\u00fcnstler*innen und alle weiteren Akteure im Popgeschehen der Stadt.\r\n\r\nF\u00fcr uns ist \"Pop\" der umfassende Begriff f\u00fcr aktuelle Musikproduktion ohne stilistische Grenzen. Wir verstehen uns insbesondere auch als Ansprechpartner f\u00fcr junge K\u00fcnstler*innen aus den verschiedenen Sub- oder Jugendkulturen abseits des Mainstreams.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 197,
+      "code": "CLZ8W7",
+      "public_name": "Fachstelle Pop",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

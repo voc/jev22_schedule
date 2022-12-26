@@ -1,0 +1,33 @@
+{
+  "id": 7579,
+  "guid": "ed757a91-cc0a-5159-a1f6-b07d96fb6f19",
+  "logo": "",
+  "date": "2022-12-26T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "10:00",
+  "room": "Austellungsraum 5 - H1-3.1",
+  "slug": "freiraumforum-182-5-urbane-praxis-stadt-von-unten-raum-fr-alle",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZLL9WH/",
+  "title": "Urbane Praxis, Stadt von unten & Raum f\u00fcr alle",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Ausstellung",
+  "language": "de",
+  "abstract": "Ein ganzes Stockwerk mit Ausstellungen, Inputs und Infos rund um und \u00fcber die Urbane Liga, G\u00e4ngeviertel, Haus der Statistik und das Branntweinareal.",
+  "description": "Stadt von unten, Mitgestaltung und Raum f\u00fcr alle - mit diesen Themen setzen sich die Initiativen und Gruppen in diesem Raum auseinander:\r\n\r\nDie **Urbane Liga** ist ein B\u00fcndnis junger Stadtmacher:innen, die sich aktiv in die Gestaltung ihrer St\u00e4dte einbringen. Gezeigt wird die ULA On Tour Ausstellung mit mehr als 50 Initiativen bzw. Projektbeispielen aus dem B\u00fcndnis der letzten vier Jahre. \r\n\r\nAls wir im August 2009 in das historische **G\u00e4ngeviertel** gekommen sind, wollten wir es vor Verfall und Abriss  retten und in der Hamburger Innenstadt einen Raum schaffen, in dem Neues entstehen kann durch Kunst, Kultur und Gespr\u00e4che, in Ateliers, Wohnungen und sozialen Projekten. Die H\u00e4user stehen noch, wir sind noch da \u2013 und wir arbeiten jeden Tag weiter an unserem Ziel.\r\n\r\nEine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Statistik** an Investoren. Geblieben ist eine Initiative bzw. B\u00fcndnis von verschiedenen Berliner Akteur:innen: Soziale und kulturelle Einrichtungen und Verb\u00e4nde, K\u00fcnstlerkollektive, Architekt:innen, Stiftungen und Vereine mit der Forderung nach einer modellhaften Umsetzung einer gemeinwohlorientierten und kooperativen Entwicklung unserer St\u00e4dte.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

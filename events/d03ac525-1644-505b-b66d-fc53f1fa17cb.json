@@ -1,0 +1,33 @@
+{
+  "id": 352,
+  "guid": "d03ac525-1644-505b-b66d-fc53f1fa17cb",
+  "logo": "",
+  "date": "2022-12-26T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "03:00",
+  "room": "Workshopraum 1 - H2-2.5",
+  "slug": "freiraumforum-31-1-sie-ist-kein-genre-workshop-vortrag-und-songwritingsession-fr-flinta-musiker-innen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RW9MCG/",
+  "title": "SIE IST KEIN GENRE WORKSHOP, VORTRAG UND SONGWRITINGSESSION F\u00dcR FLINTA MUSIKER*INNEN",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Vortrag und Diskussionsrunde zum Thema Geschlechtergerechtigkeit in der Musikindustrie\r\nund Songwritingsession f\u00fcr FLINTA*-Musiker*innen",
+  "description": "Die Veranstaltung soll Teilnehmer*innen eine M\u00f6glichkeit geben, das Kollektiv Sie ist kein Genre kennenzulernen und auszuprobieren. Desweiteren bietet das Event einen Saferspace f\u00fcr FLINTA* Musiker*innen aus M\u00fcnchen und Umgebung sich auszutauschen, kennenzulernen, zu diskutieren und zu musizieren. Inhalt der Veranstaltung sind eine Diskussionsrunde und ein Vortrag zum Thema Geschlechtergerechtigkeit in der Musikindustrie, sowie eine Songwritingsession.\r\nWenn du Instrumentalist*in bist, w\u00e4re es toll, wenn du dein eigenes Instrument mitbringen k\u00f6nntest und uns Bescheid gibst.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 84,
+      "code": "M9T38H",
+      "public_name": "Sie ist kein Genre",
+      "biography": "Wir sind ein M\u00fcncher Kollektiv, welches sich f\u00fcr mehr Geschlechtergerechtigkeit in der Musikszene einsetzt.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
+  "origin": "forum.freiraeumen.jetzt"
+}

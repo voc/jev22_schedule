@@ -1,0 +1,33 @@
+{
+  "id": 2265,
+  "guid": "22edd65c-ed10-57d0-9125-c387a35ac12d",
+  "logo": "",
+  "date": "2022-12-26T12:00:00+01:00",
+  "start": "12:00",
+  "duration": "03:00",
+  "room": "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2",
+  "slug": "freiraumforum-180-0-kleidertausch-ganztags-",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/UBNJ7U/",
+  "title": "Kleidertausch (ganztags)",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Weiteres",
+  "language": "en",
+  "abstract": "Kommt in Scharen mit alten Waren!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

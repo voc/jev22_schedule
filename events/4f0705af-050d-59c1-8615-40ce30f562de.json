@@ -1,0 +1,40 @@
+{
+  "id": 4070,
+  "guid": "4f0705af-050d-59c1-8615-40ce30f562de",
+  "logo": "",
+  "date": "2022-12-26T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "10:00",
+  "room": "Ausstellungsraum 3 - H2-2.7",
+  "slug": "freiraumforum-113-1-ausstellung-von-daria-novikova-und-gerhana-tarmizi",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
+  "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Kunst",
+  "language": "de",
+  "abstract": "Ein Raum f\u00fcr Kunst der Magistra Daria (Gagaria) und des Gerhaner. Selbstreflexion, Affektverarbeitung und Bruchst\u00fccke von Traumbildern bedingen einen Ausstellungsraum der sich anf\u00fchlt wie das Wohnzimmer eines Melancholikers.",
+  "description": "Setzt euch in das geborgene Zimmerchen und lasst euch von den Zeichnungen und Malereien der exzentrischen Freunde einlullen.\r\n\r\nDaria: Die Werke die ich ausstelle sind Gro\u00dfformatige Kohlezeichnungen und Kaltnadelstichdrucke die ich in den letzten zwei Monaten angefertigt habe. Die Arbeiten haben gemeinsam, dass ich mich in ihnen mit \u00fcbereinanderliegenden Ebenen im \u00e4sthetischen-, sowie im Bedeutungskontext besch\u00e4ftigt habe.\r\n\r\nGerhana: Ausgestellt werden Malereien, die sich mit der F\u00e4higkeit des Menschen besch\u00e4ftigen, eigene Realit\u00e4ten erschaffen zu k\u00f6nnen. Kurz zusammengefasst: Ich bin ein K\u00fcnstler der \u00fcber K\u00fcnstler malt.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 146,
+      "code": "KELGVU",
+      "public_name": "Daria Novikova",
+      "biography": "Daria, 19, Kunstschaffende, da sonst nichts Sinn macht.",
+      "answers": []
+    },
+    {
+      "id": 71,
+      "code": "7AW7SJ",
+      "public_name": "Gerhana",
+      "biography": "Ich bin Gerhana, 20 Jahre alt und aus Grafing bei M\u00fcnchen. Ich liebe Kunst und male und musiziere gerne. Dabei ist mein soziales Umfeld meine gr\u00f6\u00dfte Inspiration, da alle Lebewesen und deren Geschichten und Erfahrungen mich faszinieren. Geboren wurde ich in einem streng muslimischen Umfeld in Indonesien, was meine Faszination fuer die Obskur-exaltierte K\u00e4lte der westlichen Gesellschaft begr\u00fcndet.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

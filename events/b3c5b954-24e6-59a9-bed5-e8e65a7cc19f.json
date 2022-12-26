@@ -1,0 +1,40 @@
+{
+  "id": 3595,
+  "guid": "b3c5b954-24e6-59a9-bed5-e8e65a7cc19f",
+  "logo": "/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg",
+  "date": "2022-12-26T10:00:00+01:00",
+  "start": "10:00",
+  "duration": "10:00",
+  "room": "Ausstellungsraum 4 - H2-3.3",
+  "slug": "freiraumforum-82-5-seltsam-klein",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/",
+  "title": "seltsam & klein",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Ausstellung",
+  "language": "de",
+  "abstract": "{seltsam & klein} Ausstellung mit Arbeiten, die sich zwischen Grafik & Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit & Anwesenheit.",
+  "description": "{seltsam & klein}Wir besch\u00e4ftigen uns mit graphischen, bildhauerischen und performativen Praktiken.\r\nAus gemeinsamen Erlebnissen und Austausch von Kunst und Inspirationen, insbesondere Musik, haben sich Parallelen in unserem Schaffen aufgetan. Die Ergebnisse erkunden einen Teil unserer seelischen und physischen R\u00e4ume. Wir f\u00fchlen uns beide M\u00fcnchen und der kreativen Szene rund um das IMAL sehr verbunden. Antikommerzielle und gemeinn\u00fctzige Projekte finden wir super wichtig und wir freuen uns ein Teil dessen sein zu d\u00fcrfen!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 129,
+      "code": "G9AQSB",
+      "public_name": "Charlotte Haufe",
+      "biography": "{seltsam & klein} Mein Name ist Charly, ich bin 22 Jahre alt und wohne in Halle. Ich habe dieses Semester angefangen an der Kunsthochschule Burg Giebichenstein in der Klasse Bildhauerei/ Materialit\u00e4t & Raum zu studieren. Ich arbeite gerne experimentell mit Zeichnung & Farbe, sowie Bildhauerei, Performance, Video und Text. Das k\u00fcnstlerische Arbeiten ist in den letzten 2-3 Jahren zu einer Wegbegleitung geworden, zu der sich meine Beziehung st\u00e4ndig ver\u00e4ndert und entwickelt. Sie hilft mir zu Erkennen, Spannungen und Dynamiken auszuloten, zu verringern und zu intensivieren.",
+      "answers": []
+    },
+    {
+      "id": 130,
+      "code": "VRGCPX",
+      "public_name": "Bruno Haas",
+      "biography": "{seltsam & klein} Ausstellung mit Arbeiten, die sich zwischen Grafik & Bildhauerei bewegen. Wechselspiel zwischen Abwesenheit & Anwesenheit.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

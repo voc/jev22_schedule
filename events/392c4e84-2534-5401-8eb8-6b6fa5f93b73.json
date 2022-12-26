@@ -1,0 +1,33 @@
+{
+  "id": 3924,
+  "guid": "392c4e84-2534-5401-8eb8-6b6fa5f93b73",
+  "logo": "",
+  "date": "2022-12-26T13:00:00+01:00",
+  "start": "13:00",
+  "duration": "02:00",
+  "room": "Workshopraum 2 - H2-3.4",
+  "slug": "freiraumforum-49-sue-your-landlord",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BFH83K/",
+  "title": "Sue your Landlord",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Viele Mieter*innen k\u00f6nnten ihre Miete sofort senken. Der Mietspiegel wird zurecht kritisiert, weil er unbekannt, die Berechnung intransparent und die Durchsetzung kompliziert ist. Und die Mietervereine weisen auch nicht proaktiv darauf hin. Bei einer Umfrage des Architekt*innen-Kollektiv PONR hat me",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 106,
+      "code": "TYRPQB",
+      "public_name": "Pheli",
+      "biography": "Musikerin, Forscherin, Aktivistin. Bin aktiv darin, Eigentumsverh\u00e4ltnisse sichtbar zu machen und Rechte von Mieter*innen und Landnutzer*innen zu st\u00e4rken",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

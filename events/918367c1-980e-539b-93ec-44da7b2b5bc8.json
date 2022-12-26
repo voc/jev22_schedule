@@ -1,0 +1,33 @@
+{
+  "id": 9183,
+  "guid": "918367c1-980e-539b-93ec-44da7b2b5bc8",
+  "logo": "",
+  "date": "2022-12-26T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "02:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "freiraumforum-96-muc-free-space-ein-mangel-im-berfluss-26-12-120-min-",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BGQNEC/",
+  "title": "MUC free SPACE? Ein Mangel im \u00dcberfluss. (26.12, 120 min)",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Diskussion",
+  "language": "de",
+  "abstract": "Eine Oral-History, der Freir\u00e4ume f\u00fcr Kunst und Kultur in M\u00fcnchen, mit Ausblick auf 2023\r\nWelche K\u00e4mpfe um Freie R\u00e4ume f\u00fcr Kultur gab es in den vergangenen 100 Jahren schon in unserer Stadt und warum mussten sie gef\u00fchrt werden? Wozu hat das gef\u00fchrt und was k\u00f6nnen Wir f\u00fcr die Zukunft daraus lernen?",
+  "description": "Diskussion mit:\r\nDr. Simone Egger (Kulturwissenschaftler)\r\nDJ Upstart (Optimal Rec., Rote Sonne) (angefr.)\r\nBeate Bidjanbeg (Bezirksausschuss: Ludwigsvorstadt-Isarvorstadt)\r\nRobert Hoffmann (Zeitzeuge und Kulturarbeiter)\r\nReinhard Oefele (Zeitzeuge und Kulturarbeiter, Kunstverein Schwabing, Galerini)\r\n\r\nModeration: Peter Arun Pfaff",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 139,
+      "code": "UMSJZX",
+      "public_name": "Peter Arun Pfaff",
+      "biography": "CV von Hirsch und Pfaff folgen",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "origin": "forum.freiraeumen.jetzt"
+}
