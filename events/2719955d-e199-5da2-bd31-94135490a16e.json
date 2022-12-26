@@ -1,0 +1,33 @@
+{
+  "id": 2719,
+  "guid": "2719955d-e199-5da2-bd31-94135490a16e",
+  "logo": "",
+  "date": "2022-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "01:30",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-2719-ressourcen_finanzen_foerderung",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JNBBC3/",
+  "title": "Ressourcen, Finanzen, F\u00f6rderung",
+  "subtitle": ": Von Staatsopern und Subkulturen, der Kulturstaat im 21 Jrh.",
+  "track": "Freir\u00e4ume",
+  "type": "Diskussion",
+  "language": "en",
+  "abstract": "Kulturpolitik ist immer auch die Frage der Ressourcenverteilung. Doch wie sieht das in der post-pandemischen Gesellschaft wie wir sie wollen aus? Gespr\u00e4ch \u00fcber eine konkrete Utopie zwischen Verbundsarbeit, Finanzierung und Verteilungsfragen in Kunst und Kultur.",
+  "description": "Ein Gespr\u00e4ch zwischen: \r\n\r\n\u2022\tSanne Kurz, MdL  Kulturpolitische Sprecherin der Gr\u00fcnen im LT, Abgeordnete f\u00fcr M\u00fcnchen Ost. BR Rundfunkr\u00e4tin\u2028\r\n\u2022     Christian Schnurer, BBK Bayern , seit 2018 Vorstand Berufsverband Bildender K\u00fcnstler Bayern e.V.\u2028\r\n\u2022\tDr. Simone Egger, Kulturwissenschaftlerin mit Schwerpunkt Stadtforschung, Universit\u00e4t Klagenfurt; sowie Kuratorin des Rodeo Festivals 2020",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "origin": "forum.freiraeumen.jetzt"
+}
