@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "e297f"
     },
-    "version": "2022-12-26 03:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 03:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.34",
+    "version": "2022-12-26 09:30; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 09:30; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.34",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -527,7 +527,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "Viele Mieter*innen k\u00f6nnten ihre Miete sofort senken. Der Mietspiegel wird zurecht kritisiert, weil er unbekannt, die Berechnung intransparent und die Durchsetzung kompliziert ist. Und die Mietervereine weisen auch nicht proaktiv darauf hin. Bei einer Umfrage des Architekt*innen-Kollektiv PONR hat me",
-                "description": "",
+                "description": "Viele Mieter*innen k\u00f6nnten ihre Miete sofort senken. Der Mietspiegel wird zurecht kritisiert, weil er unbekannt, die Berechnung intransparent und die Durchsetzung kompliziert ist. Und die Mietervereine weisen auch nicht proaktiv darauf hin. Bei einer (kleinen) Umfrage des Architekt*innen-Kollektiv PONR haben fast 50% angegeben, dass sie mehr als die orts\u00fcbliche Miete zahlen. Menschen dabei zu unterst\u00fctzten, ihre Miete zu senken, k\u00f6nnte neue Zielgruppen f\u00fcr Mietaktivismus zug\u00e4nglich machen und ein Risiko f\u00fcr Immobilienkonzerne darstellen, die mit h\u00f6heren Mieten kalkulieren, als sie gesetzlich verlangen k\u00f6nnen. Der Workshop soll deswegen eine Einf\u00fchrung in die gesetzlichen Rahmenbedingungen der Mietpreisbremse geben und Ans\u00e4tze f\u00fcr Kampagnen vorstellen und diskutieren.",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -2766,8 +2766,8 @@
                 "track": "Freir\u00e4ume",
                 "type": "Workshop",
                 "language": "de",
-                "abstract": "Auch wenn Solidarische Landwirtschaft die kapitalistische Tauschlogik \u00fcberwindet, muss sie sich mit Landeigentum rumschlagen - sp\u00e4testens wenn der Landwirt in Ruhestand gehen und seine Fl\u00e4chen verkaufen m\u00f6chte. Die SoLaWi Auergarden muss jetzt herausfinden, wie der neue Fl\u00e4chentr\u00e4ger gestaltet sein",
-                "description": "",
+                "abstract": "Auch wenn Solidarische Landwirtschaft die kapitalistische Tauschlogik \u00fcberwindet, muss sie sich mit Landeigentum rumschlagen - sp\u00e4testens wenn der Landwirt in Ruhestand gehen und seine Fl\u00e4chen verkaufen m\u00f6chte.",
+                "description": "Auch wenn Solidarische Landwirtschaft die kapitalistische Tauschlogik \u00fcberwindet, muss sie sich mit Landeigentum rumschlagen - sp\u00e4testens wenn der Landwirt in Ruhestand gehen und seine Fl\u00e4chen verkaufen m\u00f6chte. Eine SoLaWi aus M\u00fcnchen muss jetzt herausfinden, wie der neue Fl\u00e4chentr\u00e4ger gestaltet sein soll (Stiftun Edith Maryon, Ackersyndikat, Kulturland eG? und was eigentlich eine solidarische Altersrente bei einer Hof\u00fcbergabe ist. Dieser Workshop startet mit generellen Fragen: Was ist Eigentum, warum ist Landeigentum so intransparent? Wie wird es legitimiert? Wie erm\u00f6glichen wir andere Formen der kollektiven G\u00fcterverwaltung und welches rechtliche Wissen braucht es daf\u00fcr?",
                 "recording_license": "",
                 "do_not_record": true,
                 "persons": [
@@ -5441,7 +5441,7 @@
                     "id": 3320,
                     "code": "BRLYXQ",
                     "public_name": "Klapauzius",
-                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical technician, first world job as a software developer (Simatic PLC/HMI) in machine building for pharmaceutical industry. Hamradio operator (Class A, callsign DH5SL, mostly short wave). More than ten years of background as a hobbyist and professional in additive manufacturing and experience in sinter based metal FFF/FDM for three years. First contact to 'information technology' on a Commodore 64 programming BASIC (~'83), ARM(2) assembler on an Acorn Archimedes (A310), Arduino priojects, on a journey exploring the new since. \r\nConnected to Chaostreff Dortmund (ctdo, chaos west) since 2007 and visited several conferences inclouding chaos bbq, easterheggs, mrmcd, cc camp and c3..",
+                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical technician, first world job as a software developer (Simatic PLC/HMI) in machine building for pharmaceutical industry. Hamradio operator (Class A, callsign DH5SL, mostly short wave). More than ten years of background as a hobbyist and professional in additive manufacturing and experience in sinter based metal FFF/FDM for three years. First contact to 'information technology' on a Commodore 64 programming BASIC in '83, later on 6502 and ARM(2) assembler on an Acorn Archimedes (A310), Arduino priojects, on a journey exploring the new since. \r\nConnected to Chaostreff Dortmund (ctdo, chaos west) since 2007 and part of several conferences including chaos bbq, easterheggs, mrmcd, cc camp and c3..",
                     "answers": []
                   }
                 ],
