@@ -13,7 +13,7 @@
   "track": "Haecksen",
   "type": "Workshop",
   "language": "de",
-  "abstract": "Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)\r\n\r\nWir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.",
+  "abstract": "Wir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
   "description": "Quantum Computing befindet sich immer noch hoch auf der Hype-Kurve, allerdings warnen auch die Ersten vor dem Quantum Winter. Wir reden, je nach euren Fragen, \u00fcber diese und andere Themen. Gleichzeitig klicken wir uns einen Zugang im IBM Qiskit System und lassen die ersten Notebooks der Tutorials laufen. Basierend auf diesen Eindr\u00fccken k\u00f6nnen wir dann besprechen was die jeweils momentan zur Verf\u00fcgung stehenden Systeme leisten k\u00f6nnen.\r\nIhr braucht also: Popcorn, Taschent\u00fccher f\u00fcr die Lachtr\u00e4nen, Beruhigungstee sowie einen IBM Qiskit Account oder eine lokale Installation von Qiskit von https://qiskit.org/\r\n(Andere Systeme d\u00fcrft ihr auch gern nutzen, aber dann m\u00fcsst ihr selbstst\u00e4ndig debuggen.)",
   "recording_license": "",
   "do_not_record": true,

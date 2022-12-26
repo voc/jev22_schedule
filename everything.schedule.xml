@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 18:00; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 18:00; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-26 18:20; FireShonks 0.26; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.1.3; xrelog22: Independent Multiverses 1.6; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-26 18:20; Winterchaos 0.2; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -889,11 +889,11 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>en</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im vorangestellten Talk erhaltet ihr eine kleine Übersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download) und schaue dir meinen Talk vor dem Workshop an.&#13;
 &#13;
-Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im vorangestellten Talk erhaltet ihr eine kleine Übersicht, in diesem Workshop arbeiten wir gemeinsam mit Inkscape. Wenn du mitmachen willst, installiere es dir bitte bereits vorher (https://inkscape.org/download) und schaue dir meinen Talk vor dem Workshop an.&#13;
+How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's &amp; don'ts? In the preceding talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download) and watch my talk before the workshop.&#13;
 &#13;
-How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's &amp; don'ts? In the preceding talk I will give you get a brief overview, in this workshop we will put it into practice using Inkscape. If you want to participate, please install it beforehand (https://inkscape.org/download) and watch my talk before the workshop.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>This workshop can be held bilingually in English/German upon request. German by default.&#13;
 This is an interactive workshop in BBB, nothing is recorded, but you can participate a lot!&#13;
 &#13;
@@ -922,9 +922,9 @@ Dies ist ein interaktiver Workshop im BBB, es wird nichts aufgezeichnet, dafür 
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Gemütliches gemeinsames Stricktreffen für alle zum Austausch, sowohl für Anfänger*innen als auch für Fortgeschittene&#13;
 &#13;
-Gemütliches gemeinsames Stricktreffen für alle zum Austausch, sowohl für Anfänger*innen als auch für Fortgeschittene</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Wir treffen uns, um gemeinsam über unsere geplanten, aktuellen und vergangenen Strickprojekte zu sprechen und auszutauschen. &#13;
 Das soll ein offenes Treffen sein für alle,  die gerne stricken oder Interesse am Stricken haben. Auch wenn ihr konkrete Fragen zu einem Projekt haben, können wir diese klären.</description>
         <recording>
@@ -950,10 +950,10 @@ Das soll ein offenes Treffen sein für alle,  die gerne stricken oder Interesse 
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Eine meiner aktuellen Nähbesessenheiten: Stoffreste zum Erblühen bringen. Faszinierend, wie aus ein paar simplen Stoffstückchen - und mit wenigen Stichen - innerhalb weniger Minuten wunderschöne Blüten werden. Aus ihnen können Applikationen für Kleidung, Deko, Broschen oder Haarspangen entstehen. &#13;
+The workshop will be in German language, but questions in English are no problem.&#13;
 &#13;
-Eine meiner aktuellen Nähbesessenheiten: Stoffreste zum Erblühen bringen. Faszinierend, wie aus ein paar simplen Stoffstückchen - und mit wenigen Stichen - innerhalb weniger Minuten wunderschöne Blüten werden. Aus ihnen können Applikationen für Kleidung, Deko, Broschen oder Haarspangen entstehen. &#13;
-The workshop will be in German language, but questions in English are no problem.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Eine meiner aktuellen Nähbesessenheiten: Stoffreste zum Erblühen bringen. Faszinierend, wie aus ein paar simplen Stoffstückchen - und mit wenigen Stichen - innerhalb weniger Minuten wunderschöne Blüten werden. Aus ihnen können Applikationen für Kleidung, Deko, Broschen oder Haarspangen entstehen. &#13;
 &#13;
 * Niedrigschwellig zugänglich, da keine Nähmaschine notwendig. &#13;
@@ -1003,9 +1003,9 @@ Wer direkt mitarbeiten möchte, benötigt dieses Material: &#13;
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Wir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.&#13;
 &#13;
-Wir klicken uns gemeinsam durch die ersten Seiten des IBM Qiskit Tutorials und ich beantworte nebenher eure Fragen zur Sinnhaftigkeit von Quantum Computing.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Quantum Computing befindet sich immer noch hoch auf der Hype-Kurve, allerdings warnen auch die Ersten vor dem Quantum Winter. Wir reden, je nach euren Fragen, über diese und andere Themen. Gleichzeitig klicken wir uns einen Zugang im IBM Qiskit System und lassen die ersten Notebooks der Tutorials laufen. Basierend auf diesen Eindrücken können wir dann besprechen was die jeweils momentan zur Verfügung stehenden Systeme leisten können.&#13;
 Ihr braucht also: Popcorn, Taschentücher für die Lachtränen, Beruhigungstee sowie einen IBM Qiskit Account oder eine lokale Installation von Qiskit von https://qiskit.org/&#13;
 (Andere Systeme dürft ihr auch gern nutzen, aber dann müsst ihr selbstständig debuggen.)</description>
@@ -3130,9 +3130,9 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Queer brunch! Wir treffen uns zum gemütlichen plausch. Offen für alle Menschen die sich als queer oder LGBTQI+ identifizieren!&#13;
 &#13;
-Queer brunch! Wir treffen uns zum gemütlichen plausch. Offen für alle Menschen die sich als queer oder LGBTQI+ identifizieren!</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Queer brunch! Wir treffen uns zum gemütlichen plausch. Offen für alle Menschen die sich als queer oder LGBTQI+ identifizieren!</description>
         <recording>
           <license/>
@@ -3157,10 +3157,10 @@ Queer brunch! Wir treffen uns zum gemütlichen plausch. Offen für alle Menschen
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Ich habe schon vor Jahren gequiltet, bin damit aber nie so recht warm geworden - bis ich vor ein paar Monaten EPP ausprobiert habe und seitdem in meinem eigenen Tempo von Hand vor mich hin nähe.  Im Workshop zeige ich die Grundlagen des EPP, mit 1"-Hexagons als sehr beliebte und verbreitete Grundvariante. Als Grundform entsteht aus den Hexis eine Blütenform, die vielfältig nutzbar ist (Deko, Applikation, Quilts, Untersetzer usw.). Da eins in kleinen Schritten arbeitet, können EEP-Projekte im  Grunde überall mit hin genommen werden.&#13;
+The workshop will be in German language, but questions in English are no problem.&#13;
 &#13;
-Ich habe schon vor Jahren gequiltet, bin damit aber nie so recht warm geworden - bis ich vor ein paar Monaten EPP ausprobiert habe und seitdem in meinem eigenen Tempo von Hand vor mich hin nähe.  Im Workshop zeige ich die Grundlagen des EPP, mit 1"-Hexagons als sehr beliebte und verbreitete Grundvariante. Als Grundform entsteht aus den Hexis eine Blütenform, die vielfältig nutzbar ist (Deko, Applikation, Quilts, Untersetzer usw.). Da eins in kleinen Schritten arbeitet, können EEP-Projekte im  Grunde überall mit hin genommen werden.&#13;
-The workshop will be in German language, but questions in English are no problem.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Ich habe schon vor Jahren gequiltet, bin damit aber nie so recht warm geworden - bis ich vor ein paar Monaten EPP ausprobiert habe und seitdem in meinem eigenen Tempo von Hand vor mich hin nähe.  Im Workshop zeige ich die Grundlagen des EPP, mit 1"-Hexagons als sehr beliebte und verbreitete Grundvariante. Als Grundform entsteht aus den Hexis eine Blütenform, die vielfältig nutzbar ist (Deko, Applikation, Quilts, Untersetzer usw.). Da eins in kleinen Schritten arbeitet, können EPP-Projekte im  Grunde überall mit hin genommen werden.&#13;
 &#13;
 Vorteile von EPP: &#13;
@@ -3213,9 +3213,9 @@ Für die, die mitmachen möchten, benötigtes Material: &#13;
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Haecksenfrühstück für interessierte FINTA-Personen&#13;
 &#13;
-Haecksenfrühstück für interessierte FINTA-Personen</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>-</description>
         <recording>
           <license/>
@@ -3241,9 +3241,9 @@ Haecksenfrühstück für interessierte FINTA-Personen</abstract>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Was für Infos gebe ich preis, wofür sind diese Daten überhaupt relevant und was können Kriminelle damit machen? In diesem interaktiven Workshop lernen die Teilnehmer*innen die Grundlagen der digitalen Selbstverteidigung. Wie lernen gemeinsam Schwachstellen zu erkennen und zu beheben, damit sie zukünftig vermieden werden können. Dieser Workshop eignet sich für jedes Alter und jeden Kenntnisstand, für newbies und digital natives, aber auch für DICH, wenn du mal eine Auffrischung in diesem Bereich gebrauchen kannst.&#13;
 &#13;
-Was für Infos gebe ich preis, wofür sind diese Daten überhaupt relevant und was können Kriminelle damit machen? In diesem interaktiven Workshop lernen die Teilnehmer*innen die Grundlagen der digitalen Selbstverteidigung. Wie lernen gemeinsam Schwachstellen zu erkennen und zu beheben, damit sie zukünftig vermieden werden können. Dieser Workshop eignet sich für jedes Alter und jeden Kenntnisstand, für newbies und digital natives, aber auch für DICH, wenn du mal eine Auffrischung in diesem Bereich gebrauchen kannst.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Das Abschätzen von Risiken gehört zu unserem Alltag, mal bewusst mal weniger. Unabhängig davon, in welchem Umfang wir das Internet nutzen und egal, ob nur privat oder beruflich, treffen wir Entscheidungen, die unsere Sicherheit betreffen.&#13;
 **Es ist daher sehr ratsam, sich mit der praktischen Umsetzung zu befassen, die wir bei einer Risikominimierung bis hin zur Vermeidung helfen.** Möchte ich dieses Produkt nutzen? Muss ich dieses Produkt nutzen? Wie sieht es mit dem Datenschutz dabei aus? Haben die Herrsteller bereits Maßnahmen getroffen oder bieten mir sogar die Option für einen besseren Schutz? Wie wichtig ist mir das Konto und was ist das schlimmste, was dabei passieren kann? Welche Schwachstellen ergeben sich, wenn ich mich z.B. für mehr Komfort statt für Sicherheit entscheide und wie kann ich das besser abschätzen?&#13;
 &#13;
@@ -3277,9 +3277,9 @@ Der Workshop soll Personen dabei helfen, mehr über ihr Verhalten im Internet ra
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [Ada](https://meeten.statt-drosseln.de/b/cri-uye-ogv-vfh)&#13;
+        <abstract>Lerne Haecksen kennen!&#13;
 &#13;
-Lerne Haecksen kennen!</abstract>
+Link zum Workshop-Raum: [Ada](https://meeten.statt-drosseln.de/b/cri-uye-ogv-vfh)</abstract>
         <description>Bei 570 Haecksen kennst du sicherlich noch nicht alle. Komm vorbei, lerne in Kleingruppen Haecksen kennen und wer weiß, vielleicht findest du Gleichgesinnte für eine nächste Aktivität.&#13;
 &#13;
 Dieser Workshop ist nur für Haecksen!&#13;
@@ -3309,9 +3309,9 @@ Dieser Workshop ist nur für Haecksen!&#13;
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Ein Code of Conduct für deinen Space? Uuuuuhhh, das gibt doch nur anstrengende Diskussionen... Und was muss da überhaupt rein...? Und reicht es nicht, wenn wir uns damit beschäftigen, wenn was vorfällt?&#13;
 &#13;
-Ein Code of Conduct für deinen Space? Uuuuuhhh, das gibt doch nur anstrengende Diskussionen... Und was muss da überhaupt rein...? Und reicht es nicht, wenn wir uns damit beschäftigen, wenn was vorfällt?</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Wir finden es gut und wichtig, wenn Spaces einen Code of Conduct haben. Deshalb möchten wir mit euch über das Thema Code of Conduct reden!&#13;
 Welche Fragen beschäftigen Menschen in Hackspaces rund um das Thema Code of Conduct? &#13;
 Was könnte helfen auf dem Weg zu einem Code of Conduct? &#13;
@@ -6358,9 +6358,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.&#13;
 &#13;
-Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</description>
         <recording>
           <license/>
@@ -6386,9 +6386,9 @@ Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA m
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Die DSGVO ist in aller Munde, aber was bedeutet sie eigentlich für Dich? Wir wollen uns die Rechte, die Dir durch die DSGVO zugesichert werden, einmal genauer anschauen und – vor allem — ausprobieren. In unserem Workshop lernst Du, mit Datenanfragen.de Anfragen zu stellen, um an Deine Daten zu kommen, sie löschen zu lassen, zu berichtigen oder Widerspruch gegen Direktwerbung einzulegen.&#13;
 &#13;
-Die DSGVO ist in aller Munde, aber was bedeutet sie eigentlich für Dich? Wir wollen uns die Rechte, die Dir durch die DSGVO zugesichert werden, einmal genauer anschauen und – vor allem — ausprobieren. In unserem Workshop lernst Du, mit Datenanfragen.de Anfragen zu stellen, um an Deine Daten zu kommen, sie löschen zu lassen, zu berichtigen oder Widerspruch gegen Direktwerbung einzulegen.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Online-Shops, Streamingdienste, Banken, Handy-Apps, öffentliche Stellen, Versicherungen, soziale Netzwerke … Die Liste an Organisationen, die Deine Daten haben wollen, ist sehr lang. Wahrscheinlich gibt es sogar etliche Unternehmen wie Adresshändler und Auskunfteien, die zwar Deine Daten haben, von denen Du aber noch nie etwas gehört hast.&#13;
 &#13;
 Zum Glück musst Du Dich nicht damit abfinden, „dass das halt so ist“. Denn Du hast ein Recht auf Datenschutz! Wenn Unternehmen, Behörden und andere Organisationen Deine personenbezogenen Daten nutzen wollen, müssen sie sich dabei an die Datenschutz-Grundverordnung (DSGVO) halten. Damit Du die Kontrolle über Deine Daten behalten kannst, gewährt Dir die DSGVO eine Reihe von Rechten, die Du den Organisationen gegenüber kostenlos geltendmachen darfst: Das Recht auf Auskunft darüber, welche Daten zu Dir verarbeitet werden, einschließlich einer Kopie dieser Daten, das Recht auf Berichtigung falscher Daten zu Dir, das Recht auf Löschung Deiner Daten unter bestimmten Umständen, und das Recht auf Werbewiderspruch.&#13;
@@ -6421,10 +6421,10 @@ In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu mach
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Ich gebe seit über 10 Jahren Spinnkurse in Berlin. (www.Spinnkurse-in-Berlin.de) Lasst es uns einfach mal online versuchen. 😄 Ich verwende die Anfänger*innentechnik "Park and Draft". Im Laufe des Crashkurses erkläre ich, wie das Handspinnen funktioniert, wie die Wolle vorbereitet wird, worauf eins achten muss, wie diese Anfangstechnik funktioniert und wie das fertige Garn verzwirnt (Plying Ball) und abschließend behandelt wird. &#13;
+The workshop will be in German language, but questions in English are no problem.&#13;
 &#13;
-Ich gebe seit über 10 Jahren Spinnkurse in Berlin. (www.Spinnkurse-in-Berlin.de) Lasst es uns einfach mal online versuchen. 😄 Ich verwende die Anfänger*innentechnik "Park and Draft". Im Laufe des Crashkurses erkläre ich, wie das Handspinnen funktioniert, wie die Wolle vorbereitet wird, worauf eins achten muss, wie diese Anfangstechnik funktioniert und wie das fertige Garn verzwirnt (Plying Ball) und abschließend behandelt wird. &#13;
-The workshop will be in German language, but questions in English are no problem.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Ich gebe seit über 10 Jahren Spinnkurse in Berlin. (www.Spinnkurse-in-Berlin.de) Lasst es uns einfach mal online versuchen. 😄 Ich verwende die Anfänger*innentechnik "Park and Draft". Im Laufe des Crashkurses erkläre ich, wie das Handspinnen funktioniert, wie die Wolle vorbereitet wird, worauf eins achten muss, wie diese Anfangstechnik funktioniert und wie das fertige Garn verzwirnt (Plying Ball) und abschließend behandelt wird. &#13;
 &#13;
 Wer direkt mitarbeiten möchte, benötigt dieses Material: &#13;
@@ -6463,9 +6463,9 @@ https://www.fiberspace.de/2013/07/bauanleitung-fur-eine-handspindel-kopfspindelh
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Helft Hetti die Box Challenge zu meistern.&#13;
 &#13;
-Helft Hetti die Box Challenge zu meistern.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Eine nicht aufgezeichnete Session in der wir gemeinsam eine interaktive HackTheBox (HTB) oder TryHackMe (THM) Challenge lösen. Das Ziel ist es gemeinsam eine gute Zeit zu verbringen, es ist quasi eine gemeinsame B̵a̵c̵k̵s̵e̵a̵t̵  Hacking Session. Natürlich könnt ihr nebenbei selber mitmachen, falls Ihr Lust habt. Ich werde ein aktuelles Kali Linux verwenden. Download: https://www.kali.org/get-kali/&#13;
 &#13;
 **Ablauf der Session:**  &#13;
@@ -6500,9 +6500,9 @@ Vielleicht schaffen wir ja gemeinsam die Box zu erfolgreich zu pwnen!</descripti
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Installiere Dir deinen eigenen FEDI Server&#13;
 &#13;
-installiere Dir deinen eigenen FEDI Server</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Das Fediverse ist ein dezentrales Soziales Netzwerk, in dem jeder, der mag, auch seinen eigenen Server betreiben kann. Erst mit eigenem Server erlangt man wirklich die Kontrolle über seine Daten und kann eigenverantwortlich handeln.&#13;
 &#13;
 In diesem Workshop werden die Teilnehmenden bei der Installation ihres eigenen Hubzilla oder Friendica Social Media Servers unterstützt. &#13;
@@ -9476,9 +9476,9 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig. Wir schauen uns eure eigenen Seiten an und schauen, an welchen Schrauben wir drehen können!&#13;
 &#13;
-Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig. Wir schauen uns eure eigenen Seiten an und schauen, an welchen Schrauben wir drehen können!</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde überhaupt Farben? All diese Fragen und mehr möchte ich nach meinem Talk als Input mit euch zusammen auf euren eigenen Social Media-Profilen oder Websites erkunden. Ihr lernt dabei worauf es beim Beschreiben von Bildern im Web ganz besonders ankommt und worauf ihr verzichten könnt. So werden eure Posts noch inklusiver, als sie sowieso sind! &lt;3</description>
         <recording>
           <license/>
@@ -9503,9 +9503,9 @@ Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Fra
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verständlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen für die künstlerische Ausgestaltung sammeln.&#13;
 &#13;
-Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir, die Philohaecksen, planen Arbeiten und Ideen von Philosphinnen verständlich darzustellen. Erste Skizzen zu Martha Nussbaum und Donna Haraway haben wir schon. Diese wollen wir mit Euch weiterentwickeln und vor allem Ideen für die künstlerische Ausgestaltung sammeln.</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>In der Philosophie gibt es wenig bekannte Frauen. Wir, die Philohaecksen, sind daher daran interessiert herauszufinden, welchen Beitrag Frauen zur Philosophie beigetragen haben. Zusätzlich möchten wir die Arbeiten und Ideen von Philosphinnen verständlich darstellen. Am einfachsten zugänglich sind die Philosophinnen der Gegenwart. Durch Entwicklungen in der KI stellt sich in der Philosophie auch die Frage nach der Stellung des Menschen im Universum neu. Donna Haraway ist durch ihr Cyborg Manifest bekannt geworden. Martha Nussbaum hat mit ihrem Befähigungsansatz ein Konzept für alle fühlenden Wesen (Menschen + Tiere + ?) entwickelt. Erste Skizzen zu diesen beiden Philosophinnen haben wir schon. Diese wollen wir Euch vorstellen und mit Euch weiterentwickeln. Insbesondere brauchen wir Ideen und Mitstreitende für die künstlerische Ausgestaltung.</description>
         <recording>
           <license/>
@@ -9531,9 +9531,9 @@ Nichtphilosophinnen mit viel Phantasie und Philosophieinteressierte welcome! Wir
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)&#13;
+        <abstract>Wir wollen in unserem virtuellen Garten eine Partie Schach spielen. Das Brett haben wir schon ausgelegt, die Figuren seid ihr! Bis zu 32 Mitspieler:innen koordinieren sich zu zwei Teams in einem BigBlueButton und bewegen sich dann Zug um Zug auf unserer Garten-Map im WorkAdventure (die rC3 lässt grüßen).&#13;
 &#13;
-Wir wollen in unserem virtuellen Garten eine Partie Schach spielen. Das Brett haben wir schon ausgelegt, die Figuren seid ihr! Bis zu 32 Mitspieler:innen koordinieren sich zu zwei Teams in einem BigBlueButton und bewegen sich dann Zug um Zug auf unserer Garten-Map im WorkAdventure (die rC3 lässt grüßen).</abstract>
+Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Bei der rC3 2020 noch etwas unorganisiert, haben wir zur rC3 2021 im Garten unserer Map tatsächlich eine Partie Avatar-Schach gespielt (Einladung und Spielprotokoll unter https://cyber4edu.org/c4e/wiki/workshops/rc3-nowhere-assembly-day4). Das wollen wir gern wiederholen.&#13;
 &#13;
 Um mitzuspielen, tragt euch bitte vorab in folgendem Pad ein (Zuschauende können sich dort ebenfalls mit einem +1 eintragen - dann wissen wir, wie groß wir die Tribünen bauen müssen :-) ):&#13;
