@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 03:10; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 03:10; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.34</version>
+  <version>2022-12-26 03:50; FireShonks 0.24; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; xrelog22: Independent Multiverses 1.6; ChilyConChaos 2022-12-26 03:50; Wintergalaktische Club Mate Party 0.4; Winterchaos 0.2; Hacking in Parallel 0.7; Forum für Freiräume - Gib Uns Mehr! 0.34</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1811,7 +1811,7 @@ I also hope that this discussion will inspire collaborations for future work inv
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3387">christopher lombardi</person>
+          <person id="3387">chris lombardi</person>
         </persons>
         <links/>
         <attachments/>
