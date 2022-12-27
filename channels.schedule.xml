@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 17:20</version>
+  <version>2022-12-27 18:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2365,7 +2365,6 @@ Topics and tools we present are:&#13;
     * Mobile Verification Toolkit (MVT)&#13;
     * Sysdiagnose exports: analyze processes&#13;
     * PCAP evaluation (TinyCheck)&#13;
-    * Linking of data, creation of timelines&#13;
 &#13;
 For these steps and typical attack patterns we explain reasonable approaches and what has been proven in our work.</description>
         <recording>
