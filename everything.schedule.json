@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 15:00; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 15:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 15:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 15:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1184,6 +1184,37 @@
                 "attachments": []
               },
               {
+                "id": 54455,
+                "guid": "460e798a-80ec-51c5-8396-7ae7c17b17c9",
+                "logo": "",
+                "date": "2022-12-27T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "00:40",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-54455-erklaerhaj_baut_eine_uhr",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/TFGPVX/",
+                "title": "Erkl\u00e4rhaj baut eine Uhr",
+                "subtitle": "",
+                "track": "R3S",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+                "description": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3401,
+                    "code": "YLYLMA",
+                    "public_name": "Erkl\u00e4rhai",
+                    "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49179,
                 "guid": "0c927944-2b66-5cee-980c-b37e24b7b110",
                 "logo": "/media/fire-shonks-2022/submissions/PEEU9J/Hier-sorgt-ein-Schild-fur-F-D-und-R-_Pfade__Q9f2fbm.jpg",
@@ -1541,7 +1572,39 @@
             "Theaterraum (22)": [],
             "Seminarraum 2 (24)": [],
             "Seminarraum 3 (21)": [],
-            "Bierschoine": [],
+            "Bierschoine": [
+              {
+                "id": 49310,
+                "guid": "31c55a8e-77c7-569e-818e-22a7b9c9edf5",
+                "logo": "",
+                "date": "2022-12-27T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-49310-opening",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/",
+                "title": "Opening",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Herzlich Willkommen bei Hellarious - Hacking in Hell!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 265,
+                    "code": "HQZJFN",
+                    "public_name": "Carina Haupt",
+                    "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Salon": [
               {
                 "id": 49298,
@@ -4306,37 +4369,6 @@
             "Seminarraum 3 (21)": [],
             "Bierschoine": [
               {
-                "id": 49310,
-                "guid": "31c55a8e-77c7-569e-818e-22a7b9c9edf5",
-                "logo": "",
-                "date": "2022-12-28T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "00:30",
-                "room": "Bierschoine",
-                "slug": "jev22-49310-opening",
-                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/",
-                "title": "Opening",
-                "subtitle": "",
-                "track": "Hellarious",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Herzlich Willkommen bei Hellarious - Hacking in Hell!",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 265,
-                    "code": "HQZJFN",
-                    "public_name": "Carina Haupt",
-                    "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 49292,
                 "guid": "cb77f0fa-6037-568c-b6b0-d3da3ff8d593",
                 "logo": "/media/hacking-in-hell-2022/submissions/AKSLWC/IMG_20200918_193952_XB6Lw6P.jpg",
@@ -4371,9 +4403,9 @@
                 "id": 49309,
                 "guid": "be6ac95c-94b1-5c0d-aa06-b5980ba33111",
                 "logo": "",
-                "date": "2022-12-28T18:30:00+01:00",
-                "start": "18:30",
-                "duration": "00:30",
+                "date": "2022-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "01:00",
                 "room": "Bierschoine",
                 "slug": "jev22-49309-mach_dein_softwareprojekt_nutzbar_fuer_andere",
                 "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/",
@@ -8009,37 +8041,6 @@
             ],
             "Salon": [
               {
-                "id": 49233,
-                "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
-                "logo": "",
-                "date": "2022-12-29T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "01:00",
-                "room": "Salon",
-                "slug": "jev22-49233-massage_workshop",
-                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/VMUVNM/",
-                "title": "Massage Workshop",
-                "subtitle": "",
-                "track": "Hellarious",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Du wolltest schon immer mal wissen, wie du massieren kannst, ohne gro\u00dfen Schaden anzurichten und das es auch noch gut tut ? \r\nNa dann los!",
-                "description": "In dem Workshop soll es vor allem um Entspannung gehen. Eine sch\u00f6ne entspannende R\u00fcckenmassage lernen, damit nichts kaputt geht :) \r\nEin paar Grundlagen und ein paar sch\u00f6ne Handgriffe zum mitnehmen quasi !",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 3350,
-                    "code": "EKYCBU",
-                    "public_name": "\u00c4n",
-                    "biography": "Ich bin \u00c4n, 29 Jahre und Physiotherapeutin und habe auch einiges an Entspannungsfort- und Weiterbildungen. \r\nZus\u00e4tzlich arbeite ich noch mit Kindern.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 50978,
                 "guid": "a47f9a39-dbcd-532c-a299-4d9a5447784d",
                 "logo": "",
@@ -11350,8 +11351,8 @@
                 "id": 49301,
                 "guid": "3b0de8b2-71a0-5178-90d9-75474acc1a14",
                 "logo": "",
-                "date": "2022-12-30T20:00:00+01:00",
-                "start": "20:00",
+                "date": "2022-12-30T21:00:00+01:00",
+                "start": "21:00",
                 "duration": "01:00",
                 "room": "Bierschoine",
                 "slug": "jev22-49301-hack_tell",
@@ -11385,7 +11386,39 @@
                 "attachments": []
               }
             ],
-            "Salon": [],
+            "Salon": [
+              {
+                "id": 49233,
+                "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
+                "logo": "",
+                "date": "2022-12-30T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-49233-massage_workshop",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/VMUVNM/",
+                "title": "Massage Workshop",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Du wolltest schon immer mal wissen, wie du massieren kannst, ohne gro\u00dfen Schaden anzurichten und das es auch noch gut tut ? \r\nNa dann los!",
+                "description": "In dem Workshop soll es vor allem um Entspannung gehen. Eine sch\u00f6ne entspannende R\u00fcckenmassage lernen, damit nichts kaputt geht :) \r\nEin paar Grundlagen und ein paar sch\u00f6ne Handgriffe zum mitnehmen quasi !",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3350,
+                    "code": "EKYCBU",
+                    "public_name": "\u00c4n",
+                    "biography": "Ich bin \u00c4n, 29 Jahre und Physiotherapeutin und habe auch einiges an Entspannungsfort- und Weiterbildungen. \r\nZus\u00e4tzlich arbeite ich noch mit Kindern.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Bastelstube": [
               {
                 "id": 51226,

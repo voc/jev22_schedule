@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 15:00</version>
+  <version>2022-12-27 15:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -263,6 +263,31 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <links/>
         <attachments/>
       </event>
+      <event id="54455" guid="460e798a-80ec-51c5-8396-7ae7c17b17c9">
+        <logo/>
+        <date>2022-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:40</duration>
+        <room>Fireshonks</room>
+        <slug>jev22-54455-erklaerhaj_baut_eine_uhr</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/TFGPVX/</url>
+        <title>Erklärhaj baut eine Uhr</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</abstract>
+        <description>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3401">Erklärhai</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49179" guid="0c927944-2b66-5cee-980c-b37e24b7b110">
         <logo>/media/fire-shonks-2022/submissions/PEEU9J/Hier-sorgt-ein-Schild-fur-F-D-und-R-_Pfade__Q9f2fbm.jpg</logo>
         <date>2022-12-27T17:15:00+01:00</date>
@@ -483,7 +508,33 @@ anonymised.</abstract>
         <attachments/>
       </event>
     </room>
-    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49310" guid="31c55a8e-77c7-569e-818e-22a7b9c9edf5">
+        <logo/>
+        <date>2022-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49310-opening</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="265">Carina Haupt</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="2158" guid="cd2bc158-39c7-4f9c-bd87-0bf9d6061875">
         <date>2022-12-27T12:30:00+01:00</date>
@@ -1640,31 +1691,6 @@ join us!</description>
       </event>
     </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
-      <event id="49310" guid="31c55a8e-77c7-569e-818e-22a7b9c9edf5">
-        <logo/>
-        <date>2022-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49310-opening</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="265">Carina Haupt</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49292" guid="cb77f0fa-6037-568c-b6b0-d3da3ff8d593">
         <logo>/media/hacking-in-hell-2022/submissions/AKSLWC/IMG_20200918_193952_XB6Lw6P.jpg</logo>
         <date>2022-12-28T15:00:00+01:00</date>
@@ -1692,9 +1718,9 @@ join us!</description>
       </event>
       <event id="49309" guid="be6ac95c-94b1-5c0d-aa06-b5980ba33111">
         <logo/>
-        <date>2022-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>00:30</duration>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
         <room>Bierschoine</room>
         <slug>jev22-49309-mach_dein_softwareprojekt_nutzbar_fuer_andere</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WMWWAU/</url>
@@ -5118,8 +5144,8 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
       </event>
       <event id="49301" guid="3b0de8b2-71a0-5178-90d9-75474acc1a14">
         <logo/>
-        <date>2022-12-30T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2022-12-30T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>01:00</duration>
         <room>Bierschoine</room>
         <slug>jev22-49301-hack_tell</slug>
