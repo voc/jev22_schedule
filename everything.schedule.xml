@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 11:40; FireShonks 0.30; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 11:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 12:00; FireShonks 0.30; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 12:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -9438,7 +9438,9 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <language>de</language>
         <abstract>Wie lassen sich Videokonferenzen so gestalten, dass möglichst alle Menschen daran teilhaben können?&#13;
 Dieser Frage gehen wir - also die AGs "Barrierefreiheit" und "Inklusion" vom cyber4EDU e.V. - in unserem interaktiven Vortrag nach.&#13;
-Inhaltlich befassen wir uns dabei mit technischen, organisatorischen und kommunikativen Gestaltungsmöglichkeiten und erörtern sowohl praktische als auch politische Fragen. Dazu betrachten wir positive und negative Beispiele, ergänzt um eigene Erfahrungen der AG-Mitglieder.</abstract>
+Inhaltlich befassen wir uns dabei mit technischen, organisatorischen und kommunikativen Gestaltungsmöglichkeiten und erörtern sowohl praktische als auch politische Fragen. Dazu betrachten wir positive und negative Beispiele, ergänzt um eigene Erfahrungen der AG-Mitglieder.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Barrierefreiheit und Inklusion heißt nicht nur auf körperliche Einschränkungen oder Screenreader-Kompatibilität zu achten. Vielmehr bedeutet es, eine ganzheitliche Perspektive einzunehmen und sich die Teilhabe aller zum Ziel zu setzen. Videokonferenzen zugänglich zu gestalten, ist daher immer noch eine große Herausforderung - egal ob es um Vorträge, Unterricht, Diskussionen oder Zusammenarbeit geht: Dabei den Fokus nur auf Soft- und Hardware zu legen, greift zu kurz. Die Teilhabe an Videokonferenzen hängt auch von barrierefreien Medien und organisatorischen Vorkehrungen ab. Entscheidend ist aber eine wertschätzende und entsprechend geregelte Kommunikation auf Augenhöhe.&#13;
 &#13;
 Auf der Basis dieses breiten Barrierefreiheitsbegriffs wollen wir uns daher mit der Gestaltung von Videokonferenzen befassen. Unser Anspruch dabei ist: Selbstverständliche Zugänglichkeit für alle und Partizipation von allen. Diesen Anspruch in die Praxis umzusetzen, ist allerdings nicht einfach. Es bedarf der gegenseitigen Rücksichtnahme aller Teilnehmenden auf alle Bedarfe und letztlich eines gemeinsamen Kulturwandels. Wie so häufig gilt auch hier: "don't panic" und "wer nicht anfängt, hat schon verloren".&#13;
@@ -9477,7 +9479,9 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.</abstract>
+        <abstract>Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde überhaupt Farben? All diese Fragen und mehr möchte ich anhand von einigen Beispielen exemplarisch beantworten und mit euch gemeinsam dafür sorgen, dass eure Präsenzen im Cyberspace für alle zugänglicher werden.</description>
         <recording>
           <license/>
@@ -9503,7 +9507,9 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <type>Talk</type>
         <language>de</language>
         <abstract>Logrotate, ein Tool zum Verwalten von Logdateien, verfügt über eine Sicherheitslücke, die das Ausweiten der Rechte über eine Race Condition erlaubt. Die Sicherheitlücke – “Logrotten” -  kann dann ausgenutzt werden, wenn ein*e unprivilegierte*r Benutzer*in das Logverzeichnis unter Kontrolle hat. &#13;
-In diesem Vortrag wird gezeigt, wie einfach es ist, diese Sicherheitslücke auszunutzen, und es wird gezeigt, welche Auswirkungen und Reichweite diese Sicherheitslücke hat, z.B. auf andere Softwarepakete wie gitlab. Am Ende wird der aktuelle Stand von Logrotate aufgezeigt.</abstract>
+In diesem Vortrag wird gezeigt, wie einfach es ist, diese Sicherheitslücke auszunutzen, und es wird gezeigt, welche Auswirkungen und Reichweite diese Sicherheitslücke hat, z.B. auf andere Softwarepakete wie gitlab. Am Ende wird der aktuelle Stand von Logrotate aufgezeigt.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Mit Logrotate können Logfiles verwaltet werden. Es ermöglicht das automatische Rotieren, Komprimieren, Entfernen und Versenden von Logdateien. Jede Logdatei kann dabei täglich, wöchentlich oder monatlich von Logrotate rotiert werden, bzw. wenn sie eine bestimmte Größe erreicht hat. Außerdem bietet Logrotate auch eine Root-Shell. &#13;
 &#13;
 Logrotate unterstützt verschiedene Methoden, um neue Dateien zu erstellen. Die Direktive "copy" beispielsweise erstellt eine Kopie der Logdatei und "create" erzeugt nach dem Rotieren eine neue, leere Logdatei. Wenn jemand das Logverzeichnis mit einem symbolischen Link austauscht, kurz bevor die neue Logdatei erstellt wird, legt Logrotate die neue Datei in einem anderen Verzeichnis ab. Ein solches Szenario kann ausgenutzt werden, wenn Logrotate als Benutzer root läuft und ein*e Benutzer*in mit geringen Privilegien die Kontrolle über den Pfad zum Logverzeichnis hat. Wenn diese*r Benutzer*in zum richtigen Zeitpunkt das Logverzeichnis mit einem symbolischen Link austauscht, schreibt Logrotate die neue Datei in das verlinkte Verzeichnis. Danach werden die Berechtigungen der erstellten Datei angepasst, sodass die angreifende Person Schreibzugriff auf dieser Datei hat.&#13;
@@ -9531,7 +9537,10 @@ In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrot
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Von natürlicher Sprache in einer schönen, linearisierten Welt und was man dort tun kann.</abstract>
+        <abstract>Von natürlicher Sprache in einer schönen, linearisierten Welt und was man dort tun kann.&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Text Embeddings sind die Abbildung menschlicher Sprache in einen hochdimensionalen Vektorraum. Dort kann man dann die ganze Macht linearer Algebra und Signalverarbeitung nutzen, um Texte zu analysieren.&#13;
 &#13;
 Dieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechner mächtige Machine Learning Tools nutzen kann, ohne Zeitstunden und Kilowattstunden mit dem Lernprozess zu verschwenden.</description>
@@ -9558,7 +9567,9 @@ Dieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechne
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Propaganda, Fake News und Desinformation erkennen lernen, anhand von Quellen aus der jüngeren und ferneren Vergangenheit. A trip down the historical memory lane.</abstract>
+        <abstract>Propaganda, Fake News und Desinformation erkennen lernen, anhand von Quellen aus der jüngeren und ferneren Vergangenheit. A trip down the historical memory lane.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Vergangenes Jahr ging es um grundlegende Medienkompetenz, die den Zuschauer*innen helfen sollte, Informationen ein bisschen leichter zu bewerten. &#13;
 &#13;
 Dieses Jahr möchte ich meinen Rat aus dem letzten Jahr ins Praktische umsetzen: Propaganda, Fake News und Desinformation funktioniert sehr häufig entlang sich wiederholender Muster. &#13;
@@ -9591,7 +9602,9 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
         <type>Talk</type>
         <language>de</language>
         <abstract>Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den&#13;
-JH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.</abstract>
+JH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Dieser Kurzvortrag stellt die Boot Flows der beiden Chips gegenüber und&#13;
 analysiert Aufwand und Verständlichkeit der Plattformen. Zum Abschluss&#13;
 evaluieren wir, wie sich die Implementierungsansätze auf Basis eines [aus einer&#13;
@@ -9622,7 +9635,10 @@ unterscheiden.</description>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>...oder wie man eine Bildschirmseite in 6720 Bits bringt</abstract>
+        <abstract>...oder wie man eine Bildschirmseite in 6720 Bits bringt&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Teletext wird immer noch von Millionen von Leuten täglich genutzt. Insbesondere in Zeiten, in denen das Web irrsinnig fett geworden ist, ist es sicherlich interessant zu sehen, welche ressourcensparenden Alternativen es gibt.&#13;
 Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Zeit vor dem Mikrocomputer stammt, eine Vision, um der Masse Zugriff zu Computern zu geben, die bis ins Heute weiterentwickelt wurde.</description>
         <recording>
@@ -9648,7 +9664,10 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</abstract>
+        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</description>
         <recording>
           <license/>
@@ -9673,7 +9692,10 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Veranstaltung beenden</abstract>
+        <abstract>Veranstaltung beenden&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Kurzer Rückblick und Danksagungen</description>
         <recording>
           <license/>

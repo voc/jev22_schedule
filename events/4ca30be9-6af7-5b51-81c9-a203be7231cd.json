@@ -13,7 +13,7 @@
   "track": "R3S",
   "type": "Talk",
   "language": "de",
-  "abstract": "Von nat\u00fcrlicher Sprache in einer sch\u00f6nen, linearisierten Welt und was man dort tun kann.",
+  "abstract": "Von nat\u00fcrlicher Sprache in einer sch\u00f6nen, linearisierten Welt und was man dort tun kann.\r\n\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
   "description": "Text Embeddings sind die Abbildung menschlicher Sprache in einen hochdimensionalen Vektorraum. Dort kann man dann die ganze Macht linearer Algebra und Signalverarbeitung nutzen, um Texte zu analysieren.\r\n\r\nDieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechner m\u00e4chtige Machine Learning Tools nutzen kann, ohne Zeitstunden und Kilowattstunden mit dem Lernprozess zu verschwenden.",
   "recording_license": "",
   "do_not_record": false,

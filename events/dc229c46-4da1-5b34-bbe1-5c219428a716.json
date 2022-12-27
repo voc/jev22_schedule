@@ -13,7 +13,7 @@
   "track": "R3S",
   "type": "Talk",
   "language": "de",
-  "abstract": "Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den\r\nJH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.",
+  "abstract": "Im Anschluss an den Allwinner D1 Soc haben wir den Port von oreboot auf den\r\nJH7100 SoC von StarFive wieder aufgegriffen. Diese betrachten wir im Vergleich.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
   "description": "Dieser Kurzvortrag stellt die Boot Flows der beiden Chips gegen\u00fcber und\r\nanalysiert Aufwand und Verst\u00e4ndlichkeit der Plattformen. Zum Abschluss\r\nevaluieren wir, wie sich die Implementierungsans\u00e4tze auf Basis eines [aus einer\r\nSVD-Datei generierten Rust Peripheral Access Crates (PAC)](\r\nhttps://docs.rust-embedded.org/book/start/registers.html) und mittels h\u00e4ndisch\r\ngeschriebenen Definitionen von Registern, Bl\u00f6cken und Hilfsfunktionen\r\nunterscheiden.",
   "recording_license": "",
   "do_not_record": false,
