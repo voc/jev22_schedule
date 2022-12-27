@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 16:10; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:10; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 16:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5.1 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -9862,31 +9862,6 @@ Ablauf:&#13;
         <links/>
         <attachments/>
       </event>
-      <event id="49297" guid="853d5d9f-2f71-50db-8161-d92b0ed3c099">
-        <logo/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>00:45</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49297-kolonialismus_in_europaeischen_museen</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
-        <title>Kolonialismus in europäischen Museen</title>
-        <subtitle> - was hat das mit Deutschland zu tun? Eine kleine Einführung</subtitle>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Die Veranstaltung wird eine kleine Einführung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="3411">alpha</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49296" guid="b0cffb21-4e47-587e-84e5-935ec342afb4">
         <logo>/media/hacking-in-hell-2022/submissions/YEKWDD/misinfohacks__Gv7p4KC.png</logo>
         <date>2022-12-30T17:30:00+01:00</date>
@@ -9914,6 +9889,31 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         </recording>
         <persons>
           <person id="3242">Patrick Schmelmer</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49297" guid="853d5d9f-2f71-50db-8161-d92b0ed3c099">
+        <logo/>
+        <date>2022-12-30T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:45</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49297-kolonialismus_in_europaeischen_museen</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
+        <title>Kolonialismus in europäischen Museen</title>
+        <subtitle> - was hat das mit Deutschland zu tun? Eine kleine Einführung</subtitle>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die Veranstaltung wird eine kleine Einführung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3411">alpha</person>
         </persons>
         <links/>
         <attachments/>
@@ -9952,8 +9952,8 @@ I will wander around the event and ask you about your project. If you are intere
     <room name="Salon" guid="6a427063-66f2-4353-b582-65bd53390b22">
       <event id="49233" guid="8e23660e-88c7-553a-8db8-1a27f2911e89">
         <logo/>
-        <date>2022-12-30T18:30:00+01:00</date>
-        <start>18:30</start>
+        <date>2022-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>01:00</duration>
         <room>Salon</room>
         <slug>jev22-49233-massage_workshop</slug>

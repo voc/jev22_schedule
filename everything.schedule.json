@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 16:10; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:10; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 16:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5.1 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -7279,7 +7279,7 @@
                     "id": 3386,
                     "code": "VNBCED",
                     "public_name": "Anne-Victoria Meyer",
-                    "biography": "Ich arbeite als Frontend-Entwicklerin und studiere Mensch-Computer-Interaktion. Im Rahmen meiner Masterarbeit besch\u00e4ftige ich mich aktuell damit, wie Datenvisualisierungen im Internet barrierearm umgesetzt werden k\u00f6nnen, sodass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind.",
+                    "biography": "sie/ihr\r\n\r\nIch arbeite als Frontend-Entwicklerin und studiere Mensch-Computer-Interaktion. Im Rahmen meiner Masterarbeit besch\u00e4ftige ich mich aktuell damit, wie Datenvisualisierungen im Internet barrierearm umgesetzt werden k\u00f6nnen, sodass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind.",
                     "answers": []
                   }
                 ],
@@ -11255,37 +11255,6 @@
                 "attachments": []
               },
               {
-                "id": 49297,
-                "guid": "853d5d9f-2f71-50db-8161-d92b0ed3c099",
-                "logo": "",
-                "date": "2022-12-30T16:00:00+01:00",
-                "start": "16:00",
-                "duration": "00:45",
-                "room": "Bierschoine",
-                "slug": "jev22-49297-kolonialismus_in_europaeischen_museen",
-                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/",
-                "title": "Kolonialismus in europ\u00e4ischen Museen",
-                "subtitle": " - was hat das mit Deutschland zu tun? Eine kleine Einf\u00fchrung",
-                "track": "Hellarious",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Die Veranstaltung wird eine kleine Einf\u00fchrung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 3411,
-                    "code": "HNYEWZ",
-                    "public_name": "alpha",
-                    "biography": "tba",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 49296,
                 "guid": "b0cffb21-4e47-587e-84e5-935ec342afb4",
                 "logo": "/media/hacking-in-hell-2022/submissions/YEKWDD/misinfohacks__Gv7p4KC.png",
@@ -11310,6 +11279,37 @@
                     "code": "NJSQFD",
                     "public_name": "Patrick Schmelmer",
                     "biography": "Patrick Schmelmer ist wissenschaftlicher Mitarbeiter in der Forschungsgruppe Human-Computer-Interaction und Visual Analytics und am Zentrum f\u00fcr Nachhaltige Wirtschafts-und Unternehmenspolitik (ZNWU) der Hochschule Darmstadt (h_da).\r\n\r\nW\u00e4hrend seines Studiums der Information Science M. Sc. an der h_da erwarb er Kenntnisse in den Bereichen Webentwicklung, Natural Language Processing und Visual Analytics. Dar\u00fcber hinaus sammelte Schmelmer einschl\u00e4gige praktische Erfahrungen sowohl im Informationsmanagement f\u00fcr GLAM-Einrichtungen wie Bibliotheken als auch im technischen Marketing.\r\n\r\nSchmelmers Interessen gehen auch in Richtung Digital Humanities und Sozioinformatik, weshalb er sich in seiner Masterarbeit 2022 mit dem Vergleich von Data-Mining-Studien zur Erkennung von Desinformationskampagnen besch\u00e4ftigte.\r\n\r\nDerzeit plant er ein interdisziplin\u00e4res Promotionsprojekt zwischen Informationswissenschaft und Betriebswirtschaftslehre.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49297,
+                "guid": "853d5d9f-2f71-50db-8161-d92b0ed3c099",
+                "logo": "",
+                "date": "2022-12-30T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "00:45",
+                "room": "Bierschoine",
+                "slug": "jev22-49297-kolonialismus_in_europaeischen_museen",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/",
+                "title": "Kolonialismus in europ\u00e4ischen Museen",
+                "subtitle": " - was hat das mit Deutschland zu tun? Eine kleine Einf\u00fchrung",
+                "track": "Hellarious",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Die Veranstaltung wird eine kleine Einf\u00fchrung geben was die deutsche (Kunst)geschichte mit Kolonialismus zu tun hat und wie Museen in Deutschland die Objekte mit kolonialem Kontext handhaben.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3411,
+                    "code": "HNYEWZ",
+                    "public_name": "alpha",
+                    "biography": "tba",
                     "answers": []
                   }
                 ],
@@ -11360,8 +11360,8 @@
                 "id": 49233,
                 "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
                 "logo": "",
-                "date": "2022-12-30T18:30:00+01:00",
-                "start": "18:30",
+                "date": "2022-12-30T16:00:00+01:00",
+                "start": "16:00",
                 "duration": "01:00",
                 "room": "Salon",
                 "slug": "jev22-49233-massage_workshop",
