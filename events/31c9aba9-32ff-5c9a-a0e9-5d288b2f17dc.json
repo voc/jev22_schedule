@@ -1,0 +1,33 @@
+{
+  "id": 54983,
+  "guid": "31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc",
+  "logo": "",
+  "date": "2022-12-29T19:45:00+01:00",
+  "start": "19:45",
+  "duration": "04:15",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-54983-lightning_talks_day_3",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/",
+  "title": "Lightning Talks Day 3",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Lightning Talks Day 3 -- limited to 15 minutes",
+  "description": "Lightning Talks Day 3 -- limited to 15 minutes",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3925,
+      "code": "LZX78E",
+      "public_name": "tig3rch3n",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}

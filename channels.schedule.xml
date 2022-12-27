@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 20:20</version>
+  <version>2022-12-27 21:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2740,6 +2740,31 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
         <links/>
         <attachments/>
       </event>
+      <event id="54972" guid="22c1426d-0e05-58b7-be13-a935c23097fb">
+        <logo/>
+        <date>2022-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>02:30</duration>
+        <room>HIP2</room>
+        <slug>jev22-54972-lightning_talks_day_2</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/DPLEXN/</url>
+        <title>Lightning Talks Day 2</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Lightning Talks Day 2 -- limited to 15 minutes</abstract>
+        <description>Lightning Talks Day 2 -- limited to 15 mintues</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3925">tig3rch3n</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="8672" guid="867208f4-ebf6-5158-89c1-bd9f623f50f2">
@@ -2771,13 +2796,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -2803,13 +2828,13 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <links/>
         <attachments/>
       </event>
-      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -4457,6 +4482,31 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         </recording>
         <persons>
           <person id="245">Janfred</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="54983" guid="31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc">
+        <logo/>
+        <date>2022-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>04:15</duration>
+        <room>HIP2</room>
+        <slug>jev22-54983-lightning_talks_day_3</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/</url>
+        <title>Lightning Talks Day 3</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Lightning Talks Day 3 -- limited to 15 minutes</abstract>
+        <description>Lightning Talks Day 3 -- limited to 15 minutes</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3925">tig3rch3n</person>
         </persons>
         <links/>
         <attachments/>

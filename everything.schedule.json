@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 20:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 20:20; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.39; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 21:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.40; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -712,14 +712,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 9346,
-                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
+                "id": 2493,
+                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
                 "logo": "",
                 "date": "2022-12-26T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -3002,14 +3002,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 6706,
-                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6706-supporting_resilience_with_mindfulness",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness",
                 "subtitle": " - eine Einf\u00fchrung in Achtsamkeitspraxis",
@@ -3033,14 +3033,14 @@
                 "attachments": []
               },
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "id": 6706,
+                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness",
+                "slug": "jev22-6706-supporting_resilience_with_mindfulness",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness",
                 "subtitle": " - eine Einf\u00fchrung in Achtsamkeitspraxis",
@@ -3146,14 +3146,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 2493,
-                "guid": "d2bcc4db-93ad-57c8-a789-0682611936c5",
+                "id": 5338,
+                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
                 "logo": "",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-2493-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -5745,6 +5745,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 54972,
+                "guid": "22c1426d-0e05-58b7-be13-a935c23097fb",
+                "logo": "",
+                "date": "2022-12-28T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "02:30",
+                "room": "HIP - Track 2 - Room 2",
+                "slug": "jev22-54972-lightning_talks_day_2",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DPLEXN/",
+                "title": "Lightning Talks Day 2",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Lightning Talks Day 2 -- limited to 15 minutes",
+                "description": "Lightning Talks Day 2 -- limited to 15 mintues",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3925,
+                    "code": "LZX78E",
+                    "public_name": "tig3rch3n",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "HDMI (room 3)": [
@@ -6001,14 +6032,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6039,14 +6070,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6300,37 +6331,6 @@
             ],
             "Workshopraum 2 - H2-3.4": [
               {
-                "id": 8601,
-                "guid": "b860bce1-5212-5627-b343-14c54314b856",
-                "logo": "",
-                "date": "2022-12-28T10:00:00+01:00",
-                "start": "10:00",
-                "duration": "03:00",
-                "room": "Workshopraum 2 - H2-3.4",
-                "slug": "jev22-8601-organizing_moderation_kommunikation",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QQ8YLD/",
-                "title": "Organizing, Moderation & Kommunikation",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "In unserem Workshop geht\u00b4s um die Themen Transformative Organizing, Moderation und Kommunikation.",
-                "description": "In dem Workshop betrachten wir den theoretischen Ansatz aber auch praktische Methoden des \"Transformative Organizing\". Zudem tauschen wir uns in diesem Zusammenhang mit euch \u00fcber das Thema machtsensible \"Entscheidungsprozesse\" in Gruppen aus und besprechen, wie man gute Treffen organisiert und moderiert.\r\n\r\n\r\nRonia (DieAktion! Jugendbeteiligung M\u00fcnchen)",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 12,
-                    "code": "CX8GFA",
-                    "public_name": "Ronia (Die Aktion)",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 9388,
                 "guid": "9388dd6a-2935-5ac6-a1c9-6ecef7b38c05",
                 "logo": "",
@@ -6355,6 +6355,37 @@
                     "code": "WY7HD3",
                     "public_name": "Max",
                     "biography": "Hallo, ich bin Max, 27 und komme urspr\u00fcnglich aus M\u00fcnchen. Seit einem Jahr wohne ich in Berlin und bin  seit April bei der Kampagne Deutsche Wohnen & Co Enteignen im Kiezteam Kreuzberg aktiv. Neben dem Aktivismus auf Kiez-Ebene bin ich seit ihrer Entstehung Teil der Ansprechgruppe f\u00fcr sexualisierte Gewalt auf kampagnenweiter Ebene.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8601,
+                "guid": "b860bce1-5212-5627-b343-14c54314b856",
+                "logo": "",
+                "date": "2022-12-28T17:35:00+01:00",
+                "start": "17:35",
+                "duration": "03:00",
+                "room": "Workshopraum 2 - H2-3.4",
+                "slug": "jev22-8601-organizing_moderation_kommunikation",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QQ8YLD/",
+                "title": "Organizing, Moderation & Kommunikation",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "In unserem Workshop geht\u00b4s um die Themen Transformative Organizing, Moderation und Kommunikation.",
+                "description": "In dem Workshop betrachten wir den theoretischen Ansatz aber auch praktische Methoden des \"Transformative Organizing\". Zudem tauschen wir uns in diesem Zusammenhang mit euch \u00fcber das Thema machtsensible \"Entscheidungsprozesse\" in Gruppen aus und besprechen, wie man gute Treffen organisiert und moderiert.\r\n\r\n\r\nRonia (DieAktion! Jugendbeteiligung M\u00fcnchen)",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 12,
+                    "code": "CX8GFA",
+                    "public_name": "Ronia (Die Aktion)",
+                    "biography": null,
                     "answers": []
                   }
                 ],
@@ -6483,37 +6514,6 @@
                     "code": "7MZ3J3",
                     "public_name": "Joseph R\u00fcffert | Ella Trixi Th\u00e4t",
                     "biography": "Ich bin Joseph R\u00fcffert und die Poltittunte Ella Trixi Th\u00e4t Gitta St\u00e4hbe, H\u00fcterin der H\u00fcterin des goldenen St\u00f6ckels\u2122 aus Hamburg, Teil des Tuntenkollektivs \"Schaar der Sch\u00e4bigen\" und in (queerer) Sub- und Soziokultur beruflich, ehrenamtlich, forschend und lebend t\u00e4tig.\r\n\r\nAls kulturschaffende Polittunte mit Bachelor in Elektrotechnik, einem laufenden Masterstudium im Kultur- und Medienmanagement, Arbeit in der Freiwilligen Koordination im G\u00e4ngeviertel e.V. und der Schaffung von Sub- und soziokulturellen Kommunikationsr\u00e4umen f\u00fcr queere Menschen \u00fcberschneiden sich diverse Disziplinen und Facetten",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9611,
-                "guid": "96d1b1ff-e2fd-54b8-90c5-b4536f069fe7",
-                "logo": "",
-                "date": "2022-12-28T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "04:00",
-                "room": "Workshopraum 4 - H2-4.4",
-                "slug": "jev22-9611-raum_einnehmen_im_patriarchat",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CRWYJS/",
-                "title": "Raum einnehmen im Patriarchat?",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Wer nimmt im Patriarchat wo, welchen und wieviel Raum ein und was w\u00e4re, wenn es anders w\u00e4re?",
-                "description": "Freir\u00e4ume k\u00f6nnen mehr sein als nur freie R\u00e4ume. Im Zuge des Freiraumforums stellen wir uns die Frage, wer wo im Patriarchat wieviel Raum einnimmt und wer nicht. Wie kann ich Raum einnehmen? Genau das wollen wir ausprobieren, in einem Safer Space die voerherrschenden Raumverh\u00e4ltnisse aktiv auf den Kopf drehen, mit ihnen experimentieren und uns dar\u00fcber austauschen.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 176,
-                    "code": "NMXB8C",
-                    "public_name": "NoPatriarchy",
-                    "biography": "NoPatrirachy ist eine feministische Gruppe aus M\u00fcnchen mit intersektionalem Anspruch. Wir sind \u00fcberzeugt, dass Gleichbehandlung im feministischen Sinne nur unter Ber\u00fccksichtigung der \u00dcberschneidung und Gleichzeitigkeit jeglicher Form von Diskriminierung erreicht werden kann und wollen durch unterschiedlichste Aktionsformen unseren Part dazu beitragen.",
                     "answers": []
                   }
                 ],
@@ -6669,14 +6669,14 @@
             ],
             "Ausstellungsraum 3 - H2-2.7": [
               {
-                "id": 5338,
-                "guid": "5afaf3d3-829f-5d31-b632-830dd40888a1",
+                "id": 9346,
+                "guid": "f9b3a466-8856-51c1-a0d3-39a0ef9cbaa5",
                 "logo": "",
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "10:00",
                 "room": "Ausstellungsraum 3 - H2-2.7",
-                "slug": "jev22-5338-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
+                "slug": "jev22-9346-ausstellung_von_daria_novikova_und_gerhana_tarmizi",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/",
                 "title": "Ausstellung von Daria Novikova und Gerhana Tarmizi",
                 "subtitle": "",
@@ -6782,14 +6782,14 @@
             ],
             "Forumszentrum - H1-0.1": [
               {
-                "id": 6569,
-                "guid": "f6b56dcc-e9e3-5aec-905b-3d993b3412f7",
+                "id": 9660,
+                "guid": "9f6d6013-f958-5bfe-8092-f5af48af6c3b",
                 "logo": "",
                 "date": "2022-12-28T13:12:00+01:00",
                 "start": "13:12",
                 "duration": "00:58",
                 "room": "Forumszentrum - H1-0.1",
-                "slug": "jev22-6569-plenum_fuer_alle",
+                "slug": "jev22-9660-plenum_fuer_alle",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ETJNJK/",
                 "title": "PLENUM F\u00dcR ALLE",
                 "subtitle": "",
@@ -9246,6 +9246,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 54983,
+                "guid": "31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc",
+                "logo": "",
+                "date": "2022-12-29T19:45:00+01:00",
+                "start": "19:45",
+                "duration": "04:15",
+                "room": "HIP - Track 2 - Room 2",
+                "slug": "jev22-54983-lightning_talks_day_3",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/",
+                "title": "Lightning Talks Day 3",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Lightning Talks Day 3 -- limited to 15 minutes",
+                "description": "Lightning Talks Day 3 -- limited to 15 minutes",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3925,
+                    "code": "LZX78E",
+                    "public_name": "tig3rch3n",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "HDMI (room 3)": [],
@@ -10392,14 +10423,14 @@
             ],
             "Forumszentrum - H1-0.1": [
               {
-                "id": 9660,
-                "guid": "9f6d6013-f958-5bfe-8092-f5af48af6c3b",
+                "id": 6961,
+                "guid": "a6b96184-a561-5128-9703-031cde6d242a",
                 "logo": "",
                 "date": "2022-12-29T13:10:00+01:00",
                 "start": "13:10",
                 "duration": "00:30",
                 "room": "Forumszentrum - H1-0.1",
-                "slug": "jev22-9660-plenum_fuer_alle",
+                "slug": "jev22-6961-plenum_fuer_alle",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ETJNJK/",
                 "title": "PLENUM F\u00dcR ALLE",
                 "subtitle": "",
@@ -12882,14 +12913,14 @@
             ],
             "Forumszentrum - H1-0.1": [
               {
-                "id": 7800,
-                "guid": "b78bd00b-9df2-50fa-a128-9cf8373bd1fd",
+                "id": 6569,
+                "guid": "f6b56dcc-e9e3-5aec-905b-3d993b3412f7",
                 "logo": "",
                 "date": "2022-12-30T13:10:00+01:00",
                 "start": "13:10",
                 "duration": "00:30",
                 "room": "Forumszentrum - H1-0.1",
-                "slug": "jev22-7800-plenum_fuer_alle",
+                "slug": "jev22-6569-plenum_fuer_alle",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ETJNJK/",
                 "title": "PLENUM F\u00dcR ALLE",
                 "subtitle": "",
@@ -13691,14 +13722,14 @@
             ],
             "Forumszentrum - H1-0.1": [
               {
-                "id": 6961,
-                "guid": "a6b96184-a561-5128-9703-031cde6d242a",
+                "id": 7800,
+                "guid": "b78bd00b-9df2-50fa-a128-9cf8373bd1fd",
                 "logo": "",
                 "date": "2022-12-31T13:10:00+01:00",
                 "start": "13:10",
                 "duration": "00:30",
                 "room": "Forumszentrum - H1-0.1",
-                "slug": "jev22-6961-plenum_fuer_alle",
+                "slug": "jev22-7800-plenum_fuer_alle",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ETJNJK/",
                 "title": "PLENUM F\u00dcR ALLE",
                 "subtitle": "",

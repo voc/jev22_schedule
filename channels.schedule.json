@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 20:20",
+    "version": "2022-12-27 21:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3311,6 +3311,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 54972,
+                "guid": "22c1426d-0e05-58b7-be13-a935c23097fb",
+                "logo": "",
+                "date": "2022-12-28T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "02:30",
+                "room": "HIP2",
+                "slug": "jev22-54972-lightning_talks_day_2",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DPLEXN/",
+                "title": "Lightning Talks Day 2",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Lightning Talks Day 2 -- limited to 15 minutes",
+                "description": "Lightning Talks Day 2 -- limited to 15 mintues",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3925,
+                    "code": "LZX78E",
+                    "public_name": "tig3rch3n",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Ahlam": [
@@ -3346,14 +3377,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -3384,14 +3415,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -5196,6 +5227,37 @@
                     "code": "WJF9DS",
                     "public_name": "Janfred",
                     "biography": "Janfred (28, Pronomen er/sein) arbeitet beim DFN-Verein im eduroam-Team und studiert parallel Informatik an der Universit\u00e4t Bremen.\r\nSchon zu Anfang des Studiums hat er angefangen, beim Zentrum f\u00fcr Netze an der Universit\u00e4t Bremen im WLAN-Team zu arbeiten und hat sich schnell auf die Serverkonfiguration gest\u00fcrzt.\r\nDabei hat er insbesondere ein Interesse an IT-Sicherheit und Internetprotokollen entwickelt.\r\nAktuell ist er in verschiedenen internationalen eduroam-Gremien und der IETF aktiv.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 54983,
+                "guid": "31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc",
+                "logo": "",
+                "date": "2022-12-29T19:45:00+01:00",
+                "start": "19:45",
+                "duration": "04:15",
+                "room": "HIP2",
+                "slug": "jev22-54983-lightning_talks_day_3",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/",
+                "title": "Lightning Talks Day 3",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Lightning Talks Day 3 -- limited to 15 minutes",
+                "description": "Lightning Talks Day 3 -- limited to 15 minutes",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3925,
+                    "code": "LZX78E",
+                    "public_name": "tig3rch3n",
+                    "biography": null,
                     "answers": []
                   }
                 ],

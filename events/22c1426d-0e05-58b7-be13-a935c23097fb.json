@@ -1,0 +1,33 @@
+{
+  "id": 54972,
+  "guid": "22c1426d-0e05-58b7-be13-a935c23097fb",
+  "logo": "",
+  "date": "2022-12-28T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "02:30",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-54972-lightning_talks_day_2",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DPLEXN/",
+  "title": "Lightning Talks Day 2",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Lightning Talks Day 2 -- limited to 15 minutes",
+  "description": "Lightning Talks Day 2 -- limited to 15 mintues",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3925,
+      "code": "LZX78E",
+      "public_name": "tig3rch3n",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}
