@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 12:00; FireShonks 0.30; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 12:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 12:20; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 12:20; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -743,33 +743,6 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         </recording>
         <persons>
           <person id="3421">chris</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49176" guid="8f131864-e139-5bd1-b7f0-31620bf319c4">
-        <logo/>
-        <date>2022-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
-        <slug>jev22-49176-swarm_support_tools</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/</url>
-        <title>Swarm Support Tools</title>
-        <subtitle> - Digitalcourage ♥ Free Software</subtitle>
-        <track>Digitalcourage</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Ein Überblick über die bei Digitalcourage gehosteten öffentlichen Dienste und ein Erfahrungsbericht aus unserem Maschinenraum.&#13;
-&#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Wir hosten bei Digitalcourage eine Reihe an datenschutzfreundlichen und demokratiefördernden Tools und wollen euch diese vorstellen. Dabei erklären wir, warum wir es für wichtig halten, eigene Infrastruktur für Internetdienste zur Verfügung zu stellen und wie wir diese betreiben.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3309">Philip Steller</person>
         </persons>
         <links/>
         <attachments/>
@@ -8024,6 +7997,7 @@ Sowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier b
 &#13;
 Die Arbeit von ehrenamtlichen Sicherheitsforscher:innen wird von den Organisationen, deren Systeme betroffen sind, nicht notwendigerweise positiv aufgenommen - siehe CDU Connect-App [1]. Auch kann das Melden von Sicherheitslücken bei Bekanntwerden der meldenden Person für diese zu Repressalien führen wie der Fall der log4j Lücke gegenüber dem Unternehmen AliBaba [2][3]. &#13;
 Auch ist nicht immer einfach erkennbar, wem sind eine Lücke und ein entsprechendes Leck zu melden:&#13;
+&#13;
 * der Organisation, die die Software einsetzt?&#13;
 * der Organisation, die die Software anbietet oder entwickelt?&#13;
 * Was ist zu tun, wenn es keine security.txt gibt? &#13;
@@ -8043,11 +8017,14 @@ Dies durch das Ausloben eines “Bunten Bug Bounties” und das Einrichten einer
 Vorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung veröffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld für Fixes von Lücken in relevanten Open Source Frameworks. &#13;
 &#13;
 Ziel des Projektes ist es herauszufinden: &#13;
+&#13;
 * Wie soll ein entsprechender Prozess aussehen?&#13;
 * Wie kann das rechtssicher gestaltet werden? &#13;
 * Wie passt das mit dem Cyber Resilience Act der EU [12] zusammen?&#13;
 &#13;
-Im Vortrag wollen wir den aktuellen Stand des Projektes vorstellen und die Community zur Diskussion einladen, Weiteres demnächst unter:&#13;
+Im Vortrag wollen wir den aktuellen Stand des Projektes vorstellen und die Community zur Diskussion einladen. &#13;
+&#13;
+Weiteres Demnächst unter:&#13;
 www.inoeg.de/b3&#13;
 &#13;
 [1] https://www.zeit.de/digital/datenschutz/2021-08/cdu-connect-app-it-sicherheit-lilith-wittmann-forscherin-klage&#13;
