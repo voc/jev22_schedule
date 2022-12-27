@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 08:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 08:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 10:40; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 10:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -663,7 +663,9 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Veranstaltungsbeginn mit Einführung</abstract>
+        <abstract>Veranstaltungsbeginn mit Einführung&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Vor den ersten Vortrag die Veranstaltung eröffnen.</description>
         <recording>
           <license/>
@@ -690,7 +692,9 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <language>en</language>
         <abstract>How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's &amp; don'ts? In the workshop that will follow this talk, we will put all this into practice using Inkscape. &#13;
 &#13;
-Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.</abstract>
+Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>This talk will be held in English. Both English and German subtitles are provided.</description>
         <recording>
           <license/>
@@ -715,7 +719,9 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.</abstract>
+        <abstract>Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Was wir gerade sehen ist das Mastodon für viele für das Fediverse gehalten wird. Was ist schade. Eine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das lässt sich nun auch angehen nachdem das Interesse am Fediverse auch durch eine mediale Öffentlichkeit ein wenig geweckt ist - jetzt kann es weitergehen.&#13;
 &#13;
 Der ersten Teil des Vortrages thematisiert die Geschichte und Architektur des Fediverse und halt ein Plädoyer dafür, dass es um mehr geht als um ActivityPub und die eine dominierende Anwendung.&#13;
@@ -752,7 +758,9 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Ein Überblick über die bei Digitalcourage gehosteten öffentlichen Dienste und ein Erfahrungsbericht aus unserem Maschinenraum.</abstract>
+        <abstract>Ein Überblick über die bei Digitalcourage gehosteten öffentlichen Dienste und ein Erfahrungsbericht aus unserem Maschinenraum.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Wir hosten bei Digitalcourage eine Reihe an datenschutzfreundlichen und demokratiefördernden Tools und wollen euch diese vorstellen. Dabei erklären wir, warum wir es für wichtig halten, eigene Infrastruktur für Internetdienste zur Verfügung zu stellen und wie wir diese betreiben.</description>
         <recording>
           <license/>
@@ -777,7 +785,9 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wie sabotiert man erfolgreich den Datenschutz in ganz Europa? Rena Tangens verfügt über die heißen Infos.</abstract>
+        <abstract>Wie sabotiert man erfolgreich den Datenschutz in ganz Europa? Rena Tangens verfügt über die heißen Infos.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Wie sabotiert man erfolgreich den Datenschutz in ganz Europa? Lernen wir von Besten.&#13;
 Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlichkeitsrechte und den Datenschutz beschädigen? Rena Tangens verfügt über die heißen Infos. Als Bonus erfahren Sie auch noch, wie Sie dafür noch massenweise Steuergelder kassieren können. Dazu gibt es noch ein feines Video zu sehen.</description>
         <recording>
@@ -4108,21 +4118,21 @@ It breaks then down roughly like this:&#13;
         <type>Workshop</type>
         <language>de</language>
         <abstract>Snake ist zurück, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch älteren&#13;
-Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET[1].&#13;
+Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET [1].&#13;
 &#13;
-Zum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spaß nicht selber haben&#13;
-sondern wegautomatisieren.&#13;
+Zum selbst spielen gibts TelnetSnake hier [gopher://telnetgames.de].&#13;
+Doch wollen wir den Spaß nicht selber haben sondern wegautomatisieren.&#13;
 &#13;
 Der Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das&#13;
 Spiel funktioniert und die Schnittstelle für Bots aussieht, sowie zweitens einem&#13;
 Turnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.&#13;
 Die Bots können in beliebigen Programmiersprachen geschrieben werden.&#13;
 &#13;
-Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
+Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
 &#13;
 [1]: https://de.wikipedia.org/wiki/TetriNET&#13;
-[2]: gopher://telnetgames.de&#13;
-[3]: https://gitlab.cs.fau.de/since/schnake</abstract>
+[gopher://telnetgames.de]: gopher://telnetgames.de&#13;
+[2]: https://gitlab.cs.fau.de/since/schnake</abstract>
         <description/>
         <recording>
           <license/>
@@ -10071,21 +10081,21 @@ You can also spectate the event on PeerTube.</description>
         <type>Talk</type>
         <language>de</language>
         <abstract>Snake ist zurück, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch älteren&#13;
-Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET[1].&#13;
+Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET [1].&#13;
 &#13;
-Zum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spaß nicht selber haben&#13;
-sondern wegautomatisieren.&#13;
+Zum selbst spielen gibts TelnetSnake hier [gopher://telnetgames.de].&#13;
+Doch wollen wir den Spaß nicht selber haben sondern wegautomatisieren.&#13;
 &#13;
 Der Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das&#13;
 Spiel funktioniert und die Schnittstelle für Bots aussieht, sowie zweitens einem&#13;
 Turnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.&#13;
 Die Bots können in beliebigen Programmiersprachen geschrieben werden.&#13;
 &#13;
-Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
+Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
 &#13;
 [1]: https://de.wikipedia.org/wiki/TetriNET&#13;
-[2]: gopher://telnetgames.de&#13;
-[3]: https://gitlab.cs.fau.de/since/schnake</abstract>
+[gopher://telnetgames.de]: gopher://telnetgames.de&#13;
+[2]: https://gitlab.cs.fau.de/since/schnake</abstract>
         <description/>
         <recording>
           <license/>
