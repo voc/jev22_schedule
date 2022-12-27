@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 13:20</version>
+  <version>2022-12-27 14:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5188,7 +5188,7 @@ I will wander around the event and ask you about your project. If you are intere
         <type>Diskussions Panel (zzgl. Q&amp;A)</type>
         <language>de</language>
         <abstract>Energie &amp; Daten</abstract>
-        <description>Ein Panel-Slot für und mit Bits und Bäume</description>
+        <description>Ein spontaner Fireside-Chat rund um Themen aus der Welt der Bits und Bäume.</description>
         <recording>
           <license/>
           <optout>false</optout>

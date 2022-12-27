@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 13:20",
+    "version": "2022-12-27 14:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6020,7 +6020,7 @@
                 "type": "Diskussions Panel (zzgl. Q&A)",
                 "language": "de",
                 "abstract": "Energie & Daten",
-                "description": "Ein Panel-Slot f\u00fcr und mit Bits und B\u00e4ume",
+                "description": "Ein spontaner Fireside-Chat rund um Themen aus der Welt der Bits und B\u00e4ume.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
