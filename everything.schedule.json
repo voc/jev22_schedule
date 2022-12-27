@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 14:20; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 14:20; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 14:40; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 14:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2369,7 +2369,7 @@
                     "id": 3771,
                     "code": "KQWRER",
                     "public_name": "Franz Sitzmann",
-                    "biography": "Franz is a natural-born technology enthusiast. As a teenager, he was already accidentally locked up at school for tinkering with his robots for too long. He loves learning and wants to understand how technology works. As a mentor in digital education for young people and adults, he thinks up crazy gadgets and shows others how they can develop some themselves. That's why he leads the project Quanten1x1 at Junge T\u00fcftler in cooperation with TU Berlin and the Einstein Center. His great passion is making complex technologies easily accessible. He has already developed a whole series of workshops and infogames on the topic of artificial intelligence. As part of the BMBF project \u201cQuantum Aktiv\u201d, he has been on an adventure into the quantum world for the last year. In the process, he interviewed more than 20 experts and made his way through the quantum jungle to IBM's quantum computer in Zurich.",
+                    "biography": "Ich besch\u00e4ftige mich damit, wie man (neue) Technologien einsteigerfreundlich erkl\u00e4ren kann. Dabei ist f\u00fcr mich, dass hier alle selbst ausprobieren und experimentieren k\u00f6nnen. Denn ich glaube daran, dass wir so am besten lernen.\r\n\r\nBesonders spannend finde ich dabei Robotik, K\u00fcnstliche Intelligenz und Quantentechnologien.\r\n\r\n Ich bin Teil des Projektes \u201eQuanten 1x1 \u2013 Quantentechnologien spielend leicht verstehen\u201c bei dem wir erste Inhalte zu Quantencomputern, -verschl\u00fcsselung, -Sensoren und was das alles mit uns und der Gesellschaft zu tun hat, entwickeln.\r\nIn dem Projekt sind bereits mehrere Spiele und Tischexperimente entstanden, so wie leicht verst\u00e4ndliche Animationen, die wichtige Begriffe einf\u00fchren und viele viele Interviews mit spannenden Expert*innen. Die Inhalte sind als OER-Materialien (Open Educational Ressources) nutzbar und ich gebe Workshops und Fortbildungen f\u00fcr Multiplikator*innen.\r\nLink: https://tueftelakademie.de/quanten1x1/ \r\n\r\nAu\u00dferdem arbeite ich am Projekt \u201eISuMiS \u2013 IT-Sicherheit und Medien in der Schule\u201c, in dem es um Cybersecurity und Datenschutz geht. Auch hier wollen wir spannende Inhalte f\u00fcr einen explorativen Lernweg entwickeln.\r\nLink: https://www.fokus.fraunhofer.de/de/akademie/projekte/isumis",
                     "answers": []
                   },
                   {
@@ -7521,7 +7521,7 @@
               {
                 "id": 49116,
                 "guid": "9ebf813b-dc3f-5c65-bf30-98fcf3d3f184",
-                "logo": "",
+                "logo": "/media/fire-shonks-2022/submissions/TBBNKB/7_cEbz736.png",
                 "date": "2022-12-29T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "01:30",

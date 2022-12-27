@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 14:20; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 14:20; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 14:40; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 14:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -6490,7 +6490,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <attachments/>
       </event>
       <event id="49116" guid="9ebf813b-dc3f-5c65-bf30-98fcf3d3f184">
-        <logo/>
+        <logo>/media/fire-shonks-2022/submissions/TBBNKB/7_cEbz736.png</logo>
         <date>2022-12-29T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
