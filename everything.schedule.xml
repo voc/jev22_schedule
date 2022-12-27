@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 21:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.42; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 21:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:40; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.43; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -96,13 +96,13 @@ Moderation: Peter Arun Pfaff</description>
         <links/>
         <attachments/>
       </event>
-      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
         <logo/>
         <date>2022-12-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -147,32 +147,6 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         </recording>
         <persons>
           <person id="110">Uli</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="8079" guid="e8079a65-7b83-5a9d-9515-f2394583e861">
-        <logo/>
-        <date>2022-12-26T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:42</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-8079-freie_raeume</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/</url>
-        <title>Freie Räume</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Film</type>
-        <language>de</language>
-        <abstract>Geschichte der Jugendzentrumsbewegung in Deutschland</abstract>
-        <description>Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den Tätern und Helfern der Nationalsozialisten beschäftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum genötigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorgängern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen Städten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen dörflichen Gemeinden kleine politisch-kulturelle Revolutionen auslöste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch übrig ist.&#13;
-Mehr Infos: https://freieraeume-film.de/</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="147">Forum für Freiraum</person>
         </persons>
         <links/>
         <attachments/>
@@ -537,13 +511,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="5457" guid="e5457d5c-70bb-5077-a877-febb3d98ab0e">
+      <event id="6994" guid="b6dec9b9-4f7f-556e-a07f-51abb2a21dd7">
         <logo/>
         <date>2022-12-26T13:40:00+01:00</date>
         <start>13:40</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-5457-fachstelle_pop_infostand</slug>
+        <slug>jev22-6994-fachstelle_pop_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/</url>
         <title>Fachstelle Pop Infostand</title>
         <subtitle/>
@@ -2032,13 +2006,13 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <links/>
         <attachments/>
       </event>
-      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -2310,13 +2284,13 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
       </event>
     </room>
     <room name="Workshopraum 4 - H2-4.4">
-      <event id="107" guid="01c0704a-c326-5634-9789-5ed0b38e8200">
+      <event id="4766" guid="4f766cdd-0db2-51c2-9479-9ba551617527">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-107-die_kunst_des_verschwindens</slug>
+        <slug>jev22-4766-die_kunst_des_verschwindens</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
         <title>Die Kunst des Verschwindens</title>
         <subtitle/>
@@ -2338,13 +2312,13 @@ Nur für schwache Nerven.</description>
         <links/>
         <attachments/>
       </event>
-      <event id="4766" guid="4f766cdd-0db2-51c2-9479-9ba551617527">
+      <event id="107" guid="01c0704a-c326-5634-9789-5ed0b38e8200">
         <logo/>
         <date>2022-12-27T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:30</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-4766-die_kunst_des_verschwindens</slug>
+        <slug>jev22-107-die_kunst_des_verschwindens</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
         <title>Die Kunst des Verschwindens</title>
         <subtitle/>
@@ -2420,13 +2394,13 @@ Nur für schwache Nerven.</description>
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
+      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-934-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -2801,13 +2775,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="6994" guid="b6dec9b9-4f7f-556e-a07f-51abb2a21dd7">
+      <event id="6022" guid="60228db5-4b07-5922-b574-d788d62b8433">
         <logo/>
         <date>2022-12-27T13:45:00+01:00</date>
         <start>13:45</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-6994-fachstelle_pop_infostand</slug>
+        <slug>jev22-6022-fachstelle_pop_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/</url>
         <title>Fachstelle Pop Infostand</title>
         <subtitle/>
@@ -6160,13 +6134,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="6022" guid="60228db5-4b07-5922-b574-d788d62b8433">
+      <event id="6916" guid="6c916afe-d686-54a0-8620-3cce7aa74cbb">
         <logo/>
         <date>2022-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-6022-fachstelle_pop_infostand</slug>
+        <slug>jev22-6916-fachstelle_pop_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/</url>
         <title>Fachstelle Pop Infostand</title>
         <subtitle/>
@@ -8416,6 +8390,32 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
         <links/>
         <attachments/>
       </event>
+      <event id="8079" guid="e8079a65-7b83-5a9d-9515-f2394583e861">
+        <logo/>
+        <date>2022-12-29T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>01:42</duration>
+        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <slug>jev22-8079-freie_raeume</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/</url>
+        <title>Freie Räume</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Film</type>
+        <language>de</language>
+        <abstract>Geschichte der Jugendzentrumsbewegung in Deutschland</abstract>
+        <description>Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den Tätern und Helfern der Nationalsozialisten beschäftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum genötigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorgängern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen Städten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen dörflichen Gemeinden kleine politisch-kulturelle Revolutionen auslöste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch übrig ist.&#13;
+Mehr Infos: https://freieraeume-film.de/</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="147">Forum für Freiraum</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Workshopraum 1 - H2-2.5" guid="75e89700-82f2-11ed-9245-2f2ddaaba5eb">
       <event id="8189" guid="8189bffc-37bb-57e6-a02b-30a2faf6786e">
@@ -8744,13 +8744,13 @@ In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber�
         <links/>
         <attachments/>
       </event>
-      <event id="2055" guid="bdbaac2a-d05a-5188-9a5a-512e9de47072">
+      <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
         <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
+        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
         <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa</title>
         <subtitle> - Moderation der Nacht</subtitle>
@@ -10922,13 +10922,13 @@ Der Münchner Flüchtlingsrat berät seit 2019 in der Abschiebehaftanstalt am M�
         <links/>
         <attachments/>
       </event>
-      <event id="2434" guid="2ea434b5-e033-5482-8f28-7fabb4120b3c">
+      <event id="2055" guid="bdbaac2a-d05a-5188-9a5a-512e9de47072">
         <logo>/media/freiraumforum/submissions/JA8KYL/Marke_MoNa_oDQXJAk.png</logo>
         <date>2022-12-30T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
+        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
         <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa</title>
         <subtitle> - Moderation der Nacht</subtitle>
@@ -11086,13 +11086,13 @@ Der Raum soll gleichzeitig auch zum Ausprobieren und Experimentieren anregen: Sy
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
+      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-934-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -11543,13 +11543,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="6916" guid="6c916afe-d686-54a0-8620-3cce7aa74cbb">
+      <event id="5457" guid="e5457d5c-70bb-5077-a877-febb3d98ab0e">
         <logo/>
         <date>2022-12-30T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-6916-fachstelle_pop_infostand</slug>
+        <slug>jev22-5457-fachstelle_pop_infostand</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NMGCCF/</url>
         <title>Fachstelle Pop Infostand</title>
         <subtitle/>

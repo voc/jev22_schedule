@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 21:20",
+    "version": "2022-12-27 21:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -416,14 +416,14 @@
                 "attachments": []
               },
               {
-                "id": 5664,
-                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
+                "id": 2085,
+                "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
                 "logo": "",
                 "date": "2022-12-26T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:50",
                 "room": "Ahlam",
-                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
+                "slug": "jev22-2085-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
@@ -473,37 +473,6 @@
                     "code": "UV8YGG",
                     "public_name": "Uli",
                     "biography": "http://www.bezmedien.de/index.php/referenzen",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 8079,
-                "guid": "e8079a65-7b83-5a9d-9515-f2394583e861",
-                "logo": "",
-                "date": "2022-12-26T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:42",
-                "room": "Bhavani",
-                "slug": "jev22-8079-freie_raeume",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/",
-                "title": "Freie R\u00e4ume",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Film",
-                "language": "de",
-                "abstract": "Geschichte der Jugendzentrumsbewegung in Deutschland",
-                "description": "Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den T\u00e4tern und Helfern der Nationalsozialisten besch\u00e4ftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum gen\u00f6tigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorg\u00e4ngern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen St\u00e4dten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen d\u00f6rflichen Gemeinden kleine politisch-kulturelle Revolutionen ausl\u00f6ste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch \u00fcbrig ist.\r\nMehr Infos: https://freieraeume-film.de/",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 147,
-                    "code": "REUMEM",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
                     "answers": []
                   }
                 ],
@@ -1489,14 +1458,14 @@
                 "attachments": []
               },
               {
-                "id": 2085,
-                "guid": "d208dfc5-5c1f-541a-b0ac-18f29ececb26",
+                "id": 5664,
+                "guid": "ec566e44-cdc5-516f-86c3-2f468f939a9d",
                 "logo": "",
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:50",
                 "room": "Ahlam",
-                "slug": "jev22-2085-raum_fuer_die_schoene_welt",
+                "slug": "jev22-5664-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
                 "subtitle": "",
@@ -5462,6 +5431,37 @@
                     "code": "FSN8DS",
                     "public_name": "Kathi",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 8079,
+                "guid": "e8079a65-7b83-5a9d-9515-f2394583e861",
+                "logo": "",
+                "date": "2022-12-29T20:15:00+01:00",
+                "start": "20:15",
+                "duration": "01:42",
+                "room": "Bhavani",
+                "slug": "jev22-8079-freie_raeume",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/",
+                "title": "Freie R\u00e4ume",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Film",
+                "language": "de",
+                "abstract": "Geschichte der Jugendzentrumsbewegung in Deutschland",
+                "description": "Nachdem die 68er-Bewegung sich mit der sexuellen Revolution, der Studentenrevolte und den T\u00e4tern und Helfern der Nationalsozialisten besch\u00e4ftigt hat, folgte Anfang der 1970er Jahre in Westdeutschland eine Jugendbewegung, die selbstverwaltete Jugendzentren und Treffpunkte forderte, in denen sie ihre Freizeit selbstgestalten konnten, ohne durch ihre Eltern kontrolliert oder in der Stadt zum Konsum gen\u00f6tigt zu werden. Es folgten Demonstrationen, Unterschriftenaktionen und Diskussionen mit Kommunalpolitikern. So wie bei den Vorg\u00e4ngern der 68er-Bewegung fand auch ihre Initiative bald Ableger in vielen westdeutschen St\u00e4dten und Gemeinden. Die Jugendzentrumsbewegung sollte Erfolg haben und so kam es, dass die selbstverwalteten Treffpunkte selbst in kleinen d\u00f6rflichen Gemeinden kleine politisch-kulturelle Revolutionen ausl\u00f6ste. In seinem Dokumentarfilm zeichnet der Regisseur Tobias Frindt den Werdegang der Jugendbewegung nach und versucht herauszufinden, was von ihr heute noch \u00fcbrig ist.\r\nMehr Infos: https://freieraeume-film.de/",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 147,
+                    "code": "REUMEM",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
                     "answers": []
                   }
                 ],
