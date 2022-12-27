@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 23:20",
+    "version": "2022-12-27 23:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3565,7 +3565,7 @@
                 "abstract": "Die Autobahn frisst sich durch die Landschaft. Der Wald - besetzt von Aktivisten. Polizisten m\u00fcssen den Weg frei machen f\u00fcr die Maschinen. Anwohner freuen sich auf freie Fahrt. Politiker setzen Entscheidungen um - gegen ihr Gewissen. Wie der Bau einer Autobahn die Gesellschaft spaltet.",
                 "description": "Die Autobahn A 49 wird neu gebaut. Und das mitten in der Klimakrise. Die Trasse f\u00fchrt durch jahrhundertealte W\u00e4lder, vorbei an verschlafenen D\u00f6rfern. \u00dcber 600 Aktivisten haben in Dannenrod in Mittelhessen 7 \"Barrios\" mit bis zu 100 Baumh\u00e4usern in schwindelerregender H\u00f6he gebaut. Die R\u00e4umung durch Spezialeinsatzkr\u00e4fte der Polizei steht unmittelbar bevor.\u00a0\r\nIn Planung ist die A 49 schon seit \u00fcber 50 Jahren. Klagen, Kammmolche und schlicht fehlendes Geld des Bundes verhinderten \u00fcber Jahrzehnte den Weiterbau der bei Kassel begonnenen Autobahn. Besonders entschiedene Gegner des Autobahn-Neubaus waren die GR\u00dcNEN in Hessen. Sozusagen die DNA ihres Daseins war der Protest dagegen. Und nun muss ausgerechnet der gr\u00fcne Verkehrsminister, n\u00e4mlich Tarek Al-Wazir, diesen Autobahnbau mit seiner schwarz-gr\u00fcnen Landesregierung politisch durchsetzen. \r\nKlaus Stern und Frank Pfeiffer begleiten Bef\u00fcrworter der Autobahn, langj\u00e4hrige entschiedene Gegner und Besetzer, adlige Waldbesitzer, Polizisten und Minister w\u00e4hrend des Rodungs- und Bauprozesses.\u00a0\r\nWie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.\r\nMehr Infos: https://www.die-autobahn-derfilm.de/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 147,
