@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 15:54; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 15:54; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 16:10; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:10; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -303,13 +303,13 @@ How could I start to practice?</description>
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="2897" guid="f2adf897-9274-57dd-8f21-400c9ccdbaed">
+      <event id="1871" guid="18d71832-4208-5a2c-b1a0-55b9763052e0">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-2897-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-1871-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -335,13 +335,13 @@ Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslass
       </event>
     </room>
     <room name="Ausstellungsraum 3 - H2-2.7">
-      <event id="4070" guid="4f0705af-050d-59c1-8615-40ce30f562de">
+      <event id="7269" guid="72d6977a-130f-5872-b2ea-2dec51292b16">
         <logo/>
         <date>2022-12-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 3 - H2-2.7</room>
-        <slug>jev22-4070-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <slug>jev22-7269-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
         <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
         <subtitle/>
@@ -564,13 +564,13 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <links/>
         <attachments/>
       </event>
-      <event id="7305" guid="7db3bd05-e2a3-571b-9c68-d5d295fc6658">
+      <event id="9074" guid="90741505-0947-518e-a69b-0f4095337dea">
         <logo/>
         <date>2022-12-26T15:20:00+01:00</date>
         <start>15:20</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-7305-sticker_exchange</slug>
+        <slug>jev22-9074-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -2039,13 +2039,13 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
     </room>
     <room name="Merch Desk"/>
     <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
-      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-4969-lass_mich_durch</slug>
+        <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle> - Wege befreien im urbanen Raum</subtitle>
@@ -2206,8 +2206,8 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
       </event>
       <event id="1313" guid="b13d136b-b324-5937-ad11-b215d855ced5">
         <logo/>
-        <date>2022-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2022-12-27T17:55:00+01:00</date>
+        <start>17:55</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
         <slug>jev22-1313-geschlossene_gesellschaft</slug>
@@ -2216,7 +2216,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <subtitle/>
         <track>Freiräume</track>
         <type>Film</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>Der Film begleitet verschiedene Münchner Clubs durch die Pandemie.</abstract>
         <description>„Ich war mir felsenfest sicher, jeder wird immer feiern, essen und trinken.“ Doch die Pandemie zerstörte diese jahrhundertealte Gewissheit, denn die Clubs waren die ersten, die geschlossen haben und die letzten, die wieder öffnen durften. GESCHLOSSENE GESELLSCHAFT startet im Jahr 2 des Ausnahmezustands im Moment der größten Unsicherheit, als man in Bayern um 21 Uhr die Wohnung eigentlich nicht mehr verlassen durfte. Vier ganz unterschiedliche Clubs in München werden durch die Pandemie begleitet: Backstage, Harry Klein, Milla und P1. Sie alle eint das kreative Auflehnen gegen die mentale und finanzielle Insolvenz. Ein Film über die Transformation des Nachtlebens und die ekstatische Wiederauferstehung eines generationsübergreifenden Sehnsuchtsorts. Ludwig Sporrer&#13;
 Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</description>
@@ -2341,7 +2341,64 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <attachments/>
       </event>
     </room>
-    <room name="Workshopraum 4 - H2-4.4"/>
+    <room name="Workshopraum 4 - H2-4.4">
+      <event id="107" guid="01c0704a-c326-5634-9789-5ed0b38e8200">
+        <logo/>
+        <date>2022-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-107-die_kunst_des_verschwindens</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
+        <title>Die Kunst des Verschwindens</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>Sakral improvisierte Eintonmusik im stabilen instabilen Echoraum.</abstract>
+        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
+Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
+Tiefenentspannung pur!&#13;
+Nur für schwache Nerven.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">hwmueller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="4766" guid="4f766cdd-0db2-51c2-9479-9ba551617527">
+        <logo/>
+        <date>2022-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Workshopraum 4 - H2-4.4</room>
+        <slug>jev22-4766-die_kunst_des_verschwindens</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
+        <title>Die Kunst des Verschwindens</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Concert</type>
+        <language>de</language>
+        <abstract>Sakral improvisierte Eintonmusik im stabilen instabilen Echoraum.</abstract>
+        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
+Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
+Tiefenentspannung pur!&#13;
+Nur für schwache Nerven.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="74">hwmueller</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Klangkeller - H1-U.1">
       <event id="7822" guid="78227529-e5dd-5541-90f7-5408e2d0e69f">
         <logo/>
@@ -2427,13 +2484,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <links/>
         <attachments/>
       </event>
-      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
+      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-934-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -2455,62 +2512,6 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         </recording>
         <persons>
           <person id="126">Lara Loehr</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="107" guid="01c0704a-c326-5634-9789-5ed0b38e8200">
-        <logo/>
-        <date>2022-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-107-die_kunst_des_verschwindens</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
-        <title>Die Kunst des Verschwindens</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Concert</type>
-        <language>de</language>
-        <abstract>Sakral improvisierte Eintonmusik im stabilen instabilen Echoraum.</abstract>
-        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
-Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
-Tiefenentspannung pur!&#13;
-Nur für schwache Nerven.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="74">hwmueller</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="4766" guid="4f766cdd-0db2-51c2-9479-9ba551617527">
-        <logo/>
-        <date>2022-12-27T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-4766-die_kunst_des_verschwindens</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SWNNWF/</url>
-        <title>Die Kunst des Verschwindens</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Concert</type>
-        <language>de</language>
-        <abstract>Sakral improvisierte Eintonmusik im stabilen instabilen Echoraum.</abstract>
-        <description>Entschleunigte Meditationsmusik im Kontext stabiler Instabilitäten.&#13;
-Selbstreferenzielle autopoetische musikalische Prozesse und Klangraumimprovisationen.&#13;
-Tiefenentspannung pur!&#13;
-Nur für schwache Nerven.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="74">hwmueller</person>
         </persons>
         <links/>
         <attachments/>
@@ -2545,13 +2546,13 @@ Nur für schwache Nerven.</description>
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="8378" guid="b8afc378-e8d0-5ed1-8db5-2df09c35ff49">
+      <event id="5938" guid="593867d4-c92d-5707-a8d9-53e3f7d216b6">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -2609,13 +2610,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
+      <event id="1822" guid="18223efa-a799-5005-abd7-51b4038f865b">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-6575-seltsam_klein</slug>
+        <slug>jev22-1822-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -2724,13 +2725,13 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
+      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-5655-essenszeit_mittag</slug>
+        <slug>jev22-668-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Essenszeit (Mittag)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -2751,13 +2752,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="945" guid="e09bcdaa-d4bb-5a44-a633-a66b04c2b15b">
+      <event id="3058" guid="3fc0b582-2893-521b-bc84-0cb547decbf1">
         <logo/>
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-945-essenszeit_abends</slug>
+        <slug>jev22-3058-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -2807,13 +2808,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="9074" guid="90741505-0947-518e-a69b-0f4095337dea">
+      <event id="8222" guid="82b22eef-3d58-5a3f-86d4-c93637bffdba">
         <logo/>
         <date>2022-12-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-9074-sticker_exchange</slug>
+        <slug>jev22-8222-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -2913,33 +2914,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <attachments/>
       </event>
     </room>
-    <room name="Timeout Raum - H2-5.1">
-      <event id="5613" guid="56130248-207d-5cf5-a399-5e577c0f4537">
-        <logo/>
-        <date>2022-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Timeout Raum - H2-5.1</room>
-        <slug>jev22-5613-die_nadel_im_fleischhaufen</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GPP3KL/</url>
-        <title>Die Nadel im Fleischhaufen</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Kunst</type>
-        <language>de</language>
-        <abstract>"Die Nadel im Fleischhaufen" ist eine Performance des Tattoo Künstlers Jim Backe wo er die Grenzen der Körperkunst an einem Versuchsobjekt erforscht.</abstract>
-        <description>Backe wird in dieser Performance ein Tattoo stechen welches in Kombination mit Lyrischen Beiträgen ein Interdisziplinäres Gesamtkunstwerk schafft. Ob an einem oder zwei auf einander folgenden tagen hängt von der Orga ab.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="117">JIM BACKE</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
       <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
@@ -5705,13 +5680,13 @@ Danach DJing mit Emilie Gendron und Albert Pöschl</description>
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="6347" guid="63e4cf72-b654-5deb-9f3d-53734b73c4ee">
+      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6347-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -5767,13 +5742,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="1871" guid="18d71832-4208-5a2c-b1a0-55b9763052e0">
+      <event id="6374" guid="6374d4a8-3ed3-5b2b-b09a-b47f7caa462f">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-1871-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -5799,13 +5774,13 @@ Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslass
       </event>
     </room>
     <room name="Ausstellungsraum 3 - H2-2.7">
-      <event id="7269" guid="72d6977a-130f-5872-b2ea-2dec51292b16">
+      <event id="4070" guid="4f0705af-050d-59c1-8615-40ce30f562de">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 3 - H2-2.7</room>
-        <slug>jev22-7269-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
+        <slug>jev22-4070-ausstellung_von_daria_novikova_und_gerhana_tarmizi</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/CLYGVZ/</url>
         <title>Ausstellung von Daria Novikova und Gerhana Tarmizi</title>
         <subtitle/>
@@ -5831,13 +5806,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
+      <event id="8802" guid="88026b80-3567-5af8-843b-d7d221803dcd">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-1508-seltsam_klein</slug>
+        <slug>jev22-8802-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -5973,13 +5948,13 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="668" guid="d06c6e83-3e73-54d9-8742-a36f84b8eacf">
+      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-28T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-essenszeit_mittag</slug>
+        <slug>jev22-1144-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Essenszeit (Mittag)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -6000,13 +5975,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="1099" guid="e1099d4e-4ec0-5145-9d9e-bd405dab6a1a">
+      <event id="945" guid="e09bcdaa-d4bb-5a44-a633-a66b04c2b15b">
         <logo/>
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1099-essenszeit_abends</slug>
+        <slug>jev22-945-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -6054,13 +6029,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
       </event>
     </room>
     <room name="Stände - H2-4.8">
-      <event id="4966" guid="49ecb668-cc83-5920-ab25-eb5f3196c0dc">
+      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-4966-sticker_exchange</slug>
+        <slug>jev22-8400-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -8914,13 +8889,13 @@ www.alligatorgozaimasu.bandcamp.com</description>
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="934" guid="a09b34e6-79c3-5470-a6e9-275bff2ffa7d">
+      <event id="4638" guid="46384d6a-6fd7-5faa-8c69-29a62d73b89d">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-934-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-4638-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -8976,13 +8951,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="5938" guid="593867d4-c92d-5707-a8d9-53e3f7d216b6">
+      <event id="8928" guid="e8c9c285-1753-5a30-bf1c-e92744a91aac">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-5938-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -9040,13 +9015,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="8802" guid="88026b80-3567-5af8-843b-d7d221803dcd">
+      <event id="6575" guid="6dadba57-f554-531b-9dd6-25f20c1dd7da">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-29T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-8802-seltsam_klein</slug>
+        <slug>jev22-6575-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -9209,13 +9184,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="2059" guid="205971a1-11c4-5bd8-8219-70d2efd5da93">
+      <event id="1099" guid="e1099d4e-4ec0-5145-9d9e-bd405dab6a1a">
         <logo/>
         <date>2022-12-29T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2059-essenszeit_abends</slug>
+        <slug>jev22-1099-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -9318,13 +9293,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="8400" guid="c8d400fe-ea40-58d5-a749-e32ca96280dc">
+      <event id="1134" guid="11c347bd-f02d-5aeb-8216-12ebdbe89bb4">
         <logo/>
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8400-sticker_exchange</slug>
+        <slug>jev22-1134-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -10655,13 +10630,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-651-lass_mich_durch</slug>
+        <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle> - Wege befreien im urbanen Raum</subtitle>
@@ -11021,13 +10996,13 @@ Der Raum soll gleichzeitig auch zum Ausprobieren und Experimentieren anregen: Sy
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="4638" guid="46384d6a-6fd7-5faa-8c69-29a62d73b89d">
+      <event id="6347" guid="63e4cf72-b654-5deb-9f3d-53734b73c4ee">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-4638-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-6347-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -11112,13 +11087,13 @@ Mit dieser Feuer-Zeremonie verbrennen wir die Dinge, die wir hinter uns lassen m
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="8928" guid="e8c9c285-1753-5a30-bf1c-e92744a91aac">
+      <event id="8378" guid="b8afc378-e8d0-5ed1-8db5-2df09c35ff49">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-8928-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-8378-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -11176,13 +11151,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="7146" guid="7146093d-0e64-5749-a166-b8ac8fab81b4">
+      <event id="1508" guid="c1cfbd50-81af-5646-a651-138b41ad748c">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-30T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-7146-seltsam_klein</slug>
+        <slug>jev22-1508-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -11291,13 +11266,13 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
       </event>
     </room>
     <room name="Kantine - H2-4.7">
-      <event id="1144" guid="1144eab1-e330-57cc-966c-f5aefc320cd2">
+      <event id="5655" guid="5655ac27-0e1a-5bb2-97f6-807f3812c57e">
         <logo>/media/freiraumforum/submissions/ZXBN7K/CjIWg5WWkAAQ9Ly_WzTFTym.jpg</logo>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-essenszeit_mittag</slug>
+        <slug>jev22-5655-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
         <title>Essenszeit (Mittag)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -11318,13 +11293,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="3058" guid="3fc0b582-2893-521b-bc84-0cb547decbf1">
+      <event id="2059" guid="205971a1-11c4-5bd8-8219-70d2efd5da93">
         <logo/>
         <date>2022-12-30T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-3058-essenszeit_abends</slug>
+        <slug>jev22-2059-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -11400,13 +11375,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="1134" guid="11c347bd-f02d-5aeb-8216-12ebdbe89bb4">
+      <event id="4966" guid="49ecb668-cc83-5920-ab25-eb5f3196c0dc">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-1134-sticker_exchange</slug>
+        <slug>jev22-4966-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
@@ -11764,13 +11739,13 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
       </event>
     </room>
     <room name="Austellungsraum 2 - H2-2.4">
-      <event id="6374" guid="6374d4a8-3ed3-5b2b-b09a-b47f7caa462f">
+      <event id="2897" guid="f2adf897-9274-57dd-8f21-400c9ccdbaed">
         <logo>/media/freiraumforum/submissions/E7R3GR/DSC_0355-2-3_lXpmTfr_2_GFpke2W.jpg</logo>
         <date>2022-12-31T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Austellungsraum 2 - H2-2.4</room>
-        <slug>jev22-6374-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
+        <slug>jev22-2897-evros_ausstellung_zum_thema_abschiebehaft_und_ankerzentren</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/E7R3GR/</url>
         <title>Evros + Ausstellung zum Thema Abschiebehaft und Ankerzentren</title>
         <subtitle/>
@@ -11828,13 +11803,13 @@ Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen 
       </event>
     </room>
     <room name="Ausstellungsraum 4 - H2-3.3">
-      <event id="1822" guid="18223efa-a799-5005-abd7-51b4038f865b">
+      <event id="7146" guid="7146093d-0e64-5749-a166-b8ac8fab81b4">
         <logo>/media/freiraumforum/submissions/H9YETG/IMG_0899-min_Rp5HzPw.jpg</logo>
         <date>2022-12-31T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>10:00</duration>
         <room>Ausstellungsraum 4 - H2-3.3</room>
-        <slug>jev22-1822-seltsam_klein</slug>
+        <slug>jev22-7146-seltsam_klein</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/H9YETG/</url>
         <title>seltsam &amp; klein</title>
         <subtitle/>
@@ -12024,13 +11999,13 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <links/>
         <attachments/>
       </event>
-      <event id="8222" guid="82b22eef-3d58-5a3f-86d4-c93637bffdba">
+      <event id="7305" guid="7db3bd05-e2a3-571b-9c68-d5d295fc6658">
         <logo/>
         <date>2022-12-31T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8222-sticker_exchange</slug>
+        <slug>jev22-7305-sticker_exchange</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F9A7QF/</url>
         <title>Sticker Exchange!</title>
         <subtitle/>
