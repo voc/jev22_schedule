@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 12:20</version>
+  <version>2022-12-27 12:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2637,17 +2637,17 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <room>HIP2</room>
         <slug>jev22-49198-it_security_for_activists</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/</url>
-        <title>It security for activists</title>
+        <title>IT Security for Activists</title>
         <subtitle/>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>[Talk description will be translated in a few days]&#13;
-Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedrohtheit von Aktivist*innen. Aber für Menschen  ohne Computerhintergrund wirkt das Thema IT-Sicherheit oft sehr überfordernd und frustrierend. Deshalb versuche ich deshalb einen anschaulichen Überblick mit konkreten Handlungsanweisungen zu geben, wie du dich selber besser schützen kannst.</abstract>
-        <description>In diesem Votrag gebe ich einen Überblick wie man sich als Aktivist*in for digitalen Angriffen schützen kann und stelle eine Methode vor, mit dem man für aktivistische Projekte die richtigen Sicherheitsvorkehrungen findet, ohne sich selber tief in das Thema IT-Sicherheit einzuarbeiten.</description>
+        <abstract>The world is getting more digital and activism is as well.&#13;
+But the world of It security can seem overwhelming and its easy to feel lost and helpless. In this talk I want to present the IT security guidelines that I am developing right now. They are meant to help for activists to find fitting security measures for a given activism project, without being 300 pages long or overly complex. Ideally they empower non technical individuals to protect their data better and make informed decisicions about their personal it security.</abstract>
+        <description>I already held the talk in German at this years Bits und Bäume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -4450,7 +4450,7 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
     </room>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
-        <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
+        <logo/>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:00</duration>

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 12:20",
+    "version": "2022-12-27 12:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3197,15 +3197,15 @@
                 "room": "HIP2",
                 "slug": "jev22-49198-it_security_for_activists",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/",
-                "title": "It security for activists",
+                "title": "IT Security for Activists",
                 "subtitle": "",
                 "track": "E.T.I.",
                 "type": "Talk",
                 "language": "en",
-                "abstract": "[Talk description will be translated in a few days]\r\nVerschiedene Arten von zivillgesellschaftlichen Engagement erh\u00f6hren die Bedrohtheit von Aktivist*innen. Aber f\u00fcr Menschen  ohne Computerhintergrund wirkt das Thema IT-Sicherheit oft sehr \u00fcberfordernd und frustrierend. Deshalb versuche ich deshalb einen anschaulichen \u00dcberblick mit konkreten Handlungsanweisungen zu geben, wie du dich selber besser sch\u00fctzen kannst.",
-                "description": "In diesem Votrag gebe ich einen \u00dcberblick wie man sich als Aktivist*in for digitalen Angriffen sch\u00fctzen kann und stelle eine Methode vor, mit dem man f\u00fcr aktivistische Projekte die richtigen Sicherheitsvorkehrungen findet, ohne sich selber tief in das Thema IT-Sicherheit einzuarbeiten.",
+                "abstract": "The world is getting more digital and activism is as well.\r\nBut the world of It security can seem overwhelming and its easy to feel lost and helpless. In this talk I want to present the IT security guidelines that I am developing right now. They are meant to help for activists to find fitting security measures for a given activism project, without being 300 pages long or overly complex. Ideally they empower non technical individuals to protect their data better and make informed decisicions about their personal it security.",
+                "description": "I already held the talk in German at this years Bits und B\u00e4ume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 40,
@@ -5175,7 +5175,7 @@
               {
                 "id": 3706,
                 "guid": "37fc0602-d596-56a7-bdce-72253b7b5164",
-                "logo": "/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png",
+                "logo": "",
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:00",
@@ -5196,7 +5196,7 @@
                     "id": 163,
                     "code": "9TX7P3",
                     "public_name": "Blueprint For Free Speech",
-                    "biography": "Blueprint for Free Speech is a non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. Our research and advocacy strive to defend Article 19 of the Universal Declaration of Human Rights, which asserts the right to freedom of opinion and expression for all people.\r\n\r\nhttps://www.blueprintforfreespeech.net",
+                    "biography": "Blueprint for Free Speech is a non-profit charity that works internationally to promote the right to freedom of expression without undue interference or intrusion. \r\n\r\nCurrently, Blueprint is part of the EU-funded Pioneering anti-SLAPP Training for Freedom of Expression (PATFox) project, a training program for the lawyers defending journalists and media organisations, NGOs and activists against companies and governmental figures using lawfare to shut down legitimate criticism.\r\n\r\nhttps://www.blueprintforfreespeech.net\r\nhttps://www.antislapp.eu",
                     "answers": []
                   },
                   {
