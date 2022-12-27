@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "a291c"
+      "version": "26961"
     },
-    "version": "2022-12-27 03:34",
+    "version": "2022-12-27 03:43",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -16,7 +16,7 @@
       "time_zone_name": "Europe/Amsterdam",
       "rooms": [
         {
-          "name": "Fireshonks-Stream",
+          "name": "Fireshonks",
           "guid": "c62a781e-48a3-4546-bb5c-dee2080738f7",
           "description": "Der Stream von Talks und gestreamten Workshops bei Haecksen  und R3S",
           "capacity": 1000,
@@ -30,7 +30,7 @@
           "location": "Remote & W\u00fclfrath"
         },
         {
-          "name": "RTC-B\u00fchne (Sparti)",
+          "name": "Sparti",
           "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
           "description": "Haupt-Raum .. Streaming-B\u00fchne mit (kleinem) Publikum",
           "capacity": 50,
@@ -94,7 +94,7 @@
         },
         {
           "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
-          "name": "Halle 4K",
+          "name": "CCL",
           "location": "Hamburg"
         },
         {
@@ -119,7 +119,7 @@
           "location": "Hamburg, FTZ/HAW"
         },
         {
-          "name": "WICMP Seminarraum",
+          "name": "Seminarraum",
           "guid": "99808216-837b-11ed-85fb-6c400891b752",
           "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
           "capacity": 20,
@@ -154,14 +154,14 @@
           "location": "Luzern, CH"
         },
         {
-          "name": "HIP - Track 1 - Room 5",
+          "name": "HIP1",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
           "description": "Main conference stage in the Theater Hall E.T.I.",
           "capacity": 110,
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "HIP - Track 2 - Room 2",
+          "name": "HIP2",
           "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
           "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
           "capacity": 70,
@@ -196,14 +196,14 @@
           "location": "Berlin, ETI Schauspielschule + c-base"
         },
         {
-          "name": "Vortragsraum 1 - Ahlam - H2-1.6",
+          "name": "Ahlam",
           "guid": "568cabc6-82f2-11ed-82f7-cf29158272bb",
           "description": "Vortragsraum 1 - Ahlam",
           "capacity": 111,
           "location": "M\u00fcnchen"
         },
         {
-          "name": "Vortragsraum 2 - Bhavani - H1-5.2",
+          "name": "Bhavani",
           "guid": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
           "description": "Vortragsraum 2",
           "capacity": 112,
@@ -343,16 +343,16 @@
           "day_start": "2022-12-26T09:00:00+01:00",
           "day_end": "2022-12-26T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [],
-            "RTC-B\u00fchne (Sparti)": [],
+            "Fireshonks": [],
+            "Sparti": [],
             "Bierschoine": [],
-            "Halle 4K": [],
+            "CCL": [],
             "xrelog22 - Stream": [],
-            "WICMP Seminarraum": [],
+            "Seminarraum": [],
             "Winterchaos": [],
-            "HIP - Track 1 - Room 5": [],
-            "HIP - Track 2 - Room 2": [],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "HIP1": [],
+            "HIP2": [],
+            "Ahlam": [
               {
                 "id": 9183,
                 "guid": "918367c1-980e-539b-93ec-44da7b2b5bc8",
@@ -360,7 +360,7 @@
                 "date": "2022-12-26T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-9183-muc_free_space_ein_mangel_im_ueberfluss",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BGQNEC/",
                 "title": "MUC free SPACE? Ein Mangel im \u00dcberfluss.",
@@ -391,7 +391,7 @@
                 "date": "2022-12-26T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-7897-streaming_engelschulung",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/7YXWJG/",
                 "title": "Streaming-Engelschulung",
@@ -422,7 +422,7 @@
                 "date": "2022-12-26T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:50",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-5664-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
@@ -447,7 +447,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 508,
                 "guid": "0f508ad6-0d8c-5497-8041-c738a29e4a70",
@@ -455,7 +455,7 @@
                 "date": "2022-12-26T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-508-es_geht_durch_die_welt_ein_gefluester",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/C9NQFY/",
                 "title": "\"Es geht durch die Welt ein Gefl\u00fcster",
@@ -486,7 +486,7 @@
                 "date": "2022-12-26T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:42",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-8079-freie_raeume",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/",
                 "title": "Freie R\u00e4ume",
@@ -521,7 +521,7 @@
           "day_start": "2022-12-27T09:00:00+01:00",
           "day_end": "2022-12-27T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [
+            "Fireshonks": [
               {
                 "id": 49230,
                 "guid": "7aa7f6ba-3b9c-552d-8193-531e366b8f88",
@@ -529,7 +529,7 @@
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49230-opening",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/",
                 "title": "Opening",
@@ -560,7 +560,7 @@
                 "date": "2022-12-27T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:30",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49194-how_to_prepare_files_for_lasercutting",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/",
                 "title": "How to prepare files for lasercutting",
@@ -591,7 +591,7 @@
                 "date": "2022-12-27T13:45:00+01:00",
                 "start": "13:45",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49311-das_fediverse_steht_fuer_vielfalt_nicht_fuer_einfalt",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/",
                 "title": "Das Fediverse steht f\u00fcr Vielfalt nicht f\u00fcr Einfalt",
@@ -622,7 +622,7 @@
                 "date": "2022-12-27T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49176-swarm_support_tools",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/",
                 "title": "Swarm Support Tools",
@@ -653,7 +653,7 @@
                 "date": "2022-12-27T17:15:00+01:00",
                 "start": "17:15",
                 "duration": "00:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49179-datenschutz_sabotieren_aber_richtig",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PEEU9J/",
                 "title": "Datenschutz sabotieren, aber richtig",
@@ -684,7 +684,7 @@
                 "date": "2022-12-27T18:30:00+01:00",
                 "start": "18:30",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49181-best_of_digitalzwangmelder",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/",
                 "title": "Best-of Digitalzwangmelder",
@@ -722,7 +722,7 @@
                 "date": "2022-12-27T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "01:30",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49085-leben_mit_borderline",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/",
                 "title": "Leben mit Borderline",
@@ -753,7 +753,7 @@
                 "date": "2022-12-27T21:45:00+01:00",
                 "start": "21:45",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-54011-muntere_abendunterhaltung_made_in_r3s",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/KL7RMJ/",
                 "title": "Muntere Abendunterhaltung made in R3S",
@@ -778,7 +778,7 @@
                 "attachments": []
               }
             ],
-            "RTC-B\u00fchne (Sparti)": [
+            "Sparti": [
               {
                 "id": 409,
                 "guid": "ef0a4cff-09db-5cb4-bbeb-ecb3ca678345",
@@ -786,7 +786,7 @@
                 "date": "2022-12-27T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-409-opening",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/",
                 "title": "Opening",
@@ -817,7 +817,7 @@
                 "date": "2022-12-27T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/3SS7L8/",
                 "title": "How to find the Norwegian prime minister in an \"anonymized\" contact tracing dataset",
@@ -848,7 +848,7 @@
                 "date": "2022-12-27T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-8149-technikgebrauch_damals_tm",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/P8HTXA/",
                 "title": "Technikgebrauch damals(tm)",
@@ -874,14 +874,14 @@
               }
             ],
             "Bierschoine": [],
-            "Halle 4K": [
+            "CCL": [
               {
                 "id": 2158,
                 "guid": "cd2bc158-39c7-4f9c-bd87-0bf9d6061875",
                 "date": "2022-12-27T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "4:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-2158-malzbierbrauen",
                 "title": "Malzbierbrauen",
                 "subtitle": "Workshop",
@@ -900,7 +900,7 @@
               }
             ],
             "xrelog22 - Stream": [],
-            "WICMP Seminarraum": [
+            "Seminarraum": [
               {
                 "id": 9081,
                 "guid": "90814dd8-5e51-5f60-9fa5-988932bf2aac",
@@ -908,7 +908,7 @@
                 "date": "2022-12-27T17:45:00+01:00",
                 "start": "17:45",
                 "duration": "00:45",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-9081-gnu_taler",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/",
                 "title": "GNU Taler",
@@ -939,7 +939,7 @@
                 "date": "2022-12-27T18:45:00+01:00",
                 "start": "18:45",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-6708-werd_dein_eigener_ispv6",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/",
                 "title": "Werd Dein eigener ISPv6",
@@ -970,7 +970,7 @@
                 "date": "2022-12-27T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/",
                 "title": "Nix gelernt und eine Einf\u00fchrung in das Thema IaC",
@@ -996,7 +996,7 @@
               }
             ],
             "Winterchaos": [],
-            "HIP - Track 1 - Room 5": [
+            "HIP1": [
               {
                 "id": 49283,
                 "guid": "e862d07c-114a-56ef-b93f-4dc00f695296",
@@ -1004,7 +1004,7 @@
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49283-opening_event",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/K8FAFL/",
                 "title": "Opening Event",
@@ -1042,7 +1042,7 @@
                 "date": "2022-12-27T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49253-crushed_by_the_wheels_industry",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EAXPTT/",
                 "title": "Crushed by the Wheels Industry",
@@ -1073,7 +1073,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49294-hide_and_seek_ueber_die_biometrie_datenbank_des_us_militaers",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/",
                 "title": "Hide and seek \u2012 \u00fcber die Biometrie-Datenbank des US-Milit\u00e4rs",
@@ -1118,7 +1118,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49218-it_security",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/EJYKY7/",
                 "title": "IT Security",
@@ -1149,7 +1149,7 @@
                 "date": "2022-12-27T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:55",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LUEPLZ/",
                 "title": "50 years of C, the good, the bad and the ugly",
@@ -1180,7 +1180,7 @@
                 "date": "2022-12-27T18:30:00+01:00",
                 "start": "18:30",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/",
                 "title": "US government demands direct police access to European biometric data",
@@ -1211,7 +1211,7 @@
                 "date": "2022-12-27T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49152-update_on_kubernetes_security_in_critical_infrastructure",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YYQ7DK/",
                 "title": "Update on Kubernetes Security in Critical Infrastructure",
@@ -1242,7 +1242,7 @@
                 "date": "2022-12-27T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49097-perimeter_security_is_dead_get_over_it",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9KFG8N/",
                 "title": "Perimeter security is dead, get over it.",
@@ -1273,7 +1273,7 @@
                 "date": "2022-12-27T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49211-pacman_can_have_the_cookies_and_eat_the_ghosts_too",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/HCNL3V/",
                 "title": "Pacman can have the cookies and eat the ghosts too",
@@ -1304,7 +1304,7 @@
                 "date": "2022-12-27T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49209-the_train_has_left_the_station",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WHRJMW/",
                 "title": "The train has left the station",
@@ -1329,7 +1329,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 2 - Room 2": [
+            "HIP2": [
               {
                 "id": 49244,
                 "guid": "10710f38-5cc9-53ea-917c-aea5fc66c008",
@@ -1337,7 +1337,7 @@
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49244-how_to",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/8BSVFY/",
                 "title": "How To",
@@ -1368,7 +1368,7 @@
                 "date": "2022-12-27T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49192-regenerative_hacking",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/",
                 "title": "Regenerative Hacking",
@@ -1399,7 +1399,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49196-what_i_learned_from_making_an_1836_led_dodecahedron",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/3D3JF9/",
                 "title": "What I learned from making an 1836 LED dodecahedron",
@@ -1430,7 +1430,7 @@
                 "date": "2022-12-27T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49271-hacktivism",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/",
                 "title": "Hacktivism",
@@ -1455,7 +1455,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "Ahlam": [
               {
                 "id": 4969,
                 "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
@@ -1463,7 +1463,7 @@
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-4969-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
@@ -1494,7 +1494,7 @@
                 "date": "2022-12-27T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:50",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-2085-raum_fuer_die_schoene_welt",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/",
                 "title": "Raum f\u00fcr die sch\u00f6ne Welt",
@@ -1525,7 +1525,7 @@
                 "date": "2022-12-27T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/",
                 "title": "K \u2013 Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch",
@@ -1550,7 +1550,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 6202,
                 "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
@@ -1558,7 +1558,7 @@
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-6202-gebaerdensprache_und_freiraum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
                 "title": "Geb\u00e4rdensprache und Freiraum",
@@ -1589,7 +1589,7 @@
                 "date": "2022-12-27T14:05:00+01:00",
                 "start": "14:05",
                 "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-3592-kunst_im_umbau",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/",
                 "title": "Kunst im Umbau",
@@ -1620,7 +1620,7 @@
                 "date": "2022-12-27T16:30:00+01:00",
                 "start": "16:30",
                 "duration": "00:20",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-6634-design_clubcult",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/",
                 "title": "Design Clubcult",
@@ -1651,7 +1651,7 @@
                 "date": "2022-12-27T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-1313-geschlossene_gesellschaft",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/",
                 "title": "Geschlossene Gesellschaft",
@@ -1718,7 +1718,7 @@
           "day_start": "2022-12-28T09:00:00+01:00",
           "day_end": "2022-12-28T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [
+            "Fireshonks": [
               {
                 "id": 49154,
                 "guid": "642a2250-a5b9-5e4a-bf53-984f1f0c0a70",
@@ -1726,7 +1726,7 @@
                 "date": "2022-12-28T11:55:00+01:00",
                 "start": "11:55",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49154-platform_system_interface",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/",
                 "title": "Platform System Interface",
@@ -1757,7 +1757,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:15",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49102-10_000_seiten_spaeter",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/",
                 "title": "10.000 Seiten sp\u00e4ter",
@@ -1795,7 +1795,7 @@
                 "date": "2022-12-28T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49180-kann_quick_freeze_die_vorratsdatenspeicherung_endlich_beerdigen",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VFXVLS/",
                 "title": "Kann Quick Freeze die Vorratsdatenspeicherung endlich beerdigen?",
@@ -1826,7 +1826,7 @@
                 "date": "2022-12-28T16:30:00+01:00",
                 "start": "16:30",
                 "duration": "00:55",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49078-haecksen_gegen_cyberstalking_ein_bericht_vom_anti_stalking_projekt",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/U7DKAZ/",
                 "title": "Haecksen gegen Cyberstalking  ein Bericht vom Anti-Stalking Projekt",
@@ -1857,7 +1857,7 @@
                 "date": "2022-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "00:30",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49174-db_schnueffelnavigator",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/",
                 "title": "DB Schn\u00fcffelnavigator",
@@ -1888,7 +1888,7 @@
                 "date": "2022-12-28T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49178-kein_perso_ohne_finger_abdruecke_mehr",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/",
                 "title": "Kein Perso ohne Finger(abdr\u00fccke) mehr",
@@ -1919,7 +1919,7 @@
                 "date": "2022-12-28T20:15:00+01:00",
                 "start": "20:15",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49100-hacking_a_sat_receiver",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/",
                 "title": "Hacking a sat receiver",
@@ -1950,7 +1950,7 @@
                 "date": "2022-12-28T21:30:00+01:00",
                 "start": "21:30",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49226-operation_mindfuck_vol_6",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/",
                 "title": "Operation Mindfuck Vol. 6",
@@ -1982,7 +1982,7 @@
                 "attachments": []
               }
             ],
-            "RTC-B\u00fchne (Sparti)": [
+            "Sparti": [
               {
                 "id": 631,
                 "guid": "0d6314a9-9049-59b4-b6e3-3d909086b378",
@@ -1990,7 +1990,7 @@
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/MCVSWU/",
                 "title": "Machen wir die Elektronik durch \"Hardware as a service\" kreislauff\u00e4higer",
@@ -2021,7 +2021,7 @@
                 "date": "2022-12-28T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "01:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-7505-ipv6_einfach_nutzen",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/",
                 "title": "IPv6 einfach nutzen",
@@ -2052,7 +2052,7 @@
                 "date": "2022-12-28T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-3857-wir_koennen_dich_durchschauen",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/UGPT9B/",
                 "title": "Wir k\u00f6nnen dich durchschauen",
@@ -2083,7 +2083,7 @@
                 "date": "2022-12-28T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-7282-antiverschwurbeltes_axiom",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/EXAGFT/",
                 "title": "antiverschwurbeltes axiom",
@@ -2114,7 +2114,7 @@
                 "date": "2022-12-28T22:30:00+01:00",
                 "start": "22:30",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-5374-cursedin",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
                 "title": "cursedin",
@@ -2234,14 +2234,14 @@
                 "attachments": []
               }
             ],
-            "Halle 4K": [
+            "CCL": [
               {
                 "id": 6037,
                 "guid": "60c37cca-de6c-510c-89f5-4c7bf3c0ab75",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "1:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit",
                 "title": "Martyra Peng und die Zukunft der Sexarbeit",
                 "subtitle": "",
@@ -2269,7 +2269,7 @@
                 "date": "2022-12-28T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "1:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-309-mikroskopieren_und_kochen",
                 "title": "Mikroskopieren und Kochen",
                 "subtitle": "Workshop",
@@ -2292,7 +2292,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "1:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-6311-die_wunderbare_welt_der_flaschengaerten",
                 "title": "Die wunderbare Welt der Flascheng\u00e4rten",
                 "subtitle": "",
@@ -2320,7 +2320,7 @@
                 "date": "2022-12-28T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "1:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-9195-building_your_personal_dna_synthesizer",
                 "title": "Building your personal DNA-Synthesizer",
                 "subtitle": "",
@@ -2469,7 +2469,7 @@
                 "attachments": []
               }
             ],
-            "WICMP Seminarraum": [
+            "Seminarraum": [
               {
                 "id": 4958,
                 "guid": "a49e5c85-1ad9-5e2f-9427-627eb6a77ca3",
@@ -2477,7 +2477,7 @@
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:45",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-4958-das_zam_im_wandel_der_zeit",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/PFNABK/",
                 "title": "Das ZAM im Wandel der Zeit",
@@ -2508,7 +2508,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:10",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-1912-telnetsnakebotwettbewerb",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/VZGSMJ/",
                 "title": "TelnetSnakeBotWettbewerb",
@@ -2539,7 +2539,7 @@
                 "date": "2022-12-28T14:45:00+01:00",
                 "start": "14:45",
                 "duration": "00:45",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-3209-tales_of_camelot",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/",
                 "title": "Tales of Camelot",
@@ -2570,7 +2570,7 @@
                 "date": "2022-12-28T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:45",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-9908-wie_funktioniert_eigentlich_filmentwicklung",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/",
                 "title": "Wie funktioniert eigentlich Filmentwicklung?",
@@ -2601,7 +2601,7 @@
                 "date": "2022-12-28T17:15:00+01:00",
                 "start": "17:15",
                 "duration": "01:00",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-6207-schokolade_essen",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/",
                 "title": "Schokolade essen",
@@ -2784,7 +2784,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 1 - Room 5": [
+            "HIP1": [
               {
                 "id": 49261,
                 "guid": "3de04181-3400-5656-9bbe-82aa5ebf1c51",
@@ -2792,7 +2792,7 @@
                 "date": "2022-12-28T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49261-taping_out_a_systolic_array_with_an_opensource_pdk",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MJSGGS/",
                 "title": "Taping out a systolic array with an opensource PDK",
@@ -2823,7 +2823,7 @@
                 "date": "2022-12-28T12:30:00+01:00",
                 "start": "12:30",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49113-takeaways_from_the_crypto_mines",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/N7V3XL/",
                 "title": "Takeaways from the crypto-mines",
@@ -2854,7 +2854,7 @@
                 "date": "2022-12-28T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49208-librevents",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/YKXPH7/",
                 "title": "Librevents",
@@ -2892,7 +2892,7 @@
                 "date": "2022-12-28T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49242-finding_state_malware",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PFUWNJ/",
                 "title": "Finding (state) malware",
@@ -2937,7 +2937,7 @@
                 "date": "2022-12-28T16:15:00+01:00",
                 "start": "16:15",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49221-reviving_open_source_projects",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/",
                 "title": "Reviving open-source projects",
@@ -2968,7 +2968,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49098-subdomain_takeover_the_use_after_free_of_the_internet",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FB78TC/",
                 "title": "Subdomain takeover, the use after free of the internet",
@@ -2999,7 +2999,7 @@
                 "date": "2022-12-28T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:40",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49202-introduction_to_reverse_engineering_with_frida",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/",
                 "title": "Introduction to Reverse Engineering with Frida",
@@ -3030,7 +3030,7 @@
                 "date": "2022-12-28T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49255-why_you_should_write_a_wayland_compositor",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/XLTFWL/",
                 "title": "Why YOU should write a wayland compositor!",
@@ -3061,7 +3061,7 @@
                 "date": "2022-12-28T21:30:00+01:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49254-false_positive_to_0_day",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/",
                 "title": "False Positive to 0-day",
@@ -3092,7 +3092,7 @@
                 "date": "2022-12-28T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49092-never_mind_the_gigwork",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/PEAQU9/",
                 "title": "Never Mind the Gigwork",
@@ -3117,7 +3117,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 2 - Room 2": [
+            "HIP2": [
               {
                 "id": 49190,
                 "guid": "b9148114-9e85-59f4-8c90-e89266a22b17",
@@ -3125,7 +3125,7 @@
                 "date": "2022-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:25",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49190-mostly_homebrewn_metal_am",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
                 "title": "(mostly) homebrewn metal AM",
@@ -3156,7 +3156,7 @@
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:25",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49195-how_my_video_game_project_is_helping_me_learn_tech_and_conquer_my_mental_health",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SRYJMG/",
                 "title": "How my video game project is helping me learn tech and conquer my mental health",
@@ -3194,7 +3194,7 @@
                 "date": "2022-12-28T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:00",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49264-exploring_social_media_reactions_to_conflicts_in_2022",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UCQTY9/",
                 "title": "Exploring social media reactions to conflicts in 2022",
@@ -3225,7 +3225,7 @@
                 "date": "2022-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49198-it_security_for_activists",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/",
                 "title": "It security for activists",
@@ -3256,7 +3256,7 @@
                 "date": "2022-12-28T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "00:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49185-ikea_pallet_hacks",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/",
                 "title": "IKEA & pallet hacks!",
@@ -3287,7 +3287,7 @@
                 "date": "2022-12-28T20:45:00+01:00",
                 "start": "20:45",
                 "duration": "00:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49272-connecting_networks_in_global_maker_movements",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DC8TQG/",
                 "title": "Connecting Networks in Global Maker Movements",
@@ -3312,7 +3312,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "Ahlam": [
               {
                 "id": 8672,
                 "guid": "867208f4-ebf6-5158-89c1-bd9f623f50f2",
@@ -3320,7 +3320,7 @@
                 "date": "2022-12-28T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "03:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-8672-kritische_maennlichkeit",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/",
                 "title": "Kritische M\u00e4nnlichkeit",
@@ -3351,7 +3351,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
@@ -3389,7 +3389,7 @@
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
@@ -3427,7 +3427,7 @@
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/",
                 "title": "Kunst und Kommerz, ein problematisches Verh\u00e4ltnis",
@@ -3452,7 +3452,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 2161,
                 "guid": "21ec6115-cd0d-567d-b480-b5a829c1ad45",
@@ -3460,7 +3460,7 @@
                 "date": "2022-12-28T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-2161-12_haeuser_13_jahre_selbstverwaltetes_soziokulturelles_leben_im_gaengeviertel",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXWEAN/",
                 "title": "12 H\u00e4user, 13 Jahre selbstverwaltetes soziokulturelles Leben im G\u00e4ngeviertel",
@@ -3491,7 +3491,7 @@
                 "date": "2022-12-28T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-958-alles_ist_1_ausser_der_0",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/",
                 "title": "Alles ist 1. Au\u00dfer der 0.",
@@ -3522,7 +3522,7 @@
                 "date": "2022-12-28T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-4783-bruecken_statt_mauern",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/",
                 "title": "Br\u00fccken statt Mauern",
@@ -3553,7 +3553,7 @@
                 "date": "2022-12-28T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "01:31",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-755-kampf_um_die_a49",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/",
                 "title": "Kampf um die A49",
@@ -3588,7 +3588,7 @@
           "day_start": "2022-12-29T09:00:00+01:00",
           "day_end": "2022-12-29T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [
+            "Fireshonks": [
               {
                 "id": 49270,
                 "guid": "47b2d2c7-e59c-554c-97a2-ec80ecb640ba",
@@ -3596,7 +3596,7 @@
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49270-geschlechtergerechtigkeit_und_making",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/",
                 "title": "Geschlechtergerechtigkeit und Making",
@@ -3634,7 +3634,7 @@
                 "date": "2022-12-29T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49115-tracking_in_apps",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/FRQGY9/",
                 "title": "Tracking in Apps",
@@ -3679,7 +3679,7 @@
                 "date": "2022-12-29T15:30:00+01:00",
                 "start": "15:30",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49279-barrierearme_datenvisualisierungen_im_web",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/QPBDTA/",
                 "title": "Barrierearme Datenvisualisierungen im Web",
@@ -3710,7 +3710,7 @@
                 "date": "2022-12-29T16:30:00+01:00",
                 "start": "16:30",
                 "duration": "01:30",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/",
                 "title": "Str\u00f6mungen, Kontroversen und Paradoxien im Anarchismus",
@@ -3741,7 +3741,7 @@
                 "date": "2022-12-29T18:30:00+01:00",
                 "start": "18:30",
                 "duration": "00:15",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49172-ccs",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/",
                 "title": "#CCS ",
@@ -3772,7 +3772,7 @@
                 "date": "2022-12-29T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "00:17",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49293-erklaerhaj_experimentiert",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/",
                 "title": "Erkl\u00e4rhaj experimentiert",
@@ -3803,7 +3803,7 @@
                 "date": "2022-12-29T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49246-post_quantum_cryptography",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/B7GMAL/",
                 "title": "Post-Quantum Cryptography",
@@ -3841,7 +3841,7 @@
                 "date": "2022-12-29T21:00:00+01:00",
                 "start": "21:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49088-how_to_become_an_openstreetmap_pro",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/",
                 "title": "How to become an OpenStreetMap pro",
@@ -3872,7 +3872,7 @@
                 "date": "2022-12-29T22:00:00+01:00",
                 "start": "22:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/",
                 "title": "Die bequemsten Gep\u00e4ckablagen im Fernverkehr der Deutschen Bahn",
@@ -3897,7 +3897,7 @@
                 "attachments": []
               }
             ],
-            "RTC-B\u00fchne (Sparti)": [
+            "Sparti": [
               {
                 "id": 8920,
                 "guid": "ad8d9204-0bca-55b0-8733-956fd2127b77",
@@ -3905,7 +3905,7 @@
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-8920-owasp_raider",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/",
                 "title": "OWASP Raider",
@@ -3936,7 +3936,7 @@
                 "date": "2022-12-29T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-5773-trust_in_digital_communication",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/K7J8PF/",
                 "title": "Trust in digital communication",
@@ -3967,7 +3967,7 @@
                 "date": "2022-12-29T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/GD8EVV/",
                 "title": "Geschichten aus dem Leben einer Mastodon-Moderatorin",
@@ -3998,7 +3998,7 @@
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-4704-die_mikroarchitektur_moderner_prozessoren",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/FEWKFR/",
                 "title": "Die Mikroarchitektur moderner Prozessoren",
@@ -4029,7 +4029,7 @@
                 "date": "2022-12-29T18:15:00+01:00",
                 "start": "18:15",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-3191-misconceptions_about_energy_assessment",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/FEK7VC/",
                 "title": "Misconceptions about Energy Assessment",
@@ -4060,7 +4060,7 @@
                 "date": "2022-12-29T19:45:00+01:00",
                 "start": "19:45",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-780-vitamin_d_versus_sonnenbrand",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/NVKBLS/",
                 "title": "Vitamin D versus Sonnenbrand",
@@ -4091,7 +4091,7 @@
                 "date": "2022-12-29T20:45:00+01:00",
                 "start": "20:45",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-1707-exploring_social_media_reactions_to_conflicts_in_2022",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/",
                 "title": "Exploring social media reactions to conflicts in 2022",
@@ -4122,7 +4122,7 @@
                 "date": "2022-12-29T22:30:00+01:00",
                 "start": "22:30",
                 "duration": "01:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-1140-citizen_kino",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/GURA8Y/",
                 "title": "CiTiZEN KiNO",
@@ -4242,14 +4242,14 @@
                 "attachments": []
               }
             ],
-            "Halle 4K": [
+            "CCL": [
               {
                 "id": 1843,
                 "guid": "d1843366-bf8e-4735-89c2-71c6c939c44b",
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "2:00",
-                "room": "Halle 4K",
+                "room": "CCL",
                 "slug": "jev22-1843-loete_deinen_eigenen_pflanzensensor",
                 "title": "L\u00f6te deinen eigenen Pflanzensensor",
                 "subtitle": "Workshop",
@@ -4455,7 +4455,7 @@
                 "attachments": []
               }
             ],
-            "WICMP Seminarraum": [
+            "Seminarraum": [
               {
                 "id": 5092,
                 "guid": "50923b4d-ca00-5303-94be-b014fb3af89d",
@@ -4463,7 +4463,7 @@
                 "date": "2022-12-29T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-5092-intro_to_time",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
                 "title": "intro to time",
@@ -4494,7 +4494,7 @@
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:45",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-2775-surviving_as_a_nerd",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/7R9URV/",
                 "title": "Surviving as a NERD",
@@ -4532,7 +4532,7 @@
                 "date": "2022-12-29T15:15:00+01:00",
                 "start": "15:15",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-982-schlangenprogrammiernacht",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/TWELKD/",
                 "title": "Schlangenprogrammiernacht",
@@ -4563,7 +4563,7 @@
                 "date": "2022-12-29T16:15:00+01:00",
                 "start": "16:15",
                 "duration": "02:00",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-7656-schafkopf_fuer_anfaenger",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/YLYW79/",
                 "title": "Schafkopf f\u00fcr Anf\u00e4nger",
@@ -4788,7 +4788,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 1 - Room 5": [
+            "HIP1": [
               {
                 "id": 49173,
                 "guid": "2888af7a-824d-55c8-8b18-bf6935ebe0e1",
@@ -4796,7 +4796,7 @@
                 "date": "2022-12-29T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49173-dns_over_coap",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/",
                 "title": "DNS over CoAP",
@@ -4827,7 +4827,7 @@
                 "date": "2022-12-29T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49257-das_ist_globales_hardware_hacking_in_parallel",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/QM8CSR/",
                 "title": "Das ist globales Hardware Hacking in Parallel",
@@ -4858,7 +4858,7 @@
                 "date": "2022-12-29T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49228-are_you_old_enough_to_buy_this",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/GRBLDD/",
                 "title": "Are you old enough to buy this?",
@@ -4889,7 +4889,7 @@
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49160-from_idea_to_kicad_beyond",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/BGH3BG/",
                 "title": "From idea to KiCad & beyond",
@@ -4920,7 +4920,7 @@
                 "date": "2022-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49107-a_beginner_s_guide_to_unexpected_input",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WJBNAN/",
                 "title": "A beginner's guide to unexpected input \ud83e\udde8",
@@ -4951,7 +4951,7 @@
                 "date": "2022-12-29T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49248-no_fuzzer_has_been_there_yet",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/A3ULZV/",
                 "title": "No Fuzzer has been there yet",
@@ -4982,7 +4982,7 @@
                 "date": "2022-12-29T20:15:00+01:00",
                 "start": "20:15",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49142-open_source_und_cloud_native",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/",
                 "title": "Open Source und Cloud Native",
@@ -5013,7 +5013,7 @@
                 "date": "2022-12-29T21:30:00+01:00",
                 "start": "21:30",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49250-aktuelles_zur_chatkontrolle",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBU3JC/",
                 "title": "Aktuelles zur Chatkontrolle",
@@ -5051,7 +5051,7 @@
                 "date": "2022-12-29T23:00:00+01:00",
                 "start": "23:00",
                 "duration": "01:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49245-masking_threshold",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MBJW9Z/",
                 "title": "Masking Threshold",
@@ -5076,7 +5076,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 2 - Room 2": [
+            "HIP2": [
               {
                 "id": 49229,
                 "guid": "0d59c727-628c-545f-9917-6b23cef4e31d",
@@ -5084,7 +5084,7 @@
                 "date": "2022-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49229-an_ontology_of_hope",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/JBSLXU/",
                 "title": "An ontology of hope",
@@ -5115,7 +5115,7 @@
                 "date": "2022-12-29T12:15:00+01:00",
                 "start": "12:15",
                 "duration": "01:00",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49277-b3_buntesbugbounty",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/",
                 "title": "B3 - BuntesBugBounty",
@@ -5146,7 +5146,7 @@
                 "date": "2022-12-29T13:30:00+01:00",
                 "start": "13:30",
                 "duration": "00:55",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49182-an_introduction_to_scientific_journalism",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/",
                 "title": "An Introduction to Scientific Journalism",
@@ -5177,7 +5177,7 @@
                 "date": "2022-12-29T16:45:00+01:00",
                 "start": "16:45",
                 "duration": "01:30",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49183-eduroam",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/",
                 "title": "eduroam",
@@ -5202,7 +5202,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "Ahlam": [
               {
                 "id": 3706,
                 "guid": "37fc0602-d596-56a7-bdce-72253b7b5164",
@@ -5210,7 +5210,7 @@
                 "date": "2022-12-29T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-3706-slapp",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/",
                 "title": "SLAPP",
@@ -5248,7 +5248,7 @@
                 "date": "2022-12-29T16:00:00+01:00",
                 "start": "16:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-2719-ressourcen_finanzen_foerderung",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JNBBC3/",
                 "title": "Ressourcen, Finanzen, F\u00f6rderung",
@@ -5279,7 +5279,7 @@
                 "date": "2022-12-29T18:30:00+01:00",
                 "start": "18:30",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/",
                 "title": "Solidarisch essen, ackern, imkern und wohnen",
@@ -5310,7 +5310,7 @@
                 "date": "2022-12-29T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/",
                 "title": "Das Mietsh\u00e4user Syndikat und das Neubauprojekt G\u00f6rzer128",
@@ -5335,7 +5335,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 2242,
                 "guid": "22424983-c48f-5273-b283-3f9425d617b1",
@@ -5343,7 +5343,7 @@
                 "date": "2022-12-29T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-2242-gebaerdensprache_und_freiraum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
                 "title": "Geb\u00e4rdensprache und Freiraum",
@@ -5374,7 +5374,7 @@
                 "date": "2022-12-29T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/",
                 "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums",
@@ -5405,7 +5405,7 @@
                 "date": "2022-12-29T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
                 "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden",
@@ -5479,7 +5479,7 @@
           "day_start": "2022-12-30T09:00:00+01:00",
           "day_end": "2022-12-30T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [
+            "Fireshonks": [
               {
                 "id": 49167,
                 "guid": "3c71d0d5-8779-552b-bde9-05f6cf8909e4",
@@ -5487,7 +5487,7 @@
                 "date": "2022-12-30T09:00:00+01:00",
                 "start": "09:00",
                 "duration": "01:45",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49167-videokonferenzen",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/",
                 "title": "Videokonferenzen",
@@ -5532,7 +5532,7 @@
                 "date": "2022-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49284-barrierefrei_posten",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/",
                 "title": "Barrierefrei posten",
@@ -5563,7 +5563,7 @@
                 "date": "2022-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49153-logrotten",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/",
                 "title": "Logrotten",
@@ -5594,7 +5594,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49114-text_embeddings_fuer_anfaenger",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/",
                 "title": "Text Embeddings f\u00fcr Anf\u00e4nger",
@@ -5625,7 +5625,7 @@
                 "date": "2022-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "01:15",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49086-informationen_bewerten_eine_zeitreise_durch_die_welt_der_propaganda_fake_news_und_desinformation",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/8XTUNF/",
                 "title": "Informationen bewerten \u2014 Eine Zeitreise durch die Welt der Propaganda, Fake News und Desinformation",
@@ -5656,7 +5656,7 @@
                 "date": "2022-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49164-oreboot_auf_risc_v",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/",
                 "title": "oreboot auf RISC-V",
@@ -5687,7 +5687,7 @@
                 "date": "2022-12-30T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49077-die_technik_hinter_teletext",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/BBJ7JR/",
                 "title": "Die Technik hinter Teletext",
@@ -5718,7 +5718,7 @@
                 "date": "2022-12-30T18:45:00+01:00",
                 "start": "18:45",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-54012-erklaerhaj_experimentiert_schon_wieder",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/",
                 "title": "Erkl\u00e4rhaj experimentiert schon wieder",
@@ -5749,7 +5749,7 @@
                 "date": "2022-12-30T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "00:40",
-                "room": "Fireshonks-Stream",
+                "room": "Fireshonks",
                 "slug": "jev22-49231-closing",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VR8FJG/",
                 "title": "Closing",
@@ -5774,7 +5774,7 @@
                 "attachments": []
               }
             ],
-            "RTC-B\u00fchne (Sparti)": [
+            "Sparti": [
               {
                 "id": 5754,
                 "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
@@ -5782,7 +5782,7 @@
                 "date": "2022-12-30T11:30:00+01:00",
                 "start": "11:30",
                 "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-5754-technikphilosophische_jahresendgala",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
                 "title": "Technikphilosophische Jahresendgala",
@@ -5813,7 +5813,7 @@
                 "date": "2022-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-7860-infrastructure_review",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
                 "title": "Infrastructure Review",
@@ -5844,7 +5844,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
+                "room": "Sparti",
                 "slug": "jev22-4292-closing_ceremony",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/XQSHAS/",
                 "title": "Closing Ceremony",
@@ -6002,7 +6002,7 @@
                 "attachments": []
               }
             ],
-            "Halle 4K": [],
+            "CCL": [],
             "xrelog22 - Stream": [
               {
                 "id": 49238,
@@ -6129,7 +6129,7 @@
                 "attachments": []
               }
             ],
-            "WICMP Seminarraum": [
+            "Seminarraum": [
               {
                 "id": 3038,
                 "guid": "a303d860-5b1a-51a9-8bbc-60763964e065",
@@ -6137,7 +6137,7 @@
                 "date": "2022-12-30T13:15:00+01:00",
                 "start": "13:15",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-3038-telnetsnakebotwettbewerb",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/SWRGBX/",
                 "title": "TelnetSnakeBotWettbewerb",
@@ -6168,7 +6168,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-5136-operational_transconductance_amplifiers",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/",
                 "title": "Operational Transconductance Amplifiers",
@@ -6199,7 +6199,7 @@
                 "date": "2022-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:30",
-                "room": "WICMP Seminarraum",
+                "room": "Seminarraum",
                 "slug": "jev22-5620-das_matrix_protokoll",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/",
                 "title": "Das Matrix-Protokoll",
@@ -6382,7 +6382,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 1 - Room 5": [
+            "HIP1": [
               {
                 "id": 49199,
                 "guid": "90027f42-d1c3-53e8-b18a-34564fda53f5",
@@ -6390,7 +6390,7 @@
                 "date": "2022-12-30T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "00:45",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49199-decentralised_social_media_has_a_moderation_problem",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/NUAUJG/",
                 "title": "Decentralised social media has a moderation problem",
@@ -6421,7 +6421,7 @@
                 "date": "2022-12-30T14:30:00+01:00",
                 "start": "14:30",
                 "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49210-what_if_xss_was_a_browser_bug",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/",
                 "title": "What if XSS was a browser bug?",
@@ -6452,7 +6452,7 @@
                 "date": "2022-12-30T17:30:00+01:00",
                 "start": "17:30",
                 "duration": "00:30",
-                "room": "HIP - Track 1 - Room 5",
+                "room": "HIP1",
                 "slug": "jev22-49267-placeholder_review_closing",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/",
                 "title": "placeholder, Review & Closing",
@@ -6484,7 +6484,7 @@
                 "attachments": []
               }
             ],
-            "HIP - Track 2 - Room 2": [
+            "HIP2": [
               {
                 "id": 49222,
                 "guid": "bc17cad7-3c6b-5cea-9735-b79ec525a15a",
@@ -6492,7 +6492,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:45",
-                "room": "HIP - Track 2 - Room 2",
+                "room": "HIP2",
                 "slug": "jev22-49222-die_physik_der_musik",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/FRLYBH/",
                 "title": "die Physik der Musik",
@@ -6517,7 +6517,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "Ahlam": [
               {
                 "id": 3801,
                 "guid": "a3ecb801-4ef2-50c0-9ad0-9b6777826df6",
@@ -6525,7 +6525,7 @@
                 "date": "2022-12-30T12:00:00+01:00",
                 "start": "12:00",
                 "duration": "00:45",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-3801-wohnheim_collegium_academicum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/",
                 "title": "Wohnheim Collegium Academicum",
@@ -6556,7 +6556,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/",
                 "title": "Care Werkstatt // Who Cares? Werkstatt f\u00fcr F\u00fcrsorge(praktiken). by Assoziation:E",
@@ -6594,7 +6594,7 @@
                 "date": "2022-12-30T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "01:30",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-8684-wdzwo",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/",
                 "title": "WdZwo",
@@ -6619,7 +6619,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 651,
                 "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
@@ -6627,7 +6627,7 @@
                 "date": "2022-12-30T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-651-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
@@ -6658,7 +6658,7 @@
                 "date": "2022-12-30T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-1324-treibgut",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/",
                 "title": "treibgut",
@@ -6689,7 +6689,7 @@
                 "date": "2022-12-30T15:00:00+01:00",
                 "start": "15:00",
                 "duration": "00:17",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-7917-culture_is_not_dead",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/",
                 "title": "CULTURE IS NOT DEAD",
@@ -6720,7 +6720,7 @@
                 "date": "2022-12-30T15:25:00+01:00",
                 "start": "15:25",
                 "duration": "00:08",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-3800-cheers_to_10_years",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/",
                 "title": "Cheers to 10 years!",
@@ -6751,7 +6751,7 @@
                 "date": "2022-12-30T16:15:00+01:00",
                 "start": "16:15",
                 "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/",
                 "title": "Hacking social entrepreneurship // Jeder Mensch ist gemeinn\u00fctzig / Kulturator | Gute-Dinge-Stiftung",
@@ -6782,7 +6782,7 @@
                 "date": "2022-12-30T19:30:00+01:00",
                 "start": "19:30",
                 "duration": "01:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-497-allesandersplatz",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/",
                 "title": "Allesandersplatz",
@@ -6817,16 +6817,16 @@
           "day_start": "2022-12-31T09:00:00+01:00",
           "day_end": "2022-12-31T09:00:00+01:00",
           "rooms": {
-            "Fireshonks-Stream": [],
-            "RTC-B\u00fchne (Sparti)": [],
+            "Fireshonks": [],
+            "Sparti": [],
             "Bierschoine": [],
-            "Halle 4K": [],
+            "CCL": [],
             "xrelog22 - Stream": [],
-            "WICMP Seminarraum": [],
+            "Seminarraum": [],
             "Winterchaos": [],
-            "HIP - Track 1 - Room 5": [],
-            "HIP - Track 2 - Room 2": [],
-            "Vortragsraum 1 - Ahlam - H2-1.6": [
+            "HIP1": [],
+            "HIP2": [],
+            "Ahlam": [
               {
                 "id": 1708,
                 "guid": "1708dae9-7ae4-5050-9a9a-362b8e18d0cd",
@@ -6834,7 +6834,7 @@
                 "date": "2022-12-31T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-1708-oberlab",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/",
                 "title": "Oberlab",
@@ -6865,7 +6865,7 @@
                 "date": "2022-12-31T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "01:00",
-                "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+                "room": "Ahlam",
                 "slug": "jev22-2668-mybrainmychoice",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/",
                 "title": "#mybrainmychoice",
@@ -6890,7 +6890,7 @@
                 "attachments": []
               }
             ],
-            "Vortragsraum 2 - Bhavani - H1-5.2": [
+            "Bhavani": [
               {
                 "id": 1265,
                 "guid": "a1265b34-bb29-5a3f-864d-ed54292cb427",
@@ -6898,7 +6898,7 @@
                 "date": "2022-12-31T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-1265-freie_netze_muenchen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/",
                 "title": "Freie Netze M\u00fcnchen",
@@ -6929,7 +6929,7 @@
                 "date": "2022-12-31T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "00:30",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+                "room": "Bhavani",
                 "slug": "jev22-194-infrastructure_review",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/",
                 "title": "Infrastructure Review",

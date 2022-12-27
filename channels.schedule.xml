@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 03:34</version>
+  <version>2022-12-27 03:43</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -11,22 +11,22 @@
     <time_zone_name>Europe/Amsterdam</time_zone_name>
   </conference>
   <day index="1" date="2022-12-26" start="2022-12-26T09:00:00+01:00" end="2022-12-26T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="9183" guid="918367c1-980e-539b-93ec-44da7b2b5bc8">
         <logo/>
         <date>2022-12-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-9183-muc_free_space_ein_mangel_im_ueberfluss</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BGQNEC/</url>
         <title>MUC free SPACE? Ein Mangel im Überfluss.</title>
@@ -59,7 +59,7 @@ Moderation: Peter Arun Pfaff</description>
         <date>2022-12-26T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-7897-streaming_engelschulung</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/7YXWJG/</url>
         <title>Streaming-Engelschulung</title>
@@ -84,7 +84,7 @@ Moderation: Peter Arun Pfaff</description>
         <date>2022-12-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:50</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
@@ -105,13 +105,13 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="508" guid="0f508ad6-0d8c-5497-8041-c738a29e4a70">
         <logo>/media/freiraumforum/submissions/C9NQFY/Titel_Gefluester_2pgPiIw.jpeg</logo>
         <date>2022-12-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-508-es_geht_durch_die_welt_ein_gefluester</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/C9NQFY/</url>
         <title>"Es geht durch die Welt ein Geflüster</title>
@@ -139,7 +139,7 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         <date>2022-12-26T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:42</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-8079-freie_raeume</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SKMT8H/</url>
         <title>Freie Räume</title>
@@ -165,13 +165,13 @@ Mehr Infos: https://freieraeume-film.de/</description>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
       <event id="49230" guid="7aa7f6ba-3b9c-552d-8193-531e366b8f88">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49230-opening</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/NNNAK3/</url>
         <title>Opening</title>
@@ -196,7 +196,7 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <date>2022-12-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49194-how_to_prepare_files_for_lasercutting</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LCQP9Z/</url>
         <title>How to prepare files for lasercutting</title>
@@ -223,7 +223,7 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
         <date>2022-12-27T13:45:00+01:00</date>
         <start>13:45</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49311-das_fediverse_steht_fuer_vielfalt_nicht_fuer_einfalt</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GLMFE7/</url>
         <title>Das Fediverse steht für Vielfalt nicht für Einfalt</title>
@@ -260,7 +260,7 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <date>2022-12-27T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49176-swarm_support_tools</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/</url>
         <title>Swarm Support Tools</title>
@@ -285,7 +285,7 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <date>2022-12-27T17:15:00+01:00</date>
         <start>17:15</start>
         <duration>00:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49179-datenschutz_sabotieren_aber_richtig</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PEEU9J/</url>
         <title>Datenschutz sabotieren, aber richtig</title>
@@ -311,7 +311,7 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
         <date>2022-12-27T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49181-best_of_digitalzwangmelder</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VL33A3/</url>
         <title>Best-of Digitalzwangmelder</title>
@@ -340,7 +340,7 @@ Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wi
         <date>2022-12-27T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>01:30</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49085-leben_mit_borderline</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/PHFP37/</url>
         <title>Leben mit Borderline</title>
@@ -373,7 +373,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <date>2022-12-27T21:45:00+01:00</date>
         <start>21:45</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-54011-muntere_abendunterhaltung_made_in_r3s</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/KL7RMJ/</url>
         <title>Muntere Abendunterhaltung made in R3S</title>
@@ -394,13 +394,13 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <attachments/>
       </event>
     </room>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="409" guid="ef0a4cff-09db-5cb4-bbeb-ecb3ca678345">
         <logo/>
         <date>2022-12-27T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-409-opening</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/YHYRBJ/</url>
         <title>Opening</title>
@@ -425,7 +425,7 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <date>2022-12-27T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/3SS7L8/</url>
         <title>How to find the Norwegian prime minister in an "anonymized" contact tracing dataset</title>
@@ -471,7 +471,7 @@ anonymised.</abstract>
         <date>2022-12-27T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-8149-technikgebrauch_damals_tm</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/P8HTXA/</url>
         <title>Technikgebrauch damals(tm)</title>
@@ -493,12 +493,12 @@ anonymised.</abstract>
       </event>
     </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="2158" guid="cd2bc158-39c7-4f9c-bd87-0bf9d6061875">
         <date>2022-12-27T12:30:00+01:00</date>
         <start>12:30</start>
         <duration>4:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-2158-malzbierbrauen</slug>
         <title>Malzbierbrauen</title>
         <subtitle>Workshop</subtitle>
@@ -519,13 +519,13 @@ anonymised.</abstract>
       </event>
     </room>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
         <date>2022-12-27T17:45:00+01:00</date>
         <start>17:45</start>
         <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-9081-gnu_taler</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
         <title>GNU Taler</title>
@@ -552,7 +552,7 @@ Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
         <date>2022-12-27T18:45:00+01:00</date>
         <start>18:45</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
         <title>Werd Dein eigener ISPv6</title>
@@ -589,7 +589,7 @@ Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</descri
         <date>2022-12-27T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-1721-nix_gelernt_und_eine_einfuehrung_in_das_thema_iac</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YY8PE7/</url>
         <title>Nix gelernt und eine Einführung in das Thema IaC</title>
@@ -618,13 +618,13 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49283" guid="e862d07c-114a-56ef-b93f-4dc00f695296">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49283-opening_event</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/K8FAFL/</url>
         <title>Opening Event</title>
@@ -652,7 +652,7 @@ Lets fire this up.</abstract>
         <date>2022-12-27T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49253-crushed_by_the_wheels_industry</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/EAXPTT/</url>
         <title>Crushed by the Wheels Industry</title>
@@ -679,7 +679,7 @@ With average run times of machines and their software of 15-20 years the consequ
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49294-hide_and_seek_ueber_die_biometrie_datenbank_des_us_militaers</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/V7UFTL/</url>
         <title>Hide and seek ‒ über die Biometrie-Datenbank des US-Militärs</title>
@@ -710,7 +710,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49218-it_security</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/EJYKY7/</url>
         <title>IT Security</title>
@@ -735,7 +735,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <date>2022-12-27T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:55</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49151-50_years_of_c_the_good_the_bad_and_the_ugly</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LUEPLZ/</url>
         <title>50 years of C, the good, the bad and the ugly</title>
@@ -762,7 +762,7 @@ In this presentation, I explore its history, why it's been so popular and what i
         <date>2022-12-27T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49143-us_government_demands_direct_police_access_to_european_biometric_data</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JYX7JA/</url>
         <title>US government demands direct police access to European biometric data</title>
@@ -787,7 +787,7 @@ In this presentation, I explore its history, why it's been so popular and what i
         <date>2022-12-27T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49152-update_on_kubernetes_security_in_critical_infrastructure</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/YYQ7DK/</url>
         <title>Update on Kubernetes Security in Critical Infrastructure</title>
@@ -818,7 +818,7 @@ The talk contains more than traces of DevSecOps, GitOps and code signing.  ~Hack
         <date>2022-12-27T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49097-perimeter_security_is_dead_get_over_it</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/9KFG8N/</url>
         <title>Perimeter security is dead, get over it.</title>
@@ -845,7 +845,7 @@ But lately especially malware waves have shown that its not working well anymore
         <date>2022-12-27T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49211-pacman_can_have_the_cookies_and_eat_the_ghosts_too</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/HCNL3V/</url>
         <title>Pacman can have the cookies and eat the ghosts too</title>
@@ -886,7 +886,7 @@ packaging ecosystem.&#13;
         <date>2022-12-27T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49209-the_train_has_left_the_station</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WHRJMW/</url>
         <title>The train has left the station</title>
@@ -909,13 +909,13 @@ packaging ecosystem.&#13;
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49244" guid="10710f38-5cc9-53ea-917c-aea5fc66c008">
         <logo>/media/hip-berlin-2022/submissions/8BSVFY/b33_XpEo1SV.jpg</logo>
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49244-how_to</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/8BSVFY/</url>
         <title>How To</title>
@@ -949,7 +949,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <date>2022-12-27T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49192-regenerative_hacking</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/</url>
         <title>Regenerative Hacking</title>
@@ -974,7 +974,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49196-what_i_learned_from_making_an_1836_led_dodecahedron</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/3D3JF9/</url>
         <title>What I learned from making an 1836 LED dodecahedron</title>
@@ -1003,7 +1003,7 @@ Be warned: This talk will cover enough information to make you consider building
         <date>2022-12-27T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49271-hacktivism</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/</url>
         <title>Hacktivism</title>
@@ -1024,13 +1024,13 @@ Be warned: This talk will cover enough information to make you consider building
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
@@ -1055,7 +1055,7 @@ Be warned: This talk will cover enough information to make you consider building
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
@@ -1080,7 +1080,7 @@ Be warned: This talk will cover enough information to make you consider building
         <date>2022-12-27T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-759-k_kulturarbeit_progressive_desillusionierung_und_professionelle_amateure_von_michael_hirsch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NEEAG3/</url>
         <title>K – Kulturarbeit. Progressive Desillusionierung und professionelle Amateure, von Michael Hirsch</title>
@@ -1105,13 +1105,13 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-6202-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum</title>
@@ -1136,7 +1136,7 @@ Moderation: Peter Arun Pfaff</description>
         <date>2022-12-27T14:05:00+01:00</date>
         <start>14:05</start>
         <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-3592-kunst_im_umbau</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/</url>
         <title>Kunst im Umbau</title>
@@ -1170,7 +1170,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <date>2022-12-27T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:20</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-6634-design_clubcult</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/</url>
         <title>Design Clubcult</title>
@@ -1195,7 +1195,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <date>2022-12-27T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-1313-geschlossene_gesellschaft</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YHABBG/</url>
         <title>Geschlossene Gesellschaft</title>
@@ -1247,13 +1247,13 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
     </room>
   </day>
   <day index="3" date="2022-12-28" start="2022-12-28T09:00:00+01:00" end="2022-12-28T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
       <event id="49154" guid="642a2250-a5b9-5e4a-bf53-984f1f0c0a70">
         <logo>/media/fire-shonks-2022/submissions/LMFMJN/logo_ekPeMOF.png</logo>
         <date>2022-12-28T11:55:00+01:00</date>
         <start>11:55</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49154-platform_system_interface</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/</url>
         <title>Platform System Interface</title>
@@ -1280,7 +1280,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:15</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49102-10_000_seiten_spaeter</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VYJUZN/</url>
         <title>10.000 Seiten später</title>
@@ -1306,7 +1306,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <date>2022-12-28T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49180-kann_quick_freeze_die_vorratsdatenspeicherung_endlich_beerdigen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VFXVLS/</url>
         <title>Kann Quick Freeze die Vorratsdatenspeicherung endlich beerdigen?</title>
@@ -1331,7 +1331,7 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <date>2022-12-28T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:55</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49078-haecksen_gegen_cyberstalking_ein_bericht_vom_anti_stalking_projekt</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/U7DKAZ/</url>
         <title>Haecksen gegen Cyberstalking  ein Bericht vom Anti-Stalking Projekt</title>
@@ -1362,7 +1362,7 @@ Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von
         <date>2022-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>00:30</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49174-db_schnueffelnavigator</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/</url>
         <title>DB Schnüffelnavigator</title>
@@ -1388,7 +1388,7 @@ Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Knif
         <date>2022-12-28T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/</url>
         <title>Kein Perso ohne Finger(abdrücke) mehr</title>
@@ -1414,7 +1414,7 @@ In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Sta
         <date>2022-12-28T20:15:00+01:00</date>
         <start>20:15</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49100-hacking_a_sat_receiver</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/AUHRYF/</url>
         <title>Hacking a sat receiver</title>
@@ -1447,7 +1447,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <date>2022-12-28T21:30:00+01:00</date>
         <start>21:30</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49226-operation_mindfuck_vol_6</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/XQ7SLU/</url>
         <title>Operation Mindfuck Vol. 6</title>
@@ -1475,13 +1475,13 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <attachments/>
       </event>
     </room>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="631" guid="0d6314a9-9049-59b4-b6e3-3d909086b378">
         <logo>/media/rtc22/submissions/MCVSWU/Logo_blue_BNLLwsP.png</logo>
         <date>2022-12-28T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/MCVSWU/</url>
         <title>Machen wir die Elektronik durch "Hardware as a service" kreislauffähiger</title>
@@ -1506,7 +1506,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <date>2022-12-28T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-7505-ipv6_einfach_nutzen</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/</url>
         <title>IPv6 einfach nutzen</title>
@@ -1542,7 +1542,7 @@ https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/
         <date>2022-12-28T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-3857-wir_koennen_dich_durchschauen</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
         <title>Wir können dich durchschauen</title>
@@ -1567,7 +1567,7 @@ https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/
         <date>2022-12-28T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-7282-antiverschwurbeltes_axiom</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/EXAGFT/</url>
         <title>antiverschwurbeltes axiom</title>
@@ -1606,7 +1606,7 @@ join us!</description>
         <date>2022-12-28T22:30:00+01:00</date>
         <start>22:30</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-5374-cursedin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
         <title>cursedin</title>
@@ -1705,12 +1705,12 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <attachments/>
       </event>
     </room>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="6037" guid="60c37cca-de6c-510c-89f5-4c7bf3c0ab75">
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>1:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit</slug>
         <title>Martyra Peng und die Zukunft der Sexarbeit</title>
         <subtitle/>
@@ -1735,7 +1735,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <date>2022-12-28T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>1:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-309-mikroskopieren_und_kochen</slug>
         <title>Mikroskopieren und Kochen</title>
         <subtitle>Workshop</subtitle>
@@ -1758,7 +1758,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>1:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-6311-die_wunderbare_welt_der_flaschengaerten</slug>
         <title>Die wunderbare Welt der Flaschengärten</title>
         <subtitle/>
@@ -1783,7 +1783,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <date>2022-12-28T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>1:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-9195-building_your_personal_dna_synthesizer</slug>
         <title>Building your personal DNA-Synthesizer</title>
         <subtitle/>
@@ -1910,13 +1910,13 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         <attachments/>
       </event>
     </room>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="4958" guid="a49e5c85-1ad9-5e2f-9427-627eb6a77ca3">
         <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
         <date>2022-12-28T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
         <title>Das ZAM im Wandel der Zeit</title>
@@ -1941,7 +1941,7 @@ Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwe
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:10</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-1912-telnetsnakebotwettbewerb</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/VZGSMJ/</url>
         <title>TelnetSnakeBotWettbewerb</title>
@@ -1981,7 +1981,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
         <date>2022-12-28T14:45:00+01:00</date>
         <start>14:45</start>
         <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-3209-tales_of_camelot</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/</url>
         <title>Tales of Camelot</title>
@@ -2012,7 +2012,7 @@ Achtung: Reverse Engineering, Assembler und viel Unfug Inside.</description>
         <date>2022-12-28T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-9908-wie_funktioniert_eigentlich_filmentwicklung</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YMB9ZK/</url>
         <title>Wie funktioniert eigentlich Filmentwicklung?</title>
@@ -2043,7 +2043,7 @@ Achtung: Reverse Engineering, Assembler und viel Unfug Inside.</description>
         <date>2022-12-28T17:15:00+01:00</date>
         <start>17:15</start>
         <duration>01:00</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-6207-schokolade_essen</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/9MW8CJ/</url>
         <title>Schokolade essen</title>
@@ -2196,13 +2196,13 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49261" guid="3de04181-3400-5656-9bbe-82aa5ebf1c51">
         <logo/>
         <date>2022-12-28T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49261-taping_out_a_systolic_array_with_an_opensource_pdk</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MJSGGS/</url>
         <title>Taping out a systolic array with an opensource PDK</title>
@@ -2229,7 +2229,7 @@ The related work can be found at https://github.com/tucanae47/etpu and https://g
         <date>2022-12-28T12:30:00+01:00</date>
         <start>12:30</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49113-takeaways_from_the_crypto_mines</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/N7V3XL/</url>
         <title>Takeaways from the crypto-mines</title>
@@ -2258,7 +2258,7 @@ All 6 of these areas have applicability beyond blockchain construction - with va
         <date>2022-12-28T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49208-librevents</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/YKXPH7/</url>
         <title>Librevents</title>
@@ -2299,7 +2299,7 @@ keywords: Fediverse, Mobilizon, data liberation, adversarial interoperability</d
         <date>2022-12-28T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49242-finding_state_malware</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PFUWNJ/</url>
         <title>Finding (state) malware</title>
@@ -2347,7 +2347,7 @@ For these steps and typical attack patterns we explain reasonable approaches and
         <date>2022-12-28T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49221-reviving_open_source_projects</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ZGJVPF/</url>
         <title>Reviving open-source projects</title>
@@ -2378,7 +2378,7 @@ In this talk, I will present the hands-on lessons I learned in the subsequent 3 
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49098-subdomain_takeover_the_use_after_free_of_the_internet</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/FB78TC/</url>
         <title>Subdomain takeover, the use after free of the internet</title>
@@ -2405,7 +2405,7 @@ This talk is there to give you the whole context: from the basic "what is subdom
         <date>2022-12-28T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:40</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49202-introduction_to_reverse_engineering_with_frida</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PYSPFN/</url>
         <title>Introduction to Reverse Engineering with Frida</title>
@@ -2430,7 +2430,7 @@ This talk is there to give you the whole context: from the basic "what is subdom
         <date>2022-12-28T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49255-why_you_should_write_a_wayland_compositor</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/XLTFWL/</url>
         <title>Why YOU should write a wayland compositor!</title>
@@ -2469,7 +2469,7 @@ Let me show you, what weird things did people build with it and lets unlock more
         <date>2022-12-28T21:30:00+01:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49254-false_positive_to_0_day</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/</url>
         <title>False Positive to 0-day</title>
@@ -2500,7 +2500,7 @@ The goal is to try and make the subject approachable and less intimidating, even
         <date>2022-12-28T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49092-never_mind_the_gigwork</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PEAQU9/</url>
         <title>Never Mind the Gigwork</title>
@@ -2526,13 +2526,13 @@ Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49190" guid="b9148114-9e85-59f4-8c90-e89266a22b17">
         <logo>/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png</logo>
         <date>2022-12-28T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:25</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49190-mostly_homebrewn_metal_am</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/</url>
         <title>(mostly) homebrewn metal AM</title>
@@ -2557,7 +2557,7 @@ Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <date>2022-12-28T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:25</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49195-how_my_video_game_project_is_helping_me_learn_tech_and_conquer_my_mental_health</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/SRYJMG/</url>
         <title>How my video game project is helping me learn tech and conquer my mental health</title>
@@ -2591,7 +2591,7 @@ Just so you know: The video game is still in development, so we will not be able
         <date>2022-12-28T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49264-exploring_social_media_reactions_to_conflicts_in_2022</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/UCQTY9/</url>
         <title>Exploring social media reactions to conflicts in 2022</title>
@@ -2622,7 +2622,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <date>2022-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49198-it_security_for_activists</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GDZNLP/</url>
         <title>It security for activists</title>
@@ -2648,7 +2648,7 @@ Verschiedene Arten von zivillgesellschaftlichen Engagement erhöhren die Bedroht
         <date>2022-12-28T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>00:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49185-ikea_pallet_hacks</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ECDJ3H/</url>
         <title>IKEA &amp; pallet hacks!</title>
@@ -2680,7 +2680,7 @@ With an extra of: why you shouldn't repair your ceiling for free (and I did it a
         <date>2022-12-28T20:45:00+01:00</date>
         <start>20:45</start>
         <duration>00:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49272-connecting_networks_in_global_maker_movements</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/DC8TQG/</url>
         <title>Connecting Networks in Global Maker Movements</title>
@@ -2703,13 +2703,13 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="8672" guid="867208f4-ebf6-5158-89c1-bd9f623f50f2">
         <logo/>
         <date>2022-12-28T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>03:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-8672-kritische_maennlichkeit</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ABL78Q/</url>
         <title>Kritische Männlichkeit</title>
@@ -2738,7 +2738,7 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
@@ -2770,7 +2770,7 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
@@ -2802,7 +2802,7 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-3812-kunst_und_kommerz_ein_problematisches_verhaeltnis</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FGZCAY/</url>
         <title>Kunst und Kommerz, ein problematisches Verhältnis</title>
@@ -2827,13 +2827,13 @@ Moderation: Peter Arun Pfaff</description>
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="2161" guid="21ec6115-cd0d-567d-b480-b5a829c1ad45">
         <logo/>
         <date>2022-12-28T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-2161-12_haeuser_13_jahre_selbstverwaltetes_soziokulturelles_leben_im_gaengeviertel</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXWEAN/</url>
         <title>12 Häuser, 13 Jahre selbstverwaltetes soziokulturelles Leben im Gängeviertel</title>
@@ -2858,7 +2858,7 @@ Moderation: Peter Arun Pfaff</description>
         <date>2022-12-28T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-958-alles_ist_1_ausser_der_0</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EBJMGM/</url>
         <title>Alles ist 1. Außer der 0.</title>
@@ -2884,7 +2884,7 @@ Mehr Infos: https://allesisteins.film/</description>
         <date>2022-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-4783-bruecken_statt_mauern</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/</url>
         <title>Brücken statt Mauern</title>
@@ -2912,7 +2912,7 @@ Mehr Infos: https://allesisteins.film/</description>
         <date>2022-12-28T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>01:31</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-755-kampf_um_die_a49</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/AZLCBQ/</url>
         <title>Kampf um die A49</title>
@@ -2941,13 +2941,13 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="4" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
       <event id="49270" guid="47b2d2c7-e59c-554c-97a2-ec80ecb640ba">
         <logo>/media/fire-shonks-2022/submissions/CKWDQR/Critical_Making_Inspirational_Stories_KbsfQ8C.png</logo>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49270-geschlechtergerechtigkeit_und_making</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CKWDQR/</url>
         <title>Geschlechtergerechtigkeit und Making</title>
@@ -2979,7 +2979,7 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49115-tracking_in_apps</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FRQGY9/</url>
         <title>Tracking in Apps</title>
@@ -3012,7 +3012,7 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
         <date>2022-12-29T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49279-barrierearme_datenvisualisierungen_im_web</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QPBDTA/</url>
         <title>Barrierearme Datenvisualisierungen im Web</title>
@@ -3039,7 +3039,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>01:30</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49227-stroemungen_kontroversen_und_paradoxien_im_anarchismus</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/WP8DB3/</url>
         <title>Strömungen, Kontroversen und Paradoxien im Anarchismus</title>
@@ -3064,7 +3064,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>00:15</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49172-ccs</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/</url>
         <title>#CCS </title>
@@ -3089,7 +3089,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:17</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49293-erklaerhaj_experimentiert</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/</url>
         <title>Erklärhaj experimentiert</title>
@@ -3114,7 +3114,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49246-post_quantum_cryptography</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/B7GMAL/</url>
         <title>Post-Quantum Cryptography</title>
@@ -3140,7 +3140,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49088-how_to_become_an_openstreetmap_pro</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RWANSQ/</url>
         <title>How to become an OpenStreetMap pro</title>
@@ -3165,7 +3165,7 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <date>2022-12-29T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/</url>
         <title>Die bequemsten Gepäckablagen im Fernverkehr der Deutschen Bahn</title>
@@ -3186,13 +3186,13 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <attachments/>
       </event>
     </room>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="8920" guid="ad8d9204-0bca-55b0-8733-956fd2127b77">
         <logo/>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-8920-owasp_raider</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/Y8NZ38/</url>
         <title>OWASP Raider</title>
@@ -3230,7 +3230,7 @@ Links to the project:&#13;
         <date>2022-12-29T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-5773-trust_in_digital_communication</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/K7J8PF/</url>
         <title>Trust in digital communication</title>
@@ -3255,7 +3255,7 @@ Links to the project:&#13;
         <date>2022-12-29T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-6627-geschichten_aus_dem_leben_einer_mastodon_moderatorin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/GD8EVV/</url>
         <title>Geschichten aus dem Leben einer Mastodon-Moderatorin</title>
@@ -3280,7 +3280,7 @@ Links to the project:&#13;
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-4704-die_mikroarchitektur_moderner_prozessoren</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/FEWKFR/</url>
         <title>Die Mikroarchitektur moderner Prozessoren</title>
@@ -3305,7 +3305,7 @@ Links to the project:&#13;
         <date>2022-12-29T18:15:00+01:00</date>
         <start>18:15</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-3191-misconceptions_about_energy_assessment</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/FEK7VC/</url>
         <title>Misconceptions about Energy Assessment</title>
@@ -3330,7 +3330,7 @@ Links to the project:&#13;
         <date>2022-12-29T19:45:00+01:00</date>
         <start>19:45</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-780-vitamin_d_versus_sonnenbrand</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/NVKBLS/</url>
         <title>Vitamin D versus Sonnenbrand</title>
@@ -3355,7 +3355,7 @@ Links to the project:&#13;
         <date>2022-12-29T20:45:00+01:00</date>
         <start>20:45</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-1707-exploring_social_media_reactions_to_conflicts_in_2022</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/EUUNSQ/</url>
         <title>Exploring social media reactions to conflicts in 2022</title>
@@ -3386,7 +3386,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <date>2022-12-29T22:30:00+01:00</date>
         <start>22:30</start>
         <duration>01:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-1140-citizen_kino</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/GURA8Y/</url>
         <title>CiTiZEN KiNO</title>
@@ -3486,12 +3486,12 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <attachments/>
       </event>
     </room>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="1843" guid="d1843366-bf8e-4735-89c2-71c6c939c44b">
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>2:00</duration>
-        <room>Halle 4K</room>
+        <room>CCL</room>
         <slug>jev22-1843-loete_deinen_eigenen_pflanzensensor</slug>
         <title>Löte deinen eigenen Pflanzensensor</title>
         <subtitle>Workshop</subtitle>
@@ -3682,13 +3682,13 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <attachments/>
       </event>
     </room>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
         <logo/>
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-5092-intro_to_time</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
         <title>intro to time</title>
@@ -3721,7 +3721,7 @@ Best way to learn and teach is by communicating, so lets talk!</description>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-2775-surviving_as_a_nerd</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
         <title>Surviving as a NERD</title>
@@ -3752,7 +3752,7 @@ Hack deine Beziehungen</description>
         <date>2022-12-29T15:15:00+01:00</date>
         <start>15:15</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-982-schlangenprogrammiernacht</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
         <title>Schlangenprogrammiernacht</title>
@@ -3785,7 +3785,7 @@ Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlange
         <date>2022-12-29T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>02:00</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
         <title>Schafkopf für Anfänger</title>
@@ -3962,13 +3962,13 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49173" guid="2888af7a-824d-55c8-8b18-bf6935ebe0e1">
         <logo/>
         <date>2022-12-29T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49173-dns_over_coap</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/37WZQY/</url>
         <title>DNS over CoAP</title>
@@ -3994,7 +3994,7 @@ constrained IoT but significantly outperforms when additional, CoAP standard fea
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49257-das_ist_globales_hardware_hacking_in_parallel</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/QM8CSR/</url>
         <title>Das ist globales Hardware Hacking in Parallel</title>
@@ -4021,7 +4021,7 @@ Ich möchte euch in diesem Vortrag einige davon vorstellen. Großartige Menschen
         <date>2022-12-29T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49228-are_you_old_enough_to_buy_this</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/GRBLDD/</url>
         <title>Are you old enough to buy this?</title>
@@ -4054,7 +4054,7 @@ This work is funded by the project [_Concrete Contracts_](https://concretecontra
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49160-from_idea_to_kicad_beyond</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/BGH3BG/</url>
         <title>From idea to KiCad &amp; beyond</title>
@@ -4092,7 +4092,7 @@ Marco (nickname "glowingkitty") is creating open-source LED lamps and developmen
         <date>2022-12-29T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49107-a_beginner_s_guide_to_unexpected_input</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WJBNAN/</url>
         <title>A beginner's guide to unexpected input 🧨</title>
@@ -4119,7 +4119,7 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <date>2022-12-29T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49248-no_fuzzer_has_been_there_yet</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/A3ULZV/</url>
         <title>No Fuzzer has been there yet</title>
@@ -4144,7 +4144,7 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <date>2022-12-29T20:15:00+01:00</date>
         <start>20:15</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49142-open_source_und_cloud_native</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/</url>
         <title>Open Source und Cloud Native</title>
@@ -4175,7 +4175,7 @@ Wir gehen durch https://www.it-planungsrat.de/beschluss/beschluss-2022-47</descr
         <date>2022-12-29T21:30:00+01:00</date>
         <start>21:30</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49250-aktuelles_zur_chatkontrolle</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JBU3JC/</url>
         <title>Aktuelles zur Chatkontrolle</title>
@@ -4203,7 +4203,7 @@ Um die Pläne noch zu verhindern müssen wir jetzt aktiv werden.</description>
         <date>2022-12-29T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>01:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49245-masking_threshold</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MBJW9Z/</url>
         <title>Masking Threshold</title>
@@ -4230,13 +4230,13 @@ Trailer: https://www.youtube.com/watch?v=c8ciPdXC6BQ&amp;</description>
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49229" guid="0d59c727-628c-545f-9917-6b23cef4e31d">
         <logo/>
         <date>2022-12-29T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49229-an_ontology_of_hope</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JBSLXU/</url>
         <title>An ontology of hope</title>
@@ -4265,7 +4265,7 @@ How can we remain hopeful, then, if hope doesn't make sense? This is what we att
         <date>2022-12-29T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:00</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49277-b3_buntesbugbounty</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/</url>
         <title>B3 - BuntesBugBounty</title>
@@ -4358,7 +4358,7 @@ www.inoeg.de/b3&#13;
         <date>2022-12-29T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:55</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49182-an_introduction_to_scientific_journalism</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LSVHXN/</url>
         <title>An Introduction to Scientific Journalism</title>
@@ -4383,7 +4383,7 @@ www.inoeg.de/b3&#13;
         <date>2022-12-29T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>01:30</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49183-eduroam</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/</url>
         <title>eduroam</title>
@@ -4413,13 +4413,13 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="3706" guid="37fc0602-d596-56a7-bdce-72253b7b5164">
         <logo>/media/freiraumforum/submissions/DULKXA/bp_2018_626x340_FF4tgZ2.png</logo>
         <date>2022-12-29T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-3706-slapp</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DULKXA/</url>
         <title>SLAPP</title>
@@ -4449,7 +4449,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <date>2022-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-2719-ressourcen_finanzen_foerderung</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JNBBC3/</url>
         <title>Ressourcen, Finanzen, Förderung</title>
@@ -4478,7 +4478,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <date>2022-12-29T18:30:00+01:00</date>
         <start>18:30</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-2550-solidarisch_essen_ackern_imkern_und_wohnen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FLSX9C/</url>
         <title>Solidarisch essen, ackern, imkern und wohnen</title>
@@ -4503,7 +4503,7 @@ Blueprint for Free Speech ist eine international agierende non-profit organizati
         <date>2022-12-29T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-4443-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QVPQKG/</url>
         <title>Das Mietshäuser Syndikat und das Neubauprojekt Görzer128</title>
@@ -4526,13 +4526,13 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
         <logo/>
         <date>2022-12-29T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum</title>
@@ -4557,7 +4557,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <date>2022-12-29T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
         <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums</title>
@@ -4582,7 +4582,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <date>2022-12-29T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
         <title>Das Unbehagen, als "links" wahrgenommen zu werden</title>
@@ -4636,13 +4636,13 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="5" date="2022-12-30" start="2022-12-30T09:00:00+01:00" end="2022-12-30T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
       <event id="49167" guid="3c71d0d5-8779-552b-bde9-05f6cf8909e4">
         <logo/>
         <date>2022-12-30T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:45</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49167-videokonferenzen</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UMTV9R/</url>
         <title>Videokonferenzen</title>
@@ -4683,7 +4683,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <date>2022-12-30T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49284-barrierefrei_posten</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GBFNJW/</url>
         <title>Barrierefrei posten</title>
@@ -4708,7 +4708,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <date>2022-12-30T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49153-logrotten</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/</url>
         <title>Logrotten</title>
@@ -4737,7 +4737,7 @@ In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrot
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49114-text_embeddings_fuer_anfaenger</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/</url>
         <title>Text Embeddings für Anfänger</title>
@@ -4764,7 +4764,7 @@ Dieser Vortrag zeigt wie man mit wenigen Zeilen python auf einem Standard-Rechne
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>01:15</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49086-informationen_bewerten_eine_zeitreise_durch_die_welt_der_propaganda_fake_news_und_desinformation</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/8XTUNF/</url>
         <title>Informationen bewerten — Eine Zeitreise durch die Welt der Propaganda, Fake News und Desinformation</title>
@@ -4796,7 +4796,7 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
         <date>2022-12-30T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49164-oreboot_auf_risc_v</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/</url>
         <title>oreboot auf RISC-V</title>
@@ -4828,7 +4828,7 @@ unterscheiden.</description>
         <date>2022-12-30T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49077-die_technik_hinter_teletext</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BBJ7JR/</url>
         <title>Die Technik hinter Teletext</title>
@@ -4854,7 +4854,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <date>2022-12-30T18:45:00+01:00</date>
         <start>18:45</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-54012-erklaerhaj_experimentiert_schon_wieder</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/</url>
         <title>Erklärhaj experimentiert schon wieder</title>
@@ -4879,7 +4879,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <date>2022-12-30T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>00:40</duration>
-        <room>Fireshonks-Stream</room>
+        <room>Fireshonks</room>
         <slug>jev22-49231-closing</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VR8FJG/</url>
         <title>Closing</title>
@@ -4900,13 +4900,13 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <attachments/>
       </event>
     </room>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="5754" guid="a575bb40-f3e1-5ac0-b11c-54fc8a36d49a">
         <logo/>
         <date>2022-12-30T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-5754-technikphilosophische_jahresendgala</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/77JC7G/</url>
         <title>Technikphilosophische Jahresendgala</title>
@@ -4931,7 +4931,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <date>2022-12-30T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-7860-infrastructure_review</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KEWAHX/</url>
         <title>Infrastructure Review</title>
@@ -4956,7 +4956,7 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
+        <room>Sparti</room>
         <slug>jev22-4292-closing_ceremony</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/XQSHAS/</url>
         <title>Closing Ceremony</title>
@@ -5090,7 +5090,7 @@ I will wander around the event and ask you about your project. If you are intere
         <attachments/>
       </event>
     </room>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49238" guid="af560f6b-6dcb-5655-bea5-fb60c5081df4">
         <logo/>
@@ -5195,13 +5195,13 @@ You can also spectate the event on PeerTube.</description>
         <attachments/>
       </event>
     </room>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="3038" guid="a303d860-5b1a-51a9-8bbc-60763964e065">
         <logo/>
         <date>2022-12-30T13:15:00+01:00</date>
         <start>13:15</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-3038-telnetsnakebotwettbewerb</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/SWRGBX/</url>
         <title>TelnetSnakeBotWettbewerb</title>
@@ -5241,7 +5241,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-5136-operational_transconductance_amplifiers</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/</url>
         <title>Operational Transconductance Amplifiers</title>
@@ -5270,7 +5270,7 @@ This talk will take top-down approach starting with the operational principles a
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
-        <room>WICMP Seminarraum</room>
+        <room>Seminarraum</room>
         <slug>jev22-5620-das_matrix_protokoll</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/</url>
         <title>Das Matrix-Protokoll</title>
@@ -5421,13 +5421,13 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da">
       <event id="49199" guid="90027f42-d1c3-53e8-b18a-34564fda53f5">
         <logo/>
         <date>2022-12-30T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49199-decentralised_social_media_has_a_moderation_problem</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/NUAUJG/</url>
         <title>Decentralised social media has a moderation problem</title>
@@ -5464,7 +5464,7 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <date>2022-12-30T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>01:00</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49210-what_if_xss_was_a_browser_bug</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/DYW8MV/</url>
         <title>What if XSS was a browser bug?</title>
@@ -5489,7 +5489,7 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <date>2022-12-30T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
-        <room>HIP - Track 1 - Room 5</room>
+        <room>HIP1</room>
         <slug>jev22-49267-placeholder_review_closing</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/</url>
         <title>placeholder, Review &amp; Closing</title>
@@ -5511,13 +5511,13 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <attachments/>
       </event>
     </room>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
       <event id="49222" guid="bc17cad7-3c6b-5cea-9735-b79ec525a15a">
         <logo>/media/hip-berlin-2022/submissions/FRLYBH/Bildschirmfoto_2022-11-27_um_20.08.02_So1CDnt.png</logo>
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:45</duration>
-        <room>HIP - Track 2 - Room 2</room>
+        <room>HIP2</room>
         <slug>jev22-49222-die_physik_der_musik</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/FRLYBH/</url>
         <title>die Physik der Musik</title>
@@ -5538,13 +5538,13 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="3801" guid="a3ecb801-4ef2-50c0-9ad0-9b6777826df6">
         <logo>/media/freiraumforum/submissions/GTCTSJ/CA_Logo_dUZzHhA.png</logo>
         <date>2022-12-30T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:45</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-3801-wohnheim_collegium_academicum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/</url>
         <title>Wohnheim Collegium Academicum</title>
@@ -5570,7 +5570,7 @@ Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das 
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-183-care_werkstatt_who_cares_werkstatt_fuer_fuersorge_praktiken_by_assoziation</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/D9NJMY/</url>
         <title>Care Werkstatt // Who Cares? Werkstatt für Fürsorge(praktiken). by Assoziation:E</title>
@@ -5600,7 +5600,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <date>2022-12-30T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:30</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-8684-wdzwo</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
         <title>WdZwo</title>
@@ -5621,13 +5621,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
@@ -5652,7 +5652,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <date>2022-12-30T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-1324-treibgut</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/</url>
         <title>treibgut</title>
@@ -5677,7 +5677,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <date>2022-12-30T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:17</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-7917-culture_is_not_dead</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/</url>
         <title>CULTURE IS NOT DEAD</title>
@@ -5714,7 +5714,7 @@ Insta: zwischensequenzen</description>
         <date>2022-12-30T15:25:00+01:00</date>
         <start>15:25</start>
         <duration>00:08</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-3800-cheers_to_10_years</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/</url>
         <title>Cheers to 10 years!</title>
@@ -5740,7 +5740,7 @@ Komm in die Gänge! Cheers to 10 years!</abstract>
         <date>2022-12-30T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
         <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
@@ -5770,7 +5770,7 @@ Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</desc
         <date>2022-12-30T19:30:00+01:00</date>
         <start>19:30</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-497-allesandersplatz</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BQWXKA/</url>
         <title>Allesandersplatz</title>
@@ -5797,22 +5797,22 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
-    <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
-    <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
-    <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
-    <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
-    <room name="Vortragsraum 1 - Ahlam - H2-1.6" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
+    <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
+    <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
+    <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
         <logo>/media/freiraumforum/submissions/YJWT8F/Oberlab_Raum_0XNRlXf.jpg</logo>
         <date>2022-12-31T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-1708-oberlab</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/</url>
         <title>Oberlab</title>
@@ -5839,7 +5839,7 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <date>2022-12-31T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
-        <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
+        <room>Ahlam</room>
         <slug>jev22-2668-mybrainmychoice</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/</url>
         <title>#mybrainmychoice</title>
@@ -5860,13 +5860,13 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <attachments/>
       </event>
     </room>
-    <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
+    <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
         <logo>/media/freiraumforum/submissions/HDHX7S/Ffmuc_kombi_vector_5m7QlAO.jpg</logo>
         <date>2022-12-31T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-1265-freie_netze_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/</url>
         <title>Freie Netze München</title>
@@ -5894,7 +5894,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <date>2022-12-31T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
+        <room>Bhavani</room>
         <slug>jev22-194-infrastructure_review</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/</url>
         <title>Infrastructure Review</title>
