@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 10:40</version>
+  <version>2022-12-27 11:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -329,7 +329,9 @@ Sie wollen nicht kleckern, sondern klotzen und so richtig massiv die Persönlich
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wir verlesen die besten Überwachungsblüten aus dem Digitalzwangmelder.</abstract>
+        <abstract>Wir verlesen die besten Überwachungsblüten aus dem Digitalzwangmelder.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>"... geht nur mit App."&#13;
 "... nur noch online."&#13;
 "... laden Sie im Google-Play-Store ..."&#13;
@@ -359,7 +361,9 @@ Immer häufiger stoßen wir an Digitalzwang. Mit dem Digitalzwangmelder haben wi
         <type>Talk</type>
         <language>de</language>
         <abstract>Einblick in Leben und Symptome der Borderline-Persönlichkeitsstörung - Talk ergänzt um die Themen Favorite Persons bei Borderline und detaillierte Beschreibung der Diagnosekriterien und Skills&#13;
-Trigger versuche ich zu vermeiden</abstract>
+Trigger versuche ich zu vermeiden&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Die Borderline-Persönlichkeitsstörung hat viele Gesichter, weil für die Diagnostik 5 von 9 Kriterien in beliebiger Kombination zutreffen müssen. Ich habe schon auf der GPN20 versucht, Euch die komplexe Persönlichkeitsstörung Borderline etwas näher zu bringen (Link zum damaligen Talk kann gestreamt werden).&#13;
 Das Interesse war erstaunlich groß, deshalb möchte ich den Talk gerne fortsetzen.&#13;
 &#13;
@@ -391,7 +395,9 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wir produzieren ein lustiges Abendprogram im WIR Haus in Wülfrath.</abstract>
+        <abstract>Wir produzieren ein lustiges Abendprogram im WIR Haus in Wülfrath.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Big surprise!</description>
         <recording>
           <license/>
