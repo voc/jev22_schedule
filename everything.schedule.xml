@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 21:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.40; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 21:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.42; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2420,13 +2420,13 @@ Nur für schwache Nerven.</description>
       </event>
     </room>
     <room name="Ruheraum - H1-2.1">
-      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
+      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5134-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -2452,13 +2452,13 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <links/>
         <attachments/>
       </event>
-      <event id="6706" guid="6a70dd63-386f-5cb4-9f07-71ee93efbe94">
+      <event id="5134" guid="5134caa0-0da8-591a-a888-ace317874729">
         <logo>/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg</logo>
         <date>2022-12-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
+        <slug>jev22-5134-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
         <title>Supporting Resilience with Mindfulness</title>
         <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
@@ -5206,13 +5206,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -5238,13 +5238,13 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <links/>
         <attachments/>
       </event>
-      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -5893,6 +5893,31 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <links/>
         <attachments/>
       </event>
+      <event id="4339" guid="fec433ac-918a-55d5-b672-b06e67051803">
+        <logo>/media/freiraumforum/submissions/GMDB8G/bingo-win_1_aS3ku3o.jpg</logo>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Forumszentrum - H1-0.1</room>
+        <slug>jev22-4339-tunten_bingo</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GMDB8G/</url>
+        <title>Tunten Bingo</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Weiteres</type>
+        <language>de</language>
+        <abstract>Ella Trixi Thät Gitta Stähbe Hüterin der Hütertin des Goldenen Stöckels™ ist eine Hamburger Polittunte und spielt mit euch eine schäbig schöne Runde Bingo. Es gibt Tolle und weniger Tolle Preise. Racers, Start your engine and may the best bingo queen win.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
       <event id="8734" guid="f8734889-2c55-55ef-9d81-cb9b69953f04">
@@ -6001,13 +6026,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="3058" guid="3fc0b582-2893-521b-bc84-0cb547decbf1">
+      <event id="945" guid="e09bcdaa-d4bb-5a44-a633-a66b04c2b15b">
         <logo/>
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-3058-essenszeit_abends</slug>
+        <slug>jev22-945-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
@@ -6024,31 +6049,6 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         </recording>
         <persons>
           <person id="162">VolxKüche München</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="4339" guid="fec433ac-918a-55d5-b672-b06e67051803">
-        <logo>/media/freiraumforum/submissions/GMDB8G/bingo-win_1_aS3ku3o.jpg</logo>
-        <date>2022-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:30</duration>
-        <room>Kantine - H2-4.7</room>
-        <slug>jev22-4339-tunten_bingo</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GMDB8G/</url>
-        <title>Tunten Bingo</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Weiteres</type>
-        <language>de</language>
-        <abstract>Ella Trixi Thät Gitta Stähbe Hüterin der Hütertin des Goldenen Stöckels™ ist eine Hamburger Polittunte und spielt mit euch eine schäbig schöne Runde Bingo. Es gibt Tolle und weniger Tolle Preise. Racers, Start your engine and may the best bingo queen win.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
         </persons>
         <links/>
         <attachments/>
@@ -8363,31 +8363,6 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
       </event>
     </room>
     <room name="Vortragsraum 2 - Bhavani - H1-5.2" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
-        <logo/>
-        <date>2022-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>02:00</duration>
-        <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
-        <title>Gebärdensprache und Freiraum</title>
-        <subtitle> - Deafolution!</subtitle>
-        <track>Freiräume</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Gebärdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Gebärdensprache aus mit dem Ziel der Gestaltung einer freiräumlichbezogenen Gebärdensprachraum?</abstract>
-        <description>Als eine sprachliche Minderheitsgruppe ist es für die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der großen Hörendengemeinschaft als eine Mehrheit. Die Visualität als eine Sprache wird immer wieder ignoriert von der Hörendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="191">Matthias Ranner</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="4985" guid="4fb985fc-b2a9-5fa7-b8c8-6925415a6cde">
         <logo>/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png</logo>
         <date>2022-12-29T14:30:00+01:00</date>
@@ -9141,6 +9116,31 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <links/>
         <attachments/>
       </event>
+      <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
+        <logo/>
+        <date>2022-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>Forumszentrum - H1-0.1</room>
+        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
+        <title>Gebärdensprache und Freiraum</title>
+        <subtitle> - Deafolution!</subtitle>
+        <track>Freiräume</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Gebärdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Gebärdensprache aus mit dem Ziel der Gestaltung einer freiräumlichbezogenen Gebärdensprachraum?</abstract>
+        <description>Als eine sprachliche Minderheitsgruppe ist es für die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der großen Hörendengemeinschaft als eine Mehrheit. Die Visualität als eine Sprache wird immer wieder ignoriert von der Hörendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="191">Matthias Ranner</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2">
       <event id="2265" guid="22edd65c-ed10-57d0-9125-c387a35ac12d">
@@ -9249,13 +9249,13 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <links/>
         <attachments/>
       </event>
-      <event id="945" guid="e09bcdaa-d4bb-5a44-a633-a66b04c2b15b">
+      <event id="3058" guid="3fc0b582-2893-521b-bc84-0cb547decbf1">
         <logo/>
         <date>2022-12-29T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-945-essenszeit_abends</slug>
+        <slug>jev22-3058-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
         <title>Essenszeit (Abends)</title>
         <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>

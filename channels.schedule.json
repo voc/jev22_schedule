@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 21:00",
+    "version": "2022-12-27 21:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3377,14 +3377,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -3415,14 +3415,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -5399,37 +5399,6 @@
               }
             ],
             "Bhavani": [
-              {
-                "id": 2242,
-                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
-                "logo": "",
-                "date": "2022-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "02:00",
-                "room": "Bhavani",
-                "slug": "jev22-2242-gebaerdensprache_und_freiraum",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
-                "title": "Geb\u00e4rdensprache und Freiraum",
-                "subtitle": " - Deafolution!",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
-                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 191,
-                    "code": "V3YXGR",
-                    "public_name": "Matthias Ranner",
-                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 4985,
                 "guid": "4fb985fc-b2a9-5fa7-b8c8-6925415a6cde",

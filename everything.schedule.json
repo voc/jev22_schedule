@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 21:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.40; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 21:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.42; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3002,14 +3002,14 @@
             ],
             "Ruheraum - H1-2.1": [
               {
-                "id": 5134,
-                "guid": "5134caa0-0da8-591a-a888-ace317874729",
+                "id": 6706,
+                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-5134-supporting_resilience_with_mindfulness",
+                "slug": "jev22-6706-supporting_resilience_with_mindfulness",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness",
                 "subtitle": " - eine Einf\u00fchrung in Achtsamkeitspraxis",
@@ -3033,14 +3033,14 @@
                 "attachments": []
               },
               {
-                "id": 6706,
-                "guid": "6a70dd63-386f-5cb4-9f07-71ee93efbe94",
+                "id": 5134,
+                "guid": "5134caa0-0da8-591a-a888-ace317874729",
                 "logo": "/media/freiraumforum/submissions/RKTCWZ/LOVE_ETHICS-2_BmNO6QR.jpg",
                 "date": "2022-12-27T10:00:00+01:00",
                 "start": "10:00",
                 "duration": "01:15",
                 "room": "Ruheraum - H1-2.1",
-                "slug": "jev22-6706-supporting_resilience_with_mindfulness",
+                "slug": "jev22-5134-supporting_resilience_with_mindfulness",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/",
                 "title": "Supporting Resilience with Mindfulness",
                 "subtitle": " - eine Einf\u00fchrung in Achtsamkeitspraxis",
@@ -6032,14 +6032,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6070,14 +6070,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Vortragsraum 1 - Ahlam - H2-1.6",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6811,6 +6811,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 4339,
+                "guid": "fec433ac-918a-55d5-b672-b06e67051803",
+                "logo": "/media/freiraumforum/submissions/GMDB8G/bingo-win_1_aS3ku3o.jpg",
+                "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "Forumszentrum - H1-0.1",
+                "slug": "jev22-4339-tunten_bingo",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GMDB8G/",
+                "title": "Tunten Bingo",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Weiteres",
+                "language": "de",
+                "abstract": "Ella Trixi Th\u00e4t Gitta St\u00e4hbe H\u00fcterin der H\u00fctertin des Goldenen St\u00f6ckels\u2122 ist eine Hamburger Polittunte und spielt mit euch eine sch\u00e4big sch\u00f6ne Runde Bingo. Es gibt Tolle und weniger Tolle Preise. Racers, Start your engine and may the best bingo queen win.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 101,
+                    "code": "7MZ3J3",
+                    "public_name": "Joseph R\u00fcffert | Ella Trixi Th\u00e4t",
+                    "biography": "Ich bin Joseph R\u00fcffert und die Poltittunte Ella Trixi Th\u00e4t Gitta St\u00e4hbe, H\u00fcterin der H\u00fcterin des goldenen St\u00f6ckels\u2122 aus Hamburg, Teil des Tuntenkollektivs \"Schaar der Sch\u00e4bigen\" und in (queerer) Sub- und Soziokultur beruflich, ehrenamtlich, forschend und lebend t\u00e4tig.\r\n\r\nAls kulturschaffende Polittunte mit Bachelor in Elektrotechnik, einem laufenden Masterstudium im Kultur- und Medienmanagement, Arbeit in der Freiwilligen Koordination im G\u00e4ngeviertel e.V. und der Schaffung von Sub- und soziokulturellen Kommunikationsr\u00e4umen f\u00fcr queere Menschen \u00fcberschneiden sich diverse Disziplinen und Facetten",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
@@ -6941,14 +6972,14 @@
                 "attachments": []
               },
               {
-                "id": 3058,
-                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
+                "id": 945,
+                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
                 "logo": "",
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-3058-essenszeit_abends",
+                "slug": "jev22-945-essenszeit_abends",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Essenszeit (Abends)",
                 "subtitle": " - VolxK\u00fcche M\u00fcnchen & Knoblauchfahne",
@@ -6965,37 +6996,6 @@
                     "code": "ESQCC8",
                     "public_name": "VolxK\u00fcche M\u00fcnchen",
                     "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 4339,
-                "guid": "fec433ac-918a-55d5-b672-b06e67051803",
-                "logo": "/media/freiraumforum/submissions/GMDB8G/bingo-win_1_aS3ku3o.jpg",
-                "date": "2022-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:30",
-                "room": "Kantine - H2-4.7",
-                "slug": "jev22-4339-tunten_bingo",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/GMDB8G/",
-                "title": "Tunten Bingo",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Weiteres",
-                "language": "de",
-                "abstract": "Ella Trixi Th\u00e4t Gitta St\u00e4hbe H\u00fcterin der H\u00fctertin des Goldenen St\u00f6ckels\u2122 ist eine Hamburger Polittunte und spielt mit euch eine sch\u00e4big sch\u00f6ne Runde Bingo. Es gibt Tolle und weniger Tolle Preise. Racers, Start your engine and may the best bingo queen win.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 101,
-                    "code": "7MZ3J3",
-                    "public_name": "Joseph R\u00fcffert | Ella Trixi Th\u00e4t",
-                    "biography": "Ich bin Joseph R\u00fcffert und die Poltittunte Ella Trixi Th\u00e4t Gitta St\u00e4hbe, H\u00fcterin der H\u00fcterin des goldenen St\u00f6ckels\u2122 aus Hamburg, Teil des Tuntenkollektivs \"Schaar der Sch\u00e4bigen\" und in (queerer) Sub- und Soziokultur beruflich, ehrenamtlich, forschend und lebend t\u00e4tig.\r\n\r\nAls kulturschaffende Polittunte mit Bachelor in Elektrotechnik, einem laufenden Masterstudium im Kultur- und Medienmanagement, Arbeit in der Freiwilligen Koordination im G\u00e4ngeviertel e.V. und der Schaffung von Sub- und soziokulturellen Kommunikationsr\u00e4umen f\u00fcr queere Menschen \u00fcberschneiden sich diverse Disziplinen und Facetten",
                     "answers": []
                   }
                 ],
@@ -9544,37 +9544,6 @@
             ],
             "Vortragsraum 2 - Bhavani - H1-5.2": [
               {
-                "id": 2242,
-                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
-                "logo": "",
-                "date": "2022-12-29T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "02:00",
-                "room": "Vortragsraum 2 - Bhavani - H1-5.2",
-                "slug": "jev22-2242-gebaerdensprache_und_freiraum",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
-                "title": "Geb\u00e4rdensprache und Freiraum",
-                "subtitle": " - Deafolution!",
-                "track": "Freir\u00e4ume",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
-                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 191,
-                    "code": "V3YXGR",
-                    "public_name": "Matthias Ranner",
-                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 4985,
                 "guid": "4fb985fc-b2a9-5fa7-b8c8-6925415a6cde",
                 "logo": "/media/freiraumforum/submissions/NYPZTG/antiauthorith%C3%A4re_4FTJdh3.png",
@@ -10452,6 +10421,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 2242,
+                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
+                "logo": "",
+                "date": "2022-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "02:00",
+                "room": "Forumszentrum - H1-0.1",
+                "slug": "jev22-2242-gebaerdensprache_und_freiraum",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
+                "title": "Geb\u00e4rdensprache und Freiraum",
+                "subtitle": " - Deafolution!",
+                "track": "Freir\u00e4ume",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Geb\u00e4rdensprache ist die Sprache der tauben Menschen. Auch die tauben Menschen brauchen ihren Freiraum. Wie sieht die Perspektive einer solidarischen Aktivismus in Bezug zur Geb\u00e4rdensprache aus mit dem Ziel der Gestaltung einer freir\u00e4umlichbezogenen Geb\u00e4rdensprachraum?",
+                "description": "Als eine sprachliche Minderheitsgruppe ist es f\u00fcr die Taubengemeinschaft immer schwierig, sich zu vernetzen als auch mitzuwirken im Rahmen der Aktivismus innerhalb der gro\u00dfen H\u00f6rendengemeinschaft als eine Mehrheit. Die Visualit\u00e4t als eine Sprache wird immer wieder ignoriert von der H\u00f6rendenwelt. Desweiteren haben taube Menschen aufgrund der sprachlichen Barriere kaum Zugang an Ressourcen. Etc.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 191,
+                    "code": "V3YXGR",
+                    "public_name": "Matthias Ranner",
+                    "biography": "Geb\u00e4rdensprachbotschafter, Wildnisp\u00e4dagoge/Sozialp\u00e4dagoge, geb\u00e4rdensprachlicher Freif\u00fchler, Commonsaktivist, and allways curious =)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Bibliothek +  Siebdruck +  Kleidertausch - H1-2.2": [
@@ -10582,14 +10582,14 @@
                 "attachments": []
               },
               {
-                "id": 945,
-                "guid": "e09bcdaa-d4bb-5a44-a633-a66b04c2b15b",
+                "id": 3058,
+                "guid": "3fc0b582-2893-521b-bc84-0cb547decbf1",
                 "logo": "",
                 "date": "2022-12-29T17:00:00+01:00",
                 "start": "17:00",
                 "duration": "03:00",
                 "room": "Kantine - H2-4.7",
-                "slug": "jev22-945-essenszeit_abends",
+                "slug": "jev22-3058-essenszeit_abends",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/",
                 "title": "Essenszeit (Abends)",
                 "subtitle": " - VolxK\u00fcche M\u00fcnchen & Knoblauchfahne",
