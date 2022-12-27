@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 21:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 21:40; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.43; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 22:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 22:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.43; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -8889,7 +8889,7 @@ During the Open Music Video Recording participants are heartily invited to dive 
         <language>en</language>
         <abstract>Experimental live sessions by Alligator Gozaimasu and friends. Alligator Gozaimasu is an art and sound collective with about 60 members spread all over the world.</abstract>
         <description>In 2014 beißpony's percussionist and songwriter Stephanie Müller and queerfeminist filmmaker and artist Klaus Erika Dietl had the chance to dive deep into Japan's underground music scene. There they started Alligator Gozaimasu. During the pandemic lots of further sound lovers and artists joined the international art and music collective. On December 29th 2022 Alligator Gozaimasu artists and friends of the collective who are based in Munich and nearby will be part of the live session. &#13;
-Line-Up: Klaus Erika Dietl, Sebastian Giussani, Andrea Lesjak, Stephanie Müller Bernadette Stadler, Karin Weixler, Carlotta Wirtl &amp; Jim, Lina Zylla.&#13;
+Line-Up: Klaus Erika Dietl, Sebastian Giussani, Andrea Lesjak, Corinna Mattner, Stephanie Müller Bernadette Stadler, wa-secht-dummês, Karin Weixler, Lina Zylla&#13;
 www.alligatorgozaimasu.bandcamp.com</description>
         <recording>
           <license/>
@@ -9478,7 +9478,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         </recording>
         <persons>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
-          <person id="3304">pnrd</person>
+          <person id="3304">pnrd (cyber4EDU e.V.)</person>
           <person id="3305">AG_Barrierefreiheit</person>
         </persons>
         <links/>
@@ -9813,7 +9813,7 @@ Ablauf:&#13;
         </recording>
         <persons>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
-          <person id="3304">pnrd</person>
+          <person id="3304">pnrd (cyber4EDU e.V.)</person>
         </persons>
         <links/>
         <attachments/>

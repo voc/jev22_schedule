@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 21:40</version>
+  <version>2022-12-27 22:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4748,7 +4748,7 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         </recording>
         <persons>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
-          <person id="3304">pnrd</person>
+          <person id="3304">pnrd (cyber4EDU e.V.)</person>
           <person id="3305">AG_Barrierefreiheit</person>
         </persons>
         <links/>
