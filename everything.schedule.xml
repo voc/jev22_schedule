@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 14:40; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 14:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 15:00; FireShonks 0.31; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 15:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -6356,9 +6356,9 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <start>19:00</start>
         <duration>00:17</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49293-erklaerhaj_experimentiert</slug>
+        <slug>jev22-49293-erklaerhaj_experimentiert_mit_farben</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/</url>
-        <title>Erklärhaj experimentiert</title>
+        <title>Erklärhaj experimentiert mit Farben</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>

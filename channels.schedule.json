@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 14:40",
+    "version": "2022-12-27 15:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3742,9 +3742,9 @@
                 "start": "19:00",
                 "duration": "00:17",
                 "room": "Fireshonks",
-                "slug": "jev22-49293-erklaerhaj_experimentiert",
+                "slug": "jev22-49293-erklaerhaj_experimentiert_mit_farben",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/",
-                "title": "Erkl\u00e4rhaj experimentiert",
+                "title": "Erkl\u00e4rhaj experimentiert mit Farben",
                 "subtitle": "",
                 "track": "R3S",
                 "type": "Talk",
