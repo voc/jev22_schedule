@@ -1,0 +1,33 @@
+{
+  "id": 6961,
+  "guid": "a6b96184-a561-5128-9703-031cde6d242a",
+  "logo": "",
+  "date": "2022-12-31T13:10:00+01:00",
+  "start": "13:10",
+  "duration": "00:30",
+  "room": "Forumszentrum - H1-0.1",
+  "slug": "jev22-6961-plenum_fuer_alle",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/ETJNJK/",
+  "title": "PLENUM F\u00dcR ALLE",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Weiteres",
+  "language": "de",
+  "abstract": "Plenum f\u00fcr alle - offen f\u00fcr Team und Teilnehmende. Wir treffen uns und besprechen den Forumstag - wo noch Hilfe gebraucht wird, Feedback, Tagesthemen und alles andere. Kommt zahlreich vorbei und bringt euch ein!",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 160,
+      "code": "K8UHKP",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}
