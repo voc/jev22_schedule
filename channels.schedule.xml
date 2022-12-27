@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 11:20</version>
+  <version>2022-12-27 11:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -211,7 +211,9 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
 Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.&#13;
 &#13;
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>This talk will be held in English. Both English and German subtitles are provided.</description>
+        <description>This talk will be held in English. Both English and German subtitles are provided.&#13;
+&#13;
+This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1283,7 +1285,9 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <type>Talk</type>
         <language>en</language>
         <abstract>Konnten wir sie je verstehen, und begreifen wir Computer heute noch wirklich?&#13;
-Auf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.</abstract>
+Auf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Ausgehend von einer Metaperspektive schauen wir uns die vielen verworrenen Facetten an, die zusammen die Elektronik der heutigen Zeit ergeben, von Gadgets und Mobilgeräten bis zu großen Rechnern, um schließlich zurückzufinden zu ihrem Ursprung: den Menschen, die sie geschaffen haben, die mit ihnen arbeiten und spielen, wie sich jene doch gar kaum unterscheiden und was sie antreibt.&#13;
 Dies legt den Grundstein zum übergreifenden [Platform System Interface](https://github.com/platform-system-interface)-Projekt, das darauf abzielt, die gemeinsame Gestaltung von Hard- und Software im Ganzen zu dokumentieren mit der [psi-spec](https://github.com/platform-system-interface/psi-spec) in Prosa, und darüber hinaus Anleitungen, Werkzeuge und ein Framework bereitzustellen.</description>
         <recording>
@@ -1309,7 +1313,9 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat veröffentlicht sind, liest Claudia ihn Kapitel für Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation – doch was ist 10.000 Seiten später (so lang ist der Klimabericht) davon übrig geblieben?</abstract>
+        <abstract>Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat veröffentlicht sind, liest Claudia ihn Kapitel für Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation – doch was ist 10.000 Seiten später (so lang ist der Klimabericht) davon übrig geblieben?&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Claudia fragt, was das Lesen des Klimaberichts in ihr verändert und mit ihr gemacht hat und möchte die Antwort gemeinsam mit Julia und Euch ergründen.</description>
         <recording>
           <license/>
@@ -1335,7 +1341,9 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Seit Jahrzehnten kämpfen wir politisch und juristisch gegen die Vorratsdatenspeicherung. Kann "Quick Freeze" der richtige Weg sein, um den Überwachungszombie endgültig zu beerdigen?</abstract>
+        <abstract>Seit Jahrzehnten kämpfen wir politisch und juristisch gegen die Vorratsdatenspeicherung. Kann "Quick Freeze" der richtige Weg sein, um den Überwachungszombie endgültig zu beerdigen?&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Nach einer ganz kurzen Einordnung der Vorratsdatenspeicherung wollen wir den aktuellen Vorschlag zu einem Quick-Freeze-Verfahren skizzieren und warum wir darin eine Chance sehen. Wir geben einen Überblick darüber, was die Bundespolitik gerade diskutiert, wie ein rechtsstaatlich vertretbares Instrument aussehen könnte und welche Fallstricke und Gefahren darin noch lauern.</description>
         <recording>
           <license/>
@@ -1360,7 +1368,9 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Stalking ist ein grosses gesellschaftliches Problem. Spyware, Stalkerware, aber auch andere harmlos wirkende Smartphone Features werden zum Stalken eingesetzt. Die Haecksen vom Anti-Stalking Project leisten technische Hilfe zur Selbsthilfe für Betroffene.</abstract>
+        <abstract>Stalking ist ein grosses gesellschaftliches Problem. Spyware, Stalkerware, aber auch andere harmlos wirkende Smartphone Features werden zum Stalken eingesetzt. Die Haecksen vom Anti-Stalking Project leisten technische Hilfe zur Selbsthilfe für Betroffene.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Stalking ist ein großes gesellschaftliches Problem. Spyware, Stalkerware, aber auch andere harmlos wirkende Smartphone Features werden zum Stalken eingesetzt. &#13;
 &#13;
 In der Pandemie haben Fälle von häuslicher Gewalt, Stalking und auch Cyberstalking leider zugenommen. Cyberstalking ist das Nachstellen und Belästigen einer Person mit Hilfe von Internet und Mobilfunk.&#13;
@@ -1391,7 +1401,9 @@ Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Die Bahn-App „DB Navigator” gibt viele Informationen über uns an Tracking-Firmen weiter – und wir haben keine Möglichkeit, dem zu widersprechen. Digitalcourage klagt dagegen. Denn wir wollen Bahn fahren, nicht Daten liefern.</abstract>
+        <abstract>Die Bahn-App „DB Navigator” gibt viele Informationen über uns an Tracking-Firmen weiter – und wir haben keine Möglichkeit, dem zu widersprechen. Digitalcourage klagt dagegen. Denn wir wollen Bahn fahren, nicht Daten liefern.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Digitalcourage klagt gemeinsam mit dem  IT-Sicherheitsforscher, Datenschutzaktivist und Blogger Mike Kuketz und dem auf IT- und Datenschutzrecht spezialisierten Anwalt Peter Hense gegen Tracker im „DB Navigator”.&#13;
 Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Kniff die Bahn versucht hat, sich rauszureden – das erzählt Julia Witte von Digitalcourage.</description>
         <recording>
@@ -1417,7 +1429,9 @@ Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Knif
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.</abstract>
+        <abstract>Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdrücke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir überzeugt: das ist übergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europäischen Gerichtshof gegen die Fingerabdruckspflicht.&#13;
 In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.</description>
         <recording>
@@ -1443,7 +1457,9 @@ In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Sta
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver</abstract>
+        <abstract>In this talk, I will share my journey of discovery through the firmware and hardware of a cheap satellite TV receiver.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>In diesem Vortrag geht es darum was man mit einem günstigen Sat-Receiver so anstellen kann, außer Fernsehen zu gucken. Dabei handelt es sich nämlich um einen kleinen Computer der auch gehackt werden kann. Es geht um Firmware-Formate, Framebuffer, Eigenheiten der MIPS-Architektur, und ein bisschen Linux.&#13;
 &#13;
 &#13;
@@ -1476,7 +1492,9 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!</abstract>
+        <abstract>For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>You can find recordings of the previous iterations here:&#13;
 &#13;
 - [Vol. 1](https://blinry.org/operation-mindfuck/) (German)&#13;
@@ -2976,7 +2994,10 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.</abstract>
+        <abstract>In unserem Beitrag wollen wir der Frage nachgehen, wie wir Making geschlechtergerechter gestalten können. Ausgehend von unserem Projekt namens "Critical Making" werden wir inspirierende Geschichten von spannenden Menschen auf der ganzen Welt präsentieren, die ihren Weg zu Making gefunden haben, indem sie unterschiedliche Barrieren in Bezug auf Geschlecht und überschneidende Ungleichheitsdimensionen überwunden haben. Wir werden eine erste Version von Empfehlungen, wie ein inklusiver Makerspace gestaltet werden kann, vorstellen: Ein Handbuch, das mit dem Ziel erstellt wurde, Ressourcen und Tipps anzubieten, wie ein Maker Space und seine Community inklusiver, vielfältiger und einladender für diejenigen werden können, die sich in der Maker-Bewegung und ihrer Community unterrepräsentiert und weniger sichtbar fühlen. Unser Ziel ist es, einen Dialog zu eröffnen, das Dokument soll weiter kontinuierlich wachsen und sich weiterentwickeln, und Erfahrungen und Vorschläge von unterschiedlichen Menschen aus verschiedenen Kontexten in sich vereinen.&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Im Projekt Critical Making (https://criticalmaking.eu/) konzentrieren wir uns auf kritisches und sozial verantwortliches Making und zeigen, wie globale Maker-Communities jungen Talenten aller Geschlechter neue Möglichkeiten bieten können, durch Open-Source-Innovation zu einer offenen Gesellschaft beizutragen .&#13;
 &#13;
 Im Zuge dessen haben wir Maßnahmen mitgestaltet, um bestehenden androzentrischen Strukturen entgegenzuwirken. Auch haben wir Richtlinien erarbeitet, welche das Bewusstsein für Machtungleichgewichte in Maker- und Online Spaces stärken sollen.&#13;
@@ -2996,7 +3017,7 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
         <attachments/>
       </event>
       <event id="49115" guid="51e7515c-4fd7-5c96-9e00-0e26edb4f416">
-        <logo/>
+        <logo>/media/fire-shonks-2022/submissions/FRQGY9/5_mDNdBvX.png</logo>
         <date>2022-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:45</duration>
@@ -3008,7 +3029,9 @@ In der Introduction to Inlcusive Making finden sich verständliche Erklärungen 
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Egal was wir im Internet machen, Webseiten und Apps versuchen uns durchgehend zu tracken. Wir haben schon viel über Tracking im Web gehört, aber wie sieht das bei Handy-Apps aus? Obwohl wir regelmäßig mit unseren Handys interagieren, wissen wir viel weniger über Datensammelei in unseren Smartphones. In diesem Vortrag wollen wir unsere Forschung im App-Tracking-Bereich vorstellen und Euch zeigen, wie wir automatisiert Tausende von Apps analysiert haben. Ihr werdet lernen, welche Daten Apps über Euch versenden und wer diese erhält. Außerdem schauen wir uns mal diese Einwilligungsdialogen an – sind die überhaupt legal?</abstract>
+        <abstract>Egal was wir im Internet machen, Webseiten und Apps versuchen uns durchgehend zu tracken. Wir haben schon viel über Tracking im Web gehört, aber wie sieht das bei Handy-Apps aus? Obwohl wir regelmäßig mit unseren Handys interagieren, wissen wir viel weniger über Datensammelei in unseren Smartphones. In diesem Vortrag wollen wir unsere Forschung im App-Tracking-Bereich vorstellen und Euch zeigen, wie wir automatisiert Tausende von Apps analysiert haben. Ihr werdet lernen, welche Daten Apps über Euch versenden und wer diese erhält. Außerdem schauen wir uns mal diese Einwilligungsdialogen an – sind die überhaupt legal?&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Während wir schon eine Menge über das allgegenwärtige Tracking im Web wissen, gibt es bisher wenig Ergebnisse zur Situation bei mobilen Apps, insbesondere in einem großen Umfang. Wir, der Datenanfragen.de e. V. und das Institut für Anwendungssicherheit an der TU Braunschweig, haben uns in mehreren Forschungsprojekten genau diesem Problem angenommen und möchten Euch unsere Ergebnisse vorstellen.&#13;
 &#13;
 Wir werden uns konkrete Tracking-Beispiele aus bekannten Apps ansehen, die zahlreiche Daten an Drittanbieter senden, selbst wenn die Nutzer_in die App gerade einmal gestartet hat. Wir werden Euch von den technischen Herausforderungen berichten, die uns begegnet sind sowie die Ergebnisse unserer Studie von 4.388 beliebten Apps unter Android und iOS berichten. Wir wollen nicht zu viel verraten, aber Ihr werdet nicht überrascht sein, dass die Situation genauso schlimm ist wie im Web. Ein Großteil der Apps übermittelt Telemetriedaten über Gerätedetails (Modell, Einstellungen, Batteriestatus, etc.), Sensordaten und Ereignisse (angeschaute Seiten, Klicks) oder selbst Eure GPS-Position und Daten, die Ihr in Apps eingebt.&#13;
@@ -3041,7 +3064,9 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wie können Datenvisualisierungen so gestaltet werden, dass sie auch für Menschen mit Behinderungen gut zugänglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden können. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die präsentierten Daten zum Download anzubieten und wie ein Diagramm für Screenreader-Nutzer:innen beschrieben werden kann.</abstract>
+        <abstract>Wie können Datenvisualisierungen so gestaltet werden, dass sie auch für Menschen mit Behinderungen gut zugänglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden können. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die präsentierten Daten zum Download anzubieten und wie ein Diagramm für Screenreader-Nutzer:innen beschrieben werden kann.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden können. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. &#13;
 &#13;
 Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.</description>
@@ -3068,7 +3093,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Der Anarchismus ist äußerst plural, was sich in seinen verschiedenen Strömungen, anhaltenden Kontroversen und paradoxen Denkweisen zeigt. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erklärt und in einen Zusammenhang gebracht werden kann.</abstract>
+        <abstract>Der Anarchismus ist äußerst plural, was sich in seinen verschiedenen Strömungen, anhaltenden Kontroversen und paradoxen Denkweisen zeigt. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erklärt und in einen Zusammenhang gebracht werden kann.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Der Anarchismus ist in sich äußerst plural. So gibt es neben anarchistischen Individualismus, Kommunismus und Syndikalismus noch weitere Strömungen und Traditionen in ihm. Weiterhin bestehen unter Anarchist*innen teilweise sehr unterschiedliche Ansichten darüber, wie Selbst- und Gesellschaftsveränderung im Zusammenhang stehen, wann Gewaltanwendung legitim ist, wie mit Entfremdung umgegangen werden kann und was Natur und Technik eigentlich sind. Außerdem finden sich im anarchistischen Denken zahlreiche Paradoxien. Sie kommen beispielsweise in den Konzepten von Zwischenraum, direkte Aktion, konkrete Utopie oder soziale Revolution zum Ausdruck. Thema des Vortrags ist, wie diese unglaubliche Vielfalt erklärt und in einen Zusammenhang gebracht werden kann.</description>
         <recording>
           <license/>
@@ -3093,7 +3120,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wir suchen nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist.</abstract>
+        <abstract>Wir suchen nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Mit dem “Chaotischen Catalysator Stipendien #CCS” werden für Masterarbeiten Stipendien vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert. In diesem kurzen Talk wollen wir das Stipendien Programm vorstellen. https://ccs.chaostreff-flensburg.de/</description>
         <recording>
           <license/>
@@ -3118,7 +3147,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Erklärhaj erklärt tolle Experimente live auf der Bühne!</abstract>
+        <abstract>Erklärhaj erklärt tolle Experimente live auf der Bühne!&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Erklärhaj erklärt tolle Experimente live auf der Bühne!</description>
         <recording>
           <license/>
@@ -3143,7 +3174,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and deployment of post-quantum cryptography have been going wrong.</abstract>
+        <abstract>Post-quantum cryptography is an important branch of cryptography, studying cryptography under the threat model that the attacker has a quantum computer. Systems that can withstand quantum attacks are urgently needed but in many applications all parties need to agree on what system is used. NIST, the US National Institute for Standards and Technology, has been running a competition to select some systems as standards. This talk will report on the process and cover some of the interesting ways that the design, standardization, and deployment of post-quantum cryptography have been going wrong.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Why do we still not use post-quantum cryptography? This talk sheds some light on what happened beyond the efforts of researchers to design good crypto and get it deployed. Bring your tinfoil hats.</description>
         <recording>
           <license/>
@@ -3169,7 +3202,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
-        <abstract>This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.</abstract>
+        <abstract>This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>I will show various editors, validators, parsers and other tools for both general and more specific purposes. I'm also sharing some tips and tricks I've learned during several years of OSM mapping.</description>
         <recording>
           <license/>
@@ -3194,7 +3229,9 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wer kennt das nicht... der Zug ist mal wieder voll, und es kein Sitzplatz mehr frei. hexchen klärt auf über die bequemsten Gepäckablagen, die trotzdem ein Sitzplatz darstellen können.</abstract>
+        <abstract>Wer kennt das nicht... der Zug ist mal wieder voll, und es kein Sitzplatz mehr frei. hexchen klärt auf über die bequemsten Gepäckablagen, die trotzdem ein Sitzplatz darstellen können.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Nachdem es im Lightningtalk auf der atmospheric:discharge leider nur für ICE3/4 gereicht hat, kommt jetzt ein längerer Talk mit mehr Gepäckablagen, mehr relevanten Bildern und Geschichten von den Erfahrungen des Reisens in Gepäckablagen.</description>
         <recording>
           <license/>

@@ -13,7 +13,7 @@
   "track": "R3S",
   "type": "Talk",
   "language": "en",
-  "abstract": "This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.",
+  "abstract": "This is for everyone who is already familiar with basic OSM mapping and wants to improve their skills and knowledge of the OSM ecosystem.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
   "description": "I will show various editors, validators, parsers and other tools for both general and more specific purposes. I'm also sharing some tips and tricks I've learned during several years of OSM mapping.",
   "recording_license": "",
   "do_not_record": false,
