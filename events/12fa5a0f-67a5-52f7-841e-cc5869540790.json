@@ -1,0 +1,33 @@
+{
+  "id": 1250,
+  "guid": "12fa5a0f-67a5-52f7-841e-cc5869540790",
+  "logo": "/media/wicmp1/submissions/MCW7CC/TechnEthik_nLX8XkX.JPG",
+  "date": "2022-12-30T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "WICMP Seminarraum",
+  "slug": "jev22-1250-tech_reflexion",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/MCW7CC/",
+  "title": "Tech-Reflexion",
+  "subtitle": ": Wann ist es \"gut\"?",
+  "track": "Erlangen",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Wann ist das, was wir machen gut? Diese Frage stellen sich alle, die kreativ gestaltend unterwegs sind. Es ist die Frage nach den Ma\u00dfst\u00e4ben, Randbedingungen und Zielen unseres Wirkens. Wir sprechen in offener, moderierter Diskussion \u00fcber unsere Ansichten, Erfahrungen und Erkenntnisse dar\u00fcber.",
+  "description": "Reflexion des eigenen Tuns und dessen Auswirkungen in regelm\u00e4\u00dfigen Abst\u00e4nden - besonders zum Jahreswechsel - hat sich bew\u00e4hrt als Prozess zu mehr Klarheit und zielgerichteter Planung. Wir tauschen unsere Gedanken aus, bekommen neue Impulse und lernen von einander.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 23,
+      "code": "GYRQPY",
+      "public_name": "Rolf Klug",
+      "biography": "Ich bin Allrounder und Philanthrop, Dr.-Ing. Elektrotechnik (Antriebstechnik), Hobby-Philosoph, Impulsgeber, Projektentwickler, Gr\u00fcnder, Impro-Musiker, Impro-T\u00e4nzer, Berater, Kursleiter, EssenzCoach, Reparierer, Betreibervereinsmitglied, etc.\r\nN\u00e4heres auf https://verbindungderwelten.de/stiftung/ueber-uns/rolf-klug/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "99808216-837b-11ed-85fb-6c400891b752",
+  "origin": "talks.w.icmp.camp"
+}
