@@ -16,7 +16,7 @@
   "abstract": "Die Geschichte des legend\u00e4ren Chaos Computer Club (CCC) und seiner Gr\u00fcnderseele Wau Holland (Dr. Wau).",
   "description": "Vom Computer-Nerd zum Datenk\u00fcnstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die gro\u00dfen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.\r\nMehr Infos: https://allesisteins.film/",
   "recording_license": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "persons": [
     {
       "id": 147,

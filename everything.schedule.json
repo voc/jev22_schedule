@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-27 22:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 22:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.43; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 23:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-27 23:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.43; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -6018,7 +6018,7 @@
                 "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
                 "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 138,
@@ -6056,7 +6056,7 @@
                 "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
                 "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 138,
@@ -6158,7 +6158,7 @@
                 "abstract": "Die Geschichte des legend\u00e4ren Chaos Computer Club (CCC) und seiner Gr\u00fcnderseele Wau Holland (Dr. Wau).",
                 "description": "Vom Computer-Nerd zum Datenk\u00fcnstler, vom Einsiedler zum Medienstar, vom subversiven Hacker zum Verfechter der Demokratie: Der energiegeladene Dokumentarfilm zeigt mit cleveren Montagen, wie die gro\u00dfen Fragen der Gegenwart das Leben und Wirken Wau Hollands auch schon damals durchzogen.\r\nMehr Infos: https://allesisteins.film/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 147,
