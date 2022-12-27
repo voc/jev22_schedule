@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 16:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5.1 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 16:40; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-27 17:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.5.1 final 2; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 17:00; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.38; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2921,12 +2921,12 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <abstract>Intro to Solar Protocol</abstract>
         <attachments/>
         <date>2022-12-27T10:30:00-05:00</date>
-        <description/>
+        <description>http://solarprotcool.net/</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
-        <duration>00:15</duration>
+        <duration>01:00</duration>
         <language>en</language>
         <links/>
         <logo/>
@@ -7956,11 +7956,9 @@ Das Melden von Sicherheitslücken und Datenlecks ist in Deutschland aktuell ein 
 Sowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier bereits etablierte Angebote. Entsprechend haben wir im Rahmen des Cybersicherheitsdialog des BSI [3] im September diesen Jahres das Projekt “B3 - Buntes Bug Bounty” gestartet. Ziel des Projektes ist es einen ethischen,  niedrigschwelligen und rechtssicherer Meldeprozess für Sicherheitslücken und Datenlecks zu entwickeln. Im Rahmen des Vortrags soll der aktuelle Stand der Diskussion vorgestellt und zur Teilnahme an der Diskussion eingeladen werden.&#13;
 &#13;
 [1] https://joinup.ec.europa.eu/collection/eu-fossa-2/about&#13;
-&#13;
 [2] https://www.bundeswehr.de/de/security-policy&#13;
-&#13;
 [3] https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Leistungen-und-Kooperationen/Digitaler-Verbraucherschutz/Projekt-Dialog-fuer-Cyber-Sicherheit/Dialog-fuer-Cyber-Sicherheit_node.html</abstract>
-        <description>Sollte ein:e Sicherheitsforscher:in aktuell eine Sicherheitslücke finden und dabei ggf. Auch noch über einen Datenleck stolpern, sieht sich einer Reihe von Fragen gegenüber:&#13;
+        <description>Sollte ein:e Sicherheitsforscher:in aktuell eine Sicherheitslücke finden und dabei ggf. auch noch über ein Datenleck stolpern, entstehen eine Reihe von Fragen:&#13;
 &#13;
 * Habe ich mich strafbar gemacht, wenn ja wie dolle? #Hackerparagraph&#13;
 * Wem melde ich die Lücke?&#13;
@@ -7968,32 +7966,33 @@ Sowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier b
 * Kann ich das ethisch vertreten?&#13;
 * Wie viel Arbeit wird das?&#13;
 &#13;
-&#13;
-Die Arbeit von ehrenamtlichen Sicherheitsforscher:innen wird von den Organisationen, deren Systeme betroffen sind, nicht notwendigerweise positiv aufgenommen - siehe CDU Connect-App [1]. Auch kann das Melden von Sicherheitslücken bei Bekanntwerden der meldenden Person für diese zu Repressalien führen wie der Fall der log4j Lücke gegenüber dem Unternehmen AliBaba [2][3]. &#13;
-Auch ist nicht immer einfach erkennbar, wem sind eine Lücke und ein entsprechendes Leck zu melden:&#13;
+Die Arbeit von ehrenamtlichen Sicherheitsforscher:innen wird von den Organisationen, deren Systeme betroffen sind, nicht notwendigerweise positiv aufgenommen - siehe CDU Connect-App [1]. Auch kann das Melden von Sicherheitslücken bei Bekanntwerden der meldenden Person für diese zu Repressalien führen wie der Fall der log4j Lücke gegenüber dem Unternehmen AliBaba [2][3].&#13;
+Ebenfalls ist nicht immer einfach erkennbar, wem eine Lücke und ein entsprechendes Leck zu melden sind:&#13;
 &#13;
 * der Organisation, die die Software einsetzt?&#13;
 * der Organisation, die die Software anbietet oder entwickelt?&#13;
-* Was ist zu tun, wenn es keine security.txt gibt? &#13;
-* Wendet sich eins an die Adresse im Impressum? &#13;
-* Im Falle eines Datenlecks, welcher LfDI ist zuständig? &#13;
-* Der des Landes der Filiale, die im Impressum steht, der des Bundeslandes, in dem die Firma ihren Hauptsitz hat? &#13;
-* Was passiert, wenn das Datenleck an den falschen LfDI gemeldet wird? &#13;
+* Was ist zu tun, wenn es keine security.txt gibt?&#13;
+* Wendet sich eins an die Adresse im Impressum?&#13;
+* Im Falle eines Datenlecks, welcher LfDI ist zuständig?&#13;
+* Der des Landes der Filiale, die im Impressum steht, der des Bundeslandes, in dem die Firma ihren Hauptsitz hat?&#13;
+* Was passiert, wenn das Datenleck an den falschen LfDI gemeldet wird?&#13;
 * Wieso wollen BfDI und LdDIs wissen wer ich bin?&#13;
 * Wie kann ich sicher sein, dass das BSI aus der Lücke keinen Staatstrojaner macht? etc. etc.&#13;
 &#13;
-Wie das aus Sicht von Sicherheitsforscherinnen funktioniert haben Zerforschung und Linus in dem Vortrag: “Deine Software, die Sicherheitslücken und ich” [5] dargestellt.&#13;
+Wie das aus Sicht von Sicherheitsforscher:innen funktioniert, haben Zerforschung und Linus in dem Vortrag: “Deine Software, die Sicherheitslücken und ich” [5] dargestellt.&#13;
 &#13;
-Damit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europäischer Ebene [7]  - dem Bund vorgeschlagen, dass er Sicherheitsforscher:innen einlädt, ihn und die öffentliche Hand im Allgemeinen zu hacken. &#13;
 &#13;
-Dies durch das Ausloben eines “Bunten Bug Bounties” und das Einrichten einer one-stop-shop Meldestelle für Sicherheitslücken und Datenlecks. &#13;
+Damit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europäischer Ebene [7] - dem Bund vorschlagen, dass er Sicherheitsforscher:innen einlädt, ihn und die öffentliche Hand im Allgemeinen zu hacken.&#13;
 &#13;
-Vorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung veröffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld für Fixes von Lücken in relevanten Open Source Frameworks. &#13;
+Dies durch das Ausloben eines “Bunten Bug Bounties” und das Einrichten einer one-stop-shop Meldestelle für Sicherheitslücken und Datenlecks.&#13;
+&#13;
+&#13;
+Vorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung veröffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld für Fixes von Lücken in relevanten Open Source Frameworks.&#13;
 &#13;
 Ziel des Projektes ist es herauszufinden: &#13;
 &#13;
-* Wie soll ein entsprechender Prozess aussehen?&#13;
-* Wie kann das rechtssicher gestaltet werden? &#13;
+* Wie könnte ein entsprechender Prozess aussehen?&#13;
+* Kann das rechtssicher gestaltet werden? &#13;
 * Wie passt das mit dem Cyber Resilience Act der EU [12] zusammen?&#13;
 &#13;
 Im Vortrag wollen wir den aktuellen Stand des Projektes vorstellen und die Community zur Diskussion einladen. &#13;
@@ -8002,27 +8001,16 @@ Weiteres Demnächst unter:&#13;
 www.inoeg.de/b3&#13;
 &#13;
 [1] https://www.zeit.de/digital/datenschutz/2021-08/cdu-connect-app-it-sicherheit-lilith-wittmann-forscherin-klage&#13;
-&#13;
 [2] https://winfuture.de/news,127162.html&#13;
-&#13;
 [3] https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud&#13;
-&#13;
 [4] https://securitytxt.org/&#13;
-&#13;
 [5] https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si&#13;
-&#13;
 [6] https://netzpolitik.org/2022/hackerparagrafen-sicherheit-fuer-die-sicherheitsforschung/&#13;
-&#13;
 [7] https://www.ccc.de/de/updates/2022/zero-day-schwarzmarkt-trockenlegen&#13;
-&#13;
 [8] https://www.bundeswehr.de/de/security-policy&#13;
-&#13;
 [9] https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands&#13;
-&#13;
 [10] https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb&#13;
-&#13;
 [11] https://joinup.ec.europa.eu/collection/eu-fossa-2/about&#13;
-&#13;
 [12] https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act</description>
         <recording>
           <license/>
