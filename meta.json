@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-27 02:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 02:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-27 03:34; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 03:34; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -178,7 +178,7 @@
         "capacity": null,
         "location": "Luzern, CH",
         "schedule_name": "Winterchaos",
-        "stream": null
+        "stream": "winterchaos"
       },
       {
         "name": "HIP - Track 1 - Room 5",
@@ -187,7 +187,7 @@
         "capacity": 110,
         "location": "Berlin, ETI Schauspielschule + c-base",
         "schedule_name": "HIP - Track 1 - Room 5",
-        "stream": null
+        "stream": "cbase1"
       },
       {
         "name": "HIP - Track 2 - Room 2",
@@ -196,7 +196,7 @@
         "capacity": 70,
         "location": "Berlin, ETI Schauspielschule + c-base",
         "schedule_name": "HIP - Track 2 - Room 2",
-        "stream": null
+        "stream": "cbase2"
       },
       {
         "name": "HDMI (room 3)",
@@ -401,9 +401,18 @@
         "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
         "description": null,
         "capacity": null,
-        "location": "Aalen, Hackwerk",
+        "location": "Aalen",
         "schedule_name": "Hackwerk",
-        "stream": null
+        "stream": "aalend"
+      },
+      {
+        "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
+        "name": "WoodbineDWeb",
+        "description": "Talks at Woodbine DWeb NYC 2022",
+        "capacity": null,
+        "location": "New York, USA",
+        "schedule_name": "WoodbineDWeb",
+        "stream": "woodbine"
       }
     ],
     "conferences": [
@@ -541,7 +550,8 @@
       },
       {
         "url": "https://pretalx.c3voc.de/hacking-in-hell-2022",
-        "name": "Hellarious: Hacking in Hell",
+        "name": "Hellarious",
+        "title": "Hellarious: Hacking in Hell",
         "location": "Brandenburg, Alte H\u00f6lle",
         "links": [
           "https://alte-hoelle.de/"
@@ -566,7 +576,8 @@
       },
       {
         "url": "https://data.jtbx.de/jev22_ccl/schedule.json",
-        "name": "Curious Community Labs Chaos Experience",
+        "name": "CCL CE",
+        "title": "Curious Community Labs Chaos Experience",
         "location": "Hamburg",
         "links": [
           "https://curious.bio/2022/11/remote-chaos-experience/"
@@ -732,7 +743,8 @@
       },
       {
         "url": "https://forum.freiraeumen.jetzt/freiraumforum",
-        "name": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
+        "name": "Freiraumforum",
+        "title": "Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr!",
         "location": "M\u00fcnchen",
         "links": [
           "https://events.ccc.de/2022/11/18/ff22-cfp/"
@@ -1029,8 +1041,8 @@
       },
       {
         "url": "https://pretalx.hackwerk.fun/jev-2022",
-        "name": "End-of-Year event",
-        "location": "Aalen, Hackwerk",
+        "name": "Hackwerk",
+        "location": "Aalen",
         "description": "Auch wir w\u00fcrden gerne bei der dezentralen Jahresendveranstaltung mitmachen. Hierzu laden wir vom 29.12-31.12. zum netten Zusammensein mit vielen Chaos-Wesen nach Aalen ein. \n\n Wir schauen bei einigen Gl\u00fchtschunks und Mate zusammen die Streams auf media.ccc.de an, haben aber auch vor selbst Vortr\u00e4ge zu halten und zu Streamen. \n\n Bitte hier ein Ticket klicken (wir verwenden das Ticketsystem, um die Teilnehmerzahl zu wissen)  \u2013 f\u00fcr Talk-Einreichungen haben wir ein Pretalx eingerichtet.",
         "links": [
           "https://tickets.hackwerk.fun/hackwerk/jev2022/",
@@ -1079,7 +1091,7 @@
       },
       {
         "url": "https://woodbine.nyc/2022/12/dweb-jev/schedule.json",
-        "name": "DWeb NY Pre-kickoff + RemoteCCC @ Woodbine",
+        "name": "Woodbine",
         "location": "New York, USA",
         "address": "Basement, Woodbine, 585 Woodward Ave, Ridgewood, Queens, NY 11385",
         "description": "A new DWeb Node is being formed! What does this mean? Come and find out! \n\n Relevant topics include: decentralized web, digital commons, co-ops, governance, privacy, anti-surveillance, software freedom.",

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 02:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 02:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-27 03:34; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 03:34; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -129,10 +129,10 @@ Moderation: Peter Arun Pfaff</description>
         <start>15:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-508-es_geht_durch_die_welt_ein_gefluester_zeitzeug_innen_der_revolution_und_raeterepublik_in_baiern_1918_19</slug>
+        <slug>jev22-508-es_geht_durch_die_welt_ein_gefluester</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/C9NQFY/</url>
-        <title>"Es geht durch die Welt ein Geflüster - Zeitzeug*innen der Revolution und Räterepublik in Baiern 1918/19"</title>
-        <subtitle/>
+        <title>"Es geht durch die Welt ein Geflüster</title>
+        <subtitle> - Zeitzeug*innen der Revolution und Räterepublik in Baiern 1918/19"</subtitle>
         <track>Freiräume</track>
         <type>Film</type>
         <language>de</language>
@@ -244,10 +244,10 @@ Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument 
         <start>16:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-2241-supporting_resilience_with_mindfulness_an_introduction_to_mindfulness_practice</slug>
+        <slug>jev22-2241-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/DALED8/</url>
-        <title>Supporting Resilience with Mindfulness - an introduction to mindfulness practice</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - an introduction to mindfulness practice</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -488,10 +488,10 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2348-essenszeit_abends_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-2348-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
-        <title>Essenszeit (Abends) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Abends)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -646,6 +646,7 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
     </room>
     <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -744,10 +745,10 @@ seinen eigenen Server installieren konnte, kann hier weitere Einblicke für die 
         <start>16:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49176-swarm_support_tools_digitalcourage_free_software</slug>
+        <slug>jev22-49176-swarm_support_tools</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RXPGBJ/</url>
-        <title>Swarm Support Tools - Digitalcourage ♥ Free Software</title>
-        <subtitle/>
+        <title>Swarm Support Tools</title>
+        <subtitle> - Digitalcourage ♥ Free Software</subtitle>
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
@@ -1218,10 +1219,10 @@ https://de.labournet.tv/project/der-laute-fruehling</description>
         <start>17:45</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-9081-gnu_taler_mit_krypto_bezahlen_ohne_blockchain</slug>
+        <slug>jev22-9081-gnu_taler</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
-        <title>GNU Taler -- mit Krypto bezahlen ohne Blockchain?</title>
-        <subtitle/>
+        <title>GNU Taler</title>
+        <subtitle> -- mit Krypto bezahlen ohne Blockchain?</subtitle>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -1767,10 +1768,10 @@ Be warned: This talk will cover enough information to make you consider building
         <start>20:00</start>
         <duration>01:30</duration>
         <room>HIP - Track 2 - Room 2</room>
-        <slug>jev22-49271-hacktivism_past_present_and_future</slug>
+        <slug>jev22-49271-hacktivism</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/LYZXBP/</url>
-        <title>Hacktivism - past, present and future</title>
-        <subtitle/>
+        <title>Hacktivism</title>
+        <subtitle> - past, present and future</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>en</language>
@@ -1997,10 +1998,10 @@ Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-4969-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
-        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
-        <subtitle/>
+        <title>Lass mich durch</title>
+        <subtitle> - Wege befreien im urbanen Raum</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -2078,10 +2079,10 @@ Moderation: Peter Arun Pfaff</description>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-6202-gebaerdensprache_und_freiraum_deafolution</slug>
+        <slug>jev22-6202-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
-        <title>Gebärdensprache und Freiraum - Deafolution!</title>
-        <subtitle/>
+        <title>Gebärdensprache und Freiraum</title>
+        <subtitle> - Deafolution!</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -2103,10 +2104,10 @@ Moderation: Peter Arun Pfaff</description>
         <start>14:05</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-3592-kunst_im_umbau_workshops_talks</slug>
+        <slug>jev22-3592-kunst_im_umbau</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/8FYURU/</url>
-        <title>Kunst im Umbau - Workshops &amp; Talks</title>
-        <subtitle/>
+        <title>Kunst im Umbau</title>
+        <subtitle> - Workshops &amp; Talks</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -2137,10 +2138,10 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <start>16:30</start>
         <duration>00:20</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-6634-design_clubcult_dance</slug>
+        <slug>jev22-6634-design_clubcult</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GNJZZT/</url>
-        <title>Design Clubcult - Dance!</title>
-        <subtitle/>
+        <title>Design Clubcult</title>
+        <subtitle> - Dance!</subtitle>
         <track>Freiräume</track>
         <type>Film</type>
         <language>en</language>
@@ -2301,10 +2302,10 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <start>15:30</start>
         <duration>02:00</duration>
         <room>Klangkeller - H1-U.1</room>
-        <slug>jev22-7822-tontechnik_basic_workshop_schaufel_besen_und_zombie_sessions_takeover</slug>
+        <slug>jev22-7822-tontechnik_basic_workshop</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PHFQV9/</url>
-        <title>Tontechnik Basic Workshop - Schaufel &amp; Besen und Zombie Sessions Takeover</title>
-        <subtitle/>
+        <title>Tontechnik Basic Workshop</title>
+        <subtitle> - Schaufel &amp; Besen und Zombie Sessions Takeover</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -2353,10 +2354,10 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-5134-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-5134-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
-        <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -2385,10 +2386,10 @@ Bringe dir gerne eine Yogamatte und Sitzkissen mit, wenn du auf dem Boden sitzen
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6706-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-6706-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
-        <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -2682,10 +2683,10 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-5655-essenszeit_mittag_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-5655-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
-        <title>Essenszeit (Mittag) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Mittag)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -2709,10 +2710,10 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-945-essenszeit_abends_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-945-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
-        <title>Essenszeit (Abends) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Abends)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -2893,6 +2894,33 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
+      <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
+        <abstract>Intro to Solar Protocol</abstract>
+        <attachments/>
+        <date>2022-12-27T10:30:00-05:00</date>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <duration>00:15</duration>
+        <language>en</language>
+        <links/>
+        <logo/>
+        <persons>
+          <person id="200">micro</person>
+        </persons>
+        <room>WoodbineDWeb</room>
+        <slug>jev22-6713-intro_to_solar_protocol</slug>
+        <start>10:30</start>
+        <subtitle/>
+        <title>Intro to Solar Protocol</title>
+        <track/>
+        <type>Talk</type>
+        <url>https://woodbine.nyc/2022/12/dweb-jev/solarprotocol-intro/</url>
+      </event>
+    </room>
   </day>
   <day index="3" date="2022-12-28" start="2022-12-28T09:00:00+01:00" end="2022-12-28T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -2902,10 +2930,10 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <start>11:55</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49154-platform_system_interface_design_und_evaluation_holistischer_computerarchitektur</slug>
+        <slug>jev22-49154-platform_system_interface</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/LMFMJN/</url>
-        <title>Platform System Interface - Design und Evaluation holistischer Computerarchitektur</title>
-        <subtitle/>
+        <title>Platform System Interface</title>
+        <subtitle> - Design und Evaluation holistischer Computerarchitektur</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>en</language>
@@ -3037,10 +3065,10 @@ Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Knif
         <start>19:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr_was_tun</slug>
+        <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/QHBEWS/</url>
-        <title>Kein Perso ohne Finger(abdrücke) mehr - was tun?</title>
-        <subtitle/>
+        <title>Kein Perso ohne Finger(abdrücke) mehr</title>
+        <subtitle> - was tun?</subtitle>
         <track>Digitalcourage</track>
         <type>Talk</type>
         <language>de</language>
@@ -3157,10 +3185,10 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Fireshonks-Workshop</room>
-        <slug>jev22-49171-hexis_quilting_on_the_go</slug>
+        <slug>jev22-49171-hexis</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/YWF8UF/</url>
-        <title>Hexis - Quilting on the go</title>
-        <subtitle>: EPP (English Paper Piecing) Tutorial für Anfänger*innen</subtitle>
+        <title>Hexis</title>
+        <subtitle> - Quilting on the go: EPP (English Paper Piecing) Tutorial für Anfänger*innen</subtitle>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
@@ -3241,10 +3269,10 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <start>17:30</start>
         <duration>01:00</duration>
         <room>Fireshonks-Workshop</room>
-        <slug>jev22-49104-hack_yourself_digitale_selbstverteidigung</slug>
+        <slug>jev22-49104-hack_yourself</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/GNXXZ9/</url>
-        <title>Hack yourself - Digitale Selbstverteidigung</title>
-        <subtitle/>
+        <title>Hack yourself</title>
+        <subtitle> - Digitale Selbstverteidigung</subtitle>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
@@ -3409,10 +3437,10 @@ https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/
         <start>19:30</start>
         <duration>01:00</duration>
         <room>RTC-Bühne (Sparti)</room>
-        <slug>jev22-3857-wir_koennen_dich_durchschauen_bildgebung_in_der_medizin</slug>
+        <slug>jev22-3857-wir_koennen_dich_durchschauen</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
-        <title>Wir können dich durchschauen - Bildgebung in der Medizin</title>
-        <subtitle/>
+        <title>Wir können dich durchschauen</title>
+        <subtitle> - Bildgebung in der Medizin</subtitle>
         <track>Potsdam</track>
         <type>Talk</type>
         <language>de</language>
@@ -3953,10 +3981,10 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49219-mafifa_wm_2030</slug>
+        <slug>jev22-49219-mafifa</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
-        <title>mafifa - WM 2030</title>
-        <subtitle/>
+        <title>mafifa</title>
+        <subtitle> - WM 2030</subtitle>
         <track>Activism</track>
         <type>Live Session (30)</type>
         <language>de</language>
@@ -4107,10 +4135,10 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
         <start>14:45</start>
         <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-3209-tales_of_camelot_gba_edition</slug>
+        <slug>jev22-3209-tales_of_camelot</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/</url>
-        <title>Tales of Camelot - GBA Edition</title>
-        <subtitle/>
+        <title>Tales of Camelot</title>
+        <subtitle> - GBA Edition</subtitle>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -4696,10 +4724,10 @@ The goal is to try and make the subject approachable and less intimidating, even
         <start>23:00</start>
         <duration>01:00</duration>
         <room>HIP - Track 1 - Room 5</room>
-        <slug>jev22-49092-never_mind_the_gigwork_here_s_the_coffeebots</slug>
+        <slug>jev22-49092-never_mind_the_gigwork</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/PEAQU9/</url>
-        <title>Never Mind the Gigwork - here's the Coffeebots</title>
-        <subtitle/>
+        <title>Never Mind the Gigwork</title>
+        <subtitle> - here's the Coffeebots</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>en</language>
@@ -5045,10 +5073,10 @@ All you need is a computer, and access to a laser/vinyl cutter (don't bring your
         <start>14:00</start>
         <duration>02:30</duration>
         <room>Soldering Workshop Room</room>
-        <slug>jev22-49162-learn_to_solder_digital_music_synthesis_workshop_with_ardutouch_music_synthesizer_kit</slug>
+        <slug>jev22-49162-learn_to_solder</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/8TQBMA/</url>
-        <title>Learn to Solder - Digital Music Synthesis workshop with ArduTouch music synthesizer kit</title>
-        <subtitle/>
+        <title>Learn to Solder</title>
+        <subtitle> - Digital Music Synthesis workshop with ArduTouch music synthesizer kit</subtitle>
         <track>E.T.I.</track>
         <type>Workshop</type>
         <language>en</language>
@@ -5089,10 +5117,10 @@ This workshop is for '''''total newbies'''''!</description>
         <start>16:00</start>
         <duration>00:30</duration>
         <room>c-base mainhall</room>
-        <slug>jev22-49263-cuber_mondforschung_und_erkundung_und_modularen_nanorovern</slug>
+        <slug>jev22-49263-cuber</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/ADCSSQ/</url>
-        <title>CubeR - Mondforschung und –Erkundung und modularen Nanorovern</title>
-        <subtitle/>
+        <title>CubeR</title>
+        <subtitle> - Mondforschung und –Erkundung und modularen Nanorovern</subtitle>
         <track>c-base</track>
         <type>Talk</type>
         <language>de</language>
@@ -5146,10 +5174,10 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
-        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
-        <subtitle/>
+        <title>Utopia, Dystopia &amp; Lost Futures</title>
+        <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -5178,10 +5206,10 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures_interdisziplinaeres_forschungskolloquium_by_assoziation</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
-        <title>Utopia, Dystopia &amp; Lost Futures - Interdisziplinäres Forschungskolloquium. by Assoziation:E</title>
-        <subtitle/>
+        <title>Utopia, Dystopia &amp; Lost Futures</title>
+        <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -5292,10 +5320,10 @@ Mehr Infos: https://allesisteins.film/</description>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4783-bruecken_statt_mauern_grenzenlose_solidaritaet</slug>
+        <slug>jev22-4783-bruecken_statt_mauern</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EJRDFX/</url>
-        <title>Brücken statt Mauern - grenzenlose Solidarität</title>
-        <subtitle/>
+        <title>Brücken statt Mauern</title>
+        <subtitle> - grenzenlose Solidarität</subtitle>
         <track>Freiräume</track>
         <type>Film</type>
         <language>de</language>
@@ -5526,10 +5554,10 @@ Die Teilnahme am Workshop ist leider nur auf 30 Personen beschränkt. Anmeldung 
         <start>12:00</start>
         <duration>01:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-4349-das_barrio_olga_benario_vorstellung</slug>
+        <slug>jev22-4349-das_barrio_olga_benario</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/EVHNA7/</url>
-        <title>Das Barrio Olga Benario - Vorstellung</title>
-        <subtitle/>
+        <title>Das Barrio Olga Benario</title>
+        <subtitle> - Vorstellung</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -5555,10 +5583,10 @@ Wie ist der Raum entstanden? Wie wird er organisiert und wer ist dort aktiv? Wie
         <start>14:00</start>
         <duration>02:30</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2-freiwilligenkoordination_im_kulturmanagement_der_sub_und_soziokultur</slug>
+        <slug>jev22-2-freiwilligenkoordination_im_kulturmanagement_der_sub</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/9P3DCV/</url>
-        <title>Freiwilligenkoordination im Kulturmanagement der Sub- und Soziokultur</title>
-        <subtitle/>
+        <title>Freiwilligenkoordination im Kulturmanagement der Sub</title>
+        <subtitle>- und Soziokultur</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -5645,10 +5673,10 @@ Danach DJing mit Emilie Gendron und Albert Pöschl</description>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-6347-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-6347-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
-        <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -5913,10 +5941,10 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-668-essenszeit_mittag_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-668-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
-        <title>Essenszeit (Mittag) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Mittag)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -5940,10 +5968,10 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1099-essenszeit_abends_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-1099-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
-        <title>Essenszeit (Abends) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Abends)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -6128,10 +6156,10 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
         <start>15:00</start>
         <duration>03:00</duration>
         <room>Timeout Raum - H2-5.1</room>
-        <slug>jev22-6622-lithotron_ein_transdisziplinaeres_klang_workshop_group_performance</slug>
+        <slug>jev22-6622-lithotron</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PYKMQB/</url>
-        <title>Lithotron - ein transdisziplinäres Klang-Workshop + Group-Performance</title>
-        <subtitle/>
+        <title>Lithotron</title>
+        <subtitle> - ein transdisziplinäres Klang-Workshop + Group-Performance</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -6153,6 +6181,7 @@ Wir werden die Loops und Sounds mit unseren Körpern spielen und gemeinsam Musik
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="4" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -6279,10 +6308,10 @@ Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbr
         <start>18:30</start>
         <duration>00:15</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49172-ccs_chaotischer_catalysator_stipendien</slug>
+        <slug>jev22-49172-ccs</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/</url>
-        <title>#CCS - Chaotischer Catalysator Stipendien</title>
-        <subtitle/>
+        <title>#CCS </title>
+        <subtitle>- Chaotischer Catalysator Stipendien</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -6512,10 +6541,10 @@ https://www.fiberspace.de/2013/07/bauanleitung-fur-eine-handspindel-kopfspindelh
         <start>19:30</start>
         <duration>01:00</duration>
         <room>Fireshonks-Workshop</room>
-        <slug>jev22-49105-betreutes_hacken_senior_und_die_juniorcrew</slug>
+        <slug>jev22-49105-betreutes_hacken</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/TGCYWB/</url>
-        <title>Betreutes Hacken - Senior und die Juniorcrew</title>
-        <subtitle/>
+        <title>Betreutes Hacken</title>
+        <subtitle> - Senior und die Juniorcrew</subtitle>
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
@@ -6841,10 +6870,10 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>jev22-49289-the_state_of_the_state_die_wichtigsten_themen_der_digitalen_verwaltung</slug>
+        <slug>jev22-49289-the_state_of_the_state</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
-        <title>The state of the state - die wichtigsten Themen der digitalen Verwaltung</title>
-        <subtitle/>
+        <title>The state of the state</title>
+        <subtitle> - die wichtigsten Themen der digitalen Verwaltung</subtitle>
         <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
@@ -7146,10 +7175,10 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49237-mafifa_wm_2030</slug>
+        <slug>jev22-49237-mafifa</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/</url>
-        <title>mafifa - WM 2030</title>
-        <subtitle/>
+        <title>mafifa</title>
+        <subtitle> - WM 2030</subtitle>
         <track>Activism</track>
         <type>Live Session (30)</type>
         <language>de</language>
@@ -7175,10 +7204,10 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>13:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
+        <slug>jev22-5092-intro_to_time</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
-        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
-        <subtitle/>
+        <title>intro to time</title>
+        <subtitle>- &amp; organisation-concepts and useful tricks</subtitle>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -7300,10 +7329,10 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Rave Cave</room>
-        <slug>jev22-1973-chaotic_symphony_an_audiovisual_space_trip</slug>
+        <slug>jev22-1973-chaotic_symphony</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/</url>
-        <title>chaotic symphony - an audiovisual space trip</title>
-        <subtitle/>
+        <title>chaotic symphony</title>
+        <subtitle> - an audiovisual space trip</subtitle>
         <track>Erlangen</track>
         <type>Musik (120 min)</type>
         <language>de</language>
@@ -7788,10 +7817,10 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <start>20:15</start>
         <duration>01:00</duration>
         <room>HIP - Track 1 - Room 5</room>
-        <slug>jev22-49142-open_source_und_cloud_native_die_zielarchitektur_der_deutschen_verwaltungscloud</slug>
+        <slug>jev22-49142-open_source_und_cloud_native</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/KJMMUB/</url>
-        <title>Open Source und Cloud Native - Die  Zielarchitektur der deutschen Verwaltungscloud</title>
-        <subtitle/>
+        <title>Open Source und Cloud Native</title>
+        <subtitle> - Die  Zielarchitektur der deutschen Verwaltungscloud</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
@@ -7909,10 +7938,10 @@ How can we remain hopeful, then, if hope doesn't make sense? This is what we att
         <start>12:15</start>
         <duration>01:00</duration>
         <room>HIP - Track 2 - Room 2</room>
-        <slug>jev22-49277-b3_buntesbugbounty_den_hackerparagraphen_hacken</slug>
+        <slug>jev22-49277-b3_buntesbugbounty</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/</url>
-        <title>B3 - BuntesBugBounty - den Hackerparagraphen Hacken</title>
-        <subtitle/>
+        <title>B3 - BuntesBugBounty</title>
+        <subtitle> - den Hackerparagraphen Hacken</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
@@ -8027,10 +8056,10 @@ www.inoeg.de/b3&#13;
         <start>16:45</start>
         <duration>01:30</duration>
         <room>HIP - Track 2 - Room 2</room>
-        <slug>jev22-49183-eduroam_eine_reise_durch_die_technik_hinter_der_foederation</slug>
+        <slug>jev22-49183-eduroam</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/UGZJMY/</url>
-        <title>eduroam - eine Reise durch die Technik hinter der Föderation</title>
-        <subtitle/>
+        <title>eduroam</title>
+        <subtitle> - eine Reise durch die Technik hinter der Föderation</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
@@ -8095,10 +8124,10 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <start>17:30</start>
         <duration>02:00</duration>
         <room>Soldering Workshop Room</room>
-        <slug>jev22-49235-beginners_workshop_how_to_plan_build_your_own_led_project</slug>
+        <slug>jev22-49235-beginners_workshop</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/G9K7L8/</url>
-        <title>Beginners workshop - How to plan &amp; build your own LED project</title>
-        <subtitle/>
+        <title>Beginners workshop</title>
+        <subtitle> - How to plan &amp; build your own LED project</subtitle>
         <track>E.T.I.</track>
         <type>Workshop</type>
         <language>en</language>
@@ -8122,10 +8151,10 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <start>17:00</start>
         <duration>01:00</duration>
         <room>c-base mainhall</room>
-        <slug>jev22-49197-das_war_ich_nicht_mein_handy_wurde_gehackt_sollten_beweise_aus_smartphones_vor_gericht_verwendbar_sein</slug>
+        <slug>jev22-49197-das_war_ich_nicht_mein_handy_wurde_gehackt</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/FCWFK9/</url>
-        <title>"Das war ich nicht, mein Handy wurde gehackt!" - Sollten Beweise aus Smartphones vor Gericht verwendbar sein?</title>
-        <subtitle/>
+        <title>"Das war ich nicht, mein Handy wurde gehackt!"</title>
+        <subtitle> - Sollten Beweise aus Smartphones vor Gericht verwendbar sein?</subtitle>
         <track>c-base</track>
         <type>Talk</type>
         <language>de</language>
@@ -8290,10 +8319,10 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-2242-gebaerdensprache_und_freiraum_deafolution</slug>
+        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
-        <title>Gebärdensprache und Freiraum - Deafolution!</title>
-        <subtitle/>
+        <title>Gebärdensprache und Freiraum</title>
+        <subtitle> - Deafolution!</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8315,10 +8344,10 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>14:30</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen</slug>
+        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
-        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverhältnissen</title>
-        <subtitle/>
+        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums</title>
+        <subtitle>- und Machtverhältnissen</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -8470,10 +8499,10 @@ Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 2 - H2-3.4</room>
-        <slug>jev22-1784-flaechengerechtigkeit_iaa_2023</slug>
+        <slug>jev22-1784-flaechengerechtigkeit</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZAYXUB/</url>
-        <title>Flächengerechtigkeit - IAA 2023</title>
-        <subtitle/>
+        <title>Flächengerechtigkeit</title>
+        <subtitle> - IAA 2023</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8552,10 +8581,10 @@ Wie auch 2021 wird es 2023 wieder vielfältigen Protest und Gegenkultur geben. D
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Workshopraum 2 - H2-3.4</room>
-        <slug>jev22-7173-gegen_die_automobile_stadt_den_oeffentlichen_raum_aneignen</slug>
+        <slug>jev22-7173-gegen_die_automobile_stadt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/KU8ZL9/</url>
-        <title>Gegen die Automobile Stadt - den öffentlichen Raum aneignen!</title>
-        <subtitle/>
+        <title>Gegen die Automobile Stadt</title>
+        <subtitle> - den öffentlichen Raum aneignen!</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -8579,10 +8608,10 @@ Wie auch 2021 wird es 2023 wieder vielfältigen Protest und Gegenkultur geben. D
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-2877-konflikte_koennen_gruppenkonflikten_begegnen</slug>
+        <slug>jev22-2877-konflikte_koennen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/MZHBFE/</url>
-        <title>Konflikte können - Gruppenkonflikten begegnen</title>
-        <subtitle/>
+        <title>Konflikte können</title>
+        <subtitle> - Gruppenkonflikten begegnen</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8609,10 +8638,10 @@ Was steckt hinter Konflikten? Wie eskaliert ein Konflikt in der Gruppe und wie k
         <start>15:00</start>
         <duration>03:00</duration>
         <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-9419-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
+        <slug>jev22-9419-celebrate_safe</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
-        <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
-        <subtitle/>
+        <title>Celebrate Safe</title>
+        <subtitle>- Projekt von Mindzone und ConAction Condrobs e.V.</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8639,10 +8668,10 @@ Multiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen 
         <start>18:30</start>
         <duration>02:00</duration>
         <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-1540-mind_over_tech_intenional_digital_habit_workshop</slug>
+        <slug>jev22-1540-mind_over_tech</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/BAXL8J/</url>
-        <title>Mind Over Tech - Intenional Digital Habit Workshop</title>
-        <subtitle/>
+        <title>Mind Over Tech</title>
+        <subtitle> - Intenional Digital Habit Workshop</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8696,10 +8725,10 @@ In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber�
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <slug>jev22-2055-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
-        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
-        <subtitle/>
+        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa</title>
+        <subtitle> - Moderation der Nacht</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8855,10 +8884,10 @@ www.alligatorgozaimasu.bandcamp.com</description>
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-934-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-934-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
-        <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -9123,10 +9152,10 @@ Also kommt rum, bring your own shirt und freut euch auf ne bunte Zeit!</descript
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2009-essenszeit_mittag_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-2009-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
-        <title>Essenszeit (Mittag) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Mittag)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -9150,10 +9179,10 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-2059-essenszeit_abends_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-2059-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
-        <title>Essenszeit (Abends) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Abends)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -9284,10 +9313,10 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <start>18:00</start>
         <duration>01:30</duration>
         <room>Stände - H2-4.8</room>
-        <slug>jev22-8119-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128_stand</slug>
+        <slug>jev22-8119-das_mietshaeuser_syndikat_und_das_neubauprojekt_goerzer128</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/F8KCJV/</url>
-        <title>Das Mietshäuser Syndikat und das Neubauprojekt Görzer128 - Stand</title>
-        <subtitle/>
+        <title>Das Mietshäuser Syndikat und das Neubauprojekt Görzer128</title>
+        <subtitle> - Stand</subtitle>
         <track>Freiräume</track>
         <type>Stand</type>
         <language>en</language>
@@ -9332,6 +9361,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="5" date="2022-12-30" start="2022-12-30T09:00:00+01:00" end="2022-12-30T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -9407,10 +9437,10 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <start>13:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49153-logrotten_it_s_not_a_bug</slug>
+        <slug>jev22-49153-logrotten</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/Y8H7QD/</url>
-        <title>Logrotten - "It's not a bug"</title>
-        <subtitle/>
+        <title>Logrotten</title>
+        <subtitle> - "It's not a bug"</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -9495,10 +9525,10 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
         <start>17:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49164-oreboot_auf_risc_v_vergleichende_analyse_zweier_implementierungen</slug>
+        <slug>jev22-49164-oreboot_auf_risc_v</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/3FPRWR/</url>
-        <title>oreboot auf RISC-V - Vergleichende Analyse zweier Implementierungen</title>
-        <subtitle/>
+        <title>oreboot auf RISC-V</title>
+        <subtitle> - Vergleichende Analyse zweier Implementierungen</subtitle>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
@@ -9780,10 +9810,10 @@ Ablauf:&#13;
         <start>14:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>jev22-52467-no_music_on_a_dead_planet_mde_stellt_sich_vor</slug>
+        <slug>jev22-52467-no_music_on_a_dead_planet</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WM8JYF/</url>
-        <title>No Music On A Dead Planet - MDE stellt sich vor!</title>
-        <subtitle/>
+        <title>No Music On A Dead Planet</title>
+        <subtitle> - MDE stellt sich vor!</subtitle>
         <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
@@ -9805,10 +9835,10 @@ Ablauf:&#13;
         <start>16:00</start>
         <duration>00:45</duration>
         <room>Bierschoine</room>
-        <slug>jev22-49297-kolonialismus_in_europaeischen_museen_was_hat_das_mit_deutschland_zu_tun_eine_kleine_einfuehrung</slug>
+        <slug>jev22-49297-kolonialismus_in_europaeischen_museen</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/9XAFM7/</url>
-        <title>Kolonialismus in europäischen Museen - was hat das mit Deutschland zu tun? Eine kleine Einführung</title>
-        <subtitle/>
+        <title>Kolonialismus in europäischen Museen</title>
+        <subtitle> - was hat das mit Deutschland zu tun? Eine kleine Einführung</subtitle>
         <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
@@ -9830,10 +9860,10 @@ Ablauf:&#13;
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Bierschoine</room>
-        <slug>jev22-49296-misinfo_hacks_desinformationskampagnen_auf_der_spur</slug>
+        <slug>jev22-49296-misinfo_hacks</slug>
         <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/YEKWDD/</url>
-        <title>Misinfo Hacks - Desinformationskampagnen auf der Spur</title>
-        <subtitle/>
+        <title>Misinfo Hacks</title>
+        <subtitle> - Desinformationskampagnen auf der Spur</subtitle>
         <track>Hellarious</track>
         <type>Talk</type>
         <language>de</language>
@@ -9922,10 +9952,10 @@ I will wander around the event and ask you about your project. If you are intere
         <start>12:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49238-mafifa_wm_2030</slug>
+        <slug>jev22-49238-mafifa</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/HTDQN3/</url>
-        <title>mafifa - WM 2030</title>
-        <subtitle/>
+        <title>mafifa</title>
+        <subtitle> - WM 2030</subtitle>
         <track>Activism</track>
         <type>Live Session (30)</type>
         <language>de</language>
@@ -9999,10 +10029,10 @@ You can also spectate the event on PeerTube.</description>
         <start>23:00</start>
         <duration>00:30</duration>
         <room>xrelog22 - Stream</room>
-        <slug>jev22-49239-mafifa_wm_2030</slug>
+        <slug>jev22-49239-mafifa</slug>
         <url>https://pretalx.c3voc.de/xrelog-2022/talk/KFXRYS/</url>
-        <title>mafifa - WM 2030</title>
-        <subtitle/>
+        <title>mafifa</title>
+        <subtitle> - WM 2030</subtitle>
         <track>Activism</track>
         <type>Live Session (30)</type>
         <language>de</language>
@@ -10184,10 +10214,10 @@ This talk will take top-down approach starting with the operational principles a
         <start>15:00</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
-        <slug>jev22-3015-cad_workshop_fuer_anfaenger_modelle_fuer_3d_druck_cnc_fraesen_und_laser_cutter_designen</slug>
+        <slug>jev22-3015-cad_workshop_fuer_anfaenger</slug>
         <url>https://laborluxeria.github.io/winterchaos2022/sessions/3015-cad-workshop-fuer-anfaenger</url>
-        <title>CAD-Workshop für Anfänger - Modelle für 3D-Druck, CNC-Fräsen und Laser-Cutter designen</title>
-        <subtitle/>
+        <title>CAD-Workshop für Anfänger</title>
+        <subtitle> - Modelle für 3D-Druck, CNC-Fräsen und Laser-Cutter designen</subtitle>
         <track>Winterchaos</track>
         <type>Talk</type>
         <language>de</language>
@@ -10462,10 +10492,10 @@ Premiere&#13;
         <start>12:00</start>
         <duration>00:45</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-3801-wohnheim_collegium_academicum_selbstverwaltet_oekologisch_bezahlbar</slug>
+        <slug>jev22-3801-wohnheim_collegium_academicum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/GTCTSJ/</url>
-        <title>Wohnheim Collegium Academicum - Selbstverwaltet, ökologisch, bezahlbar</title>
-        <subtitle/>
+        <title>Wohnheim Collegium Academicum</title>
+        <subtitle> - Selbstverwaltet, ökologisch, bezahlbar</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -10518,10 +10548,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>17:00</start>
         <duration>01:30</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-8684-wdzwo_wir_squatten_das_outback</slug>
+        <slug>jev22-8684-wdzwo</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
-        <title>WdZwo - Wir squatten das Outback</title>
-        <subtitle/>
+        <title>WdZwo</title>
+        <subtitle> - Wir squatten das Outback</subtitle>
         <track>Freiräume</track>
         <type>Diskussion</type>
         <language>de</language>
@@ -10545,10 +10575,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-651-lass_mich_durch_wege_befreien_im_urbanen_raum</slug>
+        <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
-        <title>Lass mich durch - Wege befreien im urbanen Raum</title>
-        <subtitle/>
+        <title>Lass mich durch</title>
+        <subtitle> - Wege befreien im urbanen Raum</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -10570,10 +10600,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>14:00</start>
         <duration>00:30</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-1324-treibgut_die_materialquelle_fuer_projekte</slug>
+        <slug>jev22-1324-treibgut</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PPKXXZ/</url>
-        <title>treibgut - Die Materialquelle für Projekte</title>
-        <subtitle/>
+        <title>treibgut</title>
+        <subtitle> - Die Materialquelle für Projekte</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -10595,10 +10625,10 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <start>15:00</start>
         <duration>00:17</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-7917-culture_is_not_dead_doku_kultursommer_2021_gaengeviertel</slug>
+        <slug>jev22-7917-culture_is_not_dead</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SBARF9/</url>
-        <title>CULTURE IS NOT DEAD - DOKU Kultursommer 2021@Gängeviertel</title>
-        <subtitle/>
+        <title>CULTURE IS NOT DEAD</title>
+        <subtitle> - DOKU Kultursommer 2021@Gängeviertel</subtitle>
         <track>Freiräume</track>
         <type>Film</type>
         <language>de</language>
@@ -10632,10 +10662,10 @@ Insta: zwischensequenzen</description>
         <start>15:25</start>
         <duration>00:08</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-3800-cheers_to_10_years_10_jahre_gaengeviertel</slug>
+        <slug>jev22-3800-cheers_to_10_years</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NLM9LU/</url>
-        <title>Cheers to 10 years! - 10 Jahre Gängeviertel</title>
-        <subtitle/>
+        <title>Cheers to 10 years!</title>
+        <subtitle> - 10 Jahre Gängeviertel</subtitle>
         <track>Freiräume</track>
         <type>Film</type>
         <language>de</language>
@@ -10747,10 +10777,10 @@ Der Münchner Flüchtlingsrat berät seit 2019 in der Abschiebehaftanstalt am M�
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 1 - H2-2.5</room>
-        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona_moderation_der_nacht</slug>
+        <slug>jev22-2434-offene_sprechstunde_austausch_mit_kay_mayer_fachstelle_mona</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JA8KYL/</url>
-        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa - Moderation der Nacht</title>
-        <subtitle/>
+        <title>Offene Sprechstunde &amp; Austausch mit Kay Mayer, Fachstelle MoNa</title>
+        <subtitle> - Moderation der Nacht</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -10830,10 +10860,10 @@ Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2233-presse_und_oeffentlichkeit_wie_wird_man_sichtbar</slug>
+        <slug>jev22-2233-presse_und_oeffentlichkeit</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SE9L9V/</url>
-        <title>Presse und Öffentlichkeit - Wie wird man sichtbar?</title>
-        <subtitle/>
+        <title>Presse und Öffentlichkeit</title>
+        <subtitle> - Wie wird man sichtbar?</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -10911,10 +10941,10 @@ Der Raum soll gleichzeitig auch zum Ausprobieren und Experimentieren anregen: Sy
         <start>10:00</start>
         <duration>01:15</duration>
         <room>Ruheraum - H1-2.1</room>
-        <slug>jev22-4638-supporting_resilience_with_mindfulness_eine_einfuehrung_in_achtsamkeitspraxis</slug>
+        <slug>jev22-4638-supporting_resilience_with_mindfulness</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RKTCWZ/</url>
-        <title>Supporting Resilience with Mindfulness - eine Einführung in Achtsamkeitspraxis</title>
-        <subtitle/>
+        <title>Supporting Resilience with Mindfulness</title>
+        <subtitle> - eine Einführung in Achtsamkeitspraxis</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -11181,10 +11211,10 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <start>11:30</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-1144-essenszeit_mittag_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-1144-essenszeit_mittag</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/ZXBN7K/</url>
-        <title>Essenszeit (Mittag) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Mittag)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -11208,10 +11238,10 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
         <start>17:00</start>
         <duration>03:00</duration>
         <room>Kantine - H2-4.7</room>
-        <slug>jev22-3058-essenszeit_abends_volxkueche_muenchen_knoblauchfahne</slug>
+        <slug>jev22-3058-essenszeit_abends</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/RBPNS8/</url>
-        <title>Essenszeit (Abends) - VolxKüche München &amp; Knoblauchfahne</title>
-        <subtitle/>
+        <title>Essenszeit (Abends)</title>
+        <subtitle> - VolxKüche München &amp; Knoblauchfahne</subtitle>
         <track>Freiräume</track>
         <type>Weiteres</type>
         <language>de</language>
@@ -11423,6 +11453,7 @@ Otherwise be spontaneous and just drop by.</description>
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
@@ -11458,10 +11489,10 @@ Otherwise be spontaneous and just drop by.</description>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-1708-oberlab_ein_fablab_im_oberland</slug>
+        <slug>jev22-1708-oberlab</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/YJWT8F/</url>
-        <title>Oberlab - Ein FabLab im Oberland</title>
-        <subtitle/>
+        <title>Oberlab</title>
+        <subtitle> - Ein FabLab im Oberland</subtitle>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -11485,10 +11516,10 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Vortragsraum 1 - Ahlam - H2-1.6</room>
-        <slug>jev22-2668-mybrainmychoice_es_ist_zeit_fuer_eine_neue_drogenpolitik</slug>
+        <slug>jev22-2668-mybrainmychoice</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HUQADN/</url>
-        <title>#mybrainmychoice - Es ist Zeit für eine neue Drogenpolitik!</title>
-        <subtitle/>
+        <title>#mybrainmychoice</title>
+        <subtitle> - Es ist Zeit für eine neue Drogenpolitik!</subtitle>
         <track>Freiräume</track>
         <type>Gespräch</type>
         <language>de</language>
@@ -11512,10 +11543,10 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-1265-freie_netze_muenchen_projektvorstellung_und_routereinrichtung</slug>
+        <slug>jev22-1265-freie_netze_muenchen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/HDHX7S/</url>
-        <title>Freie Netze München - Projektvorstellung und Routereinrichtung</title>
-        <subtitle/>
+        <title>Freie Netze München</title>
+        <subtitle> - Projektvorstellung und Routereinrichtung</subtitle>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -11935,5 +11966,6 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
     </room>
     <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
 </schedule>
