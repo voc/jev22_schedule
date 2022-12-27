@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-27 01:20",
+    "version": "2022-12-27 02:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -119,17 +119,17 @@
           "location": "Hamburg, FTZ/HAW"
         },
         {
-          "name": "Rave Cave",
-          "guid": null,
-          "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+          "name": "WICMP Seminarraum",
+          "guid": "99808216-837b-11ed-85fb-6c400891b752",
+          "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
           "capacity": 20,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
-          "name": "Lounge",
+          "name": "Rave Cave",
           "guid": null,
-          "description": "Die Lounge direkt im Hauptraum.",
-          "capacity": 120,
+          "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+          "capacity": 20,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
@@ -140,10 +140,10 @@
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
-          "name": "WICMP Seminarraum",
-          "guid": "99808216-837b-11ed-85fb-6c400891b752",
-          "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
-          "capacity": 20,
+          "name": "Lounge",
+          "guid": null,
+          "description": "Die Lounge direkt im Hauptraum.",
+          "capacity": 120,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {

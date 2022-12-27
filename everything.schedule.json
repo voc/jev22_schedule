@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-27 01:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 01:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-27 02:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 02:00; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -119,17 +119,17 @@
           "location": "Hamburg, FTZ/HAW"
         },
         {
-          "name": "Rave Cave",
-          "guid": null,
-          "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+          "name": "WICMP Seminarraum",
+          "guid": "99808216-837b-11ed-85fb-6c400891b752",
+          "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
           "capacity": 20,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
-          "name": "Lounge",
+          "name": "Rave Cave",
           "guid": null,
-          "description": "Die Lounge direkt im Hauptraum.",
-          "capacity": 120,
+          "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+          "capacity": 20,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
@@ -140,10 +140,10 @@
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
-          "name": "WICMP Seminarraum",
-          "guid": "99808216-837b-11ed-85fb-6c400891b752",
-          "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
-          "capacity": 20,
+          "name": "Lounge",
+          "guid": null,
+          "description": "Die Lounge direkt im Hauptraum.",
+          "capacity": 120,
           "location": "Erlangen, Bits'n'Bugs + ZAM"
         },
         {
@@ -351,10 +351,10 @@
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [],
-            "Lounge": [],
-            "Spezial Raum": [],
             "WICMP Seminarraum": [],
+            "Rave Cave": [],
+            "Spezial Raum": [],
+            "Lounge": [],
             "Winterchaos": [],
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],
@@ -1659,65 +1659,6 @@
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [
-              {
-                "id": 6931,
-                "guid": "69c3158b-3b1e-53f5-802c-31258611f7e6",
-                "logo": "",
-                "date": "2022-12-27T21:00:00+01:00",
-                "start": "21:00",
-                "duration": "02:00",
-                "room": "Rave Cave",
-                "slug": "jev22-6931-drum_n_bass_dj_set",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/",
-                "title": "Drum'n'Bass DJ-Set",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (120 min)",
-                "language": "de",
-                "abstract": "2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.",
-                "description": "Servus! Corny hier von nbgsubculture.\r\nIch lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und m\u00f6chte gerne eure Veranstaltung beschallen.\r\nEin Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 16,
-                    "code": "QCRUMA",
-                    "public_name": "c0rny",
-                    "biography": "Ich habe meine Aktivit\u00e4ten als DJ im ersten Corona-Lockdown zusammen mit meinen DJ-Kollegen und -kolleginen von nbgsubculture gestartet. Anfangs haben wir unsere Sets ausschlie\u00dflich \u00fcber Twitch gestreamt. Sp\u00e4ter kamen dann auch Livestreams zum RC3 dazu. Mittlerweile hatte ich auch schon diverse Auftritte vor Publikum und stets eine Menge Spa\u00df bei der Sache.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Lounge": [],
-            "Spezial Raum": [
-              {
-                "id": 8887,
-                "guid": "8b8a8793-1026-5a55-bb59-32594c491d36",
-                "logo": "",
-                "date": "2022-12-27T17:00:00+01:00",
-                "start": "17:00",
-                "duration": "00:30",
-                "room": "Spezial Raum",
-                "slug": "jev22-8887-opening",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/73AREP/",
-                "title": "Opening",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Im Hackcenter. Kurze Er\u00f6ffnung, what to hack etc.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [],
-                "links": [],
-                "attachments": []
-              }
-            ],
             "WICMP Seminarraum": [
               {
                 "id": 9081,
@@ -1813,6 +1754,65 @@
                 "attachments": []
               }
             ],
+            "Rave Cave": [
+              {
+                "id": 6931,
+                "guid": "69c3158b-3b1e-53f5-802c-31258611f7e6",
+                "logo": "",
+                "date": "2022-12-27T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "02:00",
+                "room": "Rave Cave",
+                "slug": "jev22-6931-drum_n_bass_dj_set",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/",
+                "title": "Drum'n'Bass DJ-Set",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (120 min)",
+                "language": "de",
+                "abstract": "2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.",
+                "description": "Servus! Corny hier von nbgsubculture.\r\nIch lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und m\u00f6chte gerne eure Veranstaltung beschallen.\r\nEin Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 16,
+                    "code": "QCRUMA",
+                    "public_name": "c0rny",
+                    "biography": "Ich habe meine Aktivit\u00e4ten als DJ im ersten Corona-Lockdown zusammen mit meinen DJ-Kollegen und -kolleginen von nbgsubculture gestartet. Anfangs haben wir unsere Sets ausschlie\u00dflich \u00fcber Twitch gestreamt. Sp\u00e4ter kamen dann auch Livestreams zum RC3 dazu. Mittlerweile hatte ich auch schon diverse Auftritte vor Publikum und stets eine Menge Spa\u00df bei der Sache.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Spezial Raum": [
+              {
+                "id": 8887,
+                "guid": "8b8a8793-1026-5a55-bb59-32594c491d36",
+                "logo": "",
+                "date": "2022-12-27T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "Spezial Raum",
+                "slug": "jev22-8887-opening",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/73AREP/",
+                "title": "Opening",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Im Hackcenter. Kurze Er\u00f6ffnung, what to hack etc.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Lounge": [],
             "ChilyConChaos": [
               {
                 "guid": "1ca0f00e-f061-4f80-b94e-59807d66b73b",
@@ -4809,104 +4809,6 @@
               }
             ],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [
-              {
-                "id": 7169,
-                "guid": "71d695b0-de75-579e-9863-117b1290a204",
-                "logo": "",
-                "date": "2022-12-28T22:00:00+01:00",
-                "start": "22:00",
-                "duration": "01:00",
-                "room": "Rave Cave",
-                "slug": "jev22-7169-acid_techno_liveset",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/XHEJ98/",
-                "title": "Acid Techno Liveset",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (60 min)",
-                "language": "de",
-                "abstract": "MC Streyt dr\u00fcckt live auf Synthesizer, auf dass k\u00f6stlich Acid aus den Lautsprechern tr\u00e4ufeln m\u00f6ge!",
-                "description": "Impro-Liveset Richtung Acid Techno bzw Acid House idR um die 130bpm rum, ab und an gern auch mal etwas flotter. Synthies: Roland TB-3 und TR-8S sowie Behringer Neutron.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 19,
-                    "code": "CCQNUH",
-                    "public_name": "streyt",
-                    "biography": "MC Streyt dr\u00fcckt seit 2017 auf Synthesizern rum. Am liebsten, wenn z\u00fcnftiger Acid ert\u00f6nt und Raver um ihn rum springen. Mitglied der Ravercrews \"The Attic Collective\" und \"G\u00fcnther's Green Grind\".",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 9260,
-                "guid": "bf92f606-ffde-5a49-b235-66bd729be9a6",
-                "logo": "",
-                "date": "2022-12-28T23:20:00+01:00",
-                "start": "23:20",
-                "duration": "03:00",
-                "room": "Rave Cave",
-                "slug": "jev22-9260-160bpm_schranz_to_chill_and_study_to",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/3HWMBC/",
-                "title": ">160bpm-schranz to chill and study to",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (180 min)",
-                "language": "de",
-                "abstract": "hard trance and fast techno",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 18,
-                    "code": "WSPL8P",
-                    "public_name": "Freddy Faulig",
-                    "biography": "[]",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Lounge": [
-              {
-                "id": 2315,
-                "guid": "231b5e14-dbc1-5121-a6f5-818313506e5d",
-                "logo": "",
-                "date": "2022-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "02:00",
-                "room": "Lounge",
-                "slug": "jev22-2315-lnxu_downtempo_chillout_dj_set",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/",
-                "title": "lnxu Downtempo Chillout DJ Set",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (120 min)",
-                "language": "de",
-                "abstract": "Downtempo/Ambient/Dub Techno Chillout Set.",
-                "description": "Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 15,
-                    "code": "MLNTAR",
-                    "public_name": "lnxu",
-                    "biography": "https://soundcloud.com/void-4\r\nhttps://www.twitch.tv/nbgsubculture",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Spezial Raum": [],
             "WICMP Seminarraum": [
               {
                 "id": 4958,
@@ -4995,6 +4897,104 @@
                     "code": "79EN8S",
                     "public_name": "Roman St\u00f6hr",
                     "biography": "Ich lebe f\u00fcr die Momente in denen Spontanit\u00e4t, Leichtigkeit und Lebendigkeit aufeinander treffen und m\u00f6chte diese mit euch teilen. \r\nWenn dann noch Zeit ist, arbeite ich an meiner Informatik-Promotion - das vielleicht um endlich diesen einen XKCD-Comic zu verstehen!!1!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Rave Cave": [
+              {
+                "id": 7169,
+                "guid": "71d695b0-de75-579e-9863-117b1290a204",
+                "logo": "",
+                "date": "2022-12-28T22:00:00+01:00",
+                "start": "22:00",
+                "duration": "01:00",
+                "room": "Rave Cave",
+                "slug": "jev22-7169-acid_techno_liveset",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/XHEJ98/",
+                "title": "Acid Techno Liveset",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (60 min)",
+                "language": "de",
+                "abstract": "MC Streyt dr\u00fcckt live auf Synthesizer, auf dass k\u00f6stlich Acid aus den Lautsprechern tr\u00e4ufeln m\u00f6ge!",
+                "description": "Impro-Liveset Richtung Acid Techno bzw Acid House idR um die 130bpm rum, ab und an gern auch mal etwas flotter. Synthies: Roland TB-3 und TR-8S sowie Behringer Neutron.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 19,
+                    "code": "CCQNUH",
+                    "public_name": "streyt",
+                    "biography": "MC Streyt dr\u00fcckt seit 2017 auf Synthesizern rum. Am liebsten, wenn z\u00fcnftiger Acid ert\u00f6nt und Raver um ihn rum springen. Mitglied der Ravercrews \"The Attic Collective\" und \"G\u00fcnther's Green Grind\".",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 9260,
+                "guid": "bf92f606-ffde-5a49-b235-66bd729be9a6",
+                "logo": "",
+                "date": "2022-12-28T23:20:00+01:00",
+                "start": "23:20",
+                "duration": "03:00",
+                "room": "Rave Cave",
+                "slug": "jev22-9260-160bpm_schranz_to_chill_and_study_to",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/3HWMBC/",
+                "title": ">160bpm-schranz to chill and study to",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (180 min)",
+                "language": "de",
+                "abstract": "hard trance and fast techno",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 18,
+                    "code": "WSPL8P",
+                    "public_name": "Freddy Faulig",
+                    "biography": "[]",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Spezial Raum": [],
+            "Lounge": [
+              {
+                "id": 2315,
+                "guid": "231b5e14-dbc1-5121-a6f5-818313506e5d",
+                "logo": "",
+                "date": "2022-12-28T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "02:00",
+                "room": "Lounge",
+                "slug": "jev22-2315-lnxu_downtempo_chillout_dj_set",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/",
+                "title": "lnxu Downtempo Chillout DJ Set",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (120 min)",
+                "language": "de",
+                "abstract": "Downtempo/Ambient/Dub Techno Chillout Set.",
+                "description": "Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 15,
+                    "code": "MLNTAR",
+                    "public_name": "lnxu",
+                    "biography": "https://soundcloud.com/void-4\r\nhttps://www.twitch.tv/nbgsubculture",
                     "answers": []
                   }
                 ],
@@ -8278,104 +8278,6 @@
             ],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [
-              {
-                "id": 1973,
-                "guid": "fe1b973f-6e41-542e-8230-a1a07f030ca9",
-                "logo": "",
-                "date": "2022-12-29T20:00:00+01:00",
-                "start": "20:00",
-                "duration": "02:00",
-                "room": "Rave Cave",
-                "slug": "jev22-1973-chaotic_symphony_an_audiovisual_space_trip",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/",
-                "title": "chaotic symphony - an audiovisual space trip",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (120 min)",
-                "language": "de",
-                "abstract": "tanzende cartoons, projection mapping, live gerenderte 3D-Welten - es wird auf jeden Fall bunt",
-                "description": "Wir spielen leicht modifizierte Musik von Township Rebellion und generieren live dazu passende visuals.\r\n\r\nDie Details h\u00e4ngen von der location ab, die wir noch gar nicht kennen. Es wird f\u00fcr uns also genau so \u00fcberraschend wie f\u00fcr euch!",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 8,
-                    "code": "STXG7L",
-                    "public_name": "Alexander Alber",
-                    "biography": "Alexander macht in seiner Freizeit gerne interaktive Lichtkunst",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 2260,
-                "guid": "22ccc6a0-df76-5f78-ae71-9a87f04218e2",
-                "logo": "",
-                "date": "2022-12-29T22:20:00+01:00",
-                "start": "22:20",
-                "duration": "02:00",
-                "room": "Rave Cave",
-                "slug": "jev22-2260-neokay_dj_set",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/",
-                "title": "neokay DJ Set",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (120 min)",
-                "language": "de",
-                "abstract": "Rollende B\u00e4sse und sph\u00e4rische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgew\u00e4hlte Tracks von Progressive bis FullOn",
-                "description": "Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Deb\u00fct au\u00dferhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis h\u00e4rter, Deep Dubstep sowie Chillout geh\u00f6ren zu seinem Repertoire, am meisten f\u00fchlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events pr\u00e4sentieren. Und genau damit wird er euch auch auf der diesj\u00e4hrigen WICMP versorgen!",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 12,
-                    "code": "TA8MGV",
-                    "public_name": "neokay",
-                    "biography": "Blink blink macht die LED",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
-            "Lounge": [],
-            "Spezial Raum": [
-              {
-                "id": 2838,
-                "guid": "2f8389b5-cfd3-5814-be00-765a76965301",
-                "logo": "",
-                "date": "2022-12-29T17:30:00+01:00",
-                "start": "17:30",
-                "duration": "02:30",
-                "room": "Spezial Raum",
-                "slug": "jev22-2838-selbst_ist_das_merch",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/",
-                "title": "Selbst ist das Merch!",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Workshop",
-                "language": "de",
-                "abstract": "Siebdruck-Workshop mit dem Logo der WICMP",
-                "description": "Du hast noch kein passendes Outfit f\u00fcr die Wintergalaktische Club Mate Party? Kein Problem! Komm einfach zum Siebdruck-Workshop und bedrucke deine Kleidung selbst. Als Motiv steht das Logo des Events zur Verf\u00fcgung, das die wunderbare Jo desgignt hat.\r\n\r\nWas musst du mitbringen?\r\nWeil mit wei\u00dfer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gef\u00fctterten Hoodys). Auch Jutebeutel oder Kissenbez\u00fcge k\u00f6nnen bedruckt werden. Was immer du aussuchst: Wichtig ist ein m\u00f6glichst hoher Baumwollanteil.",
-                "recording_license": "",
-                "do_not_record": true,
-                "persons": [
-                  {
-                    "id": 25,
-                    "code": "NPPYRU",
-                    "public_name": "Anke",
-                    "biography": "Anke ist aktives Mitglied der Binary Kitchen in Regensburg, wo sie auch die dortige Siebdruck-Werkstatt betreut.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
             "WICMP Seminarraum": [
               {
                 "id": 5092,
@@ -8509,6 +8411,104 @@
                 "attachments": []
               }
             ],
+            "Rave Cave": [
+              {
+                "id": 1973,
+                "guid": "fe1b973f-6e41-542e-8230-a1a07f030ca9",
+                "logo": "",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "02:00",
+                "room": "Rave Cave",
+                "slug": "jev22-1973-chaotic_symphony_an_audiovisual_space_trip",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/",
+                "title": "chaotic symphony - an audiovisual space trip",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (120 min)",
+                "language": "de",
+                "abstract": "tanzende cartoons, projection mapping, live gerenderte 3D-Welten - es wird auf jeden Fall bunt",
+                "description": "Wir spielen leicht modifizierte Musik von Township Rebellion und generieren live dazu passende visuals.\r\n\r\nDie Details h\u00e4ngen von der location ab, die wir noch gar nicht kennen. Es wird f\u00fcr uns also genau so \u00fcberraschend wie f\u00fcr euch!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 8,
+                    "code": "STXG7L",
+                    "public_name": "Alexander Alber",
+                    "biography": "Alexander macht in seiner Freizeit gerne interaktive Lichtkunst",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 2260,
+                "guid": "22ccc6a0-df76-5f78-ae71-9a87f04218e2",
+                "logo": "",
+                "date": "2022-12-29T22:20:00+01:00",
+                "start": "22:20",
+                "duration": "02:00",
+                "room": "Rave Cave",
+                "slug": "jev22-2260-neokay_dj_set",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/",
+                "title": "neokay DJ Set",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Musik (120 min)",
+                "language": "de",
+                "abstract": "Rollende B\u00e4sse und sph\u00e4rische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgew\u00e4hlte Tracks von Progressive bis FullOn",
+                "description": "Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Deb\u00fct au\u00dferhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis h\u00e4rter, Deep Dubstep sowie Chillout geh\u00f6ren zu seinem Repertoire, am meisten f\u00fchlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events pr\u00e4sentieren. Und genau damit wird er euch auch auf der diesj\u00e4hrigen WICMP versorgen!",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 12,
+                    "code": "TA8MGV",
+                    "public_name": "neokay",
+                    "biography": "Blink blink macht die LED",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Spezial Raum": [
+              {
+                "id": 2838,
+                "guid": "2f8389b5-cfd3-5814-be00-765a76965301",
+                "logo": "",
+                "date": "2022-12-29T17:30:00+01:00",
+                "start": "17:30",
+                "duration": "02:30",
+                "room": "Spezial Raum",
+                "slug": "jev22-2838-selbst_ist_das_merch",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/",
+                "title": "Selbst ist das Merch!",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Siebdruck-Workshop mit dem Logo der WICMP",
+                "description": "Du hast noch kein passendes Outfit f\u00fcr die Wintergalaktische Club Mate Party? Kein Problem! Komm einfach zum Siebdruck-Workshop und bedrucke deine Kleidung selbst. Als Motiv steht das Logo des Events zur Verf\u00fcgung, das die wunderbare Jo desgignt hat.\r\n\r\nWas musst du mitbringen?\r\nWeil mit wei\u00dfer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gef\u00fctterten Hoodys). Auch Jutebeutel oder Kissenbez\u00fcge k\u00f6nnen bedruckt werden. Was immer du aussuchst: Wichtig ist ein m\u00f6glichst hoher Baumwollanteil.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 25,
+                    "code": "NPPYRU",
+                    "public_name": "Anke",
+                    "biography": "Anke ist aktives Mitglied der Binary Kitchen in Regensburg, wo sie auch die dortige Siebdruck-Werkstatt betreut.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
+            "Lounge": [],
             "ChilyConChaos": [
               {
                 "guid": "1834e88b-0bd7-441e-a5b1-2baaa8db6601",
@@ -11506,9 +11506,6 @@
             ],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [],
-            "Lounge": [],
-            "Spezial Raum": [],
             "WICMP Seminarraum": [
               {
                 "id": 5136,
@@ -11573,6 +11570,9 @@
                 "attachments": []
               }
             ],
+            "Rave Cave": [],
+            "Spezial Raum": [],
+            "Lounge": [],
             "ChilyConChaos": [
               {
                 "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",
@@ -13084,10 +13084,10 @@
             "xrelog22 - Stream": [],
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
-            "Rave Cave": [],
-            "Lounge": [],
-            "Spezial Raum": [],
             "WICMP Seminarraum": [],
+            "Rave Cave": [],
+            "Spezial Raum": [],
+            "Lounge": [],
             "Winterchaos": [],
             "HIP - Track 1 - Room 5": [],
             "HIP - Track 2 - Room 2": [],

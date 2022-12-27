@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 01:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 01:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-27 02:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 02:00; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -26,10 +26,10 @@
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave"/>
-    <room name="Lounge"/>
-    <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Rave Cave"/>
+    <room name="Spezial Raum"/>
+    <room name="Lounge"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
@@ -1211,61 +1211,6 @@ https://de.labournet.tv/project/der-laute-fruehling</description>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave">
-      <event id="6931" guid="69c3158b-3b1e-53f5-802c-31258611f7e6">
-        <logo/>
-        <date>2022-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>02:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-6931-drum_n_bass_dj_set</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/</url>
-        <title>Drum'n'Bass DJ-Set</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.</abstract>
-        <description>Servus! Corny hier von nbgsubculture.&#13;
-Ich lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und möchte gerne eure Veranstaltung beschallen.&#13;
-Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="16">c0rny</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Lounge"/>
-    <room name="Spezial Raum">
-      <event id="8887" guid="8b8a8793-1026-5a55-bb59-32594c491d36">
-        <logo/>
-        <date>2022-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>Spezial Raum</room>
-        <slug>jev22-8887-opening</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Im Hackcenter. Kurze Eröffnung, what to hack etc.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
         <logo/>
@@ -1364,6 +1309,61 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <attachments/>
       </event>
     </room>
+    <room name="Rave Cave">
+      <event id="6931" guid="69c3158b-3b1e-53f5-802c-31258611f7e6">
+        <logo/>
+        <date>2022-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-6931-drum_n_bass_dj_set</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/LFSRY9/</url>
+        <title>Drum'n'Bass DJ-Set</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>2 Stunden feinste Tieftonfrequenzen mit gebrochenen Beats.</abstract>
+        <description>Servus! Corny hier von nbgsubculture.&#13;
+Ich lege eine bunte Mischung von Stilen innerhalb des D'n'b-Genres auf und möchte gerne eure Veranstaltung beschallen.&#13;
+Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-01-08</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">c0rny</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Spezial Raum">
+      <event id="8887" guid="8b8a8793-1026-5a55-bb59-32594c491d36">
+        <logo/>
+        <date>2022-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Spezial Raum</room>
+        <slug>jev22-8887-opening</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/73AREP/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im Hackcenter. Kurze Eröffnung, what to hack etc.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Lounge"/>
     <room name="ChilyConChaos">
       <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1000">
         <title>Raspberry Pi Pico mit CircuitPy</title>
@@ -4035,86 +4035,6 @@ It breaks then down roughly like this:&#13;
       </event>
     </room>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave">
-      <event id="7169" guid="71d695b0-de75-579e-9863-117b1290a204">
-        <logo/>
-        <date>2022-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>01:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-7169-acid_techno_liveset</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/XHEJ98/</url>
-        <title>Acid Techno Liveset</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (60 min)</type>
-        <language>de</language>
-        <abstract>MC Streyt drückt live auf Synthesizer, auf dass köstlich Acid aus den Lautsprechern träufeln möge!</abstract>
-        <description>Impro-Liveset Richtung Acid Techno bzw Acid House idR um die 130bpm rum, ab und an gern auch mal etwas flotter. Synthies: Roland TB-3 und TR-8S sowie Behringer Neutron.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="19">streyt</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="9260" guid="bf92f606-ffde-5a49-b235-66bd729be9a6">
-        <logo/>
-        <date>2022-12-28T23:20:00+01:00</date>
-        <start>23:20</start>
-        <duration>03:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-9260-160bpm_schranz_to_chill_and_study_to</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/3HWMBC/</url>
-        <title>&gt;160bpm-schranz to chill and study to</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (180 min)</type>
-        <language>de</language>
-        <abstract>hard trance and fast techno</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="18">Freddy Faulig</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Lounge">
-      <event id="2315" guid="231b5e14-dbc1-5121-a6f5-818313506e5d">
-        <logo/>
-        <date>2022-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
-        <room>Lounge</room>
-        <slug>jev22-2315-lnxu_downtempo_chillout_dj_set</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/</url>
-        <title>lnxu Downtempo Chillout DJ Set</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>Downtempo/Ambient/Dub Techno Chillout Set.</abstract>
-        <description>Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="15">lnxu</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="4958" guid="a49e5c85-1ad9-5e2f-9427-627eb6a77ca3">
         <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
@@ -4197,6 +4117,86 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
         </recording>
         <persons>
           <person id="21">Roman Stöhr</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Rave Cave">
+      <event id="7169" guid="71d695b0-de75-579e-9863-117b1290a204">
+        <logo/>
+        <date>2022-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-7169-acid_techno_liveset</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/XHEJ98/</url>
+        <title>Acid Techno Liveset</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (60 min)</type>
+        <language>de</language>
+        <abstract>MC Streyt drückt live auf Synthesizer, auf dass köstlich Acid aus den Lautsprechern träufeln möge!</abstract>
+        <description>Impro-Liveset Richtung Acid Techno bzw Acid House idR um die 130bpm rum, ab und an gern auch mal etwas flotter. Synthies: Roland TB-3 und TR-8S sowie Behringer Neutron.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">streyt</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9260" guid="bf92f606-ffde-5a49-b235-66bd729be9a6">
+        <logo/>
+        <date>2022-12-28T23:20:00+01:00</date>
+        <start>23:20</start>
+        <duration>03:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-9260-160bpm_schranz_to_chill_and_study_to</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/3HWMBC/</url>
+        <title>&gt;160bpm-schranz to chill and study to</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (180 min)</type>
+        <language>de</language>
+        <abstract>hard trance and fast techno</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="18">Freddy Faulig</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Spezial Raum"/>
+    <room name="Lounge">
+      <event id="2315" guid="231b5e14-dbc1-5121-a6f5-818313506e5d">
+        <logo/>
+        <date>2022-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Lounge</room>
+        <slug>jev22-2315-lnxu_downtempo_chillout_dj_set</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/</url>
+        <title>lnxu Downtempo Chillout DJ Set</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>Downtempo/Ambient/Dub Techno Chillout Set.</abstract>
+        <description>Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">lnxu</person>
         </persons>
         <links/>
         <attachments/>
@@ -7123,91 +7123,6 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
     </room>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave">
-      <event id="1973" guid="fe1b973f-6e41-542e-8230-a1a07f030ca9">
-        <logo/>
-        <date>2022-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-1973-chaotic_symphony_an_audiovisual_space_trip</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/</url>
-        <title>chaotic symphony - an audiovisual space trip</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>tanzende cartoons, projection mapping, live gerenderte 3D-Welten - es wird auf jeden Fall bunt</abstract>
-        <description>Wir spielen leicht modifizierte Musik von Township Rebellion und generieren live dazu passende visuals.&#13;
-&#13;
-Die Details hängen von der location ab, die wir noch gar nicht kennen. Es wird für uns also genau so überraschend wie für euch!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="8">Alexander Alber</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="2260" guid="22ccc6a0-df76-5f78-ae71-9a87f04218e2">
-        <logo/>
-        <date>2022-12-29T22:20:00+01:00</date>
-        <start>22:20</start>
-        <duration>02:00</duration>
-        <room>Rave Cave</room>
-        <slug>jev22-2260-neokay_dj_set</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/</url>
-        <title>neokay DJ Set</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>Rollende Bässe und sphärische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgewählte Tracks von Progressive bis FullOn</abstract>
-        <description>Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Debüt außerhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis härter, Deep Dubstep sowie Chillout gehören zu seinem Repertoire, am meisten fühlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events präsentieren. Und genau damit wird er euch auch auf der diesjährigen WICMP versorgen!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="12">neokay</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Lounge"/>
-    <room name="Spezial Raum">
-      <event id="2838" guid="2f8389b5-cfd3-5814-be00-765a76965301">
-        <logo/>
-        <date>2022-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>02:30</duration>
-        <room>Spezial Raum</room>
-        <slug>jev22-2838-selbst_ist_das_merch</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/</url>
-        <title>Selbst ist das Merch!</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>Siebdruck-Workshop mit dem Logo der WICMP</abstract>
-        <description>Du hast noch kein passendes Outfit für die Wintergalaktische Club Mate Party? Kein Problem! Komm einfach zum Siebdruck-Workshop und bedrucke deine Kleidung selbst. Als Motiv steht das Logo des Events zur Verfügung, das die wunderbare Jo desgignt hat.&#13;
-&#13;
-Was musst du mitbringen?&#13;
-Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gefütterten Hoodys). Auch Jutebeutel oder Kissenbezüge können bedruckt werden. Was immer du aussuchst: Wichtig ist ein möglichst hoher Baumwollanteil.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="25">Anke</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
         <logo/>
@@ -7333,6 +7248,91 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <attachments/>
       </event>
     </room>
+    <room name="Rave Cave">
+      <event id="1973" guid="fe1b973f-6e41-542e-8230-a1a07f030ca9">
+        <logo/>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-1973-chaotic_symphony_an_audiovisual_space_trip</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YLMSJG/</url>
+        <title>chaotic symphony - an audiovisual space trip</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>tanzende cartoons, projection mapping, live gerenderte 3D-Welten - es wird auf jeden Fall bunt</abstract>
+        <description>Wir spielen leicht modifizierte Musik von Township Rebellion und generieren live dazu passende visuals.&#13;
+&#13;
+Die Details hängen von der location ab, die wir noch gar nicht kennen. Es wird für uns also genau so überraschend wie für euch!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">Alexander Alber</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2260" guid="22ccc6a0-df76-5f78-ae71-9a87f04218e2">
+        <logo/>
+        <date>2022-12-29T22:20:00+01:00</date>
+        <start>22:20</start>
+        <duration>02:00</duration>
+        <room>Rave Cave</room>
+        <slug>jev22-2260-neokay_dj_set</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/</url>
+        <title>neokay DJ Set</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Musik (120 min)</type>
+        <language>de</language>
+        <abstract>Rollende Bässe und sphärische Synthesizer - Psytrance wie er leibt und lebt. Handverlesene und vorsichtig ausgewählte Tracks von Progressive bis FullOn</abstract>
+        <description>Max aka neokay legt seit einigen Jahren verschiedene Stilrichtungen der elektronischen Musik auf. Sein Debüt außerhalb kleiner Privatparties feierte er bei einer anderen Hackerveranstaltung - dem Chaos Communication Camp 2019. Techno von melodisch bis härter, Deep Dubstep sowie Chillout gehören zu seinem Repertoire, am meisten fühlt er sich allerdings im Psytrance zuhause. Genau das durfte er letztes Jahr auch im Rahmen des RC3 Lounge Streams den Teilnehmer:Innen des bekannten CCC Events präsentieren. Und genau damit wird er euch auch auf der diesjährigen WICMP versorgen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">neokay</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Spezial Raum">
+      <event id="2838" guid="2f8389b5-cfd3-5814-be00-765a76965301">
+        <logo/>
+        <date>2022-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>02:30</duration>
+        <room>Spezial Raum</room>
+        <slug>jev22-2838-selbst_ist_das_merch</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/</url>
+        <title>Selbst ist das Merch!</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Siebdruck-Workshop mit dem Logo der WICMP</abstract>
+        <description>Du hast noch kein passendes Outfit für die Wintergalaktische Club Mate Party? Kein Problem! Komm einfach zum Siebdruck-Workshop und bedrucke deine Kleidung selbst. Als Motiv steht das Logo des Events zur Verfügung, das die wunderbare Jo desgignt hat.&#13;
+&#13;
+Was musst du mitbringen?&#13;
+Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gefütterten Hoodys). Auch Jutebeutel oder Kissenbezüge können bedruckt werden. Was immer du aussuchst: Wichtig ist ein möglichst hoher Baumwollanteil.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="25">Anke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Lounge"/>
     <room name="ChilyConChaos">
       <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1834">
         <title>IT-Sicherheit ist kein Waschmittel</title>
@@ -9976,9 +9976,6 @@ You can also spectate the event on PeerTube.</description>
     </room>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave"/>
-    <room name="Lounge"/>
-    <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="5136" guid="5c136451-b07a-5290-bda4-838406dc814c">
         <logo/>
@@ -10037,6 +10034,9 @@ This talk will take top-down approach starting with the operational principles a
         <attachments/>
       </event>
     </room>
+    <room name="Rave Cave"/>
+    <room name="Spezial Raum"/>
+    <room name="Lounge"/>
     <room name="ChilyConChaos">
       <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
         <title>Securing UnSafe Rust with XRust</title>
@@ -11355,10 +11355,10 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
-    <room name="Rave Cave"/>
-    <room name="Lounge"/>
-    <room name="Spezial Raum"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Rave Cave"/>
+    <room name="Spezial Raum"/>
+    <room name="Lounge"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="HIP - Track 1 - Room 5" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>

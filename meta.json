@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-27 01:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 01:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-27 02:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 02:00; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -136,21 +136,21 @@
         "stream": null
       },
       {
+        "name": "WICMP Seminarraum",
+        "guid": "99808216-837b-11ed-85fb-6c400891b752",
+        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "WICMP Seminarraum",
+        "stream": "s2"
+      },
+      {
         "name": "Rave Cave",
         "guid": null,
         "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
         "capacity": 20,
         "location": "Erlangen, Bits'n'Bugs + ZAM",
         "schedule_name": "Rave Cave",
-        "stream": null
-      },
-      {
-        "name": "Lounge",
-        "guid": null,
-        "description": "Die Lounge direkt im Hauptraum.",
-        "capacity": 120,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "Lounge",
         "stream": null
       },
       {
@@ -163,13 +163,13 @@
         "stream": null
       },
       {
-        "name": "WICMP Seminarraum",
-        "guid": "99808216-837b-11ed-85fb-6c400891b752",
-        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
-        "capacity": 20,
+        "name": "Lounge",
+        "guid": null,
+        "description": "Die Lounge direkt im Hauptraum.",
+        "capacity": 120,
         "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "WICMP Seminarraum",
-        "stream": "s2"
+        "schedule_name": "Lounge",
+        "stream": null
       },
       {
         "name": "Winterchaos",
@@ -627,6 +627,19 @@
         },
         "rooms": [
           {
+            "id": 1,
+            "guid": "99808216-837b-11ed-85fb-6c400891b752",
+            "name": {
+              "de": "WICMP Seminarraum"
+            },
+            "description": {
+              "de": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links."
+            },
+            "capacity": 20,
+            "position": 0,
+            "url": "/orga/event/wicmp1/schedule/rooms/1/"
+          },
+          {
             "id": 2,
             "guid": null,
             "name": {
@@ -636,21 +649,8 @@
               "de": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr."
             },
             "capacity": 20,
-            "position": null,
+            "position": 1,
             "url": "/orga/event/wicmp1/schedule/rooms/2/"
-          },
-          {
-            "id": 3,
-            "guid": null,
-            "name": {
-              "de": "Lounge"
-            },
-            "description": {
-              "de": "Die Lounge direkt im Hauptraum."
-            },
-            "capacity": 120,
-            "position": null,
-            "url": "/orga/event/wicmp1/schedule/rooms/3/"
           },
           {
             "id": 4,
@@ -664,21 +664,21 @@
               "en": "Look in the description of the workshop for the place"
             },
             "capacity": 120,
-            "position": null,
+            "position": 2,
             "url": "/orga/event/wicmp1/schedule/rooms/4/"
           },
           {
-            "id": 1,
-            "guid": "99808216-837b-11ed-85fb-6c400891b752",
+            "id": 3,
+            "guid": null,
             "name": {
-              "de": "WICMP Seminarraum"
+              "de": "Lounge"
             },
             "description": {
-              "de": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links."
+              "de": "Die Lounge direkt im Hauptraum."
             },
-            "capacity": 20,
-            "position": null,
-            "url": "/orga/event/wicmp1/schedule/rooms/1/"
+            "capacity": 120,
+            "position": 3,
+            "url": "/orga/event/wicmp1/schedule/rooms/3/"
           }
         ]
       },
