@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 03:43</version>
+  <version>2022-12-27 06:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -675,7 +675,7 @@ With average run times of machines and their software of 15-20 years the consequ
         <attachments/>
       </event>
       <event id="49294" guid="b70826bf-35f0-570d-9e0e-1b9c044daf4e">
-        <logo>/media/hip-berlin-2022/submissions/V7UFTL/ohai_cpuGJwE.jpeg</logo>
+        <logo>/media/hip-berlin-2022/submissions/V7UFTL/seek2_wvBmLzS.png</logo>
         <date>2022-12-27T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>01:00</duration>
@@ -687,10 +687,15 @@ With average run times of machines and their software of 15-20 years the consequ
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Der Einsatz von biometrischer Überwachung durch Militärs ist schon lange bekannt. Zu den dabei eingesetzten Techniken sind erstaunlich detaillierte Informationen frei im Internet verfügbar. Nicht nur das US-Militär nutzt biometrische Daten. Auch die Bundeswehr setzt diese Risiko-Technologie ein und übermittelte sogar biometrische Daten an die Amerikaner.&#13;
+        <abstract>Das US-Militär hat massenhaft Geräte zur biometrischen Erfassung von Menschen in Afghanistan genutzt. Einige Geräte wurden beim hastigen Abzug der NATO-Truppen zurückgelassen. Wir haben bei Analysen solcher Geräte große Mengen an biometrischen und weiteren personenbezogenen Daten gefunden. In den falschen Händen bedeuten diese Daten Lebensgefahr für Menschen in Afghanistan und Irak.</abstract>
+        <description>Mitte April 2021 kündigte Joe Biden den Abzug der US-Truppen aus Afghanistan an. Kurz darauf beschloss der NATO-Rat den vollständigen Abzug aus Afghanistan. Der eigentliche Abzug erfolgte überstürzt, parallel zu einem Rückeroberungsfeldzug der Taliban. Im Rahmen des Abzugs blieben nicht nur Ortskräfte, welche sich auf Grund der Zusammenarbeit mit den NATO-Staaten in Lebensgefahr befanden, zurück. Alleine die USA ließen militärische Ausrüstung [im Wert von circa sieben Millarden US Dollar zurück](https://www.forbes.com/sites/zacharysmith/2022/04/27/us-left-7-billion-in-military-hardware-in-afghanistan-as-taliban-took-over-dod-reportedly-finds). Darunter befanden sich auch [Geräte zur Erfassung biometrischer Daten](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/). Diese Geräte wurden sowohl zur biometrischen Erfassung des lokalen Personals, als auch für Grenz- und Übergangskontrollen verwendet.&#13;
 &#13;
-Dieser Vortrag gibt einen Überblick zu den Sicherheitsmechanismen, die zum Schutz der hochsensiblen biometrischen Daten zum Einsatz kommen.</abstract>
-        <description>Am 27.12.2022 werden an dieser Stelle weitere Details zu diesem Vortrag veröffentlicht.&#13;
+Der Einsatz von Biometrie-Geräten durch Militärs ist schon seit Jahren bekannt. Zu den eingesetzten Geräten sind erstaunlich detaillierte Informationen frei im Internet verfügbar. Nicht nur das US-Militär setzt solche Systeme ein. Auch Deutschland gehört zu den Nutzer-Staaten und übermittelte sogar biometrische Daten an die Amerikaner, wie aus einem geheimen, [auf Wikileaks veröffentlichten Memorandum of Understanding](https://wikileaks.org/bnd-inquiry/docs/BMVg/MAT%20A%20BMVg-1-1/MAT_A_BMVg-1-1d-8.pdf) hervorgeht.&#13;
+&#13;
+Was aus den öffentlich verfügbaren Daten nicht ersichtlich wird, ist, welche Sicherheitsmechanismen zum Schutz der hochsensiblen biometrischen Daten auf diesen Geräten zum Einsatz kommen. [Da das US-Militär selbst vor der Gefahr solcher biometrischen Datenbanken warnt](https://www.wired.com/2007/08/also-two-thirds/), haben wir ein besonders hohes Schutzniveau erwartet. &#13;
+&#13;
+Wir hatten die Möglichkeit verschiedene Geräte des US-Militärs zu untersuchen. Bei der Untersuchung wurde schnell klar, dass auf den Geräten selbst keinerlei Sicherheitsmechanismen implementiert wurden. Die potenziellen Konsequenzen dieses Verzichts auf Absicherung wurden noch (un)fassbarer, als wir auf einem der Geräte eine Datenbank mit einer großen Menge sensibler Daten rekonstruieren konnten. Die Tatsache, dass höchstwahrscheinlich unveränderbare biometrische Daten besonders vulnerabler Personen ungesichert in einem Konfliktgebiet zurückgelassen wurden, zeigt einmal mehr deutlich die Gefahren biometrischer Datenbanken.&#13;
+&#13;
 &#13;
 Content Notice: Militär, Krieg, Überwachung</description>
         <recording>

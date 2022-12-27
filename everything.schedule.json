@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "26961"
+      "version": "31037"
     },
-    "version": "2022-12-27 03:43; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 03:43; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-27 06:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious 0.4 final; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 06:20; Winterchaos 0.4; Hacking in Parallel 0.10; Freiraumforum 0.37; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1913,7 +1913,7 @@
               {
                 "id": 49294,
                 "guid": "b70826bf-35f0-570d-9e0e-1b9c044daf4e",
-                "logo": "/media/hip-berlin-2022/submissions/V7UFTL/ohai_cpuGJwE.jpeg",
+                "logo": "/media/hip-berlin-2022/submissions/V7UFTL/seek2_wvBmLzS.png",
                 "date": "2022-12-27T13:00:00+01:00",
                 "start": "13:00",
                 "duration": "01:00",
@@ -1925,8 +1925,8 @@
                 "track": "E.T.I.",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Der Einsatz von biometrischer \u00dcberwachung durch Milit\u00e4rs ist schon lange bekannt. Zu den dabei eingesetzten Techniken sind erstaunlich detaillierte Informationen frei im Internet verf\u00fcgbar. Nicht nur das US-Milit\u00e4r nutzt biometrische Daten. Auch die Bundeswehr setzt diese Risiko-Technologie ein und \u00fcbermittelte sogar biometrische Daten an die Amerikaner.\r\n\r\nDieser Vortrag gibt einen \u00dcberblick zu den Sicherheitsmechanismen, die zum Schutz der hochsensiblen biometrischen Daten zum Einsatz kommen.",
-                "description": "Am 27.12.2022 werden an dieser Stelle weitere Details zu diesem Vortrag ver\u00f6ffentlicht.\r\n\r\nContent Notice: Milit\u00e4r, Krieg, \u00dcberwachung",
+                "abstract": "Das US-Milit\u00e4r hat massenhaft Ger\u00e4te zur biometrischen Erfassung von Menschen in Afghanistan genutzt. Einige Ger\u00e4te wurden beim hastigen Abzug der NATO-Truppen zur\u00fcckgelassen. Wir haben bei Analysen solcher Ger\u00e4te gro\u00dfe Mengen an biometrischen und weiteren personenbezogenen Daten gefunden. In den falschen H\u00e4nden bedeuten diese Daten Lebensgefahr f\u00fcr Menschen in Afghanistan und Irak.",
+                "description": "Mitte April 2021 k\u00fcndigte Joe Biden den Abzug der US-Truppen aus Afghanistan an. Kurz darauf beschloss der NATO-Rat den vollst\u00e4ndigen Abzug aus Afghanistan. Der eigentliche Abzug erfolgte \u00fcberst\u00fcrzt, parallel zu einem R\u00fcckeroberungsfeldzug der Taliban. Im Rahmen des Abzugs blieben nicht nur Ortskr\u00e4fte, welche sich auf Grund der Zusammenarbeit mit den NATO-Staaten in Lebensgefahr befanden, zur\u00fcck. Alleine die USA lie\u00dfen milit\u00e4rische Ausr\u00fcstung [im Wert von circa sieben Millarden US Dollar zur\u00fcck](https://www.forbes.com/sites/zacharysmith/2022/04/27/us-left-7-billion-in-military-hardware-in-afghanistan-as-taliban-took-over-dod-reportedly-finds). Darunter befanden sich auch [Ger\u00e4te zur Erfassung biometrischer Daten](https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/). Diese Ger\u00e4te wurden sowohl zur biometrischen Erfassung des lokalen Personals, als auch f\u00fcr Grenz- und \u00dcbergangskontrollen verwendet.\r\n\r\nDer Einsatz von Biometrie-Ger\u00e4ten durch Milit\u00e4rs ist schon seit Jahren bekannt. Zu den eingesetzten Ger\u00e4ten sind erstaunlich detaillierte Informationen frei im Internet verf\u00fcgbar. Nicht nur das US-Milit\u00e4r setzt solche Systeme ein. Auch Deutschland geh\u00f6rt zu den Nutzer-Staaten und \u00fcbermittelte sogar biometrische Daten an die Amerikaner, wie aus einem geheimen, [auf Wikileaks ver\u00f6ffentlichten Memorandum of Understanding](https://wikileaks.org/bnd-inquiry/docs/BMVg/MAT%20A%20BMVg-1-1/MAT_A_BMVg-1-1d-8.pdf) hervorgeht.\r\n\r\nWas aus den \u00f6ffentlich verf\u00fcgbaren Daten nicht ersichtlich wird, ist, welche Sicherheitsmechanismen zum Schutz der hochsensiblen biometrischen Daten auf diesen Ger\u00e4ten zum Einsatz kommen. [Da das US-Milit\u00e4r selbst vor der Gefahr solcher biometrischen Datenbanken warnt](https://www.wired.com/2007/08/also-two-thirds/), haben wir ein besonders hohes Schutzniveau erwartet. \r\n\r\nWir hatten die M\u00f6glichkeit verschiedene Ger\u00e4te des US-Milit\u00e4rs zu untersuchen. Bei der Untersuchung wurde schnell klar, dass auf den Ger\u00e4ten selbst keinerlei Sicherheitsmechanismen implementiert wurden. Die potenziellen Konsequenzen dieses Verzichts auf Absicherung wurden noch (un)fassbarer, als wir auf einem der Ger\u00e4te eine Datenbank mit einer gro\u00dfen Menge sensibler Daten rekonstruieren konnten. Die Tatsache, dass h\u00f6chstwahrscheinlich unver\u00e4nderbare biometrische Daten besonders vulnerabler Personen ungesichert in einem Konfliktgebiet zur\u00fcckgelassen wurden, zeigt einmal mehr deutlich die Gefahren biometrischer Datenbanken.\r\n\r\n\r\nContent Notice: Milit\u00e4r, Krieg, \u00dcberwachung",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
