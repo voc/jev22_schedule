@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "b83c3"
     },
-    "version": "2022-12-27 02:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 02:00; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
+    "version": "2022-12-27 02:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 02:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum f\u00fcr Freir\u00e4ume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -4816,7 +4816,7 @@
                 "logo": "/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png",
                 "date": "2022-12-28T13:00:00+01:00",
                 "start": "13:00",
-                "duration": "01:30",
+                "duration": "00:45",
                 "room": "WICMP Seminarraum",
                 "slug": "jev22-4958-das_zam_im_wandel_der_zeit",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/PFNABK/",
@@ -4835,6 +4835,68 @@
                     "code": "SYJ7LM",
                     "public_name": "Julian \"codemonk\"",
                     "biography": "Auf Bergen, in H\u00f6hlen und in der Luft unterwegs. Manchmal auch in Hack- und Makespaces.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 1912,
+                "guid": "a1b9f1f2-15eb-5cb4-8971-1aac1d3ac0ba",
+                "logo": "",
+                "date": "2022-12-28T14:00:00+01:00",
+                "start": "14:00",
+                "duration": "00:10",
+                "room": "WICMP Seminarraum",
+                "slug": "jev22-1912-telnetsnakebotwettbewerb",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/VZGSMJ/",
+                "title": "TelnetSnakeBotWettbewerb",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Snake ist zur\u00fcck, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch \u00e4lteren\r\nProtokollen, daf\u00fcr mit einem Mehrspielerkonzept inspiriert von TetriNET[1].\r\n\r\nZum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spa\u00df nicht selber haben\r\nsondern wegautomatisieren.\r\n\r\nDer Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das\r\nSpiel funktioniert und die Schnittstelle f\u00fcr Bots aussieht, sowie zweitens einem\r\nTurnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.\r\nDie Bots k\u00f6nnen in beliebigen Programmiersprachen geschrieben werden.\r\n\r\nDen Code (aka die Dokumentation) der Serverseite gibts hier[3].\r\n\r\n[1]: https://de.wikipedia.org/wiki/TetriNET\r\n[2]: gopher://telnetgames.de\r\n[3]: https://gitlab.cs.fau.de/since/schnake",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 32,
+                    "code": "Q7M9XB",
+                    "public_name": "ceddral",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 3209,
+                "guid": "3209823e-cd4d-51d1-8e94-eaf0c2abe9fa",
+                "logo": "",
+                "date": "2022-12-28T14:45:00+01:00",
+                "start": "14:45",
+                "duration": "00:45",
+                "room": "WICMP Seminarraum",
+                "slug": "jev22-3209-tales_of_camelot_gba_edition",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/",
+                "title": "Tales of Camelot - GBA Edition",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Ich diskutiere in diesem Talk ein wenig meiner Geschichte, wie ich zu den GBA Spielen von Camelot gefunden habe und warum diese technisch interessant sind.\r\n\r\nWir schauen uns kurz beispielhaft ein paar bekannte Game Boy Advance Spiele an, ein bisschen wie die Hardware des GBAs grob aufgebaut ist und tauchen dann ein, welche Tricks die Spiele Golden Sun, Golden Sun - Die Vergessene Epoche, Mario Golf - Advance Tour und Mario Tennis - Power Tour verwenden. Das behinhaltet Dinge wie non-standard Calling Conventions, Instruktionen ohne Assembler Mnemonic und einiges mehr.\r\n\r\nIch mutma\u00dfe ein bisschen dar\u00fcber wie kleine Teile des Source Codes ausgesehen haben k\u00f6nnten, warum genau Teile so programmiert worden sind wie sie sind, und welch unglaublich gut optimierter Code hinter diesen Spielen steckt.",
+                "description": "Der Game Boy Advance war seinerzeit verglichen mit seinem Vorg\u00e4nger oder anderen Handhelds eine recht m\u00e4chtige Konsole (32-bit ARM Prozessor, PPU, PCM sound, etc.). Die Konsole und ihre Spiele waren ohne Zweifel ein Erfolg, jedoch leideten viele Spiele am eher durchschnittlichen Sound und grafisch waren viele auch recht simpel gehalten. Daher will ich in diesem Talk ein bisschen die Spiele des Entwicklerstudio Camelot au\u00dfeinandernehmen, welche nicht nur gameplaytechnisch sowie audiovisuell ein Spektakel sind, sondern technisch sehr viel interessante Fun Facts zu bieten haben.\r\n\r\nAchtung: Reverse Engineering, Assembler und viel Unfug Inside.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 29,
+                    "code": "SXDZWZ",
+                    "public_name": "Michael Panzlaff",
+                    "biography": "Hi,\r\n\r\neiniger Erlanger d\u00fcrften mich unter dem Nick \"michy\" kennen, andere fremde Leute aus dem Internetz kennen mich vielleicht unter dem Nick \"ipatix\" und ich frickle gerne an Sachen rum, die Audio involvieren, reverse engineere hier und da mal was und besch\u00e4ftige mich gerne mit dem Zusammenspiel von Hard- und Software.\r\n\r\nSachen an denen ich so rumfrickle, findet ihr hier:\r\nhttps://github.com/ipatix",
                     "answers": []
                   }
                 ],
@@ -4969,39 +5031,7 @@
               }
             ],
             "Spezial Raum": [],
-            "Lounge": [
-              {
-                "id": 2315,
-                "guid": "231b5e14-dbc1-5121-a6f5-818313506e5d",
-                "logo": "",
-                "date": "2022-12-28T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "02:00",
-                "room": "Lounge",
-                "slug": "jev22-2315-lnxu_downtempo_chillout_dj_set",
-                "url": "https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/",
-                "title": "lnxu Downtempo Chillout DJ Set",
-                "subtitle": "",
-                "track": "Erlangen",
-                "type": "Musik (120 min)",
-                "language": "de",
-                "abstract": "Downtempo/Ambient/Dub Techno Chillout Set.",
-                "description": "Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 15,
-                    "code": "MLNTAR",
-                    "public_name": "lnxu",
-                    "biography": "https://soundcloud.com/void-4\r\nhttps://www.twitch.tv/nbgsubculture",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              }
-            ],
+            "Lounge": [],
             "ChilyConChaos": [
               {
                 "guid": "fa4243fa-206d-4de8-9704-ddfa829ff51b",
@@ -11507,6 +11537,37 @@
             "icc|bs": [],
             "Multiversum B\u00fchne": [],
             "WICMP Seminarraum": [
+              {
+                "id": 3038,
+                "guid": "a303d860-5b1a-51a9-8bbc-60763964e065",
+                "logo": "",
+                "date": "2022-12-30T13:15:00+01:00",
+                "start": "13:15",
+                "duration": "00:30",
+                "room": "WICMP Seminarraum",
+                "slug": "jev22-3038-telnetsnakebotwettbewerb",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/SWRGBX/",
+                "title": "TelnetSnakeBotWettbewerb",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Snake ist zur\u00fcck, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch \u00e4lteren\r\nProtokollen, daf\u00fcr mit einem Mehrspielerkonzept inspiriert von TetriNET[1].\r\n\r\nZum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spa\u00df nicht selber haben\r\nsondern wegautomatisieren.\r\n\r\nDer Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das\r\nSpiel funktioniert und die Schnittstelle f\u00fcr Bots aussieht, sowie zweitens einem\r\nTurnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.\r\nDie Bots k\u00f6nnen in beliebigen Programmiersprachen geschrieben werden.\r\n\r\nDen Code (aka die Dokumentation) der Serverseite gibts hier[3].\r\n\r\n[1]: https://de.wikipedia.org/wiki/TetriNET\r\n[2]: gopher://telnetgames.de\r\n[3]: https://gitlab.cs.fau.de/since/schnake",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 32,
+                    "code": "Q7M9XB",
+                    "public_name": "ceddral",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
               {
                 "id": 5136,
                 "guid": "5c136451-b07a-5290-bda4-838406dc814c",

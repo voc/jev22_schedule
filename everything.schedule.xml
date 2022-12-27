@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-27 02:00; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.5; ChilyConChaos 2022-12-27 02:00; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
+  <version>2022-12-27 02:20; FireShonks 0.29; Reconnect To Chaos! 2.1; Hellarious: Hacking in Hell 0.4 final; Curious Community Labs Chaos Experience 0.2.0; xrelog22: Independent Multiverses 1.7; Wintergalaktische Club Mate Party 0.6; ChilyConChaos 2022-12-27 02:20; Winterchaos 0.4; Hacking in Parallel 0.10; Forum für Freiräume - Gib Uns Mehr! 0.37; End-of-Year event 0.2; DWeb NY Pre-kickoff + RemoteCCC @ Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -4040,7 +4040,7 @@ It breaks then down roughly like this:&#13;
         <logo>/media/wicmp1/submissions/PFNABK/ZAM_Logo_tight_4LD9Lbg.png</logo>
         <date>2022-12-28T13:00:00+01:00</date>
         <start>13:00</start>
-        <duration>01:30</duration>
+        <duration>00:45</duration>
         <room>WICMP Seminarraum</room>
         <slug>jev22-4958-das_zam_im_wandel_der_zeit</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/PFNABK/</url>
@@ -4057,6 +4057,77 @@ It breaks then down roughly like this:&#13;
         </recording>
         <persons>
           <person id="5">Julian "codemonk"</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="1912" guid="a1b9f1f2-15eb-5cb4-8971-1aac1d3ac0ba">
+        <logo/>
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:10</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-1912-telnetsnakebotwettbewerb</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/VZGSMJ/</url>
+        <title>TelnetSnakeBotWettbewerb</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Snake ist zurück, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch älteren&#13;
+Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET[1].&#13;
+&#13;
+Zum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spaß nicht selber haben&#13;
+sondern wegautomatisieren.&#13;
+&#13;
+Der Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das&#13;
+Spiel funktioniert und die Schnittstelle für Bots aussieht, sowie zweitens einem&#13;
+Turnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.&#13;
+Die Bots können in beliebigen Programmiersprachen geschrieben werden.&#13;
+&#13;
+Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
+&#13;
+[1]: https://de.wikipedia.org/wiki/TetriNET&#13;
+[2]: gopher://telnetgames.de&#13;
+[3]: https://gitlab.cs.fau.de/since/schnake</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="32">ceddral</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3209" guid="3209823e-cd4d-51d1-8e94-eaf0c2abe9fa">
+        <logo/>
+        <date>2022-12-28T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>00:45</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-3209-tales_of_camelot_gba_edition</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/</url>
+        <title>Tales of Camelot - GBA Edition</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ich diskutiere in diesem Talk ein wenig meiner Geschichte, wie ich zu den GBA Spielen von Camelot gefunden habe und warum diese technisch interessant sind.&#13;
+&#13;
+Wir schauen uns kurz beispielhaft ein paar bekannte Game Boy Advance Spiele an, ein bisschen wie die Hardware des GBAs grob aufgebaut ist und tauchen dann ein, welche Tricks die Spiele Golden Sun, Golden Sun - Die Vergessene Epoche, Mario Golf - Advance Tour und Mario Tennis - Power Tour verwenden. Das behinhaltet Dinge wie non-standard Calling Conventions, Instruktionen ohne Assembler Mnemonic und einiges mehr.&#13;
+&#13;
+Ich mutmaße ein bisschen darüber wie kleine Teile des Source Codes ausgesehen haben könnten, warum genau Teile so programmiert worden sind wie sie sind, und welch unglaublich gut optimierter Code hinter diesen Spielen steckt.</abstract>
+        <description>Der Game Boy Advance war seinerzeit verglichen mit seinem Vorgänger oder anderen Handhelds eine recht mächtige Konsole (32-bit ARM Prozessor, PPU, PCM sound, etc.). Die Konsole und ihre Spiele waren ohne Zweifel ein Erfolg, jedoch leideten viele Spiele am eher durchschnittlichen Sound und grafisch waren viele auch recht simpel gehalten. Daher will ich in diesem Talk ein bisschen die Spiele des Entwicklerstudio Camelot außeinandernehmen, welche nicht nur gameplaytechnisch sowie audiovisuell ein Spektakel sind, sondern technisch sehr viel interessante Fun Facts zu bieten haben.&#13;
+&#13;
+Achtung: Reverse Engineering, Assembler und viel Unfug Inside.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">Michael Panzlaff</person>
         </persons>
         <links/>
         <attachments/>
@@ -4175,33 +4246,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
       </event>
     </room>
     <room name="Spezial Raum"/>
-    <room name="Lounge">
-      <event id="2315" guid="231b5e14-dbc1-5121-a6f5-818313506e5d">
-        <logo/>
-        <date>2022-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
-        <room>Lounge</room>
-        <slug>jev22-2315-lnxu_downtempo_chillout_dj_set</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/8XH9SW/</url>
-        <title>lnxu Downtempo Chillout DJ Set</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Musik (120 min)</type>
-        <language>de</language>
-        <abstract>Downtempo/Ambient/Dub Techno Chillout Set.</abstract>
-        <description>Entspanntes Downtempo/Ambient/Dub Techno Chillout Set.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="15">lnxu</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Lounge"/>
     <room name="ChilyConChaos">
       <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="4243">
         <title>Schafkopf lernen</title>
@@ -9977,6 +10022,46 @@ You can also spectate the event on PeerTube.</description>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="WICMP Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="3038" guid="a303d860-5b1a-51a9-8bbc-60763964e065">
+        <logo/>
+        <date>2022-12-30T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>00:30</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-3038-telnetsnakebotwettbewerb</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/SWRGBX/</url>
+        <title>TelnetSnakeBotWettbewerb</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Snake ist zurück, jetzt mit weniger Graphik als auf dem Nokia 3310 und noch älteren&#13;
+Protokollen, dafür mit einem Mehrspielerkonzept inspiriert von TetriNET[1].&#13;
+&#13;
+Zum selbst spielen gibts TelnetSnake hier[2]. Doch wollen wir den Spaß nicht selber haben&#13;
+sondern wegautomatisieren.&#13;
+&#13;
+Der Wettbewerb besteht aus zwei Teilen, erstens einer kurzen Einleitung wie das&#13;
+Spiel funktioniert und die Schnittstelle für Bots aussieht, sowie zweitens einem&#13;
+Turnier in dem die in der Zwischenzeit entstandenen Bots gegeneinander antreten.&#13;
+Die Bots können in beliebigen Programmiersprachen geschrieben werden.&#13;
+&#13;
+Den Code (aka die Dokumentation) der Serverseite gibts hier[3].&#13;
+&#13;
+[1]: https://de.wikipedia.org/wiki/TetriNET&#13;
+[2]: gopher://telnetgames.de&#13;
+[3]: https://gitlab.cs.fau.de/since/schnake</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="32">ceddral</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="5136" guid="5c136451-b07a-5290-bda4-838406dc814c">
         <logo/>
         <date>2022-12-30T14:00:00+01:00</date>
