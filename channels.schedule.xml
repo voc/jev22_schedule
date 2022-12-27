@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-26 23:20</version>
+  <version>2022-12-27 01:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -498,7 +498,7 @@ anonymised.</abstract>
         <title>Malzbierbrauen</title>
         <subtitle>Workshop</subtitle>
         <track>Curious Community Labs</track>
-        <type>Other</type>
+        <type>Workshop</type>
         <language>de</language>
         <abstract/>
         <description/>
@@ -1275,7 +1275,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <title>Martyra Peng und die Zukunft der Sexarbeit</title>
         <subtitle/>
         <track>Curious Community Labs</track>
-        <type>Other</type>
+        <type>Talk</type>
         <language>de</language>
         <abstract/>
         <description>Sexualisierte Gewalt/erzwungene Sexarbeit. Meine Thesen über toxische Geschäftsmodelle im Plattformkapitalismus beruhen auf langjähriger Forschung in sozialen Netzwerken über die technischen Voraussetzungen von Patriarchaler Machtausübung am Beispiel sexueller Ausbeutung. Dazu erschien von mir das Buch Sexwork 3.0 Stichworte: Internet Ökonomie Gesellschaft</description>
@@ -1300,10 +1300,10 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <title>Mikroskopieren und Kochen</title>
         <subtitle>Workshop</subtitle>
         <track>Curious Community Labs</track>
-        <type>Other</type>
+        <type>Workshop</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Fotos von Mikroskopie-Präparaten möglichst genau als Suppe nachkochen. Hilfsmittel: Glasteller, Mikroskop, Kamera. Alles muss essbar und schmackhaft sein. Und ausgelöffelt werden</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1323,10 +1323,10 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <title>Die wunderbare Welt der Flaschengärten</title>
         <subtitle/>
         <track>Curious Community Labs</track>
-        <type>Other</type>
+        <type>Talk</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Mit Moos, Steinen und Pflanzen lassen sich in einem geschlossenen Ökosystem (Schraubglas) wundervolle Landschaften zaubern. Einmal gewässert müssen sie nicht mehr gegossen werden! Gartengestaltung in Miniatur – pflegeleicht, kreativ und spannend zu beobachten.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1348,7 +1348,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <title>Building your personal DNA-Synthesizer</title>
         <subtitle/>
         <track>Curious Community Labs</track>
-        <type>Other</type>
+        <type>Talk</type>
         <language>de</language>
         <abstract/>
         <description/>
@@ -2338,7 +2338,31 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
         <attachments/>
       </event>
     </room>
-    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+      <event id="1843" guid="d1843366-bf8e-4735-89c2-71c6c939c44b">
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Halle 4K</room>
+        <slug>jev22-1843-loete_deinen_eigenen_pflanzensensor</slug>
+        <title>Löte deinen eigenen Pflanzensensor</title>
+        <subtitle>Workshop</subtitle>
+        <track>Curious Community Labs</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
+        <logo/>
+        <attachments/>
+        <persons/>
+        <links/>
+      </event>
+    </room>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
         <logo/>
