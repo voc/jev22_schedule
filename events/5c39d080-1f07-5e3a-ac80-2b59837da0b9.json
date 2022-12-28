@@ -1,0 +1,33 @@
+{
+  "id": 5390,
+  "guid": "5c39d080-1f07-5e3a-ac80-2b59837da0b9",
+  "logo": "",
+  "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "02:00",
+  "room": "Rave Cave",
+  "slug": "jev22-5390-malle_4_alle",
+  "url": "https://talks.w.icmp.camp/wicmp1/talk/TXLX3W/",
+  "title": "Malle 4 Alle",
+  "subtitle": "",
+  "track": "Erlangen",
+  "type": "Musik (120 min)",
+  "language": "de",
+  "abstract": "Kommt noch",
+  "description": "",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 34,
+      "code": "DESDQH",
+      "public_name": "SchranzJosefRausch",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "talks.w.icmp.camp"
+}

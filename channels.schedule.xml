@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 17:00</version>
+  <version>2022-12-28 17:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1373,7 +1373,9 @@ Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von
 &#13;
 Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Q&amp;A https://meeten.statt-drosseln.de/b/c_r-abz-mh4-mom</abstract>
         <description>This talk will be held in English. Both English and German subtitles are provided.&#13;
 &#13;
 This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</description>
@@ -1742,7 +1744,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
       <event id="6311" guid="63115c2b-d2d8-502c-90d8-132dfe7a3ee0">
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>1:00</duration>
+        <duration>1:45</duration>
         <room>CCL</room>
         <slug>jev22-6311-die_wunderbare_welt_der_flaschengaerten</slug>
         <title>Die wunderbare Welt der Flaschengärten</title>
