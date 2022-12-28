@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 13:20",
+    "version": "2022-12-28 13:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1735,7 +1735,7 @@
                 "track": "R3S",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat ver\u00f6ffentlicht sind, liest Claudia ihn Kapitel f\u00fcr Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation \u2013 doch was ist 10.000 Seiten sp\u00e4ter (so lang ist der Klimabericht) davon \u00fcbrig geblieben?\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat ver\u00f6ffentlicht sind, liest Claudia ihn Kapitel f\u00fcr Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation \u2013 doch was ist 10.000 Seiten sp\u00e4ter (so lang ist der Klimabericht) davon \u00fcbrig geblieben?\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nExtended Q&A: https://bbb.digitalcourage.de/b/fir-c2z-u1e-fw7",
                 "description": "Claudia fragt, was das Lesen des Klimaberichts in ihr ver\u00e4ndert und mit ihr gemacht hat und m\u00f6chte die Antwort gemeinsam mit Julia und Euch ergr\u00fcnden.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -3144,7 +3144,7 @@
                 "abstract": "The world is getting more digital and activism is as well.\r\nBut the world of It security can seem overwhelming and its easy to feel lost and helpless. In this talk I want to present the IT security guidelines that I am developing right now. They are meant to help for activists to find fitting security measures for a given activism project, without being 300 pages long or overly complex. Ideally they empower non technical individuals to protect their data better and make informed decisicions about their personal it security.",
                 "description": "I already held the talk in German at this years Bits und B\u00e4ume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 40,

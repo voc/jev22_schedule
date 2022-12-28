@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 13:20</version>
+  <version>2022-12-28 13:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1281,7 +1281,9 @@ Dies legt den Grundstein zum übergreifenden [Platform System Interface](https:/
         <language>de</language>
         <abstract>Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat veröffentlicht sind, liest Claudia ihn Kapitel für Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation – doch was ist 10.000 Seiten später (so lang ist der Klimabericht) davon übrig geblieben?&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Extended Q&amp;A: https://bbb.digitalcourage.de/b/fir-c2z-u1e-fw7</abstract>
         <description>Claudia fragt, was das Lesen des Klimaberichts in ihr verändert und mit ihr gemacht hat und möchte die Antwort gemeinsam mit Julia und Euch ergründen.</description>
         <recording>
           <license/>
@@ -2585,7 +2587,7 @@ But the world of It security can seem overwhelming and its easy to feel lost and
         <description>I already held the talk in German at this years Bits und Bäume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>

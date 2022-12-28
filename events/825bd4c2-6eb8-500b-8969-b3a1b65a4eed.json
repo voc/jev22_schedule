@@ -16,7 +16,7 @@
   "abstract": "The world is getting more digital and activism is as well.\r\nBut the world of It security can seem overwhelming and its easy to feel lost and helpless. In this talk I want to present the IT security guidelines that I am developing right now. They are meant to help for activists to find fitting security measures for a given activism project, without being 300 pages long or overly complex. Ideally they empower non technical individuals to protect their data better and make informed decisicions about their personal it security.",
   "description": "I already held the talk in German at this years Bits und B\u00e4ume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/",
   "recording_license": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "persons": [
     {
       "id": 40,

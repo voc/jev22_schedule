@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 13:20; FireShonks 0.34; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 13:20; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.45; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 13:40; FireShonks 0.35; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 13:40; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.45; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3602,7 +3602,7 @@
                 "track": "R3S",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat ver\u00f6ffentlicht sind, liest Claudia ihn Kapitel f\u00fcr Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation \u2013 doch was ist 10.000 Seiten sp\u00e4ter (so lang ist der Klimabericht) davon \u00fcbrig geblieben?\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Seit die ersten Seiten des 6. Klimaberichts im August 2021 vom Weltklimarat ver\u00f6ffentlicht sind, liest Claudia ihn Kapitel f\u00fcr Kapitel durch. Im Januar 2023 ist es dann geschafft. Am Anfang stand die Motivation \u2013 doch was ist 10.000 Seiten sp\u00e4ter (so lang ist der Klimabericht) davon \u00fcbrig geblieben?\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nExtended Q&A: https://bbb.digitalcourage.de/b/fir-c2z-u1e-fw7",
                 "description": "Claudia fragt, was das Lesen des Klimaberichts in ihr ver\u00e4ndert und mit ihr gemacht hat und m\u00f6chte die Antwort gemeinsam mit Julia und Euch ergr\u00fcnden.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -5578,7 +5578,7 @@
                 "abstract": "The world is getting more digital and activism is as well.\r\nBut the world of It security can seem overwhelming and its easy to feel lost and helpless. In this talk I want to present the IT security guidelines that I am developing right now. They are meant to help for activists to find fitting security measures for a given activism project, without being 300 pages long or overly complex. Ideally they empower non technical individuals to protect their data better and make informed decisicions about their personal it security.",
                 "description": "I already held the talk in German at this years Bits und B\u00e4ume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 40,
@@ -9163,7 +9163,7 @@
                 "abstract": "Trading of zero day vulnerabilities is still possible and common.\r\nBut what does that mean for their judicial admissibility? Can the analysis results of the phone's data be used in court if  vulnerabilities for the device are available at Zero day vendors?",
                 "description": "From a technical perspective the integrity of data on a device can not be trusted if 1. there are known vulnerabilities to a device and 2. an attacker is assumed that is capable of covering their tracks after gaining full system access\r\nThe more is known about the internals of a device, the easier it is to detect traces of manual changes of data and configuration on the device.\r\nBut how does that look like with smartphones? Should data extracted from there be admitted in court?\r\nIn this talk I first give some fundamentals of smartphone forensics, zero day markets and smartphone security to then analyze what this means for the admissibility of smartphones evidence in courts.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 40,
