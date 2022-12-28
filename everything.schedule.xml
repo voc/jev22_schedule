@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 12:00; FireShonks 0.33; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 12:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 12:20; FireShonks 0.33; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 12:20; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3228,10 +3228,10 @@ Für die, die mitmachen möchten, benötigtes Material: &#13;
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Haecksenfrühstück für interessierte FINTA-Personen&#13;
+        <abstract>offene Haecksen-Frühstück für alle neugierigen FINTA-Menschen, die die Haecksen kennen lernen wollen. Einzige Voraussetzung: FINTA sein.&#13;
 &#13;
 Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
-        <description>-</description>
+        <description>Unsere Definition für eine Teilnahme findest du hier: https://www.haecksen.org/wer-sind-die-haecksen/</description>
         <recording>
           <license/>
           <optout>true</optout>
