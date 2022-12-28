@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 14:20",
+    "version": "2022-12-28 14:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2740,7 +2740,7 @@
                 "type": "Talk",
                 "language": "en",
                 "abstract": "Introduction to open source PDKs for making custom Asics and the work involved in taping out a small systolic array using only open-source tooling, and also applications to systolic arrays",
-                "description": "During this talk, I will give an introduction to open-source PDKs for making custom Asics and my work on taping out a small systolic array using only open-source tools, my work is part of the zero to ASIC community https://www.zerotoasiccourse.com/. All of the content to be presented is from the perspective of an embedded software engineer learning digital design in his free time, without previous knowledge of digital design.\r\n\r\nThe related work can be found at https://github.com/tucanae47/etpu and https://github.com/tucanae47/wrapped_etpu",
+                "description": "During this talk, I will give an introduction to open-source PDKs for making custom Asics and my work on taping out a small systolic array using only open-source tools, my work is part of the zero to ASIC community https://www.zerotoasiccourse.com/. All of the content to be presented is from the perspective of an embedded software engineer learning digital design in his free time, without previous knowledge of digital design.\r\n\r\nThe related work can be found at https://github.com/tucanae47/etpu and https://github.com/tucanae47/wrapped_etpu\r\n\r\nSlides can be found here\r\nhttps://docs.google.com/presentation/d/1TU46SYttMdoLC8L0s6AiSN3k3dQAGPlPGogErm2m1ds/edit?usp=sharing",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
