@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 16:20; FireShonks 0.36; Reconnect To Chaos! 2.2; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:20; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 17:00; FireShonks 0.36; Reconnect To Chaos! 2.2; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 17:00; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7259,7 +7259,7 @@ Die Details hängen von der location ab, die wir noch gar nicht kennen. Es wird 
     </room>
     <room name="Spezial Raum">
       <event id="2838" guid="2f8389b5-cfd3-5814-be00-765a76965301">
-        <logo/>
+        <logo>/media/wicmp1/submissions/KS7NPN/wicmp_siebdruck_vtYotuw.jpeg</logo>
         <date>2022-12-29T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>02:30</duration>
