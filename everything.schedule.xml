@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 04:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 04:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 10:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 10:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7442,19 +7442,19 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <type>Other</type>
         <slug>jev22-8583-was_ist_fragdenstaat_de</slug>
       </event>
-      <event guid="964fb295-5e5c-4bce-beeb-4f52d1e058b0" id="9642">
-        <title>Amateurfunk mit Kurzwelle, Satellit und Packetradio</title>
+      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
+        <title>All about DigitalCourage</title>
         <subtitle/>
-        <abstract/>
+        <abstract>Jakob, mit Q&amp;A</abstract>
         <description/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>7:00</duration>
+        <date>2022-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
         <room>ChilyConChaos</room>
         <persons/>
         <track>Gießen/Wetzlar</track>
-        <type>Workshop</type>
-        <slug>jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio</slug>
+        <type>Other</type>
+        <slug>jev22-9365-all_about_digitalcourage</slug>
       </event>
       <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="4434">
         <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
@@ -10318,20 +10318,6 @@ This talk will take top-down approach starting with the operational principles a
         <track>Gießen/Wetzlar</track>
         <type>Votrag</type>
         <slug>jev22-3249-securing_unsafe_rust_with_xrust</slug>
-      </event>
-      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
-        <title>All about DigitalCourage</title>
-        <subtitle/>
-        <abstract>Jakob, mit Q&amp;A</abstract>
-        <description/>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-9365-all_about_digitalcourage</slug>
       </event>
     </room>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">

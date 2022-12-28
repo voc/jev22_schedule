@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 04:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 04:00; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 10:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 10:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8562,20 +8562,20 @@
                 "slug": "jev22-8583-was_ist_fragdenstaat_de"
               },
               {
-                "guid": "964fb295-5e5c-4bce-beeb-4f52d1e058b0",
-                "title": "Amateurfunk mit Kurzwelle, Satellit und Packetradio",
+                "guid": "93d65e3e-6a7b-48be-b229-dd7c356238f6",
+                "title": "All about DigitalCourage",
                 "subtitle": null,
-                "abstract": null,
+                "abstract": "Jakob, mit Q&A",
                 "description": "",
-                "date": "2022-12-29T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "7:00",
+                "date": "2022-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
                 "room": "ChilyConChaos",
                 "persons": [],
                 "track": "Gie\u00dfen/Wetzlar",
-                "type": "Workshop",
-                "id": 9642,
-                "slug": "jev22-9642-amateurfunk_mit_kurzwelle_satellit_und_packetradio"
+                "type": "Other",
+                "id": 9365,
+                "slug": "jev22-9365-all_about_digitalcourage"
               },
               {
                 "guid": "b4f4b341-d776-48bf-8a83-d2356968daef",
@@ -11797,22 +11797,6 @@
                 "type": "Votrag",
                 "id": 3249,
                 "slug": "jev22-3249-securing_unsafe_rust_with_xrust"
-              },
-              {
-                "guid": "93d65e3e-6a7b-48be-b229-dd7c356238f6",
-                "title": "All about DigitalCourage",
-                "subtitle": null,
-                "abstract": "Jakob, mit Q&A",
-                "description": "",
-                "date": "2022-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "0:30",
-                "room": "ChilyConChaos",
-                "persons": [],
-                "track": "Gie\u00dfen/Wetzlar",
-                "type": "Other",
-                "id": 9365,
-                "slug": "jev22-9365-all_about_digitalcourage"
               }
             ],
             "Winterchaos": [
