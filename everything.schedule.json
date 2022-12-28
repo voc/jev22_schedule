@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 14:40; FireShonks 0.35; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 14:40; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 15:00; FireShonks 0.35; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 15:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2104,7 +2104,7 @@
                     "id": 3337,
                     "code": "FR7FLX",
                     "public_name": "David Runge",
-                    "biography": "I am a free software developer, that works on various projects.\r\nFields of interest (in no particular order) are pro-audio on Linux, embedded systems, Arch Linux, packaging, infrastructure management, automation.",
+                    "biography": "I am a free software developer, that works on various projects.\r\nFields of interest (in no particular order) are pro-audio on Linux, embedded systems, Arch Linux, packaging, infrastructure management, automation.\r\n\r\nhttps://sleepmap.de",
                     "answers": []
                   }
                 ],
