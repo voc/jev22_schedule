@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 15:20</version>
+  <version>2022-12-28 16:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2545,6 +2545,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="3939">Sabina</person>
           <person id="3376">Bi3n3</person>
         </persons>
         <links/>
@@ -4164,8 +4165,9 @@ Um die Pläne noch zu verhindern müssen wir jetzt aktiv werden.</description>
           <optout>false</optout>
         </recording>
         <persons>
+          <person id="246">khaleesi</person>
           <person id="302">Konstantin Macher (Digitalcourage)</person>
-          <person id="3046">Tom Jennissen (Digitale Gesellschaft)</person>
+          <person id="3046">Tom Jennissen</person>
         </persons>
         <links/>
         <attachments/>

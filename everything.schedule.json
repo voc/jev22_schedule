@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 15:20; FireShonks 0.36; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 15:20; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 16:00; FireShonks 0.36; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5519,6 +5519,13 @@
                 "do_not_record": false,
                 "persons": [
                   {
+                    "id": 3939,
+                    "code": "WGB7JW",
+                    "public_name": "Sabina",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
                     "id": 3376,
                     "code": "QZ8JFF",
                     "public_name": "Bi3n3",
@@ -8873,6 +8880,13 @@
                 "do_not_record": false,
                 "persons": [
                   {
+                    "id": 246,
+                    "code": "DAWNLU",
+                    "public_name": "khaleesi",
+                    "biography": "Khaleesi engagiert sich im CCC und ist eine der Sprecher*innen des B\u00fcdnis \u201eChatkontrolle Stoppen!\u201c\r\nIhr Fokus liegt auf Policy und Advocacy Arbeit auf EU-Ebene. \r\nSie ist Informatikerin und arbeitet im IT-Sicherheitsbereich.",
+                    "answers": []
+                  },
+                  {
                     "id": 302,
                     "code": "XQZELM",
                     "public_name": "Konstantin Macher (Digitalcourage)",
@@ -8882,8 +8896,8 @@
                   {
                     "id": 3046,
                     "code": "G3VFME",
-                    "public_name": "Tom Jennissen (Digitale Gesellschaft)",
-                    "biography": "Tom ist Jurist und arbeitet f\u00fcr die Digitale Gesellschaft e.V. Daneben ist er im Vorstand des Grundrechtekomitees und in der Redaktion der Zeitschrift B\u00fcrgerrechte und Polizei/CILIP und engagiert sich im Republikanischen Anw\u00e4ltinnen- und Anw\u00e4lteverein (RAV).",
+                    "public_name": "Tom Jennissen",
+                    "biography": "Tom ist Jurist und arbeitet f\u00fcr die Digitale Gesellschaft e.V. Daneben ist er im Vorstand des Grundrechtekomitees, in der Redaktion der Zeitschrift B\u00fcrgerrechte und Polizei/CILIP und engagiert sich im Republikanischen Anw\u00e4ltinnen- und Anw\u00e4lteverein (RAV).",
                     "answers": []
                   }
                 ],
