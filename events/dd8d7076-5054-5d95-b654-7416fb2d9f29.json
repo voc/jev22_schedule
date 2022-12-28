@@ -1,0 +1,33 @@
+{
+  "id": 55128,
+  "guid": "dd8d7076-5054-5d95-b654-7416fb2d9f29",
+  "logo": "",
+  "date": "2022-12-30T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "00:30",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-55128-erklaerhaj_loetet",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/",
+  "title": "Erkl\u00e4rhaj l\u00f6tet",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
+  "description": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3401,
+      "code": "YLYLMA",
+      "public_name": "Erkl\u00e4rhai",
+      "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}

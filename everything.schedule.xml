@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 11:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 11:20; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 11:40; FireShonks 0.33; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 11:40; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -2890,8 +2890,8 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
     <room name="Fireshonks-Stream" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
       <event id="49154" guid="642a2250-a5b9-5e4a-bf53-984f1f0c0a70">
         <logo>/media/fire-shonks-2022/submissions/LMFMJN/logo_ekPeMOF.png</logo>
-        <date>2022-12-28T11:55:00+01:00</date>
-        <start>11:55</start>
+        <date>2022-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49154-platform_system_interface</slug>
@@ -4080,37 +4080,6 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         </recording>
         <persons>
           <person id="32">ceddral</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="3209" guid="3209823e-cd4d-51d1-8e94-eaf0c2abe9fa">
-        <logo/>
-        <date>2022-12-28T14:45:00+01:00</date>
-        <start>14:45</start>
-        <duration>00:45</duration>
-        <room>WICMP Seminarraum</room>
-        <slug>jev22-3209-tales_of_camelot</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/NQRTZY/</url>
-        <title>Tales of Camelot</title>
-        <subtitle> - GBA Edition</subtitle>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Ich diskutiere in diesem Talk ein wenig meiner Geschichte, wie ich zu den GBA Spielen von Camelot gefunden habe und warum diese technisch interessant sind.&#13;
-&#13;
-Wir schauen uns kurz beispielhaft ein paar bekannte Game Boy Advance Spiele an, ein bisschen wie die Hardware des GBAs grob aufgebaut ist und tauchen dann ein, welche Tricks die Spiele Golden Sun, Golden Sun - Die Vergessene Epoche, Mario Golf - Advance Tour und Mario Tennis - Power Tour verwenden. Das behinhaltet Dinge wie non-standard Calling Conventions, Instruktionen ohne Assembler Mnemonic und einiges mehr.&#13;
-&#13;
-Ich mutmaße ein bisschen darüber wie kleine Teile des Source Codes ausgesehen haben könnten, warum genau Teile so programmiert worden sind wie sie sind, und welch unglaublich gut optimierter Code hinter diesen Spielen steckt.</abstract>
-        <description>Der Game Boy Advance war seinerzeit verglichen mit seinem Vorgänger oder anderen Handhelds eine recht mächtige Konsole (32-bit ARM Prozessor, PPU, PCM sound, etc.). Die Konsole und ihre Spiele waren ohne Zweifel ein Erfolg, jedoch leideten viele Spiele am eher durchschnittlichen Sound und grafisch waren viele auch recht simpel gehalten. Daher will ich in diesem Talk ein bisschen die Spiele des Entwicklerstudio Camelot außeinandernehmen, welche nicht nur gameplaytechnisch sowie audiovisuell ein Spektakel sind, sondern technisch sehr viel interessante Fun Facts zu bieten haben.&#13;
-&#13;
-Achtung: Reverse Engineering, Assembler und viel Unfug Inside.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="29">Michael Panzlaff</person>
         </persons>
         <links/>
         <attachments/>
@@ -6260,38 +6229,11 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="49172" guid="9c3992f4-4d35-574d-bb99-4e40890cfbc7">
-        <logo/>
-        <date>2022-12-29T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>00:15</duration>
-        <room>Fireshonks-Stream</room>
-        <slug>jev22-49172-ccs</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/9FUU3F/</url>
-        <title>#CCS </title>
-        <subtitle>- Chaotischer Catalysator Stipendien</subtitle>
-        <track>R3S</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Wir suchen nach Themen, die sich die Informationstechnologien dieser Welt genauer anschauen, ihren Einfluss auf die Gesellschaft untersuchen und Ideen entwickeln, wie die Welt nach den Grundsätzen der Hacker*innen-Ethik verbesserbar ist.&#13;
-&#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Mit dem “Chaotischen Catalysator Stipendien #CCS” werden für Masterarbeiten Stipendien vergeben. Jedes Stipendium wird in Höhe von insgesamt 1.500€ gefördert. In diesem kurzen Talk wollen wir das Stipendien Programm vorstellen. https://ccs.chaostreff-flensburg.de/</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3308">scammo</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49293" guid="49bf1265-2bbe-5bc7-9208-b14e83c227ce">
         <logo/>
-        <date>2022-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:17</duration>
+        <date>2022-12-29T18:15:00+01:00</date>
+        <start>18:15</start>
+        <duration>01:30</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49293-erklaerhaj_experimentiert_mit_farben</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/UNESZN/</url>
@@ -9605,24 +9547,21 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <links/>
         <attachments/>
       </event>
-      <event id="54012" guid="87c55596-2e1b-5789-99dd-c9c32bcf8ead">
+      <event id="55128" guid="dd8d7076-5054-5d95-b654-7416fb2d9f29">
         <logo/>
-        <date>2022-12-30T18:45:00+01:00</date>
-        <start>18:45</start>
-        <duration>00:40</duration>
+        <date>2022-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:30</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-54012-erklaerhaj_experimentiert_schon_wieder</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/</url>
-        <title>Erklärhaj experimentiert schon wieder</title>
+        <slug>jev22-55128-erklaerhaj_loetet</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/</url>
+        <title>Erklärhaj lötet</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!&#13;
-&#13;
-&#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</description>
+        <abstract>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</abstract>
+        <description>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</description>
         <recording>
           <license/>
           <optout>false</optout>
