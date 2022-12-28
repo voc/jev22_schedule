@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 13:00</version>
+  <version>2022-12-28 13:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2715,38 +2715,6 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <duration>02:00</duration>
         <room>Ahlam</room>
         <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
-        <title>Utopia, Dystopia &amp; Lost Futures</title>
-        <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Modi von konkreter Utopie aufdecken &amp; mit der Dystopie umgehen lernen &amp; zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum für Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.</abstract>
-        <description>„Was der Bürger als normal ansieht“: Kriminalisierung der Armut &amp; Kommunalisierung der Sicherheit&#13;
-&#13;
-Alkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner Räume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel – von Jugendlichen bis hin zu den Konsumenten illegaler Betäubungsmittel – aus bestimmten Bereichen der Städte fernzuhalten. Wie diese in der Stadt München und auch andernorts aussehen, und welche Konsequenzen daraus für die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.&#13;
-&#13;
-Die Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir fördern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabhängig vom bzw. über den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.&#13;
-&#13;
-Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext für emanzipatorische Praxis zu schaffen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="138">Forum für Freiraum</person>
-          <person id="158">Assoziation:E e.V.</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
-        <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
-        <date>2022-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>02:00</duration>
-        <room>Ahlam</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>

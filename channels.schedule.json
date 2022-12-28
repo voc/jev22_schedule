@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 13:00",
+    "version": "2022-12-28 13:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3292,44 +3292,6 @@
                 "duration": "02:00",
                 "room": "Ahlam",
                 "slug": "jev22-9386-utopia_dystopia_lost_futures",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
-                "title": "Utopia, Dystopia & Lost Futures",
-                "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Modi von konkreter Utopie aufdecken & mit der Dystopie umgehen lernen & zur emanzipatorischen Strategie beitragen. Das ist der Anspruch des Kolloquiums der Assoziation:E e.V., das im Dezember auf dem Forum f\u00fcr Freiraum mit einem Beitrag aus der Polizeiforschung stattfinden wird.",
-                "description": "\u201eWas der B\u00fcrger als normal ansieht\u201c: Kriminalisierung der Armut & Kommunalisierung der Sicherheit\r\n\r\nAlkoholverbote, Bettelverbote, polizeiliche Kontrollen und kommunale Sicherheitsdienste: Im Kontext der Kommodifizierung urbaner R\u00e4ume halten neue, niedrigschwellige Sicherheitspolitiken Einzug, um die unliebsame Klientel \u2013 von Jugendlichen bis hin zu den Konsumenten illegaler Bet\u00e4ubungsmittel \u2013 aus bestimmten Bereichen der St\u00e4dte fernzuhalten. Wie diese in der Stadt M\u00fcnchen und auch andernorts aussehen, und welche Konsequenzen daraus f\u00fcr die jeweils Betroffenen erwachsen, soll im Rahmen des Vortrags diskutiert werden.\r\n\r\nDie Forschungsplattform der Assoziation:E e.V. bringt Menschen aus verschiedenen Disziplinen und Hochschulen zusammen. Wir f\u00f6rdern selbstorganisierte (Nachwuchs-)Wissenschaftler*innen, die unabh\u00e4ngig vom bzw. \u00fcber den akademischen Betrieb hinaus emanzipatorische Strategien und Praxen erforschen, entwickeln und erproben wollen.\r\n\r\nWir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschungsfelder miteinander in Konstellation - in der Hoffnung, so einen wissenschaftlichen Kontext f\u00fcr emanzipatorische Praxis zu schaffen.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 138,
-                    "code": "8UNDWN",
-                    "public_name": "Forum f\u00fcr Freiraum",
-                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
-                    "answers": []
-                  },
-                  {
-                    "id": 158,
-                    "code": "Y9XTHZ",
-                    "public_name": "Assoziation:E e.V.",
-                    "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
-                "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
-                "date": "2022-12-28T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "02:00",
-                "room": "Ahlam",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
