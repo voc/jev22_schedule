@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 11:00</version>
+  <version>2022-12-28 11:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2508,31 +2508,6 @@ Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
       </event>
     </room>
     <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
-      <event id="49190" guid="b9148114-9e85-59f4-8c90-e89266a22b17">
-        <logo>/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png</logo>
-        <date>2022-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>01:25</duration>
-        <room>HIP2</room>
-        <slug>jev22-49190-mostly_homebrewn_metal_am</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/</url>
-        <title>(mostly) homebrewn metal AM</title>
-        <subtitle/>
-        <track>E.T.I.</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)</abstract>
-        <description>After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3320">Klapauzius</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49195" guid="a619a7f8-8af4-5d1f-8868-8798f5735a90">
         <logo>/media/hip-berlin-2022/submissions/SRYJMG/Skull_Icon-Black_Y5HgCrp.png</logo>
         <date>2022-12-28T13:00:00+01:00</date>
@@ -2594,6 +2569,31 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         </recording>
         <persons>
           <person id="3376">Bi3n3</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49190" guid="b9148114-9e85-59f4-8c90-e89266a22b17">
+        <logo>/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png</logo>
+        <date>2022-12-28T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>01:25</duration>
+        <room>HIP2</room>
+        <slug>jev22-49190-mostly_homebrewn_metal_am</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/</url>
+        <title>(mostly) homebrewn metal AM</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)</abstract>
+        <description>After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3320">Klapauzius</person>
         </persons>
         <links/>
         <attachments/>
@@ -4603,7 +4603,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <slug>jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/</url>
         <title>Das Unbehagen, als "links" wahrgenommen zu werden</title>
-        <subtitle>: Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespräch zu einer polarisierenden Frage.</subtitle>
+        <subtitle>: Brauchen wir mehr oder weniger davon? Assoziationen und offenes Gespräch zu einer polarisierenden Frage.</subtitle>
         <track>Freiräume</track>
         <type>Gespräch</type>
         <language>de</language>

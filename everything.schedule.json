@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 11:00; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 11:00; Winterchaos 0.4; Hacking in Parallel 0.12; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 11:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 11:20; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5492,37 +5492,6 @@
             ],
             "HIP - Track 2 - Room 2": [
               {
-                "id": 49190,
-                "guid": "b9148114-9e85-59f4-8c90-e89266a22b17",
-                "logo": "/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png",
-                "date": "2022-12-28T11:00:00+01:00",
-                "start": "11:00",
-                "duration": "01:25",
-                "room": "HIP - Track 2 - Room 2",
-                "slug": "jev22-49190-mostly_homebrewn_metal_am",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
-                "title": "(mostly) homebrewn metal AM",
-                "subtitle": "",
-                "track": "E.T.I.",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)",
-                "description": "After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3320,
-                    "code": "BRLYXQ",
-                    "public_name": "Klapauzius",
-                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical engineer , 1st world job as a software developer in control engineering (Simatic PLC/HMI).\r\n\r\nFirst contacts to information technology on a Commodore 64  programming BASIC in \u00b483, on a journey experiencing the new since. Member of \u201aChaostreff Dortmund\u2018 (chaoswest/ctdo) from 2007 being part of numerous events (chaos bbq, easterhegg, mrmcd, camp, c3).\r\n\r\nExperiences as a hobbyist and professional in FFF/FDM and mSLA additive manufacturing machines since 2013, started printing metal FFF in 2019.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 49195,
                 "guid": "a619a7f8-8af4-5d1f-8868-8798f5735a90",
                 "logo": "/media/hip-berlin-2022/submissions/SRYJMG/Skull_Icon-Black_Y5HgCrp.png",
@@ -5585,6 +5554,37 @@
                     "code": "QZ8JFF",
                     "public_name": "Bi3n3",
                     "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 49190,
+                "guid": "b9148114-9e85-59f4-8c90-e89266a22b17",
+                "logo": "/media/hip-berlin-2022/submissions/CZCABY/Benchy_Small_Round_sfiPmH2.png",
+                "date": "2022-12-28T16:15:00+01:00",
+                "start": "16:15",
+                "duration": "01:25",
+                "room": "HIP - Track 2 - Room 2",
+                "slug": "jev22-49190-mostly_homebrewn_metal_am",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CZCABY/",
+                "title": "(mostly) homebrewn metal AM",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "A short introduction into sinter based FFF/FDM metal additive manufacturing at home (as far as it can be done)",
+                "description": "After a short introduction into FFF/FDM and the basics behind sinter based FFF/FDM metal additive manufacturing this talk offers a complete overview on the procedure, the benefits and the limits compared to other well established procedures as well as the obstacles that need to be overcome when using it.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3320,
+                    "code": "BRLYXQ",
+                    "public_name": "Klapauzius",
+                    "biography": "Sascha 'Klapauzius' Lenze \r\n\r\nCertified electrical engineer , 1st world job as a software developer in control engineering (Simatic PLC/HMI).\r\n\r\nFirst contacts to information technology on a Commodore 64  programming BASIC in \u00b483, on a journey experiencing the new since. Member of \u201aChaostreff Dortmund\u2018 (chaoswest/ctdo) from 2007 being part of numerous events (chaos bbq, easterhegg, mrmcd, camp, c3).\r\n\r\nExperiences as a hobbyist and professional in FFF/FDM and mSLA additive manufacturing machines since 2013, started printing metal FFF in 2019.",
                     "answers": []
                   }
                 ],
@@ -9485,7 +9485,7 @@
                 "slug": "jev22-8094-das_unbehagen_als_links_wahrgenommen_zu_werden",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/JQZW3B/",
                 "title": "Das Unbehagen, als \"links\" wahrgenommen zu werden",
-                "subtitle": ": Brauchen wir mehr oder weniger davon? AssoziationEn und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
+                "subtitle": ": Brauchen wir mehr oder weniger davon? Assoziationen und offenes Gespr\u00e4ch zu einer polarisierenden Frage.",
                 "track": "Freir\u00e4ume",
                 "type": "Gespr\u00e4ch",
                 "language": "de",
