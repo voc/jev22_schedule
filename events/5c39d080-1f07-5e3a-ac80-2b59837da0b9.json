@@ -21,7 +21,14 @@
     {
       "id": 34,
       "code": "DESDQH",
-      "public_name": "SchranzJosefRausch",
+      "public_name": "Schranz Josef Rausch",
+      "biography": "Bester DJ EU West",
+      "answers": []
+    },
+    {
+      "id": 35,
+      "code": "WEJAKR",
+      "public_name": "Kloria von Suff und Taugtnix",
       "biography": null,
       "answers": []
     }

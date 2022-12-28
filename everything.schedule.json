@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 18:40; FireShonks 0.38; Reconnect To Chaos! 2.2; Hellarious 0.7 final 3 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 18:40; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 19:40; FireShonks 0.38; Reconnect To Chaos! 2.2; Hellarious 0.7 final 3 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 19:40; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3733,7 +3733,7 @@
                 "track": "Digitalcourage",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nQ&A https://bbb.digitalcourage.de/b/fir-zcy-ppy-yp3",
                 "description": "Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdr\u00fccke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir \u00fcberzeugt: das ist \u00fcbergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europ\u00e4ischen Gerichtshof gegen die Fingerabdruckspflicht.\r\nIn dem Talk erkl\u00e4ren wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -4546,7 +4546,7 @@
                 "guid": "63115c2b-d2d8-502c-90d8-132dfe7a3ee0",
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
-                "duration": "1:45",
+                "duration": "1:20",
                 "room": "Halle 4K",
                 "slug": "jev22-6311-die_wunderbare_welt_der_flaschengaerten",
                 "title": "Die wunderbare Welt der Flascheng\u00e4rten",
@@ -4939,7 +4939,14 @@
                   {
                     "id": 34,
                     "code": "DESDQH",
-                    "public_name": "SchranzJosefRausch",
+                    "public_name": "Schranz Josef Rausch",
+                    "biography": "Bester DJ EU West",
+                    "answers": []
+                  },
+                  {
+                    "id": 35,
+                    "code": "WEJAKR",
+                    "public_name": "Kloria von Suff und Taugtnix",
                     "biography": null,
                     "answers": []
                   }
@@ -8394,9 +8401,9 @@
                 "start": "22:20",
                 "duration": "02:00",
                 "room": "Rave Cave",
-                "slug": "jev22-2260-neokay_dj_set",
+                "slug": "jev22-2260-psytrance_dj_set",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/8AVEVP/",
-                "title": "neokay DJ Set",
+                "title": "Psytrance DJ Set",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Musik (120 min)",

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 18:40</version>
+  <version>2022-12-28 19:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1404,7 +1404,9 @@ This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</de
         <language>de</language>
         <abstract>Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Q&amp;A https://bbb.digitalcourage.de/b/fir-zcy-ppy-yp3</abstract>
         <description>Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdrücke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir überzeugt: das ist übergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europäischen Gerichtshof gegen die Fingerabdruckspflicht.&#13;
 In dem Talk erklären wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.</description>
         <recording>
@@ -1744,7 +1746,7 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
       <event id="6311" guid="63115c2b-d2d8-502c-90d8-132dfe7a3ee0">
         <date>2022-12-28T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>1:45</duration>
+        <duration>1:20</duration>
         <room>CCL</room>
         <slug>jev22-6311-die_wunderbare_welt_der_flaschengaerten</slug>
         <title>Die wunderbare Welt der Flaschengärten</title>

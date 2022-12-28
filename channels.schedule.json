@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 18:40",
+    "version": "2022-12-28 19:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1866,7 +1866,7 @@
                 "track": "Digitalcourage",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Warum die Fingerabdruckpflicht in Personalausweisen ein Problem ist, wie wir versuchen die Pflicht gerichtlich zu kippen und wie es jetzt weiter geht.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nQ&A https://bbb.digitalcourage.de/b/fir-zcy-ppy-yp3",
                 "description": "Seit August 2021 sind wir alle gezwungen, beim Beantragen eines neuen Personalausweises unsere Fingerabdr\u00fccke abzugeben und diese auf dem Perso speichern zu lassen. Bei Digitalcourage sind wir \u00fcberzeugt: das ist \u00fcbergriffig und passt nicht in eine rechtsstaatliche Demokratie. Darum klagen wir vor dem Europ\u00e4ischen Gerichtshof gegen die Fingerabdruckspflicht.\r\nIn dem Talk erkl\u00e4ren wir kurz das Problem und skizzieren dann den aktuellen Stand und wie es weiter geht.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -2230,7 +2230,7 @@
                 "guid": "63115c2b-d2d8-502c-90d8-132dfe7a3ee0",
                 "date": "2022-12-28T17:00:00+01:00",
                 "start": "17:00",
-                "duration": "1:45",
+                "duration": "1:20",
                 "room": "CCL",
                 "slug": "jev22-6311-die_wunderbare_welt_der_flaschengaerten",
                 "title": "Die wunderbare Welt der Flascheng\u00e4rten",
