@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 21:30</version>
+  <version>2022-12-28 21:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4886,8 +4886,8 @@ unterscheiden.</description>
       </event>
       <event id="49077" guid="45a4133f-555f-54c8-a0c8-6b69f831c005">
         <logo>/media/fire-shonks-2022/submissions/BBJ7JR/P8FF-3F7F_ULTto0M.png</logo>
-        <date>2022-12-30T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2022-12-30T17:55:00+01:00</date>
+        <start>17:55</start>
         <duration>00:40</duration>
         <room>Fireshonks</room>
         <slug>jev22-49077-die_technik_hinter_teletext</slug>

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 21:30",
+    "version": "2022-12-28 21:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -5692,8 +5692,8 @@
                 "id": 49077,
                 "guid": "45a4133f-555f-54c8-a0c8-6b69f831c005",
                 "logo": "/media/fire-shonks-2022/submissions/BBJ7JR/P8FF-3F7F_ULTto0M.png",
-                "date": "2022-12-30T18:00:00+01:00",
-                "start": "18:00",
+                "date": "2022-12-30T17:55:00+01:00",
+                "start": "17:55",
                 "duration": "00:40",
                 "room": "Fireshonks",
                 "slug": "jev22-49077-die_technik_hinter_teletext",
