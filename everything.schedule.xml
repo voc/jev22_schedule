@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 21:10; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 21:10; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 21:30; FireShonks 0.40; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 21:30; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -842,8 +842,8 @@ Auch werde ich auf das Thema Favorite Person bei Borderline eingehen, weil das s
       </event>
       <event id="54011" guid="36208253-bdbc-58cc-89df-63b622c37445">
         <logo/>
-        <date>2022-12-27T21:45:00+01:00</date>
-        <start>21:45</start>
+        <date>2022-12-27T21:30:00+01:00</date>
+        <start>21:30</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-54011-muntere_abendunterhaltung_made_in_r3s</slug>
@@ -3107,8 +3107,8 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
       </event>
       <event id="49226" guid="3c648f09-105f-5d30-b681-ad8ef98bb308">
         <logo/>
-        <date>2022-12-28T21:30:00+01:00</date>
-        <start>21:30</start>
+        <date>2022-12-28T21:20:00+01:00</date>
+        <start>21:20</start>
         <duration>01:45</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49226-operation_mindfuck_vol_6</slug>
