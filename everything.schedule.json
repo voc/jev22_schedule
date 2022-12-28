@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 10:20; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 10:20; Winterchaos 0.4; Hacking in Parallel 0.11; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 10:40; FireShonks 0.32; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.7; ChilyConChaos 2022-12-28 10:40; Winterchaos 0.4; Hacking in Parallel 0.12; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5459,37 +5459,6 @@
                 "attachments": []
               },
               {
-                "id": 49254,
-                "guid": "2ec2764c-72e8-5994-9f15-dfca37fb7ca5",
-                "logo": "",
-                "date": "2022-12-28T21:30:00+01:00",
-                "start": "21:30",
-                "duration": "01:00",
-                "room": "HIP - Track 1 - Room 5",
-                "slug": "jev22-49254-false_positive_to_0_day",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/",
-                "title": "False Positive to 0-day",
-                "subtitle": ": LPE in Lenovo Update Service",
-                "track": "E.T.I.",
-                "type": "Talk",
-                "language": "en",
-                "abstract": "The talk aims to give an insight into the thought process when reverse engineering and exploiting vulnerabilties in general and specifically in .Net.\r\n\r\nThe goal is to not only show the final exploit, but also the dead ends and rabbit holes.",
-                "description": "This talk goes step by step from a false positive flagged by automated tools to a full local privilege escalation in the Lenovo Vantage service.\r\nExperience the twists, turns and despair of security research until the sweet release of a SYSTEM shell.\r\n\r\nThe talk focusses mainly on the thought process and showing both successes and failures.\r\nThe goal is to try and make the subject approachable and less intimidating, even if the final exploit chain is relatively complicated involving a path traversal, TOCTOU and NTFS shenanigans.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3367,
-                    "code": "QFERWH",
-                    "public_name": "Nils Ole Timm",
-                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 49092,
                 "guid": "65d9feb4-abae-58b5-b9b3-8d819d9a11b2",
                 "logo": "/media/hip-berlin-2022/submissions/PEAQU9/NeverMind-still2_unsLxo4.png",
@@ -5787,51 +5756,6 @@
                     "code": "GNZHLA",
                     "public_name": "Daniel (D_K)",
                     "biography": "IT Security Student and Researcher. Member of ALLES!",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 49258,
-                "guid": "538ea79f-4ccd-5014-ab75-fc04b3fb5a25",
-                "logo": "",
-                "date": "2022-12-28T14:30:00+01:00",
-                "start": "14:30",
-                "duration": "02:00",
-                "room": "HDMI (room 3)",
-                "slug": "jev22-49258-binary_exploitation_beginner_workshop",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
-                "title": "Binary Exploitation Beginner Workshop",
-                "subtitle": "",
-                "track": "E.T.I.",
-                "type": "Workshop",
-                "language": "en",
-                "abstract": "This workshop introduces basic concepts of x64 binary exploitation on Linux.\r\n\r\nThe workshop consists of a collection of increasingly difficult pwn challenges and is accompanied by a presentation and set of slides that first introduce basic concepts and then apply them to those challenges.",
-                "description": "This workshop aims to introduce beginners to basic 20th century exploitation techniques.\r\n\r\nParticipants will exploit their first buffer overflow, their first oracle attack and their first ROP chain.\r\nAll challenges are designed for self learning and come with optional hints.\r\n\r\nThroughout the workshop, at certain intervals, challenges will be solved together by explaining the solutions on stage, so that everybody can follow along and get help if needed.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3355,
-                    "code": "TPLUP7",
-                    "public_name": "Felipe (localo)",
-                    "biography": null,
-                    "answers": []
-                  },
-                  {
-                    "id": 3354,
-                    "code": "GNZHLA",
-                    "public_name": "Daniel (D_K)",
-                    "biography": "IT Security Student and Researcher. Member of ALLES!",
-                    "answers": []
-                  },
-                  {
-                    "id": 3367,
-                    "code": "QFERWH",
-                    "public_name": "Nils Ole Timm",
-                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
                     "answers": []
                   }
                 ],

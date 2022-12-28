@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 10:20</version>
+  <version>2022-12-28 10:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2472,37 +2472,6 @@ Let me show you, what weird things did people build with it and lets unlock more
         </recording>
         <persons>
           <person id="3369">Victoria Brekenfeld</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49254" guid="2ec2764c-72e8-5994-9f15-dfca37fb7ca5">
-        <logo/>
-        <date>2022-12-28T21:30:00+01:00</date>
-        <start>21:30</start>
-        <duration>01:00</duration>
-        <room>HIP1</room>
-        <slug>jev22-49254-false_positive_to_0_day</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WZXRG8/</url>
-        <title>False Positive to 0-day</title>
-        <subtitle>: LPE in Lenovo Update Service</subtitle>
-        <track>E.T.I.</track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract>The talk aims to give an insight into the thought process when reverse engineering and exploiting vulnerabilties in general and specifically in .Net.&#13;
-&#13;
-The goal is to not only show the final exploit, but also the dead ends and rabbit holes.</abstract>
-        <description>This talk goes step by step from a false positive flagged by automated tools to a full local privilege escalation in the Lenovo Vantage service.&#13;
-Experience the twists, turns and despair of security research until the sweet release of a SYSTEM shell.&#13;
-&#13;
-The talk focusses mainly on the thought process and showing both successes and failures.&#13;
-The goal is to try and make the subject approachable and less intimidating, even if the final exploit chain is relatively complicated involving a path traversal, TOCTOU and NTFS shenanigans.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3367">Nils Ole Timm</person>
         </persons>
         <links/>
         <attachments/>
