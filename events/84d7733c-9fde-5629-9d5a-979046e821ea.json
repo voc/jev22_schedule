@@ -2,10 +2,10 @@
   "id": 8477,
   "guid": "84d7733c-9fde-5629-9d5a-979046e821ea",
   "logo": "",
-  "date": "2022-12-29T19:30:00+01:00",
-  "start": "19:30",
+  "date": "2022-12-27T11:00:00+01:00",
+  "start": "11:00",
   "duration": "02:00",
-  "room": "Workshopraum 4 - H2-4.4",
+  "room": "Workshopraum 1 - H2-2.5",
   "slug": "jev22-8477-aktionstraining",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/KQ3GP8/",
   "title": "Aktionstraining",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
   "origin": "forum.freiraeumen.jetzt"
 }

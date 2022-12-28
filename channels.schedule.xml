@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 13:40</version>
+  <version>2022-12-28 14:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1014,13 +1014,13 @@ Be warned: This talk will cover enough information to make you consider building
       </event>
     </room>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
-      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-651-lass_mich_durch</slug>
+        <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle> - Wege befreien im urbanen Raum</subtitle>
@@ -1095,13 +1095,13 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
+      <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-6202-gebaerdensprache_und_freiraum</slug>
+        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum</title>
         <subtitle> - Deafolution!</subtitle>
@@ -2738,6 +2738,35 @@ Wir bringen verschiedene Aspekte der unterschiedlichen Disziplinen und Forschung
         <persons>
           <person id="138">Forum für Freiraum</person>
           <person id="158">Assoziation:E e.V.</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="9388" guid="9388dd6a-2935-5ac6-a1c9-6ecef7b38c05">
+        <logo/>
+        <date>2022-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Ahlam</room>
+        <slug>jev22-9388-kiezarbeit_und_awareness_bei_dw_co_enteignen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PATFZY/</url>
+        <title>Kiezarbeit und Awareness bei DW&amp;Co Enteignen</title>
+        <subtitle>: Eindrücke aus Berlin</subtitle>
+        <track>Freiräume</track>
+        <type>Gespräch</type>
+        <language>de</language>
+        <abstract>DeutscheWohnen&amp;Co Enteignen ist eine Kampagne zur Vergesellschaftung von Wohnraum in Berlin. Max engagiert sich im Kiezteam Kreuzberg und in der Ansprechgruppe sexualisierte Gewalt, und berichtet im offenen Austausch von seinen Erfahrungen.</abstract>
+        <description>Auf der Website schreibt DW&amp;Co Enteignen: &#13;
+&#13;
+"Unsere Initiative „Deutsche Wohnen &amp; Co enteignen“ wird von engagierten Einzelpersonen sowie Menschen aus Mieter:inneninitiativen, stadtpolitischen Gruppen und Parteien getragen. Wir haben ganz unterschiedliche Hintergründe. Wir wohnen an den grünen Rändern der Stadt oder im Herzen Kreuzbergs, in Hochhaussiedlungen und Gründerzeitquartieren, sind gerade erst hierhergezogen oder leben schon immer hier. Viele von uns engagieren sich schon lange Jahre für eine lebenswerte und bezahlbare Stadt für alle, andere haben gerade erst damit angefangen.&#13;
+&#13;
+Uns eint, dass wir uns die steigenden Mieten und den Ausverkauf Berlins auf den globalen Finanzmärkten nicht länger gefallen lassen. Der Wunsch nach einer echten Veränderung auf dem Wohnungsmarkt hat uns zusammengeführt. Wir wollen den explodierenden Mieten etwas entgegensetzen, damit auch Durchschnitts- und Geringverdiener:innen wieder eine Wohnung finden können."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="149">Max</person>
         </persons>
         <links/>
         <attachments/>
@@ -5621,13 +5650,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-4969-lass_mich_durch</slug>
+        <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle> - Wege befreien im urbanen Raum</subtitle>

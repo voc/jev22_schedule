@@ -2,10 +2,10 @@
   "id": 2242,
   "guid": "22424983-c48f-5273-b283-3f9425d617b1",
   "logo": "",
-  "date": "2022-12-29T17:00:00+01:00",
-  "start": "17:00",
+  "date": "2022-12-27T11:00:00+01:00",
+  "start": "11:00",
   "duration": "02:00",
-  "room": "Forumszentrum - H1-0.1",
+  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
   "slug": "jev22-2242-gebaerdensprache_und_freiraum",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
   "title": "Geb\u00e4rdensprache und Freiraum",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
   "origin": "forum.freiraeumen.jetzt"
 }

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 13:40",
+    "version": "2022-12-28 14:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1427,14 +1427,14 @@
             ],
             "Ahlam": [
               {
-                "id": 651,
-                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
+                "id": 4969,
+                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Ahlam",
-                "slug": "jev22-651-lass_mich_durch",
+                "slug": "jev22-4969-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
                 "subtitle": " - Wege befreien im urbanen Raum",
@@ -1522,14 +1522,14 @@
             ],
             "Bhavani": [
               {
-                "id": 6202,
-                "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
+                "id": 2242,
+                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
                 "room": "Bhavani",
-                "slug": "jev22-6202-gebaerdensprache_und_freiraum",
+                "slug": "jev22-2242-gebaerdensprache_und_freiraum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
                 "title": "Geb\u00e4rdensprache und Freiraum",
                 "subtitle": " - Deafolution!",
@@ -3315,6 +3315,37 @@
                     "code": "Y9XTHZ",
                     "public_name": "Assoziation:E e.V.",
                     "biography": "Assoziation E e.V. ist eine parteiunabh\u00e4ngige Organisation zur F\u00f6rderung emanzipatorischen Denkens und Handelns. Der Verein bietet Akteuren aus Wissenschaft&Forschung, Kunst&Kultur und Bildung&Erziehung einen ideellen und materiellen Rahmen f\u00fcr Bestrebungen, Menschen ein w\u00fcrdiges Leben zu erm\u00f6glichen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 9388,
+                "guid": "9388dd6a-2935-5ac6-a1c9-6ecef7b38c05",
+                "logo": "",
+                "date": "2022-12-28T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "01:00",
+                "room": "Ahlam",
+                "slug": "jev22-9388-kiezarbeit_und_awareness_bei_dw_co_enteignen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PATFZY/",
+                "title": "Kiezarbeit und Awareness bei DW&Co Enteignen",
+                "subtitle": ": Eindr\u00fccke aus Berlin",
+                "track": "Freir\u00e4ume",
+                "type": "Gespr\u00e4ch",
+                "language": "de",
+                "abstract": "DeutscheWohnen&Co Enteignen ist eine Kampagne zur Vergesellschaftung von Wohnraum in Berlin. Max engagiert sich im Kiezteam Kreuzberg und in der Ansprechgruppe sexualisierte Gewalt, und berichtet im offenen Austausch von seinen Erfahrungen.",
+                "description": "Auf der Website schreibt DW&Co Enteignen: \r\n\r\n\"Unsere Initiative \u201eDeutsche Wohnen & Co enteignen\u201c wird von engagierten Einzelpersonen sowie Menschen aus Mieter:inneninitiativen, stadtpolitischen Gruppen und Parteien getragen. Wir haben ganz unterschiedliche Hintergr\u00fcnde. Wir wohnen an den gr\u00fcnen R\u00e4ndern der Stadt oder im Herzen Kreuzbergs, in Hochhaussiedlungen und Gr\u00fcnderzeitquartieren, sind gerade erst hierhergezogen oder leben schon immer hier. Viele von uns engagieren sich schon lange Jahre f\u00fcr eine lebenswerte und bezahlbare Stadt f\u00fcr alle, andere haben gerade erst damit angefangen.\r\n\r\nUns eint, dass wir uns die steigenden Mieten und den Ausverkauf Berlins auf den globalen Finanzm\u00e4rkten nicht l\u00e4nger gefallen lassen. Der Wunsch nach einer echten Ver\u00e4nderung auf dem Wohnungsmarkt hat uns zusammengef\u00fchrt. Wir wollen den explodierenden Mieten etwas entgegensetzen, damit auch Durchschnitts- und Geringverdiener:innen wieder eine Wohnung finden k\u00f6nnen.\"",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 149,
+                    "code": "WY7HD3",
+                    "public_name": "Max",
+                    "biography": "Hallo, ich bin Max, 27 und komme urspr\u00fcnglich aus M\u00fcnchen. Seit einem Jahr wohne ich in Berlin und bin  seit April bei der Kampagne Deutsche Wohnen & Co Enteignen im Kiezteam Kreuzberg aktiv. Neben dem Aktivismus auf Kiez-Ebene bin ich seit ihrer Entstehung Teil der Ansprechgruppe f\u00fcr sexualisierte Gewalt auf kampagnenweiter Ebene.",
                     "answers": []
                   }
                 ],
@@ -6553,14 +6584,14 @@
             ],
             "Bhavani": [
               {
-                "id": 4969,
-                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
+                "id": 651,
+                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
                 "logo": "",
                 "date": "2022-12-30T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Bhavani",
-                "slug": "jev22-4969-lass_mich_durch",
+                "slug": "jev22-651-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
                 "subtitle": " - Wege befreien im urbanen Raum",
