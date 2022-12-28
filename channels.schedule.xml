@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 15:00</version>
+  <version>2022-12-28 15:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1356,38 +1356,41 @@ Dieser Vortrag gibt eine Einführung in die technischen und sozialen Aspekte von
         <links/>
         <attachments/>
       </event>
-      <event id="49174" guid="c800d051-2bd3-5fda-9a5d-bc6dadfd616d">
-        <logo>/media/fire-shonks-2022/submissions/BGAQ3C/Werbung_01_Datenschutz_f%C3%A4llt_heute_aus_C9wTcpr.png</logo>
-        <date>2022-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>00:30</duration>
+      <event id="55264" guid="f81510e3-6440-5aef-8026-42d250a9bbcf">
+        <logo/>
+        <date>2022-12-28T17:35:00+01:00</date>
+        <start>17:35</start>
+        <duration>01:45</duration>
         <room>Fireshonks</room>
-        <slug>jev22-49174-db_schnueffelnavigator</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/BGAQ3C/</url>
-        <title>DB Schnüffelnavigator</title>
+        <slug>jev22-55264-how_to_prepare_files_for_lasercutting_talk_with_live_q_a</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FCBTBC/</url>
+        <title>How to prepare files for lasercutting (Talk)with live Q&amp;A</title>
         <subtitle/>
-        <track>Digitalcourage</track>
+        <track>R3S</track>
         <type>Talk</type>
-        <language>de</language>
-        <abstract>Die Bahn-App „DB Navigator” gibt viele Informationen über uns an Tracking-Firmen weiter – und wir haben keine Möglichkeit, dem zu widersprechen. Digitalcourage klagt dagegen. Denn wir wollen Bahn fahren, nicht Daten liefern.&#13;
+        <language>en</language>
+        <abstract>How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's &amp; don'ts? In the workshop that will follow this talk, we will put all this into practice using Inkscape. &#13;
+&#13;
+Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verstanden werden? Welche Möglichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's &amp; Dont's? Im anschließenden Workshop üben wir gemeinsam mit Inkscape.&#13;
 &#13;
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Digitalcourage klagt gemeinsam mit dem  IT-Sicherheitsforscher, Datenschutzaktivist und Blogger Mike Kuketz und dem auf IT- und Datenschutzrecht spezialisierten Anwalt Peter Hense gegen Tracker im „DB Navigator”.&#13;
-Welche Daten die App weiter gibt, warum wir klagen und mit welchem mauen PR-Kniff die Bahn versucht hat, sich rauszureden – das erzählt Julia Witte von Digitalcourage.</description>
+        <description>This talk will be held in English. Both English and German subtitles are provided.&#13;
+&#13;
+This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3310">Julia Witte</person>
+          <person id="3239">merline</person>
         </persons>
         <links/>
         <attachments/>
       </event>
       <event id="49178" guid="fa1c3852-5766-51af-9628-df45702ce5d7">
         <logo/>
-        <date>2022-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2022-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
         <duration>00:40</duration>
         <room>Fireshonks</room>
         <slug>jev22-49178-kein_perso_ohne_finger_abdruecke_mehr</slug>
@@ -3446,7 +3449,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
 Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="379">schneider</person>

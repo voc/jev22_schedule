@@ -1,0 +1,33 @@
+{
+  "id": 55264,
+  "guid": "f81510e3-6440-5aef-8026-42d250a9bbcf",
+  "logo": "",
+  "date": "2022-12-28T17:35:00+01:00",
+  "start": "17:35",
+  "duration": "01:45",
+  "room": "Fireshonks-Stream",
+  "slug": "jev22-55264-how_to_prepare_files_for_lasercutting_talk_with_live_q_a",
+  "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/FCBTBC/",
+  "title": "How to prepare files for lasercutting (Talk)with live Q&A",
+  "subtitle": "",
+  "track": "R3S",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "How do I create files in such a way that they are later understood correctly by the lasercutter? What possibilities and tools are there? Why should I pay attention to the selection of the material to be lasercut when creating the file? What are typical pitfalls, do's & don'ts? In the workshop that will follow this talk, we will put all this into practice using Inkscape. \r\n\r\nWie erstelle ich Dateien so, dass sie sp\u00e4ter auch vom Lasercutter richtig verstanden werden? Welche M\u00f6glichkeiten und Tools gibt es? Wieso sollte ich die Auswahl des zu laserschneidenden Materials bei der Datei beachten? Was sind typische Fallen, Do's & Dont's? Im anschlie\u00dfenden Workshop \u00fcben wir gemeinsam mit Inkscape.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+  "description": "This talk will be held in English. Both English and German subtitles are provided.\r\n\r\nThis is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3239,
+      "code": "BGKNHG",
+      "public_name": "merline",
+      "biography": "Haeckse und Macherin // Haeckse and maker",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "c62a781e-48a3-4546-bb5c-dee2080738f7",
+  "origin": "pretalx.c3voc.de"
+}
