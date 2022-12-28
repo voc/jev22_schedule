@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 19:40; FireShonks 0.38; Reconnect To Chaos! 2.2; Hellarious 0.7 final 3 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 19:40; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 20:10; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 20:10; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -7978,6 +7978,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 54951,
+                "guid": "d7e08c75-4752-5494-b603-0115ba04a053",
+                "logo": "",
+                "date": "2022-12-29T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-54951-hexen_und_commons",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RGPWUZ/",
+                "title": "Hexen und Commons",
+                "subtitle": " - Erz\u00e4hlung und (optionales) Zeichenspiel",
+                "track": "Hellarious",
+                "type": "Lagerfeuervortrag",
+                "language": "de",
+                "abstract": "Ich m\u00f6chte euch von Silvia Federicis Analysen zu Hexen und Commons erz\u00e4hlen und in Form eines niedrigschwelligen Zeichenspiels andere Hexenbilder f\u00fcr die Zukunft kreieren.  Ich w\u00fcrde 20-30 Minuten einen Input geben und den Rest der Zeit miteinander sprechen, zeichnen und brainstormen.",
+                "description": "Ich m\u00f6chte euch von Silvia Federicis Analysen zu Hexen und Commons erz\u00e4hlen und in Form eines niedrigschwelligen Zeichenspiels andere Hexenbilder f\u00fcr die Zukunft kreieren.  Ich w\u00fcrde 20-30 Minuten einen Input geben und den Rest der Zeit miteinander sprechen, zeichnen und brainstormen.",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3923,
+                    "code": "LYQ7SW",
+                    "public_name": "lizza",
+                    "biography": "interessiert sich f\u00fcr Commons, Utopie und Feminismus",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Bastelstube": [
@@ -11460,6 +11491,37 @@
             ],
             "Salon": [
               {
+                "id": 55411,
+                "guid": "b8b34844-d199-5db3-9b13-4906ce3e80d8",
+                "logo": "",
+                "date": "2022-12-30T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "00:30",
+                "room": "Salon",
+                "slug": "jev22-55411-zu_fuss_durch_die_hoelle",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/XZYCXV/",
+                "title": "Zu Fu\u00df durch die H\u00f6lle",
+                "subtitle": " - ein Gel\u00e4ndespaziergang",
+                "track": "Hellarious",
+                "type": "Sonstiges (60)",
+                "language": "de",
+                "abstract": "Wir schlendern \u00fcbers Gel\u00e4nde, f\u00fcttern den H\u00f6llenschlund und werfen einen Blick auf die alte DDR-Technik. Dazu gibt's ein bisschen Geschichte des Ortes Alten H\u00f6lle und was wir im letzten Jahr daraus gemacht haben. Freue mich \u00fcber eure Fragen",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [
+                  {
+                    "id": 3950,
+                    "code": "FFMR8P",
+                    "public_name": "Corinna",
+                    "biography": "Corinna (l\u00e4uft st\u00e4ndig \u00fcbers Gel\u00e4nde)",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49233,
                 "guid": "8e23660e-88c7-553a-8db8-1a27f2911e89",
                 "logo": "",
@@ -11484,6 +11546,37 @@
                     "code": "EKYCBU",
                     "public_name": "\u00c4n",
                     "biography": "Ich bin \u00c4n, 29 Jahre und Physiotherapeutin und habe auch einiges an Entspannungsfort- und Weiterbildungen. \r\nZus\u00e4tzlich arbeite ich noch mit Kindern.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 53970,
+                "guid": "adf309da-0033-5f04-b2c8-8996d7493d46",
+                "logo": "",
+                "date": "2022-12-30T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "01:00",
+                "room": "Salon",
+                "slug": "jev22-53970-queere_und_feministische_geschichte_online_101",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/XSTEMV/",
+                "title": "Queere und feministische Geschichte online 101",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "In diesem Workshop werden wir \u00fcber Online-Projekte zur queerer und feministischer Geschichte im deutschsprachigen Raum austauschen.",
+                "description": "In diesem Workshop werde ich einige Online-Projekte zur queerer und feministischer Zeitgeschichte im deutschsprachigen Raum vorstellen. Falls ihr welche kennt, bringt sie gerne mit. Ausgehend davon k\u00f6nnen wir \u00fcber das Potential solcher Projekte sprechen und was da noch gehen k\u00f6nnte. Generell habe ich auch einfach Lust mit anderen Menschen, die Interesse an diesen Themen haben, ins Gespr\u00e4ch zu kommen.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3895,
+                    "code": "BX3YDF",
+                    "public_name": "ria",
+                    "biography": "Neugieriger Mensch, queere Historikerin & Cybersecurity-Nerd in the making.",
                     "answers": []
                   }
                 ],

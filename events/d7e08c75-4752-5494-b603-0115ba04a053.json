@@ -1,0 +1,33 @@
+{
+  "id": 54951,
+  "guid": "d7e08c75-4752-5494-b603-0115ba04a053",
+  "logo": "",
+  "date": "2022-12-29T21:00:00+01:00",
+  "start": "21:00",
+  "duration": "01:00",
+  "room": "Salon",
+  "slug": "jev22-54951-hexen_und_commons",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/RGPWUZ/",
+  "title": "Hexen und Commons",
+  "subtitle": " - Erz\u00e4hlung und (optionales) Zeichenspiel",
+  "track": "Hellarious",
+  "type": "Lagerfeuervortrag",
+  "language": "de",
+  "abstract": "Ich m\u00f6chte euch von Silvia Federicis Analysen zu Hexen und Commons erz\u00e4hlen und in Form eines niedrigschwelligen Zeichenspiels andere Hexenbilder f\u00fcr die Zukunft kreieren.  Ich w\u00fcrde 20-30 Minuten einen Input geben und den Rest der Zeit miteinander sprechen, zeichnen und brainstormen.",
+  "description": "Ich m\u00f6chte euch von Silvia Federicis Analysen zu Hexen und Commons erz\u00e4hlen und in Form eines niedrigschwelligen Zeichenspiels andere Hexenbilder f\u00fcr die Zukunft kreieren.  Ich w\u00fcrde 20-30 Minuten einen Input geben und den Rest der Zeit miteinander sprechen, zeichnen und brainstormen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 3923,
+      "code": "LYQ7SW",
+      "public_name": "lizza",
+      "biography": "interessiert sich f\u00fcr Commons, Utopie und Feminismus",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6a427063-66f2-4353-b582-65bd53390b22",
+  "origin": "pretalx.c3voc.de"
+}

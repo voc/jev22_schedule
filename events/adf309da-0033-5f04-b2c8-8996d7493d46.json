@@ -1,0 +1,33 @@
+{
+  "id": 53970,
+  "guid": "adf309da-0033-5f04-b2c8-8996d7493d46",
+  "logo": "",
+  "date": "2022-12-30T19:30:00+01:00",
+  "start": "19:30",
+  "duration": "01:00",
+  "room": "Salon",
+  "slug": "jev22-53970-queere_und_feministische_geschichte_online_101",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/XSTEMV/",
+  "title": "Queere und feministische Geschichte online 101",
+  "subtitle": "",
+  "track": "Hellarious",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "In diesem Workshop werden wir \u00fcber Online-Projekte zur queerer und feministischer Geschichte im deutschsprachigen Raum austauschen.",
+  "description": "In diesem Workshop werde ich einige Online-Projekte zur queerer und feministischer Zeitgeschichte im deutschsprachigen Raum vorstellen. Falls ihr welche kennt, bringt sie gerne mit. Ausgehend davon k\u00f6nnen wir \u00fcber das Potential solcher Projekte sprechen und was da noch gehen k\u00f6nnte. Generell habe ich auch einfach Lust mit anderen Menschen, die Interesse an diesen Themen haben, ins Gespr\u00e4ch zu kommen.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3895,
+      "code": "BX3YDF",
+      "public_name": "ria",
+      "biography": "Neugieriger Mensch, queere Historikerin & Cybersecurity-Nerd in the making.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "6a427063-66f2-4353-b582-65bd53390b22",
+  "origin": "pretalx.c3voc.de"
+}
