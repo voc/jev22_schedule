@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 17:40</version>
+  <version>2022-12-28 18:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3408,6 +3408,33 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
       </event>
     </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="55180" guid="352792c2-578f-5701-a76a-4921d562bbc2">
+        <logo/>
+        <date>2022-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-55180-das_geheime_leben_der_zelle</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BEJAFE/</url>
+        <title>Das geheime Leben der Zelle</title>
+        <subtitle> - wie das Leben funktioniert</subtitle>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Bunter Crash-Kurs über die Merkmale des Lebens - und die winzigen, wilden, überraschenden und geschäftigen Mechanismen, die es zum Erhalt und Vermehrung verwendet.</abstract>
+        <description>Vortrag ohne Folien, dafür mit handgezeichnetem "Tafelbild" und öffentlichem Bildmaterial. Keine besonderen Vorkenntnisse erforderlich, es kann hoffentlich jeder was dabei mitnehmen. &#13;
+&#13;
+Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3935">Paul</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49291" guid="ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8">
         <logo/>
         <date>2022-12-29T15:00:00+01:00</date>
@@ -3450,7 +3477,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="3395">Spyro</person>
@@ -5037,6 +5064,89 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         </recording>
         <persons>
           <person id="3773">Cora</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55117" guid="5a819c5e-3ed2-5b71-948e-0e6919fa723d">
+        <logo>/media/hacking-in-hell-2022/submissions/WAB98D/4CB3747A-A4CE-41C7-A750-A90233C8FA7C_HoBFsVk.jpeg</logo>
+        <date>2022-12-30T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-55117-sprechende_skulpturen</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WAB98D/</url>
+        <title>Sprechende Skulpturen</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Benoit Maubrey ist ein Kunstler aus Baitz (bei Bad Belzig) . Er baut Skulpturen aus recycelten Lautsprecher und Elektronik.&#13;
+Er sucht Mitarbeiter in die Region Potsdam-Mittelmark für zukünftiger elektronischer Abenteuer.&#13;
+Link: https://www.benoitmaubrey.com/</abstract>
+        <description>SPEAKER SCULPTURES&#13;
+Als Künstler baue ich Folgendes:&#13;
+Öffentliche Klangskulpturen, die es Menschen ermöglichen, sich entweder live (vor Ort) oder über das Internet auszudrücken. Die Skulptur wird ortsspezifisch geschaffen, sie kann freistehend sein oder in lokale Strukturen/Gebäude/Topografien&#13;
+integriert werden: Sie wird in Zusammenarbeit mit lokalen Kulturagenturen und Jugendorganisationen geschaffen.&#13;
+Eine längere Beschreibung:&#13;
+Die Skulpturen werden aus Elektroschrott hergestellt. Die Bevölkerung ist&#13;
+eingeladen, ihre gebrauchten Lautsprecher, Verstärker und Radios als Hardware für die Skulptur zu spenden. Regionale Recyclingbetriebe und Secondhand-Läden können als Partner gewonnen werden. 300 bis 500 recycelte Lautsprecher werden miteinander verbunden und über einen Verstärker mit Strom versorgt.&#13;
+Der Hauptzweck der Skulptur besteht darin, Anwohnern, Künstlern, Musikern,&#13;
+Chorgruppen und Passanten die Möglichkeit zu geben, die Skulptur als "Speakers Corner" zu nutzen. Sie können sich auf verschiedene Weise beteiligen:&#13;
+— ihre Mikrofone, MP3-Player und Instrumente direkt an das Gerät anschließen.&#13;
+— eine von zwei verfügbaren Telefonnummern anrufen und sich 3 Minuten lang äußern.&#13;
+— Lieder und Nachrichten über Bluetooth an die Skulptur übertragen.&#13;
+— Über einen "Audio-Twitter" (#speakerssculpture) werden ihre Botschaften hörbar gemacht.&#13;
+— andere Social-Media-Quellen (Clubhouse, Instagram...) werden als&#13;
+partizipative Sound-Input-Quellen integriert.&#13;
+— Über Streaming-Videosysteme können die Anrufer die Skulptur und das&#13;
+Publikum, mit dem sie sprechen, ohne physischen Kontakt sehen.&#13;
+Mein Ansatz:&#13;
+Künstlerisch verwende ich Lautsprecher ähnlich wie ein Bildhauer Ton oder Holz:&#13;
+als moderne Bausteine, um Kunstwerke zu schaffen, aber ihr Hauptzweck ist es,&#13;
+einen öffentlichen Raum mit Klang zu versorgen und einen öffentlichen "Hotspot" zu schaffen. Indem sie die Skulptur nutzen, um ihre eigene Musik abzuspielen, über ihre Handys zu sprechen und sich über "hörbare" soziale Medien auszudrücken, werden ihre Stimmen zu einem integralen Bestandteil der Skulptur.&#13;
+Auswirkungen:&#13;
+Warum sollte eine öffentliche Skulptur nicht sprechen?&#13;
+Warum sollte eine Skulptur nicht von lokalen Kulturorganisationen genutzt werden, um Gemeinschaften zu mobilisieren und ihre kulturellen Ausdrucksformen widerzuspiegeln?&#13;
+Das ist das Hauptziel meiner Skulptur: keine stumme Statue aus Marmor oder&#13;
+Granit, sondern ein soziales Gebilde, das in Zusammenarbeit mit lokalen Organisationen entsteht.&#13;
+&#13;
+Zentrale Fragen:&#13;
+Zielgruppen/Gemeinschaften, die Sie mit diesem Projekt ansprechen möchten?&#13;
+Dieses Projekt ist öffentlich. Es gehört der Nachbarschaft.&#13;
+Einzelpersonen und zufällige Passanten können die Skulptur nutzen und sich auf&#13;
+verschiedene Weise beteiligen:&#13;
+— über Mikrofone, MP3-Player, Handys (Anrufe werden automatisch angenommen und verstärkt) und Musikinstrumente.&#13;
+— über Bluetooth.&#13;
+— Über das Internet und Streaming-Video können Anrufer das Publikum, mit dem&#13;
+sie kommunizieren, sehen und mit ihm sprechen.&#13;
+— über "Audio-Twitter" (#speakerssculpture) und andere Social Media (Clubhouse, Instagram...) als Sound-Input-Quellen integriert.&#13;
+— Künstler und lokale Vereine/Organisationen können Versammlungen und Foto-/Videodrehs veranstalten.&#13;
+— Das Projekt wird einen öffentlichen Aufruf an Privatpersonen beinhalten,&#13;
+alte Lautsprecher als Hardware für die Skulptur zu spenden. Örtliche Recyclingunternehmen und Secondhand-Läden können als Partner für&#13;
+Elektroschrott fungieren.&#13;
+einige Links:&#13;
+Video-Interview Deutsche Welle&#13;
+https://www.dw.com/en/beno%C3%AEt-maubreys-interactive-soundscapes/&#13;
+av-49781881&#13;
+web link SPEAKER SCULPTURES: https://www.benoitmaubrey.com/?cat=5&#13;
+video link SPEAKER SCULPTURES: https://vimeo.com/66304704&#13;
+Weblinks zu früheren Projekten:&#13;
+ARENA BERLIN https://benoitmaubrey.com/arena-berlin/&#13;
+ARENA / KANADA&#13;
+https://benoitmaubrey.com/arena-2/&#13;
+Aktuelles / laufendes Projekt:&#13;
+https://benoitmaubrey.com/streamers/&#13;
+OBELISK&#13;
+https://benoitmaubrey.com/obelisk/&#13;
+SHRINE&#13;
+https://benoitmaubrey.com/shrine/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3932">Benoit Maubrey</person>
         </persons>
         <links/>
         <attachments/>

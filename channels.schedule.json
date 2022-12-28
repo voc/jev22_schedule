@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 17:40",
+    "version": "2022-12-28 18:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -4088,6 +4088,37 @@
             ],
             "Bierschoine": [
               {
+                "id": 55180,
+                "guid": "352792c2-578f-5701-a76a-4921d562bbc2",
+                "logo": "",
+                "date": "2022-12-29T13:30:00+01:00",
+                "start": "13:30",
+                "duration": "01:00",
+                "room": "Bierschoine",
+                "slug": "jev22-55180-das_geheime_leben_der_zelle",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BEJAFE/",
+                "title": "Das geheime Leben der Zelle",
+                "subtitle": " - wie das Leben funktioniert",
+                "track": "Hellarious",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Bunter Crash-Kurs \u00fcber die Merkmale des Lebens - und die winzigen, wilden, \u00fcberraschenden und gesch\u00e4ftigen Mechanismen, die es zum Erhalt und Vermehrung verwendet.",
+                "description": "Vortrag ohne Folien, daf\u00fcr mit handgezeichnetem \"Tafelbild\" und \u00f6ffentlichem Bildmaterial. Keine besonderen Vorkenntnisse erforderlich, es kann hoffentlich jeder was dabei mitnehmen. \r\n\r\nEine Linksammlung \u00fcber die Bild-Quellen kann im Anschluss ver\u00f6ffentlicht werden.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3935,
+                    "code": "EBJS7X",
+                    "public_name": "Paul",
+                    "biography": "Paul Geisler hat mal Mathematik und Kunst gelernt, ist professionell eher als Programmierer und Ingenieur unterwegs und Amateur in diversen weiteren Naturwissenschaften.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49291,
                 "guid": "ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8",
                 "logo": "",
@@ -4136,7 +4167,7 @@
                 "abstract": "Verwaltungsdigitalisierung is trodding on.",
                 "description": "Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 3395,
@@ -5872,6 +5903,37 @@
                     "code": "AMMBSC",
                     "public_name": "Cora",
                     "biography": "Cora wurde sehr umweltbewusst erzogen, sodass es f\u00fcr sie nahe lag sich mit der Initiative Music Declares Emergency f\u00fcr mehr Nachhaltigkeit in der Musikbranche zu engagieren. Ihr Ziel ein Festival in der ersten Reihe zu verbringen, hat sie mit 17 Jahren beim Highfield 2004 realisiert. Seitdem pr\u00e4feriert sie mehr Platz um sich herum und arbeitet hinter der B\u00fchne als Tour und Stage Managerin, Lichttechnikerin oder Spezialeffekte-Tante.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 55117,
+                "guid": "5a819c5e-3ed2-5b71-948e-0e6919fa723d",
+                "logo": "/media/hacking-in-hell-2022/submissions/WAB98D/4CB3747A-A4CE-41C7-A750-A90233C8FA7C_HoBFsVk.jpeg",
+                "date": "2022-12-30T15:30:00+01:00",
+                "start": "15:30",
+                "duration": "00:30",
+                "room": "Bierschoine",
+                "slug": "jev22-55117-sprechende_skulpturen",
+                "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/WAB98D/",
+                "title": "Sprechende Skulpturen",
+                "subtitle": "",
+                "track": "Hellarious",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Benoit Maubrey ist ein Kunstler aus Baitz (bei Bad Belzig) . Er baut Skulpturen aus recycelten Lautsprecher und Elektronik.\r\nEr sucht Mitarbeiter in die Region Potsdam-Mittelmark f\u00fcr zuk\u00fcnftiger elektronischer Abenteuer.\r\nLink: https://www.benoitmaubrey.com/",
+                "description": "SPEAKER SCULPTURES\r\nAls K\u00fcnstler baue ich Folgendes:\r\n\u00d6ffentliche Klangskulpturen, die es Menschen erm\u00f6glichen, sich entweder live (vor Ort) oder \u00fcber das Internet auszudr\u00fccken. Die Skulptur wird ortsspezifisch geschaffen, sie kann freistehend sein oder in lokale Strukturen/Geb\u00e4ude/Topografien\r\nintegriert werden: Sie wird in Zusammenarbeit mit lokalen Kulturagenturen und Jugendorganisationen geschaffen.\r\nEine l\u00e4ngere Beschreibung:\r\nDie Skulpturen werden aus Elektroschrott hergestellt. Die Bev\u00f6lkerung ist\r\neingeladen, ihre gebrauchten Lautsprecher, Verst\u00e4rker und Radios als Hardware f\u00fcr die Skulptur zu spenden. Regionale Recyclingbetriebe und Secondhand-L\u00e4den k\u00f6nnen als Partner gewonnen werden. 300 bis 500 recycelte Lautsprecher werden miteinander verbunden und \u00fcber einen Verst\u00e4rker mit Strom versorgt.\r\nDer Hauptzweck der Skulptur besteht darin, Anwohnern, K\u00fcnstlern, Musikern,\r\nChorgruppen und Passanten die M\u00f6glichkeit zu geben, die Skulptur als \"Speakers Corner\" zu nutzen. Sie k\u00f6nnen sich auf verschiedene Weise beteiligen:\r\n\u2014 ihre Mikrofone, MP3-Player und Instrumente direkt an das Ger\u00e4t anschlie\u00dfen.\r\n\u2014 eine von zwei verf\u00fcgbaren Telefonnummern anrufen und sich 3 Minuten lang \u00e4u\u00dfern.\r\n\u2014 Lieder und Nachrichten \u00fcber Bluetooth an die Skulptur \u00fcbertragen.\r\n\u2014 \u00dcber einen \"Audio-Twitter\" (#speakerssculpture) werden ihre Botschaften h\u00f6rbar gemacht.\r\n\u2014 andere Social-Media-Quellen (Clubhouse, Instagram...) werden als\r\npartizipative Sound-Input-Quellen integriert.\r\n\u2014 \u00dcber Streaming-Videosysteme k\u00f6nnen die Anrufer die Skulptur und das\r\nPublikum, mit dem sie sprechen, ohne physischen Kontakt sehen.\r\nMein Ansatz:\r\nK\u00fcnstlerisch verwende ich Lautsprecher \u00e4hnlich wie ein Bildhauer Ton oder Holz:\r\nals moderne Bausteine, um Kunstwerke zu schaffen, aber ihr Hauptzweck ist es,\r\neinen \u00f6ffentlichen Raum mit Klang zu versorgen und einen \u00f6ffentlichen \"Hotspot\" zu schaffen. Indem sie die Skulptur nutzen, um ihre eigene Musik abzuspielen, \u00fcber ihre Handys zu sprechen und sich \u00fcber \"h\u00f6rbare\" soziale Medien auszudr\u00fccken, werden ihre Stimmen zu einem integralen Bestandteil der Skulptur.\r\nAuswirkungen:\r\nWarum sollte eine \u00f6ffentliche Skulptur nicht sprechen?\r\nWarum sollte eine Skulptur nicht von lokalen Kulturorganisationen genutzt werden, um Gemeinschaften zu mobilisieren und ihre kulturellen Ausdrucksformen widerzuspiegeln?\r\nDas ist das Hauptziel meiner Skulptur: keine stumme Statue aus Marmor oder\r\nGranit, sondern ein soziales Gebilde, das in Zusammenarbeit mit lokalen Organisationen entsteht.\r\n\r\nZentrale Fragen:\r\nZielgruppen/Gemeinschaften, die Sie mit diesem Projekt ansprechen m\u00f6chten?\r\nDieses Projekt ist \u00f6ffentlich. Es geh\u00f6rt der Nachbarschaft.\r\nEinzelpersonen und zuf\u00e4llige Passanten k\u00f6nnen die Skulptur nutzen und sich auf\r\nverschiedene Weise beteiligen:\r\n\u2014 \u00fcber Mikrofone, MP3-Player, Handys (Anrufe werden automatisch angenommen und verst\u00e4rkt) und Musikinstrumente.\r\n\u2014 \u00fcber Bluetooth.\r\n\u2014 \u00dcber das Internet und Streaming-Video k\u00f6nnen Anrufer das Publikum, mit dem\r\nsie kommunizieren, sehen und mit ihm sprechen.\r\n\u2014 \u00fcber \"Audio-Twitter\" (#speakerssculpture) und andere Social Media (Clubhouse, Instagram...) als Sound-Input-Quellen integriert.\r\n\u2014 K\u00fcnstler und lokale Vereine/Organisationen k\u00f6nnen Versammlungen und Foto-/Videodrehs veranstalten.\r\n\u2014 Das Projekt wird einen \u00f6ffentlichen Aufruf an Privatpersonen beinhalten,\r\nalte Lautsprecher als Hardware f\u00fcr die Skulptur zu spenden. \u00d6rtliche Recyclingunternehmen und Secondhand-L\u00e4den k\u00f6nnen als Partner f\u00fcr\r\nElektroschrott fungieren.\r\neinige Links:\r\nVideo-Interview Deutsche Welle\r\nhttps://www.dw.com/en/beno%C3%AEt-maubreys-interactive-soundscapes/\r\nav-49781881\r\nweb link SPEAKER SCULPTURES: https://www.benoitmaubrey.com/?cat=5\r\nvideo link SPEAKER SCULPTURES: https://vimeo.com/66304704\r\nWeblinks zu fr\u00fcheren Projekten:\r\nARENA BERLIN https://benoitmaubrey.com/arena-berlin/\r\nARENA / KANADA\r\nhttps://benoitmaubrey.com/arena-2/\r\nAktuelles / laufendes Projekt:\r\nhttps://benoitmaubrey.com/streamers/\r\nOBELISK\r\nhttps://benoitmaubrey.com/obelisk/\r\nSHRINE\r\nhttps://benoitmaubrey.com/shrine/",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3932,
+                    "code": "MYRS93",
+                    "public_name": "Benoit Maubrey",
+                    "biography": "Ich baue interaktive Klangskulpturen in Baitz",
                     "answers": []
                   }
                 ],

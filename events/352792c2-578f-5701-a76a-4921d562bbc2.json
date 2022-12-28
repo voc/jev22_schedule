@@ -1,0 +1,33 @@
+{
+  "id": 55180,
+  "guid": "352792c2-578f-5701-a76a-4921d562bbc2",
+  "logo": "",
+  "date": "2022-12-29T13:30:00+01:00",
+  "start": "13:30",
+  "duration": "01:00",
+  "room": "Bierschoine",
+  "slug": "jev22-55180-das_geheime_leben_der_zelle",
+  "url": "https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BEJAFE/",
+  "title": "Das geheime Leben der Zelle",
+  "subtitle": " - wie das Leben funktioniert",
+  "track": "Hellarious",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Bunter Crash-Kurs \u00fcber die Merkmale des Lebens - und die winzigen, wilden, \u00fcberraschenden und gesch\u00e4ftigen Mechanismen, die es zum Erhalt und Vermehrung verwendet.",
+  "description": "Vortrag ohne Folien, daf\u00fcr mit handgezeichnetem \"Tafelbild\" und \u00f6ffentlichem Bildmaterial. Keine besonderen Vorkenntnisse erforderlich, es kann hoffentlich jeder was dabei mitnehmen. \r\n\r\nEine Linksammlung \u00fcber die Bild-Quellen kann im Anschluss ver\u00f6ffentlicht werden.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3935,
+      "code": "EBJS7X",
+      "public_name": "Paul",
+      "biography": "Paul Geisler hat mal Mathematik und Kunst gelernt, ist professionell eher als Programmierer und Ingenieur unterwegs und Amateur in diversen weiteren Naturwissenschaften.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+  "origin": "pretalx.c3voc.de"
+}
