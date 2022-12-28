@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 11:40",
+    "version": "2022-12-28 12:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2133,7 +2133,7 @@
                   {
                     "id": 3400,
                     "code": "8LXMT8",
-                    "public_name": "Moritz Hilscher",
+                    "public_name": "lasermo",
                     "biography": "Eigentlich Software Engineer, im mal Master Computer Vision / Machine Learning gemacht.\r\nJetzt bei LaserAnimation Sollinger GmbH, R&D von Software/Firmware/Custom Laser-Installationen.\r\nNebenbei Multimediakunstkramgebastel. :)",
                     "answers": []
                   }

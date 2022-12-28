@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 11:40; FireShonks 0.33; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 11:40; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 12:00; FireShonks 0.33; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 12:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.44; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -4298,7 +4298,7 @@
                   {
                     "id": 3400,
                     "code": "8LXMT8",
-                    "public_name": "Moritz Hilscher",
+                    "public_name": "lasermo",
                     "biography": "Eigentlich Software Engineer, im mal Master Computer Vision / Machine Learning gemacht.\r\nJetzt bei LaserAnimation Sollinger GmbH, R&D von Software/Firmware/Custom Laser-Installationen.\r\nNebenbei Multimediakunstkramgebastel. :)",
                     "answers": []
                   }
@@ -4393,7 +4393,7 @@
                   {
                     "id": 3400,
                     "code": "8LXMT8",
-                    "public_name": "Moritz Hilscher",
+                    "public_name": "lasermo",
                     "biography": "Eigentlich Software Engineer, im mal Master Computer Vision / Machine Learning gemacht.\r\nJetzt bei LaserAnimation Sollinger GmbH, R&D von Software/Firmware/Custom Laser-Installationen.\r\nNebenbei Multimediakunstkramgebastel. :)",
                     "answers": []
                   }
