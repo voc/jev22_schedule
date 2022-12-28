@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 20:10",
+    "version": "2022-12-28 20:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -4915,6 +4915,37 @@
                 "attachments": []
               },
               {
+                "id": 49277,
+                "guid": "dbeb206d-818e-5451-90a1-183581070c1d",
+                "logo": "",
+                "date": "2022-12-29T17:45:00+01:00",
+                "start": "17:45",
+                "duration": "01:00",
+                "room": "HIP1",
+                "slug": "jev22-49277-b3_buntesbugbounty",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/",
+                "title": "B3 - BuntesBugBounty",
+                "subtitle": " - den Hackerparagraphen Hacken",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Wenn der Bund sagt: \u201cHack mich!\u201d kann er Sicherheitsforscher:innen danach schlecht mit dem Hackerparagraphen zur Rechenschaft ziehen. Das ist die Kernidee des Bunten Bug Bountys.\r\n\r\nDas Melden von Sicherheitsl\u00fccken und Datenlecks ist in Deutschland aktuell ein riskantes und aufw\u00e4ndiges Unterfangen. Erfahrungsgem\u00e4\u00df besteht 60 - 80% des Aufwandes darin, die L\u00fccke und das Datenleck so zu dokumentieren, dass die Sicherheitsforscher:innen juristisch nicht angreifbar sind. \r\nSowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier bereits etablierte Angebote. Entsprechend haben wir im Rahmen des Cybersicherheitsdialog des BSI [3] im September diesen Jahres das Projekt \u201cB3 - Buntes Bug Bounty\u201d gestartet. Ziel des Projektes ist es einen ethischen,  niedrigschwelligen und rechtssicherer Meldeprozess f\u00fcr Sicherheitsl\u00fccken und Datenlecks zu entwickeln. Im Rahmen des Vortrags soll der aktuelle Stand der Diskussion vorgestellt und zur Teilnahme an der Diskussion eingeladen werden.\r\n\r\n[1] https://joinup.ec.europa.eu/collection/eu-fossa-2/about\r\n[2] https://www.bundeswehr.de/de/security-policy\r\n[3] https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Leistungen-und-Kooperationen/Digitaler-Verbraucherschutz/Projekt-Dialog-fuer-Cyber-Sicherheit/Dialog-fuer-Cyber-Sicherheit_node.html",
+                "description": "Sollte ein:e Sicherheitsforscher:in aktuell eine Sicherheitsl\u00fccke finden und dabei ggf. auch noch \u00fcber ein Datenleck stolpern, entstehen eine Reihe von Fragen:\r\n\r\n* Habe ich mich strafbar gemacht, wenn ja wie dolle? #Hackerparagraph\r\n* Wem melde ich die L\u00fccke?\r\n* Wem melde ich das Datenleck?\r\n* Kann ich das ethisch vertreten?\r\n* Wie viel Arbeit wird das?\r\n\r\nDie Arbeit von ehrenamtlichen Sicherheitsforscher:innen wird von den Organisationen, deren Systeme betroffen sind, nicht notwendigerweise positiv aufgenommen - siehe CDU Connect-App [1]. Auch kann das Melden von Sicherheitsl\u00fccken bei Bekanntwerden der meldenden Person f\u00fcr diese zu Repressalien f\u00fchren wie der Fall der log4j L\u00fccke gegen\u00fcber dem Unternehmen AliBaba [2][3].\r\nEbenfalls ist nicht immer einfach erkennbar, wem eine L\u00fccke und ein entsprechendes Leck zu melden sind:\r\n\r\n* der Organisation, die die Software einsetzt?\r\n* der Organisation, die die Software anbietet oder entwickelt?\r\n* Was ist zu tun, wenn es keine security.txt gibt?\r\n* Wendet sich eins an die Adresse im Impressum?\r\n* Im Falle eines Datenlecks, welcher LfDI ist zust\u00e4ndig?\r\n* Der des Landes der Filiale, die im Impressum steht, der des Bundeslandes, in dem die Firma ihren Hauptsitz hat?\r\n* Was passiert, wenn das Datenleck an den falschen LfDI gemeldet wird?\r\n* Wieso wollen BfDI und LdDIs wissen wer ich bin?\r\n* Wie kann ich sicher sein, dass das BSI aus der L\u00fccke keinen Staatstrojaner macht? etc. etc.\r\n\r\nWie das aus Sicht von Sicherheitsforscher:innen funktioniert, haben Zerforschung und Linus in dem Vortrag: \u201cDeine Software, die Sicherheitsl\u00fccken und ich\u201d [5] dargestellt.\r\n\r\n\r\nDamit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europ\u00e4ischer Ebene [7] - dem Bund vorschlagen, dass er Sicherheitsforscher:innen einl\u00e4dt, ihn und die \u00f6ffentliche Hand im Allgemeinen zu hacken.\r\n\r\nDies durch das Ausloben eines \u201cBunten Bug Bounties\u201d und das Einrichten einer one-stop-shop Meldestelle f\u00fcr Sicherheitsl\u00fccken und Datenlecks.\r\n\r\n\r\nVorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung ver\u00f6ffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld f\u00fcr Fixes von L\u00fccken in relevanten Open Source Frameworks.\r\n\r\nZiel des Projektes ist es herauszufinden: \r\n\r\n* Wie k\u00f6nnte ein entsprechender Prozess aussehen?\r\n* Kann das rechtssicher gestaltet werden? \r\n* Wie passt das mit dem Cyber Resilience Act der EU [12] zusammen?\r\n\r\nIm Vortrag wollen wir den aktuellen Stand des Projektes vorstellen und die Community zur Diskussion einladen. \r\n\r\nWeiteres Demn\u00e4chst unter:\r\nwww.inoeg.de/b3\r\n\r\n[1] https://www.zeit.de/digital/datenschutz/2021-08/cdu-connect-app-it-sicherheit-lilith-wittmann-forscherin-klage\r\n[2] https://winfuture.de/news,127162.html\r\n[3] https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud\r\n[4] https://securitytxt.org/\r\n[5] https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si\r\n[6] https://netzpolitik.org/2022/hackerparagrafen-sicherheit-fuer-die-sicherheitsforschung/\r\n[7] https://www.ccc.de/de/updates/2022/zero-day-schwarzmarkt-trockenlegen\r\n[8] https://www.bundeswehr.de/de/security-policy\r\n[9] https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands\r\n[10] https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb\r\n[11] https://joinup.ec.europa.eu/collection/eu-fossa-2/about\r\n[12] https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3314,
+                    "code": "9UFDPJ",
+                    "public_name": "Little Detritus",
+                    "biography": "Little hat sich irgendwann mal f\u00fcr Quantengeraffel im Allgemeinen und Quantencomputer im Speziellen interessiert [1], mittlerweile interessiert er sich auch f\u00fcr \u00f6ffentliche digitale Plattformen und Infrastrukturen - bspw. WIFI4EU [2][3] - und seit zwei Jahren zusehends f\u00fcr Civic-Tech. Im Rahmen des #wirvsvirus Hackathons war er Co-Teamlead des Projekts wir-bleiben-liqui.de, [4][5] und seit Anfang 2021 ist er Teil des Innovationsverbund \u00f6ffentliche Gesundheit [6] und hat hier u.a. IRIS-Connect [7][8] zusammen mit Bianca Kastl und Anderen entwickelt. Auf Hacker Camps findet man ihn wo es laut ist. \r\n\r\n[1] https://aachen.ccc.de/post/2015-08-09-talk-kryptographie-quantencomputer\r\n\r\n[2] https://media.ccc.de/v/35c3chaoswest-52-wifi4eu-broken-by-technical-specification\r\n\r\n[3] https://zenodo.org/record/3236807\r\n\r\n[4] https://20.re-publica.com/de/session/5-wochen-vom-hackathon-projekt-zur-civic-tech-plattform\r\n\r\n[5] https://20.re-publica.com/de/session/deep-dive-wirvsvirus-hackathon-wir-bleiben-liquide\r\n\r\n[6] https://www.inoeg.de/\r\n\r\n[7] https://www.iris-connect.de/\r\n\r\n[8] https://github.com/iris-connect",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49248,
                 "guid": "0d6f2cc4-bda7-5a6e-a772-0308431d32a1",
                 "logo": "",
@@ -5079,37 +5110,6 @@
                     "code": "Z3MLLM",
                     "public_name": "Theodore Keloglou",
                     "biography": "Theodore Keloglou is a computer programmer. He\u2019s the maker of mataroa.blog, a privacy-first blogging platform as well as a member of Chaitin School, a software engineering community in London, England. He blogs at nutcroft.com.",
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 49277,
-                "guid": "dbeb206d-818e-5451-90a1-183581070c1d",
-                "logo": "",
-                "date": "2022-12-29T12:15:00+01:00",
-                "start": "12:15",
-                "duration": "01:00",
-                "room": "HIP2",
-                "slug": "jev22-49277-b3_buntesbugbounty",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CLCACQ/",
-                "title": "B3 - BuntesBugBounty",
-                "subtitle": " - den Hackerparagraphen Hacken",
-                "track": "E.T.I.",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Wenn der Bund sagt: \u201cHack mich!\u201d kann er Sicherheitsforscher:innen danach schlecht mit dem Hackerparagraphen zur Rechenschaft ziehen. Das ist die Kernidee des Bunten Bug Bountys.\r\n\r\nDas Melden von Sicherheitsl\u00fccken und Datenlecks ist in Deutschland aktuell ein riskantes und aufw\u00e4ndiges Unterfangen. Erfahrungsgem\u00e4\u00df besteht 60 - 80% des Aufwandes darin, die L\u00fccke und das Datenleck so zu dokumentieren, dass die Sicherheitsforscher:innen juristisch nicht angreifbar sind. \r\nSowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier bereits etablierte Angebote. Entsprechend haben wir im Rahmen des Cybersicherheitsdialog des BSI [3] im September diesen Jahres das Projekt \u201cB3 - Buntes Bug Bounty\u201d gestartet. Ziel des Projektes ist es einen ethischen,  niedrigschwelligen und rechtssicherer Meldeprozess f\u00fcr Sicherheitsl\u00fccken und Datenlecks zu entwickeln. Im Rahmen des Vortrags soll der aktuelle Stand der Diskussion vorgestellt und zur Teilnahme an der Diskussion eingeladen werden.\r\n\r\n[1] https://joinup.ec.europa.eu/collection/eu-fossa-2/about\r\n[2] https://www.bundeswehr.de/de/security-policy\r\n[3] https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Leistungen-und-Kooperationen/Digitaler-Verbraucherschutz/Projekt-Dialog-fuer-Cyber-Sicherheit/Dialog-fuer-Cyber-Sicherheit_node.html",
-                "description": "Sollte ein:e Sicherheitsforscher:in aktuell eine Sicherheitsl\u00fccke finden und dabei ggf. auch noch \u00fcber ein Datenleck stolpern, entstehen eine Reihe von Fragen:\r\n\r\n* Habe ich mich strafbar gemacht, wenn ja wie dolle? #Hackerparagraph\r\n* Wem melde ich die L\u00fccke?\r\n* Wem melde ich das Datenleck?\r\n* Kann ich das ethisch vertreten?\r\n* Wie viel Arbeit wird das?\r\n\r\nDie Arbeit von ehrenamtlichen Sicherheitsforscher:innen wird von den Organisationen, deren Systeme betroffen sind, nicht notwendigerweise positiv aufgenommen - siehe CDU Connect-App [1]. Auch kann das Melden von Sicherheitsl\u00fccken bei Bekanntwerden der meldenden Person f\u00fcr diese zu Repressalien f\u00fchren wie der Fall der log4j L\u00fccke gegen\u00fcber dem Unternehmen AliBaba [2][3].\r\nEbenfalls ist nicht immer einfach erkennbar, wem eine L\u00fccke und ein entsprechendes Leck zu melden sind:\r\n\r\n* der Organisation, die die Software einsetzt?\r\n* der Organisation, die die Software anbietet oder entwickelt?\r\n* Was ist zu tun, wenn es keine security.txt gibt?\r\n* Wendet sich eins an die Adresse im Impressum?\r\n* Im Falle eines Datenlecks, welcher LfDI ist zust\u00e4ndig?\r\n* Der des Landes der Filiale, die im Impressum steht, der des Bundeslandes, in dem die Firma ihren Hauptsitz hat?\r\n* Was passiert, wenn das Datenleck an den falschen LfDI gemeldet wird?\r\n* Wieso wollen BfDI und LdDIs wissen wer ich bin?\r\n* Wie kann ich sicher sein, dass das BSI aus der L\u00fccke keinen Staatstrojaner macht? etc. etc.\r\n\r\nWie das aus Sicht von Sicherheitsforscher:innen funktioniert, haben Zerforschung und Linus in dem Vortrag: \u201cDeine Software, die Sicherheitsl\u00fccken und ich\u201d [5] dargestellt.\r\n\r\n\r\nDamit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europ\u00e4ischer Ebene [7] - dem Bund vorschlagen, dass er Sicherheitsforscher:innen einl\u00e4dt, ihn und die \u00f6ffentliche Hand im Allgemeinen zu hacken.\r\n\r\nDies durch das Ausloben eines \u201cBunten Bug Bounties\u201d und das Einrichten einer one-stop-shop Meldestelle f\u00fcr Sicherheitsl\u00fccken und Datenlecks.\r\n\r\n\r\nVorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung ver\u00f6ffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld f\u00fcr Fixes von L\u00fccken in relevanten Open Source Frameworks.\r\n\r\nZiel des Projektes ist es herauszufinden: \r\n\r\n* Wie k\u00f6nnte ein entsprechender Prozess aussehen?\r\n* Kann das rechtssicher gestaltet werden? \r\n* Wie passt das mit dem Cyber Resilience Act der EU [12] zusammen?\r\n\r\nIm Vortrag wollen wir den aktuellen Stand des Projektes vorstellen und die Community zur Diskussion einladen. \r\n\r\nWeiteres Demn\u00e4chst unter:\r\nwww.inoeg.de/b3\r\n\r\n[1] https://www.zeit.de/digital/datenschutz/2021-08/cdu-connect-app-it-sicherheit-lilith-wittmann-forscherin-klage\r\n[2] https://winfuture.de/news,127162.html\r\n[3] https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud\r\n[4] https://securitytxt.org/\r\n[5] https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si\r\n[6] https://netzpolitik.org/2022/hackerparagrafen-sicherheit-fuer-die-sicherheitsforschung/\r\n[7] https://www.ccc.de/de/updates/2022/zero-day-schwarzmarkt-trockenlegen\r\n[8] https://www.bundeswehr.de/de/security-policy\r\n[9] https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands\r\n[10] https://medium.com/pentesternepal/hacking-dutch-government-for-a-lousy-t-shirt-8e1fd1b56deb\r\n[11] https://joinup.ec.europa.eu/collection/eu-fossa-2/about\r\n[12] https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3314,
-                    "code": "9UFDPJ",
-                    "public_name": "Little Detritus",
-                    "biography": "Little hat sich irgendwann mal f\u00fcr Quantengeraffel im Allgemeinen und Quantencomputer im Speziellen interessiert [1], mittlerweile interessiert er sich auch f\u00fcr \u00f6ffentliche digitale Plattformen und Infrastrukturen - bspw. WIFI4EU [2][3] - und seit zwei Jahren zusehends f\u00fcr Civic-Tech. Im Rahmen des #wirvsvirus Hackathons war er Co-Teamlead des Projekts wir-bleiben-liqui.de, [4][5] und seit Anfang 2021 ist er Teil des Innovationsverbund \u00f6ffentliche Gesundheit [6] und hat hier u.a. IRIS-Connect [7][8] zusammen mit Bianca Kastl und Anderen entwickelt. Auf Hacker Camps findet man ihn wo es laut ist. \r\n\r\n[1] https://aachen.ccc.de/post/2015-08-09-talk-kryptographie-quantencomputer\r\n\r\n[2] https://media.ccc.de/v/35c3chaoswest-52-wifi4eu-broken-by-technical-specification\r\n\r\n[3] https://zenodo.org/record/3236807\r\n\r\n[4] https://20.re-publica.com/de/session/5-wochen-vom-hackathon-projekt-zur-civic-tech-plattform\r\n\r\n[5] https://20.re-publica.com/de/session/deep-dive-wirvsvirus-hackathon-wir-bleiben-liquide\r\n\r\n[6] https://www.inoeg.de/\r\n\r\n[7] https://www.iris-connect.de/\r\n\r\n[8] https://github.com/iris-connect",
                     "answers": []
                   }
                 ],
@@ -6986,6 +6986,20 @@
                     "code": "QDNZMK",
                     "public_name": "Tobias McFadden",
                     "biography": "Veranstaltungstechniker; Freifunker, Jugendkulturler; AK-Vorratler; spezialliberal-anarchistisch-pragmatisch-progressiver Gemeinde(Pi)rat Gauting",
+                    "answers": []
+                  },
+                  {
+                    "id": 205,
+                    "code": "NGZL3B",
+                    "public_name": "Felix Golatofski",
+                    "biography": null,
+                    "answers": []
+                  },
+                  {
+                    "id": 206,
+                    "code": "P3ENH8",
+                    "public_name": "Kilian Schauer",
+                    "biography": null,
                     "answers": []
                   }
                 ],
