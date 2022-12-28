@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 12:20</version>
+  <version>2022-12-28 12:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1253,7 +1253,9 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <abstract>Konnten wir sie je verstehen, und begreifen wir Computer heute noch wirklich?&#13;
 Auf Basis jahrelanger Forschung, Studien, Neugier und Erfahrung bietet dieser Vortrag eine Diskussion um die etlichen Aspekte, die Computer zu dem machen, was sie sind: Hardware, Software, Betriebssysteme, Apps, Services, Mensch- und Maschinenschnittstellen, und die vielen Ideen drum herum.&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Extended Q&amp;A: https://bbb.digitalcourage.de/b/fir-bkr-tfz-wpw</abstract>
         <description>Ausgehend von einer Metaperspektive schauen wir uns die vielen verworrenen Facetten an, die zusammen die Elektronik der heutigen Zeit ergeben, von Gadgets und Mobilgeräten bis zu großen Rechnern, um schließlich zurückzufinden zu ihrem Ursprung: den Menschen, die sie geschaffen haben, die mit ihnen arbeiten und spielen, wie sich jene doch gar kaum unterscheiden und was sie antreibt.&#13;
 Dies legt den Grundstein zum übergreifenden [Platform System Interface](https://github.com/platform-system-interface)-Projekt, das darauf abzielt, die gemeinsame Gestaltung von Hard- und Software im Ganzen zu dokumentieren mit der [psi-spec](https://github.com/platform-system-interface/psi-spec) in Prosa, und darüber hinaus Anleitungen, Werkzeuge und ein Framework bereitzustellen.</description>
         <recording>
