@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 20:30; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 20:30; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 21:10; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 21:10; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -3794,7 +3794,7 @@
                 "subtitle": "",
                 "track": "R3S",
                 "type": "Talk",
-                "language": "en",
+                "language": "de",
                 "abstract": "For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
                 "description": "You can find recordings of the previous iterations here:\r\n\r\n- [Vol. 1](https://blinry.org/operation-mindfuck/) (German)\r\n- [Vol. 2](https://blinry.org/operation-mindfuck-2/) (German)\r\n- [Vol. 3](https://blinry.org/operation-mindfuck-3/) (German)\r\n- [Vol. 4](https://blinry.org/operation-mindfuck-4/) (English)\r\n- [Vol. 5](https://blinry.org/operation-mindfuck-5/) (English)",
                 "recording_license": "",

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 20:30; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 20:30; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 21:10; FireShonks 0.39; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 21:10; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3117,7 +3117,7 @@ Project page: https://github.com/neuschaefer/m88cs8001</description>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!&#13;
 &#13;
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>

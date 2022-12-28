@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 20:30",
+    "version": "2022-12-28 21:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1927,7 +1927,7 @@
                 "subtitle": "",
                 "track": "R3S",
                 "type": "Talk",
-                "language": "en",
+                "language": "de",
                 "abstract": "For the sixth time, we'll present a colorful potpourri of nerdsniping topics: some of our favorite facts about computers, art, and the world! We draw a lot of inspiration from new and absurd ideas, and we'd like to share that enthusiasm with you!\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
                 "description": "You can find recordings of the previous iterations here:\r\n\r\n- [Vol. 1](https://blinry.org/operation-mindfuck/) (German)\r\n- [Vol. 2](https://blinry.org/operation-mindfuck-2/) (German)\r\n- [Vol. 3](https://blinry.org/operation-mindfuck-3/) (German)\r\n- [Vol. 4](https://blinry.org/operation-mindfuck-4/) (English)\r\n- [Vol. 5](https://blinry.org/operation-mindfuck-5/) (English)",
                 "recording_license": "",
