@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-28 16:00; FireShonks 0.36; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-28 16:20; FireShonks 0.36; Reconnect To Chaos! 2.2; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:20; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -1477,8 +1477,8 @@
                 "id": 7352,
                 "guid": "7c35256e-594b-5a88-9424-a93ccdcdfe11",
                 "logo": "",
-                "date": "2022-12-27T19:00:00+01:00",
-                "start": "19:00",
+                "date": "2022-12-27T18:30:00+01:00",
+                "start": "18:30",
                 "duration": "00:30",
                 "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset",
@@ -4180,7 +4180,7 @@
                 "logo": "",
                 "date": "2022-12-28T22:30:00+01:00",
                 "start": "22:30",
-                "duration": "01:00",
+                "duration": "02:30",
                 "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-5374-cursedin",
                 "url": "https://cfp.ccc-p.org/rtc22/talk/KMUA7T/",
@@ -5428,6 +5428,37 @@
                 "attachments": []
               },
               {
+                "id": 55223,
+                "guid": "f48b470d-eb9f-5627-bac1-7a5d1c276552",
+                "logo": "",
+                "date": "2022-12-28T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "00:50",
+                "room": "HIP - Track 1 - Room 5",
+                "slug": "jev22-55223-zapps_and_warping_and_forging",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MDNR83/",
+                "title": "Zapps and Warping and Forging",
+                "subtitle": " -- building towards portable, composable un-distros",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Zapps are a portable packaging format for linux executables that works on every distro, ever -- and indeed, even on FreeBSD. Warpforge is a build sandboxing and package releasing tool based on hashes-go-in-hashes-come-out, hyperfocused on reproducibility and explainability.  Both are part of a quest to build a more freely-composable story for how we work with our computers and share our software.",
+                "description": "nil",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3937,
+                    "code": "93M7LM",
+                    "public_name": "Eric Myhre",
+                    "biography": "hash *all the things!* Working on trusted computing and reproducible builds\r\ntwitter: @warpfork",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49092,
                 "guid": "65d9feb4-abae-58b5-b9b3-8d819d9a11b2",
                 "logo": "/media/hip-berlin-2022/submissions/PEAQU9/NeverMind-still2_unsLxo4.png",
@@ -5694,32 +5725,25 @@
             ],
             "HDMI (room 3)": [
               {
-                "id": 49234,
-                "guid": "034f85e4-8d3f-535a-b780-cf0ae255bf4a",
-                "logo": "/media/hip-berlin-2022/submissions/CXMGMG/DALLE_2022-12-02_17.43.20_oElVZaT.png",
-                "date": "2022-12-28T12:00:00+01:00",
-                "start": "12:00",
-                "duration": "02:20",
+                "id": 49258,
+                "guid": "538ea79f-4ccd-5014-ab75-fc04b3fb5a25",
+                "logo": "",
+                "date": "2022-12-28T14:30:00+01:00",
+                "start": "14:30",
+                "duration": "02:00",
                 "room": "HDMI (room 3)",
-                "slug": "jev22-49234-hacking_in_parallel",
-                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/",
-                "title": "Hacking in Parallel",
+                "slug": "jev22-49258-binary_exploitation_beginner_workshop",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/",
+                "title": "Binary Exploitation Beginner Workshop",
                 "subtitle": "",
                 "track": "E.T.I.",
                 "type": "Workshop",
                 "language": "en",
-                "abstract": "In this workshop, we quickly go over the various fields of IT-Security and how small, brain teaser-like challenges can assist you in learning about them.\r\nAs an example of such a field, we will teach you the basics of Reverse Engineering, the art of understanding what code does.",
-                "description": "This workshop aims to introduce new players to the world of CTFs. In CTFs, players must solve challenges in various domains, mostly, but not exclusively, related to IT-Security. \r\n\r\nWe are seasoned CTF players playing for the German Team ALLES!. \r\n\r\nTo get started with playing CTF, you have to learn a ton of new stuff, which can be pretty overwhelming, especially if you aren't used to it. Since ALLES! is not a typical CTF team affiliated with a university, most of our members hadn't been taught those concepts top-down. Instead, we started by just playing. This is harder than it should be, right? That's what we're thinking as well. We joined NFITS e.V. (a nonprofit organization aiming to bring new people into CTFs)\r\n    \r\nAs part of NFITS e.V. we are trying to bridge this gap. During this workshop, we will try to do the same thing. We want to teach you about CTFs using Reverse Engineering as an example.\r\n\r\nReverse Engineering is the art of looking at a program to understand what a program does. We do this to reimplement or even find flaws in the program. There are multiple tools that can assist you with this. We will bring various challenges with different difficulties so you can start from zero.\r\n\r\nYou need to bring some kind of notebook running Linux, some programming experience, and the willingness to learn a new skill.",
+                "abstract": "This workshop introduces basic concepts of x64 binary exploitation on Linux.\r\n\r\nThe workshop consists of a collection of increasingly difficult pwn challenges and is accompanied by a presentation and set of slides that first introduce basic concepts and then apply them to those challenges.",
+                "description": "This workshop aims to introduce beginners to basic 20th century exploitation techniques.\r\n\r\nParticipants will exploit their first buffer overflow, their first oracle attack and their first ROP chain.\r\nAll challenges are designed for self learning and come with optional hints.\r\n\r\nThroughout the workshop, at certain intervals, challenges will be solved together by explaining the solutions on stage, so that everybody can follow along and get help if needed.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
-                  {
-                    "id": 3367,
-                    "code": "QFERWH",
-                    "public_name": "Nils Ole Timm",
-                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
-                    "answers": []
-                  },
                   {
                     "id": 3355,
                     "code": "TPLUP7",
@@ -5732,6 +5756,13 @@
                     "code": "GNZHLA",
                     "public_name": "Daniel (D_K)",
                     "biography": "IT Security Student and Researcher. Member of ALLES!",
+                    "answers": []
+                  },
+                  {
+                    "id": 3367,
+                    "code": "QFERWH",
+                    "public_name": "Nils Ole Timm",
+                    "biography": "I break things.\r\n@firzen14\r\n@not@infosec.exchange\r\nfirzen.de",
                     "answers": []
                   }
                 ],
@@ -7584,7 +7615,7 @@
                     "id": 17,
                     "code": "JXYBBU",
                     "public_name": "\u00dcck\u00fcck",
-                    "biography": "Hallo ihr da drau\u00dfen!\r\n\r\nIch bin \u00dcck\u00fcck bzw. Stehanie Henkel und in der Piratenpartei aktiv, Moderatorin bei dresden.network und Podcasterin.",
+                    "biography": "Hallo ihr da drau\u00dfen!\r\n\r\nIch bin \u00dcck\u00fcck bzw. Stephanie Henkel und in der Piratenpartei aktiv, Moderatorin bei dresden.network und Podcasterin.",
                     "answers": []
                   }
                 ],
@@ -9093,7 +9124,39 @@
                 "attachments": []
               }
             ],
-            "HDMI (room 3)": [],
+            "HDMI (room 3)": [
+              {
+                "id": 55201,
+                "guid": "843be1cd-c1d1-53de-a519-fdf227558c58",
+                "logo": "/media/hip-berlin-2022/submissions/XTKQMU/mascot_2ipPKK1.png",
+                "date": "2022-12-29T12:15:00+01:00",
+                "start": "12:15",
+                "duration": "01:30",
+                "room": "HDMI (room 3)",
+                "slug": "jev22-55201-introduction_to_the_hare_programming_language",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/XTKQMU/",
+                "title": "Introduction to the Hare programming language",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Talk",
+                "language": "en",
+                "abstract": "Hare is a new systems programming language for writing free software. This talk will introduce the language and share some of its essential ideas.",
+                "description": "Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3936,
+                    "code": "M9KQ9W",
+                    "public_name": "Drew DeVault",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Soldering Workshop Room": [
               {
                 "id": 49163,

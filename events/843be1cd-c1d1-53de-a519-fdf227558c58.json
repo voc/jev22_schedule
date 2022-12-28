@@ -1,0 +1,33 @@
+{
+  "id": 55201,
+  "guid": "843be1cd-c1d1-53de-a519-fdf227558c58",
+  "logo": "/media/hip-berlin-2022/submissions/XTKQMU/mascot_2ipPKK1.png",
+  "date": "2022-12-29T12:15:00+01:00",
+  "start": "12:15",
+  "duration": "01:30",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-55201-introduction_to_the_hare_programming_language",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/XTKQMU/",
+  "title": "Introduction to the Hare programming language",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Hare is a new systems programming language for writing free software. This talk will introduce the language and share some of its essential ideas.",
+  "description": "Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3936,
+      "code": "M9KQ9W",
+      "public_name": "Drew DeVault",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

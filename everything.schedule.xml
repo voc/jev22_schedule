@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 16:00; FireShonks 0.36; Reconnect To Chaos! 2.1; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:00; Winterchaos 0.4; Hacking in Parallel 0.13; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-28 16:20; FireShonks 0.36; Reconnect To Chaos! 2.2; Hellarious 0.6 final 2 FINAL; CCL CE 0.2.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.8; ChilyConChaos 2022-12-28 16:20; Winterchaos 0.4; Hacking in Parallel 0.14; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1041,8 +1041,8 @@ Ihr braucht also: Popcorn, Taschentücher für die Lachtränen, Beruhigungstee s
       </event>
       <event id="7352" guid="7c35256e-594b-5a88-9424-a93ccdcdfe11">
         <logo/>
-        <date>2022-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2022-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset</slug>
@@ -3484,7 +3484,7 @@ join us!</description>
         <logo/>
         <date>2022-12-28T22:30:00+01:00</date>
         <start>22:30</start>
-        <duration>01:00</duration>
+        <duration>02:30</duration>
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-5374-cursedin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
@@ -4651,6 +4651,31 @@ Let me show you, what weird things did people build with it and lets unlock more
         <links/>
         <attachments/>
       </event>
+      <event id="55223" guid="f48b470d-eb9f-5627-bac1-7a5d1c276552">
+        <logo/>
+        <date>2022-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>00:50</duration>
+        <room>HIP - Track 1 - Room 5</room>
+        <slug>jev22-55223-zapps_and_warping_and_forging</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MDNR83/</url>
+        <title>Zapps and Warping and Forging</title>
+        <subtitle> -- building towards portable, composable un-distros</subtitle>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Zapps are a portable packaging format for linux executables that works on every distro, ever -- and indeed, even on FreeBSD. Warpforge is a build sandboxing and package releasing tool based on hashes-go-in-hashes-come-out, hyperfocused on reproducibility and explainability.  Both are part of a quest to build a more freely-composable story for how we work with our computers and share our software.</abstract>
+        <description>nil</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3937">Eric Myhre</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49092" guid="65d9feb4-abae-58b5-b9b3-8d819d9a11b2">
         <logo>/media/hip-berlin-2022/submissions/PEAQU9/NeverMind-still2_unsLxo4.png</logo>
         <date>2022-12-28T23:00:00+01:00</date>
@@ -4886,40 +4911,36 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
       </event>
     </room>
     <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
-      <event id="49234" guid="034f85e4-8d3f-535a-b780-cf0ae255bf4a">
-        <logo>/media/hip-berlin-2022/submissions/CXMGMG/DALLE_2022-12-02_17.43.20_oElVZaT.png</logo>
-        <date>2022-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>02:20</duration>
+      <event id="49258" guid="538ea79f-4ccd-5014-ab75-fc04b3fb5a25">
+        <logo/>
+        <date>2022-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>02:00</duration>
         <room>HDMI (room 3)</room>
-        <slug>jev22-49234-hacking_in_parallel</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/CXMGMG/</url>
-        <title>Hacking in Parallel</title>
+        <slug>jev22-49258-binary_exploitation_beginner_workshop</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/TCTYUW/</url>
+        <title>Binary Exploitation Beginner Workshop</title>
         <subtitle/>
         <track>E.T.I.</track>
         <type>Workshop</type>
         <language>en</language>
-        <abstract>In this workshop, we quickly go over the various fields of IT-Security and how small, brain teaser-like challenges can assist you in learning about them.&#13;
-As an example of such a field, we will teach you the basics of Reverse Engineering, the art of understanding what code does.</abstract>
-        <description>This workshop aims to introduce new players to the world of CTFs. In CTFs, players must solve challenges in various domains, mostly, but not exclusively, related to IT-Security. &#13;
+        <abstract>This workshop introduces basic concepts of x64 binary exploitation on Linux.&#13;
 &#13;
-We are seasoned CTF players playing for the German Team ALLES!. &#13;
+The workshop consists of a collection of increasingly difficult pwn challenges and is accompanied by a presentation and set of slides that first introduce basic concepts and then apply them to those challenges.</abstract>
+        <description>This workshop aims to introduce beginners to basic 20th century exploitation techniques.&#13;
 &#13;
-To get started with playing CTF, you have to learn a ton of new stuff, which can be pretty overwhelming, especially if you aren't used to it. Since ALLES! is not a typical CTF team affiliated with a university, most of our members hadn't been taught those concepts top-down. Instead, we started by just playing. This is harder than it should be, right? That's what we're thinking as well. We joined NFITS e.V. (a nonprofit organization aiming to bring new people into CTFs)&#13;
-    &#13;
-As part of NFITS e.V. we are trying to bridge this gap. During this workshop, we will try to do the same thing. We want to teach you about CTFs using Reverse Engineering as an example.&#13;
+Participants will exploit their first buffer overflow, their first oracle attack and their first ROP chain.&#13;
+All challenges are designed for self learning and come with optional hints.&#13;
 &#13;
-Reverse Engineering is the art of looking at a program to understand what a program does. We do this to reimplement or even find flaws in the program. There are multiple tools that can assist you with this. We will bring various challenges with different difficulties so you can start from zero.&#13;
-&#13;
-You need to bring some kind of notebook running Linux, some programming experience, and the willingness to learn a new skill.</description>
+Throughout the workshop, at certain intervals, challenges will be solved together by explaining the solutions on stage, so that everybody can follow along and get help if needed.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
-          <person id="3367">Nils Ole Timm</person>
           <person id="3355">Felipe (localo)</person>
           <person id="3354">Daniel (D_K)</person>
+          <person id="3367">Nils Ole Timm</person>
         </persons>
         <links/>
         <attachments/>
@@ -7963,7 +7984,33 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <attachments/>
       </event>
     </room>
-    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
+    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+      <event id="55201" guid="843be1cd-c1d1-53de-a519-fdf227558c58">
+        <logo>/media/hip-berlin-2022/submissions/XTKQMU/mascot_2ipPKK1.png</logo>
+        <date>2022-12-29T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>01:30</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-55201-introduction_to_the_hare_programming_language</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/XTKQMU/</url>
+        <title>Introduction to the Hare programming language</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Hare is a new systems programming language for writing free software. This talk will introduce the language and share some of its essential ideas.</abstract>
+        <description>Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3936">Drew DeVault</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49163" guid="4aff93bc-0d9e-5334-b77a-4d3d33884482">
         <logo>/media/hip-berlin-2022/submissions/MVZST3/LEDstripsEverywhereForEveryone_ZHD1sqS.jpg</logo>

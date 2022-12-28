@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 16:00</version>
+  <version>2022-12-28 16:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -412,8 +412,8 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
       </event>
       <event id="7352" guid="7c35256e-594b-5a88-9424-a93ccdcdfe11">
         <logo/>
-        <date>2022-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2022-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
         <duration>00:30</duration>
         <room>Sparti</room>
         <slug>jev22-7352-how_to_find_the_norwegian_prime_minister_in_an_anonymized_contact_tracing_dataset</slug>
@@ -1615,7 +1615,7 @@ join us!</description>
         <logo/>
         <date>2022-12-28T22:30:00+01:00</date>
         <start>22:30</start>
-        <duration>01:00</duration>
+        <duration>02:30</duration>
         <room>Sparti</room>
         <slug>jev22-5374-cursedin</slug>
         <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
@@ -2449,6 +2449,31 @@ Let me show you, what weird things did people build with it and lets unlock more
         </recording>
         <persons>
           <person id="3369">Victoria Brekenfeld</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55223" guid="f48b470d-eb9f-5627-bac1-7a5d1c276552">
+        <logo/>
+        <date>2022-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>00:50</duration>
+        <room>HIP1</room>
+        <slug>jev22-55223-zapps_and_warping_and_forging</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MDNR83/</url>
+        <title>Zapps and Warping and Forging</title>
+        <subtitle> -- building towards portable, composable un-distros</subtitle>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Zapps are a portable packaging format for linux executables that works on every distro, ever -- and indeed, even on FreeBSD. Warpforge is a build sandboxing and package releasing tool based on hashes-go-in-hashes-come-out, hyperfocused on reproducibility and explainability.  Both are part of a quest to build a more freely-composable story for how we work with our computers and share our software.</abstract>
+        <description>nil</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3937">Eric Myhre</person>
         </persons>
         <links/>
         <attachments/>
