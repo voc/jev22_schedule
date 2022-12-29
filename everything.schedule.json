@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 16:00; FireShonks 0.42; Hacking in Parallel 0.17; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 16:00; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 16:30; FireShonks 0.42; Hacking in Parallel 0.17; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 16:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -9172,9 +9172,9 @@
                 "start": "17:30",
                 "duration": "02:30",
                 "room": "Spezial Raum",
-                "slug": "jev22-2838-selbst_ist_das_merch",
+                "slug": "jev22-2838-in_der_werkstatt_im_hackcenter_selbst_ist_das_merch",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/KS7NPN/",
-                "title": "Selbst ist das Merch!",
+                "title": "[In der Werkstatt im Hackcenter] Selbst ist das Merch!",
                 "subtitle": "",
                 "track": "Erlangen",
                 "type": "Workshop",
