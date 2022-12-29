@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 23:10</version>
+  <version>2022-12-29 23:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5068,9 +5068,9 @@ Finally, I'll give a broad overview of the possible solutions currently being di
         <start>17:30</start>
         <duration>00:30</duration>
         <room>HIP1</room>
-        <slug>jev22-49267-placeholder_review_closing</slug>
+        <slug>jev22-49267-hip_review_closing</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/9FESXJ/</url>
-        <title>placeholder, Review &amp; Closing</title>
+        <title>HiP Review &amp; Closing</title>
         <subtitle/>
         <track>E.T.I.</track>
         <type>Talk</type>
