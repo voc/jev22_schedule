@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 12:13; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 12:13; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 13:00; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:00; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11038,9 +11038,9 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Propaganda, Fake News und Desinformation erkennen lernen, anhand von Quellen aus der j\u00fcngeren und ferneren Vergangenheit. A trip down the historical memory lane.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
-                "description": "Vergangenes Jahr ging es um grundlegende Medienkompetenz, die den Zuschauer*innen helfen sollte, Informationen ein bisschen leichter zu bewerten. \r\n\r\nDieses Jahr m\u00f6chte ich meinen Rat aus dem letzten Jahr ins Praktische umsetzen: Propaganda, Fake News und Desinformation funktioniert sehr h\u00e4ufig entlang sich wiederholender Muster. \r\nIm Laufe des Talks lernt ihr, wie Propaganda, Fake News und Desinformation anhand dieser Muster erkannt werden k\u00f6nnen.\r\n\r\nDabei m\u00f6chte ich ganz praktisch mit einer Auswahl Quellen aus mehreren Jahrhunderten, beim \u00dcben helfen. \r\n\r\nDer Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-bewerten-im-haecksen-stream-rc3/",
+                "description": "Vergangenes Jahr ging es um grundlegende Medienkompetenz, die den Zuschauer*innen helfen sollte, Informationen ein bisschen leichter zu bewerten. \r\n\r\nDieses Jahr m\u00f6chte ich meinen Rat aus dem letzten Jahr ins Praktische umsetzen: Propaganda, Fake News und Desinformation funktioniert sehr h\u00e4ufig entlang sich wiederholender Muster. \r\nIm Laufe des Talks lernt ihr, wie Propaganda, Fake News und Desinformation anhand dieser Muster erkannt werden k\u00f6nnen.\r\n\r\nDabei m\u00f6chte ich ganz praktisch mit einer Auswahl Quellen aus mehreren Jahrhunderten, beim \u00dcben helfen. \r\n\r\nDer Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-bewerten-im-haecksen-stream-rc3/\r\n\r\nQuellen in hoher Qualit\u00e4t zum vorher runterladen: https://t1p.de/IBQuellen",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 430,

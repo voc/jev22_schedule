@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 12:13</version>
+  <version>2022-12-29 13:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4844,10 +4844,12 @@ Im Laufe des Talks lernt ihr, wie Propaganda, Fake News und Desinformation anhan
 &#13;
 Dabei möchte ich ganz praktisch mit einer Auswahl Quellen aus mehreren Jahrhunderten, beim Üben helfen. &#13;
 &#13;
-Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-bewerten-im-haecksen-stream-rc3/</description>
+Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-bewerten-im-haecksen-stream-rc3/&#13;
+&#13;
+Quellen in hoher Qualität zum vorher runterladen: https://t1p.de/IBQuellen</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="430">Mela Eckenfels</person>
