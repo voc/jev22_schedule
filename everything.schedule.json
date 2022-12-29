@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 13:10; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 13:30; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -7518,7 +7518,7 @@
                 "track": "Haecksen",
                 "type": "Workshop",
                 "language": "de",
-                "abstract": "Helft Hetti die Box Challenge zu meistern.\r\n\r\nLink zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
+                "abstract": "Helft Hetti die Box Challenge zu meistern.\r\n\r\n#### Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)",
                 "description": "Eine nicht aufgezeichnete Session in der wir gemeinsam eine interaktive HackTheBox (HTB) oder TryHackMe (THM) Challenge l\u00f6sen. Das Ziel ist es gemeinsam eine gute Zeit zu verbringen, es ist quasi eine gemeinsame B\u0335a\u0335c\u0335k\u0335s\u0335e\u0335a\u0335t\u0335  Hacking Session. Nat\u00fcrlich k\u00f6nnt ihr nebenbei selber mitmachen, falls Ihr Lust habt. Ich werde ein aktuelles Kali Linux verwenden. Download: https://www.kali.org/get-kali/\r\n\r\n**Ablauf der Session:**  \r\nEs wird von mir im Vorhinein eine nicht genannte Challenge Box, voraussichtlich von THM oder HTB, ausgew\u00e4hlt, welche ich selber auch noch nicht gemacht/gel\u00f6st habe. Diese ist vom Schwierigkeitslevel f\u00fcr Anf\u00e4nger*innen geeignet und sollte eine Web Challenge sein welche potentiell mit einem Linuxteil abschlie\u00dft.\r\nBis auf die Challenge Box Vorauswahl und das Einrichten der Virtuellen Maschine (VM) basierend auf Kali Linux gibt es von meiner Seite keinerlei Vorbereitungen.\r\n\r\nW\u00e4hrend des Workshops versuchen wir gemeinsam die Schwachstellen zu finden und auszunutzen. Die Idee w\u00e4re, dass das Publikum mir via Chat Ideen liefert, wie wir die Box angreifen k\u00f6nnen. Ich w\u00fcrde passende als auch unpassende Ideen dann live vorf\u00fchren. Dabei werde ich euch \u00fcbliche Tools und Methoden zeigen, mit denen ich an solche Probleme herangehe.\r\n\r\nAm Ende des Workshops gibt es die M\u00f6glichkeit f\u00fcr eine Q+A Session, falls von euch gew\u00fcnscht, oder wir hacken einfach mal 1-2 Stunden durch. Das h\u00e4ngt von euch ab!\r\n\r\nVielleicht schaffen wir ja gemeinsam die Box zu erfolgreich zu pwnen!",
                 "recording_license": "",
                 "do_not_record": true,
@@ -8447,7 +8447,7 @@
                 "abstract": "The aim of this talk is to explore public usage of social media and reactions to different hostilities in 2022 utilizing topic modeling and social network analysis.",
                 "description": "2022 brought conflicts worldwide. The ongoing war in Ukraine, the Tigray war, the ongoing Yemeni civil war, the recent unrest and protests in Iran are just a few of them. These conflicts are different in their nature, but they are also marked by one common denominator - the employment of social media.\r\n\r\nIn this talk we will use topic modeling and social network analysis to explore public usage of social media and reactions to different hostilities. The first approach is a machine learning technique and is used to cluster, discover latent topics, and thus better understand text data. The second one is a toolset to extract nodes and edges from the specific data, in order to analyze and visualize a social network to highlight relationships.\r\n\r\nSocial media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.\r\n\r\nThis talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 16,

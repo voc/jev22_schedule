@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 13:10; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 13:30; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -6491,7 +6491,7 @@ https://www.fiberspace.de/2013/07/bauanleitung-fur-eine-handspindel-kopfspindelh
         <language>de</language>
         <abstract>Helft Hetti die Box Challenge zu meistern.&#13;
 &#13;
-Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
+#### Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp)</abstract>
         <description>Eine nicht aufgezeichnete Session in der wir gemeinsam eine interaktive HackTheBox (HTB) oder TryHackMe (THM) Challenge lösen. Das Ziel ist es gemeinsam eine gute Zeit zu verbringen, es ist quasi eine gemeinsame B̵a̵c̵k̵s̵e̵a̵t̵  Hacking Session. Natürlich könnt ihr nebenbei selber mitmachen, falls Ihr Lust habt. Ich werde ein aktuelles Kali Linux verwenden. Download: https://www.kali.org/get-kali/&#13;
 &#13;
 **Ablauf der Session:**  &#13;
@@ -7411,7 +7411,7 @@ Social media reactions are captured in tweets about the war in Ukraine, the Tigr
 This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="16">bi3n3</person>

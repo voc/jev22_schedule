@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 13:10</version>
+  <version>2022-12-29 13:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3851,7 +3851,7 @@ Social media reactions are captured in tweets about the war in Ukraine, the Tigr
 This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="16">bi3n3</person>
