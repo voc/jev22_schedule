@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 13:00",
+    "version": "2022-12-29 13:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3853,7 +3853,7 @@
                 "type": "Talk",
                 "language": "en",
                 "abstract": "DNS over CoAP is a new Internet protocol that enables constrained IoT devices similar name resolution security as DNS over HTTPS. This talks presents the protocol and discusses its benefits over other DNS solutions.",
-                "description": "I present the design, implementation, and analysis of DNS over CoAP (DoC), a new proposal for secure and privacy-friendly name resolution of constrained IoT devices. This protocol is currently discussed within the Internet Engineering Task Force (IETF), a standardization body for Internet protocols: https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/. We implemented different design choices of DoC in RIOT, an open-source operating system for the IoT, evaluate performance measures in a testbed, compare with DNS over UDP and DNS over DTLS, and validate our protocol design based on empirical DNS IoT data. Our findings indicate that plain DoC is on par with common DNS solutions for the\r\nconstrained IoT but significantly outperforms when additional, CoAP standard features are used such as block-wise transfer or caching.",
+                "description": "I present the design, implementation, and analysis of DNS over CoAP (DoC), a new proposal for secure and privacy-friendly name resolution of constrained IoT devices. This protocol is currently discussed within the Internet Engineering Task Force (IETF), a standardization body for Internet protocols: https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/. We implemented different design choices of DoC in RIOT, an open-source operating system for the IoT, evaluate performance measures in a testbed, compare with DNS over UDP and DNS over DTLS, and validate our protocol design based on empirical DNS IoT data. Our findings indicate that plain DoC is on par with common DNS solutions for the\r\nconstrained IoT but significantly outperforms when additional, CoAP standard features are used such as block-wise transfer or caching.\r\n\r\nYou can find my slides here: https://blog.martine-lenders.eu/static/slides-hip22-doc.pdf",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 13:00</version>
+  <version>2022-12-29 13:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3207,7 +3207,9 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <language>en</language>
         <abstract>DNS over CoAP is a new Internet protocol that enables constrained IoT devices similar name resolution security as DNS over HTTPS. This talks presents the protocol and discusses its benefits over other DNS solutions.</abstract>
         <description>I present the design, implementation, and analysis of DNS over CoAP (DoC), a new proposal for secure and privacy-friendly name resolution of constrained IoT devices. This protocol is currently discussed within the Internet Engineering Task Force (IETF), a standardization body for Internet protocols: https://datatracker.ietf.org/doc/draft-ietf-core-dns-over-coap/. We implemented different design choices of DoC in RIOT, an open-source operating system for the IoT, evaluate performance measures in a testbed, compare with DNS over UDP and DNS over DTLS, and validate our protocol design based on empirical DNS IoT data. Our findings indicate that plain DoC is on par with common DNS solutions for the&#13;
-constrained IoT but significantly outperforms when additional, CoAP standard features are used such as block-wise transfer or caching.</description>
+constrained IoT but significantly outperforms when additional, CoAP standard features are used such as block-wise transfer or caching.&#13;
+&#13;
+You can find my slides here: https://blog.martine-lenders.eu/static/slides-hip22-doc.pdf</description>
         <recording>
           <license/>
           <optout>false</optout>
