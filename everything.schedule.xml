@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 21:20; FireShonks 0.44; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 21:20; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 22:10; FireShonks 0.44; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.9; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 22:10; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7963,31 +7963,6 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <links/>
         <attachments/>
       </event>
-      <event id="49237" guid="cd2ee48f-a433-5abc-b9ec-9b4cffef03b8">
-        <logo/>
-        <date>2022-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49237-mafifa</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/D8HT7V/</url>
-        <title>mafifa</title>
-        <subtitle>WM 2030</subtitle>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>mafifa - WM 2030 (2: Gruppenphase)</abstract>
-        <description>Die Gruppenphase. Vier Gruppen, vier Mannschaften. Am Ende kommen die ersten Beiden weiter. Garantiert korruptionsfrei; Hust. Mate zählt nicht als Währung.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3253">CodeFreezR</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
     </room>
     <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
     <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
@@ -10559,31 +10534,6 @@ Ein paar Grundlagen und ein paar schöne Handgriffe zum mitnehmen quasi !</descr
     </room>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49238" guid="af560f6b-6dcb-5655-bea5-fb60c5081df4">
-        <logo/>
-        <date>2022-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49238-mafifa</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/HTDQN3/</url>
-        <title>mafifa</title>
-        <subtitle>WM 2030</subtitle>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>mafifa - WM 2030 (3: Achtel|Viertel|Halb). Nach der Gruppenphase ist vor den KO-Spielen. Wer kommt in's Endspiel? Mate Verbotsdebatte vom FIFA-Kommitee sorgt für Unruhe.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3253">CodeFreezR</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49232" guid="d4c1c6c4-9f83-5ec8-80a1-5dd9011f4c12">
         <logo/>
         <date>2022-12-30T15:00:00+01:00</date>
@@ -10632,31 +10582,6 @@ You can also spectate the event on PeerTube.</description>
         </recording>
         <persons>
           <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49239" guid="b6a71b99-cf8a-52fb-942e-4af70c8e8ca0">
-        <logo/>
-        <date>2022-12-30T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49239-mafifa</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KFXRYS/</url>
-        <title>mafifa</title>
-        <subtitle>WM 2030</subtitle>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>mafifa - WM 2030 (4: Finale). And the Winner is ... So geht WM-Vergabe ohne Hinterkämmerchen Geschacherei und sehr, sehr niederschwelliger Mate-Korruption.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3253">CodeFreezR</person>
         </persons>
         <links/>
         <attachments/>
