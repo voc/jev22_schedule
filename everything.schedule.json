@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 17:20; FireShonks 0.42; Hacking in Parallel 0.20; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:20; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 17:30; FireShonks 0.42; Hacking in Parallel 0.21; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8021,9 +8021,9 @@
                 "id": 54983,
                 "guid": "31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc",
                 "logo": "",
-                "date": "2022-12-29T19:45:00+01:00",
-                "start": "19:45",
-                "duration": "04:15",
+                "date": "2022-12-29T20:15:00+01:00",
+                "start": "20:15",
+                "duration": "03:45",
                 "room": "HIP - Track 2 - Room 2",
                 "slug": "jev22-54983-lightning_talks_day_3",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/",

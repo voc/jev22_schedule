@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 17:20</version>
+  <version>2022-12-29 17:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3639,9 +3639,9 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
       </event>
       <event id="54983" guid="31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc">
         <logo/>
-        <date>2022-12-29T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>04:15</duration>
+        <date>2022-12-29T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>03:45</duration>
         <room>HIP2</room>
         <slug>jev22-54983-lightning_talks_day_3</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/</url>

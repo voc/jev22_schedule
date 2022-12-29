@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 17:20; FireShonks 0.42; Hacking in Parallel 0.20; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:20; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 17:30; FireShonks 0.42; Hacking in Parallel 0.21; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7054,9 +7054,9 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
       </event>
       <event id="54983" guid="31c9aba9-32ff-5c9a-a0e9-5d288b2f17dc">
         <logo/>
-        <date>2022-12-29T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>04:15</duration>
+        <date>2022-12-29T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>03:45</duration>
         <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-54983-lightning_talks_day_3</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/</url>
