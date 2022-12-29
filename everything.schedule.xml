@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 15:40; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 15:40; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 16:00; FireShonks 0.42; Hacking in Parallel 0.17; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 16:00; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -3888,6 +3888,59 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
       </event>
     </room>
     <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+      <event id="49259" guid="acb55b2d-694b-5177-bb5e-121f7ccb4ba8">
+        <logo>/media/hip-berlin-2022/submissions/39AJEL/source-jpeg-JrMYWLYMKHKjfRA2g_Dxtb3pI.jpeg</logo>
+        <date>2022-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:17</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/</url>
+        <title>Of someone who went forth to find a flat in Berlin. An automation-drama in three acts — Act 3</title>
+        <subtitle>In ultimate consequence</subtitle>
+        <track>E.T.I.</track>
+        <type>Music/Performance/Art/Other Cool stuff</type>
+        <language>de</language>
+        <abstract>Fully automated puppet theater, 17 minutes (starts on demand)&#13;
+Clemens Schöll, 2020&#13;
+&#13;
+In the "little automation theater" the story is told of the princess (who wants to move to Berlin after her art studies), Kasperle and the Wohnungsbot (apartment bot - who must realize that there are no technical solutions to social problems). The stage adaptation of the software success!</abstract>
+        <description>The princess realizes that she must move to Berlin when she sees a banner reading "An artist who does not live in Berlin is no artist" at an exhibition in Leipzig. &#13;
+Luckily she meets Kasperle while looking for an apartment, who introduces her to the Wohnungsbot at its launching exhibition. The Wohnungsbot is a free, open source bot (software) that offers a fully automated flat application process in Berlin [Download and more info at wohnungsbot.de] and was launched in Act II “The bot’s promise”. &#13;
+But although the Wohnungsbot has already freed countless people from the symptoms of rent madness, this mission plunges the Wohnungsbot into an existential crisis: A lessor-bot was created which rejects all applications of the princess because her net income is too little. &#13;
+In the final monologue, the Wohnungsbot (transformed into a physical figure) recognizes its failure and reflects on the impossibility of technological solutions to social problems.&#13;
+&#13;
+The software Wohnungsbot was published as an apparent "technical fix". It promised the visitors to be able to escape the rent insanity in a growing Berlin. But afterall the promise of the bot will burst. For now, the Wohnungsbot functions, but the third act "In ultimate consequence" anticipates what must come to happen: the lessors or the housing platforms will react with counter-automations and thus lead to an ever further accelerated and mechanized housing search automation spiral. This will hardly end in favor of the tenants.&#13;
+The "small automation theater" uses its own medium of automated puppet theatre to debate, already today, how we want automation to shape our lives in the future and how we want apartments in our cities to be allocated.&#13;
+&#13;
+with&#13;
+Kasperle&#13;
+Prinzessin&#13;
+Krokodil&#13;
+Wohnungsbot&#13;
+&#13;
+spoken by&#13;
+Monika Freinberger (Kasperle, Prinzessin, Krokodil)&#13;
+Marlene [AWS Polly] (Wohnungsbot)&#13;
+&#13;
+Copy editing&#13;
+Christopher Heyder&#13;
+&#13;
+Production&#13;
+Ortrun Bargholz &#13;
+&#13;
+Premiere&#13;
+2020-01-17, ZAK Spandau, Berlin</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3371">Clemens Schöll</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49258" guid="538ea79f-4ccd-5014-ab75-fc04b3fb5a25">
         <logo/>
         <date>2022-12-28T14:30:00+01:00</date>
@@ -10009,61 +10062,7 @@ I also hope that this discussion will inspire collaborations for future work inv
         <attachments/>
       </event>
     </room>
-    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
-      <event id="49259" guid="acb55b2d-694b-5177-bb5e-121f7ccb4ba8">
-        <logo>/media/hip-berlin-2022/submissions/39AJEL/source-jpeg-JrMYWLYMKHKjfRA2g_Dxtb3pI.jpeg</logo>
-        <date>2022-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:17</duration>
-        <room>HDMI (room 3)</room>
-        <slug>jev22-49259-of_someone_who_went_forth_to_find_a_flat_in_berlin_an_automation_drama_in_three_acts_act_3</slug>
-        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/39AJEL/</url>
-        <title>Of someone who went forth to find a flat in Berlin. An automation-drama in three acts — Act 3</title>
-        <subtitle>In ultimate consequence</subtitle>
-        <track>E.T.I.</track>
-        <type>Music/Performance/Art/Other Cool stuff</type>
-        <language>de</language>
-        <abstract>Fully automated puppet theater, 17 minutes (starts on demand)&#13;
-Clemens Schöll, 2020&#13;
-&#13;
-In the "little automation theater" the story is told of the princess (who wants to move to Berlin after her art studies), Kasperle and the Wohnungsbot (apartment bot - who must realize that there are no technical solutions to social problems). The stage adaptation of the software success!</abstract>
-        <description>The princess realizes that she must move to Berlin when she sees a banner reading "An artist who does not live in Berlin is no artist" at an exhibition in Leipzig. &#13;
-Luckily she meets Kasperle while looking for an apartment, who introduces her to the Wohnungsbot at its launching exhibition. The Wohnungsbot is a free, open source bot (software) that offers a fully automated flat application process in Berlin [Download and more info at wohnungsbot.de] and was launched in Act II “The bot’s promise”. &#13;
-But although the Wohnungsbot has already freed countless people from the symptoms of rent madness, this mission plunges the Wohnungsbot into an existential crisis: A lessor-bot was created which rejects all applications of the princess because her net income is too little. &#13;
-In the final monologue, the Wohnungsbot (transformed into a physical figure) recognizes its failure and reflects on the impossibility of technological solutions to social problems.&#13;
-&#13;
-The software Wohnungsbot was published as an apparent "technical fix". It promised the visitors to be able to escape the rent insanity in a growing Berlin. But afterall the promise of the bot will burst. For now, the Wohnungsbot functions, but the third act "In ultimate consequence" anticipates what must come to happen: the lessors or the housing platforms will react with counter-automations and thus lead to an ever further accelerated and mechanized housing search automation spiral. This will hardly end in favor of the tenants.&#13;
-The "small automation theater" uses its own medium of automated puppet theatre to debate, already today, how we want automation to shape our lives in the future and how we want apartments in our cities to be allocated.&#13;
-&#13;
-with&#13;
-Kasperle&#13;
-Prinzessin&#13;
-Krokodil&#13;
-Wohnungsbot&#13;
-&#13;
-spoken by&#13;
-Monika Freinberger (Kasperle, Prinzessin, Krokodil)&#13;
-Marlene [AWS Polly] (Wohnungsbot)&#13;
-&#13;
-Copy editing&#13;
-Christopher Heyder&#13;
-&#13;
-Production&#13;
-Ortrun Bargholz &#13;
-&#13;
-Premiere&#13;
-2020-01-17, ZAK Spandau, Berlin</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="3371">Clemens Schöll</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
     <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
