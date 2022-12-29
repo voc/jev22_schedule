@@ -1,0 +1,33 @@
+{
+  "id": 55086,
+  "guid": "5922ae12-c465-5333-a84a-1e5cc7aeab74",
+  "logo": "",
+  "date": "2022-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "c-base mainhall",
+  "slug": "jev22-55086-abdoccungscecuencen",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/7NUB99/",
+  "title": "abdoccungscecuencen",
+  "subtitle": " - c-lang, die cprache einer raumstation",
+  "track": "c-base",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "ein vortrag \u00fcber raumstationslinguistik.\r\nund warum vieles nicht so ist wie es scheint.",
+  "description": "die c-base ist eine r\u00fcckwa:rts gefallene raumctation unter berlin-miTe.\r\nmit eigener c_rift.\r\nund wenn du diesen tecst lesen kannst oder nicht?\r\nist dieser vortrag genau richtig fu:r dich.\r\noha.\r\nes geht um c-lang, die geschriebene sprache der c-base, ganz nah nebenan.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3929,
+      "code": "Z8JSLJ",
+      "public_name": "nerdbeere",
+      "biography": "c-base member, c-lang-ultra, you can find me at the c-base-bar, probably. \r\n\r\nEnjoying daily hacks, Individual solutions, making the daily life funnier.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+  "origin": "pretalx.c3voc.de"
+}

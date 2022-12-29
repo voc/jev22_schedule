@@ -1,0 +1,33 @@
+{
+  "id": 55445,
+  "guid": "0f6d4a3e-f46d-5302-a34c-10cd8dfeae78",
+  "logo": "",
+  "date": "2022-12-29T16:00:00+01:00",
+  "start": "16:00",
+  "duration": "00:30",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-55445-opencloudtiles",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/AFGUPH/",
+  "title": "OpenCloudTiles",
+  "subtitle": " - Free vector maps for all",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Many websites need interactive maps - be it for directions or interactive data visualisations. Commercial map services are very expensive and problematic from a data privacy perspective, and building your own vector map service often fails due to the very high technical complexity. With OpenCloudTiles, an open stack is being developed that is free of proprietary licences. It was designed from the beginning to be easy to use for beginners as well as flexible for experts. Michael Kreil presents the progress made, the next steps and the problems that still need to be solved.",
+  "description": "placeholder",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3958,
+      "code": "XPVSW9",
+      "public_name": "Michael Kreil",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

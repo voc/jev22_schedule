@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 23:30</version>
+  <version>2022-12-29 01:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5687,6 +5687,33 @@ Finally, I'll give a broad overview of the possible solutions currently being di
       </event>
     </room>
     <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+      <event id="55536" guid="e0ea1305-05d8-503f-9a79-3c1638ab5f02">
+        <logo/>
+        <date>2022-12-30T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>HIP2</room>
+        <slug>jev22-55536-weaving_old_and_new_technology</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/SVJY9M/</url>
+        <title>Weaving, Old and New Technology</title>
+        <subtitle>: from Design Concept to Diva Fashion</subtitle>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Have you ever wondered how fabric is actually woven? In this discussion i will take you along for the journey from initial concept to final wearable product of a high-fashion modern-designed wool scarf. Topics from the chemistry science of fiber and dyeing to the utilization of computer-assisted pattern design will be covered.</abstract>
+        <description>This will be a presentation documenting the process of creating a high-end designer scarf with mathematical patterns, from concept design to final product. The journey will take us from pencil, paper, and computer design, to spreadsheet assisted dyeing of yarns, to the preparation the loom, to the weaving process itself, and the final finishing touches to arrive at the beautiful finished product. Hopefully it will familiarize the uninitiated with the processes involved in creating a real world woven object.&#13;
+&#13;
+I also hope that this discussion will inspire collaborations for future work involving computerized looms, computer-assisted weaving designs, new tech-enhanced fibers, and anything else that could extend the possibilities of weaving. Maybe next conference we will have a working computerized loom!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3387">chris lombardi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49222" guid="bc17cad7-3c6b-5cea-9735-b79ec525a15a">
         <logo>/media/hip-berlin-2022/submissions/FRLYBH/Bildschirmfoto_2022-11-27_um_20.08.02_So1CDnt.png</logo>
         <date>2022-12-30T14:00:00+01:00</date>

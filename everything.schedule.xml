@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-28 23:30; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-28 23:30; Winterchaos 0.4; Hacking in Parallel 0.15; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 01:10; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 01:10; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -8092,6 +8092,31 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <links/>
         <attachments/>
       </event>
+      <event id="55445" guid="0f6d4a3e-f46d-5302-a34c-10cd8dfeae78">
+        <logo/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-55445-opencloudtiles</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/AFGUPH/</url>
+        <title>OpenCloudTiles</title>
+        <subtitle> - Free vector maps for all</subtitle>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Many websites need interactive maps - be it for directions or interactive data visualisations. Commercial map services are very expensive and problematic from a data privacy perspective, and building your own vector map service often fails due to the very high technical complexity. With OpenCloudTiles, an open stack is being developed that is free of proprietary licences. It was designed from the beginning to be easy to use for beginners as well as flexible for experts. Michael Kreil presents the progress made, the next steps and the problems that still need to be solved.</abstract>
+        <description>placeholder</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3958">Michael Kreil</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49163" guid="4aff93bc-0d9e-5334-b77a-4d3d33884482">
@@ -8177,6 +8202,37 @@ In this talk I first give some fundamentals of smartphone forensics, zero day ma
         </recording>
         <persons>
           <person id="40">Viktor</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55086" guid="5922ae12-c465-5333-a84a-1e5cc7aeab74">
+        <logo/>
+        <date>2022-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>01:00</duration>
+        <room>c-base mainhall</room>
+        <slug>jev22-55086-abdoccungscecuencen</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/7NUB99/</url>
+        <title>abdoccungscecuencen</title>
+        <subtitle> - c-lang, die cprache einer raumstation</subtitle>
+        <track>c-base</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>ein vortrag über raumstationslinguistik.&#13;
+und warum vieles nicht so ist wie es scheint.</abstract>
+        <description>die c-base ist eine rückwa:rts gefallene raumctation unter berlin-miTe.&#13;
+mit eigener c_rift.&#13;
+und wenn du diesen tecst lesen kannst oder nicht?&#13;
+ist dieser vortrag genau richtig fu:r dich.&#13;
+oha.&#13;
+es geht um c-lang, die geschriebene sprache der c-base, ganz nah nebenan.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3929">nerdbeere</person>
         </persons>
         <links/>
         <attachments/>
@@ -10655,6 +10711,33 @@ Finally, I'll give a broad overview of the possible solutions currently being di
       </event>
     </room>
     <room name="HIP - Track 2 - Room 2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+      <event id="55536" guid="e0ea1305-05d8-503f-9a79-3c1638ab5f02">
+        <logo/>
+        <date>2022-12-30T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>HIP - Track 2 - Room 2</room>
+        <slug>jev22-55536-weaving_old_and_new_technology</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/SVJY9M/</url>
+        <title>Weaving, Old and New Technology</title>
+        <subtitle>: from Design Concept to Diva Fashion</subtitle>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Have you ever wondered how fabric is actually woven? In this discussion i will take you along for the journey from initial concept to final wearable product of a high-fashion modern-designed wool scarf. Topics from the chemistry science of fiber and dyeing to the utilization of computer-assisted pattern design will be covered.</abstract>
+        <description>This will be a presentation documenting the process of creating a high-end designer scarf with mathematical patterns, from concept design to final product. The journey will take us from pencil, paper, and computer design, to spreadsheet assisted dyeing of yarns, to the preparation the loom, to the weaving process itself, and the final finishing touches to arrive at the beautiful finished product. Hopefully it will familiarize the uninitiated with the processes involved in creating a real world woven object.&#13;
+&#13;
+I also hope that this discussion will inspire collaborations for future work involving computerized looms, computer-assisted weaving designs, new tech-enhanced fibers, and anything else that could extend the possibilities of weaving. Maybe next conference we will have a working computerized loom!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3387">chris lombardi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49222" guid="bc17cad7-3c6b-5cea-9735-b79ec525a15a">
         <logo>/media/hip-berlin-2022/submissions/FRLYBH/Bildschirmfoto_2022-11-27_um_20.08.02_So1CDnt.png</logo>
         <date>2022-12-30T14:00:00+01:00</date>

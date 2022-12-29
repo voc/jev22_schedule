@@ -1,0 +1,33 @@
+{
+  "id": 55536,
+  "guid": "e0ea1305-05d8-503f-9a79-3c1638ab5f02",
+  "logo": "",
+  "date": "2022-12-30T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:00",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-55536-weaving_old_and_new_technology",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SVJY9M/",
+  "title": "Weaving, Old and New Technology",
+  "subtitle": ": from Design Concept to Diva Fashion",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Have you ever wondered how fabric is actually woven? In this discussion i will take you along for the journey from initial concept to final wearable product of a high-fashion modern-designed wool scarf. Topics from the chemistry science of fiber and dyeing to the utilization of computer-assisted pattern design will be covered.",
+  "description": "This will be a presentation documenting the process of creating a high-end designer scarf with mathematical patterns, from concept design to final product. The journey will take us from pencil, paper, and computer design, to spreadsheet assisted dyeing of yarns, to the preparation the loom, to the weaving process itself, and the final finishing touches to arrive at the beautiful finished product. Hopefully it will familiarize the uninitiated with the processes involved in creating a real world woven object.\r\n\r\nI also hope that this discussion will inspire collaborations for future work involving computerized looms, computer-assisted weaving designs, new tech-enhanced fibers, and anything else that could extend the possibilities of weaving. Maybe next conference we will have a working computerized loom!",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3387,
+      "code": "XAFCM7",
+      "public_name": "chris lombardi",
+      "biography": "Chris Lombardi is a veteran software engineer, specializing in interface deign, who has recently started a new career in Chemistry. Along the way, weaving has entered his life and is the perfect combination of IT, color, design and science.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}
