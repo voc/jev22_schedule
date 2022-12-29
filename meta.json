@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-29 12:10; FireShonks 0.42; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 12:10; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 12:13; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 12:13; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -18,6 +18,60 @@
         "capacity": null,
         "location": "Remote & W\u00fclfrath",
         "schedule_name": "Fireshonks-Workshop",
+        "stream": null
+      },
+      {
+        "name": "HIP - Track 1 - Room 5",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
+        "description": "Main conference stage in the Theater Hall E.T.I.",
+        "capacity": 110,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "HIP - Track 1 - Room 5",
+        "stream": "cbase1"
+      },
+      {
+        "name": "HIP - Track 2 - Room 2",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+        "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
+        "capacity": 70,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "HIP - Track 2 - Room 2",
+        "stream": "cbase2"
+      },
+      {
+        "name": "HDMI (room 3)",
+        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+        "description": "Workshop Area (upstairs)",
+        "capacity": 12,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "HDMI (room 3)",
+        "stream": null
+      },
+      {
+        "name": "Soldering Workshop Room",
+        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
+        "description": "Room 7 (upstairs)",
+        "capacity": 12,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "Soldering Workshop Room",
+        "stream": null
+      },
+      {
+        "name": "c-base mainhall",
+        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
+        "description": null,
+        "capacity": 100,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "c-base mainhall",
+        "stream": null
+      },
+      {
+        "name": "Merch Desk",
+        "guid": null,
+        "description": "You can find the preordered merch here",
+        "capacity": null,
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "schedule_name": "Merch Desk",
         "stream": null
       },
       {
@@ -179,60 +233,6 @@
         "location": "Luzern, CH",
         "schedule_name": "Winterchaos",
         "stream": "winterchaos"
-      },
-      {
-        "name": "HIP - Track 1 - Room 5",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0da",
-        "description": "Main conference stage in the Theater Hall E.T.I.",
-        "capacity": 110,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HIP - Track 1 - Room 5",
-        "stream": "cbase1"
-      },
-      {
-        "name": "HIP - Track 2 - Room 2",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
-        "description": "2nd Main conference stage 2 in Room 2 (downstairs)",
-        "capacity": 70,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HIP - Track 2 - Room 2",
-        "stream": "cbase2"
-      },
-      {
-        "name": "HDMI (room 3)",
-        "guid": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
-        "description": "Workshop Area (upstairs)",
-        "capacity": 12,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "HDMI (room 3)",
-        "stream": null
-      },
-      {
-        "name": "Soldering Workshop Room",
-        "guid": "14cd9ea8-652f-4225-b67b-5e25226a2f9f",
-        "description": "Room 7 (upstairs)",
-        "capacity": 12,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Soldering Workshop Room",
-        "stream": null
-      },
-      {
-        "name": "c-base mainhall",
-        "guid": "a24f561b-6f4a-4ee3-87fb-d22fff05f0db",
-        "description": null,
-        "capacity": 100,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "c-base mainhall",
-        "stream": null
-      },
-      {
-        "name": "Merch Desk",
-        "guid": null,
-        "description": "You can find the preordered merch here",
-        "capacity": null,
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "schedule_name": "Merch Desk",
-        "stream": null
       },
       {
         "name": "Vortragsraum 1 - Ahlam - H2-1.6",
@@ -439,6 +439,32 @@
             "schedule": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/",
             "login": "https://pretalx.c3voc.de/fire-shonks-2022/login/",
             "feed": "https://pretalx.c3voc.de/fire-shonks-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://pretalx.c3voc.de/hip-berlin-2022",
+        "name": "Hacking in Parallel",
+        "location": "Berlin, ETI Schauspielschule + c-base",
+        "links": [
+          "https://wiki.hip-berlin.de/"
+        ],
+        "meta": {
+          "name": {
+            "de": "///Hacking in Parallel \u2013 Berlin///",
+            "en": "///Hacking in Parallel \u2013 Berlin///"
+          },
+          "slug": "hip-berlin-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/hip-berlin-2022/",
+            "schedule": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/hip-berlin-2022/login/",
+            "feed": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/feed.xml"
           }
         },
         "rooms": null
@@ -714,32 +740,6 @@
           "https://laborluxeria.github.io/winterchaos2022/schedule/",
           "https://laborluxeria.github.io/winterchaos2022/feed.xml"
         ]
-      },
-      {
-        "url": "https://pretalx.c3voc.de/hip-berlin-2022",
-        "name": "Hacking in Parallel",
-        "location": "Berlin, ETI Schauspielschule + c-base",
-        "links": [
-          "https://wiki.hip-berlin.de/"
-        ],
-        "meta": {
-          "name": {
-            "de": "///Hacking in Parallel \u2013 Berlin///",
-            "en": "///Hacking in Parallel \u2013 Berlin///"
-          },
-          "slug": "hip-berlin-2022",
-          "is_public": true,
-          "date_from": "2022-12-27",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://pretalx.c3voc.de/hip-berlin-2022/",
-            "schedule": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/",
-            "login": "https://pretalx.c3voc.de/hip-berlin-2022/login/",
-            "feed": "https://pretalx.c3voc.de/hip-berlin-2022/schedule/feed.xml"
-          }
-        },
-        "rooms": null
       },
       {
         "url": "https://forum.freiraeumen.jetzt/freiraumforum",
@@ -1079,6 +1079,12 @@
             "url": "/orga/event/jev-2022/schedule/rooms/3/"
           }
         ]
+      },
+      {
+        "url": "https://import.c3voc.de/schedule/warpzone.json?showall=yes",
+        "name": "KampHack: Wongress",
+        "location": "M\u00fcnster",
+        "links": []
       },
       {
         "url": "TBD",
