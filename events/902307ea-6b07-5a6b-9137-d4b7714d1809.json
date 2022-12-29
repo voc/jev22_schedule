@@ -1,0 +1,33 @@
+{
+  "id": 55784,
+  "guid": "902307ea-6b07-5a6b-9137-d4b7714d1809",
+  "logo": "",
+  "date": "2022-12-29T18:30:00+01:00",
+  "start": "18:30",
+  "duration": "01:00",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-55784-understanding_attacks_on_ai",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SP7XTF/",
+  "title": "Understanding Attacks On AI",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.",
+  "description": "The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3963,
+      "code": "DVUVE3",
+      "public_name": "David (0xdhf)",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

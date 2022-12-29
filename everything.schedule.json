@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 16:50; FireShonks 0.42; Hacking in Parallel 0.17; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 16:50; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 17:10; FireShonks 0.42; Hacking in Parallel 0.19; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8109,6 +8109,60 @@
                     "answers": []
                   }
                 ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 55784,
+                "guid": "902307ea-6b07-5a6b-9137-d4b7714d1809",
+                "logo": "",
+                "date": "2022-12-29T18:30:00+01:00",
+                "start": "18:30",
+                "duration": "01:00",
+                "room": "HDMI (room 3)",
+                "slug": "jev22-55784-understanding_attacks_on_ai",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/SP7XTF/",
+                "title": "Understanding Attacks On AI",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.",
+                "description": "The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3963,
+                    "code": "DVUVE3",
+                    "public_name": "David (0xdhf)",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 55785,
+                "guid": "a2f5c89a-e0ad-58d2-a2b3-3fe26fdb8f8e",
+                "logo": "",
+                "date": "2022-12-29T19:30:00+01:00",
+                "start": "19:30",
+                "duration": "01:00",
+                "room": "HDMI (room 3)",
+                "slug": "jev22-55785-impostor_syndrome",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/MRWKCB/",
+                "title": "Impostor Syndrome",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "70% of all people experience \"impostor syndrome\" at least once in their life. In this workshop we will explore the phenomenon and the feeling in ourselves and in group setting by discussing and trying out some of the techniques that have been found useful in countering the paralyzing effects.",
+                "description": "70% of all people experience \"impostor syndrome\" at least once in their life. In this workshop we will explore the phenomenon and the feeling in ourselves and in group setting by discussing and trying out some of the techniques that have been found useful in countering the paralyzing effects.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
                 "links": [],
                 "attachments": []
               }

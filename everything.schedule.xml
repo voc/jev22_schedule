@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 16:50; FireShonks 0.42; Hacking in Parallel 0.17; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 16:50; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 17:10; FireShonks 0.42; Hacking in Parallel 0.19; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7126,6 +7126,54 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <persons>
           <person id="3958">Michael Kreil</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55784" guid="902307ea-6b07-5a6b-9137-d4b7714d1809">
+        <logo/>
+        <date>2022-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>01:00</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-55784-understanding_attacks_on_ai</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/SP7XTF/</url>
+        <title>Understanding Attacks On AI</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.</abstract>
+        <description>The field of AI security, or more specifically ML security, is only just developing. Although a growing number of attack types on ML training data, training, models, and deployments have been discovered, there is no agreement on a clear taxonomy yet. In this workshop we will look at different ML attack types and try to come up with a systematization and a mapping to cyber/infosec attack types and tools.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3963">David (0xdhf)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55785" guid="a2f5c89a-e0ad-58d2-a2b3-3fe26fdb8f8e">
+        <logo/>
+        <date>2022-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-55785-impostor_syndrome</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/MRWKCB/</url>
+        <title>Impostor Syndrome</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>70% of all people experience "impostor syndrome" at least once in their life. In this workshop we will explore the phenomenon and the feeling in ourselves and in group setting by discussing and trying out some of the techniques that have been found useful in countering the paralyzing effects.</abstract>
+        <description>70% of all people experience "impostor syndrome" at least once in their life. In this workshop we will explore the phenomenon and the feeling in ourselves and in group setting by discussing and trying out some of the techniques that have been found useful in countering the paralyzing effects.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
