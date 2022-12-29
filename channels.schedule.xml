@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 18:40</version>
+  <version>2022-12-29 18:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3641,7 +3641,7 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <logo/>
         <date>2022-12-29T20:15:00+01:00</date>
         <start>20:15</start>
-        <duration>03:45</duration>
+        <duration>01:00</duration>
         <room>HIP2</room>
         <slug>jev22-54983-lightning_talks_day_3</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WRVZVZ/</url>
@@ -3663,6 +3663,29 @@ https://wiki.hip-berlin.de/index.php?title=Powerpoint_Karaoke</description>
         <persons>
           <person id="3925">tig3rch3n</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55840" guid="a80188d8-df4e-5ec5-8780-c6635985cb87">
+        <logo/>
+        <date>2022-12-29T21:15:00+01:00</date>
+        <start>21:15</start>
+        <duration>01:00</duration>
+        <room>HIP2</room>
+        <slug>jev22-55840-powerpoint_karaoke</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/JCTRHC/</url>
+        <title>Powerpoint karaoke</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Dieser Wettbewerb hat ein einfaches Prinzip: der Vortragende sieht die Folien seiner Präsentation bei Beginn seines Vortrages zum ersten Mal.</abstract>
+        <description>Whitfield Diffie entwickelte einst den Prototypen der Software, deren Siegeszug seit den 90er Jahren seinesgleichen sucht. Optisch nicht immer vollkommene Powerpoint-Präsentationen mit oder ohne Nutzwert sind inzwischen zur allgegenwärtigen Gewohnheit geworden - kein Vortrag, der noch ohne die unvermeidlichen Folien auskäme. Von den vielen Milliarden Präsentationen pro Jahr haben wir einige hundert ausgewählt, denn die zuweilen kulturzersetzende Wirkung von Powerpoint kann auch ihre lustigen Seiten haben. Die Berieselung wird so zur Performance.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
