@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 16:30</version>
+  <version>2022-12-29 16:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2302,8 +2302,8 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         <start>19:00</start>
         <duration>1:00</duration>
         <room>CCL</room>
-        <slug>jev22-9195-building_your_personal_dna_synthesizer</slug>
-        <title>Building your personal DNA-Synthesizer</title>
+        <slug>jev22-9195-unser_weg_zum_portablen_dna_synthesizer</slug>
+        <title>Unser Weg zum portablen DNA-Synthesizer</title>
         <subtitle/>
         <track>Curious Community Labs</track>
         <type>Talk</type>

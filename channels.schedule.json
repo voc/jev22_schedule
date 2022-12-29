@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 16:30",
+    "version": "2022-12-29 16:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2826,8 +2826,8 @@
                 "start": "19:00",
                 "duration": "1:00",
                 "room": "CCL",
-                "slug": "jev22-9195-building_your_personal_dna_synthesizer",
-                "title": "Building your personal DNA-Synthesizer",
+                "slug": "jev22-9195-unser_weg_zum_portablen_dna_synthesizer",
+                "title": "Unser Weg zum portablen DNA-Synthesizer",
                 "subtitle": "",
                 "track": "Curious Community Labs",
                 "type": "Talk",
