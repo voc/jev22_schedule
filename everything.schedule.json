@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 18:30; FireShonks 0.43; Hacking in Parallel 0.21; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 18:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 18:40; FireShonks 0.43; Hacking in Parallel 0.21; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 18:40; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8033,7 +8033,7 @@
                 "type": "Talk",
                 "language": "en",
                 "abstract": "Lightning Talks Day 3 -- limited to 15 minutes",
-                "description": "Lightning Talks Day 3 -- limited to 15 minutes\r\nhttps://wiki.hip-berlin.de/index.php?title=Lightning_Talks",
+                "description": "Lightning Talks Day 3 -- limited to 15 minutes\r\nhttps://wiki.hip-berlin.de/index.php?title=Lightning_Talks\r\n\r\nThe Lightning Talks will evolve into the Powerpoint Karaoke later in the evening depending on how many Speaker we'll get\r\nhttps://wiki.hip-berlin.de/index.php?title=Powerpoint_Karaoke",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
