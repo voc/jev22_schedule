@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 17:10</version>
+  <version>2022-12-29 17:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5120,60 +5120,10 @@ I also hope that this discussion will inspire collaborations for future work inv
       </event>
     </room>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
-      <event id="5754" guid="a575bb40-f3e1-5ac0-b11c-54fc8a36d49a">
-        <logo/>
-        <date>2022-12-30T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>Sparti</room>
-        <slug>jev22-5754-technikphilosophische_jahresendgala</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/77JC7G/</url>
-        <title>Technikphilosophische Jahresendgala</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.</abstract>
-        <description>Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen Bücher handeln von Cyberphilosophie, Hackern und "informierten Tüftlern", von uns also.  Lasst es auf Euch wirken.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="2">ajuvo</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7860" guid="cfd78601-99af-5460-8f7b-8537777a221e">
-        <logo/>
-        <date>2022-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Sparti</room>
-        <slug>jev22-7860-infrastructure_review</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/KEWAHX/</url>
-        <title>Infrastructure Review</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Bin mir noch unsicher, ob wir wirklich viel zu erzählen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7">Source</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="4292" guid="4292c24c-d93e-5782-8fa6-bccaa9654778">
         <logo/>
-        <date>2022-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>00:30</duration>
         <room>Sparti</room>
         <slug>jev22-4292-closing_ceremony</slug>

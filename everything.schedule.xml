@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 17:10; FireShonks 0.42; Hacking in Parallel 0.19; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 17:20; FireShonks 0.42; Hacking in Parallel 0.20; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:20; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7177,6 +7177,36 @@ Und wenn das eduroam mal wieder nicht funktioniert, dann wisst ihr hoffentlich d
         <links/>
         <attachments/>
       </event>
+      <event id="55796" guid="1f6491e8-71ef-5b0b-93b5-c4d373efef97">
+        <logo/>
+        <date>2022-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>01:30</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-55796-future_proofing_my_printer_with_reversing</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/WYQF7K/</url>
+        <title>Future Proofing my Printer with Reversing</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>My printer is only supported through proprietary drivers using a custom CUPS filter to convert PDFs/Images/... into a printer-specific Page Description Language such as PJL or PCL. However, CUPS is to deprecate filter based printer drivers in favor of IPP which every new printer supports. Mine doesn't. However, CUPS/OpenPrinting have designed PAPPL, a library to turn old printer filters/drivers into "Printer Applications". These are self-contained (and thus sandboxable) small daemons that provide an IPP server on localhost for applications to interface with, and spit out the commands necessary to talk to the printer in question. My goal is to write such a printer application for my printer. I havehad no previous knowledge of printing in general and on Linux and UNIX/macOS specifically, so this is taking rather long (and is by no means finished).</abstract>
+        <description>I have only started reversing the original driver and trying to piece together some proof-of-concept replacement. I still have no idea how to write a PAPPL, but I've learned so much on the way, maybe you want to learn this to and help me? A small warning though: You'll be the person everyone asks on how to setup printers from then on :'-D&#13;
+&#13;
+ * https://codeberg.org/ljrk/ricoh&#13;
+ * https://support.ricoh.com/bb/pub_e/dr_ut_e/0001294/0001294697/V10_22/r75383L2.exe This is a PE32.exe but you can simply unzip it and get an RPM file which you can extract using rpm2cpio from rpm-tools and cpio.&#13;
+&#13;
+See more: https://wiki.hip-berlin.de/index.php?title=HiPoCrypt#Future_Proofing_my_Printer_with_Reversing</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3378">Leo (he/his) || Janis (she/her) || * (they/them)</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f">
       <event id="49163" guid="4aff93bc-0d9e-5334-b77a-4d3d33884482">
@@ -10115,60 +10145,10 @@ I also hope that this discussion will inspire collaborations for future work inv
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
-      <event id="5754" guid="a575bb40-f3e1-5ac0-b11c-54fc8a36d49a">
-        <logo/>
-        <date>2022-12-30T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>01:00</duration>
-        <room>RTC-Bühne (Sparti)</room>
-        <slug>jev22-5754-technikphilosophische_jahresendgala</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/77JC7G/</url>
-        <title>Technikphilosophische Jahresendgala</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.</abstract>
-        <description>Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen Bücher handeln von Cyberphilosophie, Hackern und "informierten Tüftlern", von uns also.  Lasst es auf Euch wirken.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="2">ajuvo</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7860" guid="cfd78601-99af-5460-8f7b-8537777a221e">
-        <logo/>
-        <date>2022-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>RTC-Bühne (Sparti)</room>
-        <slug>jev22-7860-infrastructure_review</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/KEWAHX/</url>
-        <title>Infrastructure Review</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Bin mir noch unsicher, ob wir wirklich viel zu erzählen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7">Source</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="4292" guid="4292c24c-d93e-5782-8fa6-bccaa9654778">
         <logo/>
-        <date>2022-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>00:30</duration>
         <room>RTC-Bühne (Sparti)</room>
         <slug>jev22-4292-closing_ceremony</slug>

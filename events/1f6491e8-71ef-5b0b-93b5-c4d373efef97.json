@@ -1,0 +1,33 @@
+{
+  "id": 55796,
+  "guid": "1f6491e8-71ef-5b0b-93b5-c4d373efef97",
+  "logo": "",
+  "date": "2022-12-29T21:30:00+01:00",
+  "start": "21:30",
+  "duration": "01:30",
+  "room": "HDMI (room 3)",
+  "slug": "jev22-55796-future_proofing_my_printer_with_reversing",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WYQF7K/",
+  "title": "Future Proofing my Printer with Reversing",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Workshop",
+  "language": "en",
+  "abstract": "My printer is only supported through proprietary drivers using a custom CUPS filter to convert PDFs/Images/... into a printer-specific Page Description Language such as PJL or PCL. However, CUPS is to deprecate filter based printer drivers in favor of IPP which every new printer supports. Mine doesn't. However, CUPS/OpenPrinting have designed PAPPL, a library to turn old printer filters/drivers into \"Printer Applications\". These are self-contained (and thus sandboxable) small daemons that provide an IPP server on localhost for applications to interface with, and spit out the commands necessary to talk to the printer in question. My goal is to write such a printer application for my printer. I havehad no previous knowledge of printing in general and on Linux and UNIX/macOS specifically, so this is taking rather long (and is by no means finished).",
+  "description": "I have only started reversing the original driver and trying to piece together some proof-of-concept replacement. I still have no idea how to write a PAPPL, but I've learned so much on the way, maybe you want to learn this to and help me? A small warning though: You'll be the person everyone asks on how to setup printers from then on :'-D\r\n\r\n * https://codeberg.org/ljrk/ricoh\r\n * https://support.ricoh.com/bb/pub_e/dr_ut_e/0001294/0001294697/V10_22/r75383L2.exe This is a PE32.exe but you can simply unzip it and get an RPM file which you can extract using rpm2cpio from rpm-tools and cpio.\r\n\r\nSee more: https://wiki.hip-berlin.de/index.php?title=HiPoCrypt#Future_Proofing_my_Printer_with_Reversing",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3378,
+      "code": "WALKSP",
+      "public_name": "Leo (he/his) || Janis (she/her) || * (they/them)",
+      "biography": "I'm a genderqueer hacker from Berlin. Currently working in IT Security, my interests are also in systems engineering, typesetting/typography and cryptography. Additionally, I love teaching about these subjects as well as engaging in politics, having been part of the student's \"Fachschaftsinitiative\" of the CS department at the Freie Universit\u00e4t Berlin and active in various roles in the Ausbildungskommission, Institutsrat, Fachbereichsrat, Studierendenparlament and briefly as a member of the Academic Senate, before retiring from student life.\r\n\r\nA number of open source projects are hosted all over the place at\r\n\r\n* https://github.com/ljrk0\r\n* https://codeberg.org/ljrk\r\n* https://gitlab.com/ljrk\r\n\r\nand you can reach me in the Fediverse over\r\n\r\n* https://todon.eu/@ljrk\r\n\r\nas well as read my blog over at\r\n\r\n* https://ljrk.codeberg.page/",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "9e74f0b2-ce80-46da-8db4-cd1510000bed",
+  "origin": "pretalx.c3voc.de"
+}

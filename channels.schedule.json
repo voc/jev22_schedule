@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 17:10",
+    "version": "2022-12-29 17:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -5950,73 +5950,11 @@
             ],
             "Sparti": [
               {
-                "id": 5754,
-                "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
-                "logo": "",
-                "date": "2022-12-30T11:30:00+01:00",
-                "start": "11:30",
-                "duration": "01:00",
-                "room": "Sparti",
-                "slug": "jev22-5754-technikphilosophische_jahresendgala",
-                "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
-                "title": "Technikphilosophische Jahresendgala",
-                "subtitle": "",
-                "track": "Potsdam",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.",
-                "description": "Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen B\u00fccher handeln von Cyberphilosophie, Hackern und \"informierten T\u00fcftlern\", von uns also.  Lasst es auf Euch wirken.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 2,
-                    "code": "8Q7ENU",
-                    "public_name": "ajuvo",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 7860,
-                "guid": "cfd78601-99af-5460-8f7b-8537777a221e",
-                "logo": "",
-                "date": "2022-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "00:30",
-                "room": "Sparti",
-                "slug": "jev22-7860-infrastructure_review",
-                "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
-                "title": "Infrastructure Review",
-                "subtitle": "",
-                "track": "Potsdam",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Bin mir noch unsicher, ob wir wirklich viel zu erz\u00e4hlen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 7,
-                    "code": "FDRA89",
-                    "public_name": "Source",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 4292,
                 "guid": "4292c24c-d93e-5782-8fa6-bccaa9654778",
                 "logo": "",
-                "date": "2022-12-30T14:00:00+01:00",
-                "start": "14:00",
+                "date": "2022-12-30T12:00:00+01:00",
+                "start": "12:00",
                 "duration": "00:30",
                 "room": "Sparti",
                 "slug": "jev22-4292-closing_ceremony",

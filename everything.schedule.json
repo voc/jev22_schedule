@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 17:10; FireShonks 0.42; Hacking in Parallel 0.19; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 17:20; FireShonks 0.42; Hacking in Parallel 0.20; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 17:20; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -8165,6 +8165,37 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 55796,
+                "guid": "1f6491e8-71ef-5b0b-93b5-c4d373efef97",
+                "logo": "",
+                "date": "2022-12-29T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "01:30",
+                "room": "HDMI (room 3)",
+                "slug": "jev22-55796-future_proofing_my_printer_with_reversing",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/WYQF7K/",
+                "title": "Future Proofing my Printer with Reversing",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "My printer is only supported through proprietary drivers using a custom CUPS filter to convert PDFs/Images/... into a printer-specific Page Description Language such as PJL or PCL. However, CUPS is to deprecate filter based printer drivers in favor of IPP which every new printer supports. Mine doesn't. However, CUPS/OpenPrinting have designed PAPPL, a library to turn old printer filters/drivers into \"Printer Applications\". These are self-contained (and thus sandboxable) small daemons that provide an IPP server on localhost for applications to interface with, and spit out the commands necessary to talk to the printer in question. My goal is to write such a printer application for my printer. I havehad no previous knowledge of printing in general and on Linux and UNIX/macOS specifically, so this is taking rather long (and is by no means finished).",
+                "description": "I have only started reversing the original driver and trying to piece together some proof-of-concept replacement. I still have no idea how to write a PAPPL, but I've learned so much on the way, maybe you want to learn this to and help me? A small warning though: You'll be the person everyone asks on how to setup printers from then on :'-D\r\n\r\n * https://codeberg.org/ljrk/ricoh\r\n * https://support.ricoh.com/bb/pub_e/dr_ut_e/0001294/0001294697/V10_22/r75383L2.exe This is a PE32.exe but you can simply unzip it and get an RPM file which you can extract using rpm2cpio from rpm-tools and cpio.\r\n\r\nSee more: https://wiki.hip-berlin.de/index.php?title=HiPoCrypt#Future_Proofing_my_Printer_with_Reversing",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3378,
+                    "code": "WALKSP",
+                    "public_name": "Leo (he/his) || Janis (she/her) || * (they/them)",
+                    "biography": "I'm a genderqueer hacker from Berlin. Currently working in IT Security, my interests are also in systems engineering, typesetting/typography and cryptography. Additionally, I love teaching about these subjects as well as engaging in politics, having been part of the student's \"Fachschaftsinitiative\" of the CS department at the Freie Universit\u00e4t Berlin and active in various roles in the Ausbildungskommission, Institutsrat, Fachbereichsrat, Studierendenparlament and briefly as a member of the Academic Senate, before retiring from student life.\r\n\r\nA number of open source projects are hosted all over the place at\r\n\r\n* https://github.com/ljrk0\r\n* https://codeberg.org/ljrk\r\n* https://gitlab.com/ljrk\r\n\r\nand you can reach me in the Fediverse over\r\n\r\n* https://todon.eu/@ljrk\r\n\r\nas well as read my blog over at\r\n\r\n* https://ljrk.codeberg.page/",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Soldering Workshop Room": [
@@ -11544,73 +11575,11 @@
             "Merch Desk": [],
             "RTC-B\u00fchne (Sparti)": [
               {
-                "id": 5754,
-                "guid": "a575bb40-f3e1-5ac0-b11c-54fc8a36d49a",
-                "logo": "",
-                "date": "2022-12-30T11:30:00+01:00",
-                "start": "11:30",
-                "duration": "01:00",
-                "room": "RTC-B\u00fchne (Sparti)",
-                "slug": "jev22-5754-technikphilosophische_jahresendgala",
-                "url": "https://cfp.ccc-p.org/rtc22/talk/77JC7G/",
-                "title": "Technikphilosophische Jahresendgala",
-                "subtitle": "",
-                "track": "Potsdam",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "ajuvo und Bernhard geben ein Update zum Stand der Cyberphilosophie in der Art eines Fernsehinterviews im alten Stil.",
-                "description": "Prof. Dr. Dr. Bernhard Irrgang ist eines der Urgesteine der deutschen Technikphilosophie. Seine neuen B\u00fccher handeln von Cyberphilosophie, Hackern und \"informierten T\u00fcftlern\", von uns also.  Lasst es auf Euch wirken.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 2,
-                    "code": "8Q7ENU",
-                    "public_name": "ajuvo",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 7860,
-                "guid": "cfd78601-99af-5460-8f7b-8537777a221e",
-                "logo": "",
-                "date": "2022-12-30T13:00:00+01:00",
-                "start": "13:00",
-                "duration": "00:30",
-                "room": "RTC-B\u00fchne (Sparti)",
-                "slug": "jev22-7860-infrastructure_review",
-                "url": "https://cfp.ccc-p.org/rtc22/talk/KEWAHX/",
-                "title": "Infrastructure Review",
-                "subtitle": "",
-                "track": "Potsdam",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Bin mir noch unsicher, ob wir wirklich viel zu erz\u00e4hlen haben werden, aber vielleicht ist das auch einfach eine gute Gelegenheit um allen Helfenden mal danke zu sagen :D",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 7,
-                    "code": "FDRA89",
-                    "public_name": "Source",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
                 "id": 4292,
                 "guid": "4292c24c-d93e-5782-8fa6-bccaa9654778",
                 "logo": "",
-                "date": "2022-12-30T14:00:00+01:00",
-                "start": "14:00",
+                "date": "2022-12-30T12:00:00+01:00",
+                "start": "12:00",
                 "duration": "00:30",
                 "room": "RTC-B\u00fchne (Sparti)",
                 "slug": "jev22-4292-closing_ceremony",
