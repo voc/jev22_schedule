@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 11:10; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 11:10; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 11:30; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 11:30; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7848,7 +7848,9 @@ www.inoeg.de/b3&#13;
         <type>Talk</type>
         <language>en</language>
         <abstract>Everything started with a Python script that helped discover a memory leak in the Linux Bluetooth stack. After expanding it to a rock-solid fuzzer targeting the Linux Bluetooth stack and discovering more bugs, we extend it to Wi-Fi. 💥 BOOM 💥! A heap overflow (CVE-2022-41674) and more severe vulnerabilities that do not require user interaction and also affect Android devices.</abstract>
-        <description>This talk introduces how (kernel) fuzzing works and how our fuzzer for Linux wireless interfaces works specifically. I will show some issues we stumbled upon and how we solved them. Finally, I discuss some of the vulnerabilities it found and will provide some insight into the disclosure process.</description>
+        <description>This talk introduces how (kernel) fuzzing works and how our fuzzer for Linux wireless interfaces works specifically. I will show some issues we stumbled upon and how we solved them. Finally, I discuss some of the vulnerabilities it found and will provide some insight into the disclosure process.&#13;
+&#13;
+This talk is beginner-friendly: If you have never heard of Fuzzing or do not have any pre-knowledge regarding security, don't worry but please come and you will learn something new and interesting. :)</description>
         <recording>
           <license/>
           <optout>false</optout>

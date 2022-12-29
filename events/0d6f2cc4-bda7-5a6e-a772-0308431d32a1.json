@@ -14,7 +14,7 @@
   "type": "Talk",
   "language": "en",
   "abstract": "Everything started with a Python script that helped discover a memory leak in the Linux Bluetooth stack. After expanding it to a rock-solid fuzzer targeting the Linux Bluetooth stack and discovering more bugs, we extend it to Wi-Fi. \ud83d\udca5 BOOM \ud83d\udca5! A heap overflow (CVE-2022-41674) and more severe vulnerabilities that do not require user interaction and also affect Android devices.",
-  "description": "This talk introduces how (kernel) fuzzing works and how our fuzzer for Linux wireless interfaces works specifically. I will show some issues we stumbled upon and how we solved them. Finally, I discuss some of the vulnerabilities it found and will provide some insight into the disclosure process.",
+  "description": "This talk introduces how (kernel) fuzzing works and how our fuzzer for Linux wireless interfaces works specifically. I will show some issues we stumbled upon and how we solved them. Finally, I discuss some of the vulnerabilities it found and will provide some insight into the disclosure process.\r\n\r\nThis talk is beginner-friendly: If you have never heard of Fuzzing or do not have any pre-knowledge regarding security, don't worry but please come and you will learn something new and interesting. :)",
   "recording_license": "",
   "do_not_record": false,
   "persons": [
