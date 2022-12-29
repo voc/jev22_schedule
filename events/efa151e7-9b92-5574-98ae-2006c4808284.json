@@ -1,0 +1,33 @@
+{
+  "id": 55965,
+  "guid": "efa151e7-9b92-5574-98ae-2006c4808284",
+  "logo": "",
+  "date": "2022-12-30T11:00:00+01:00",
+  "start": "11:00",
+  "duration": "01:00",
+  "room": "HIP - Track 2 - Room 2",
+  "slug": "jev22-55965-the_mandelbot_ecotech_project_and_ancientscan",
+  "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/BLQWGL/",
+  "title": "The Mandelbot Ecotech Project and Ancientscan",
+  "subtitle": "",
+  "track": "E.T.I.",
+  "type": "Talk",
+  "language": "en",
+  "abstract": "Two projects on different timelines. Future Tech and Ancient Tech! Together at Last!",
+  "description": "Two presentations by inventor, artist and independent researcher, Scott Beibin\r\n\r\nPart One - \r\nMandelbot Ecotech is a project and design philosophy that focuses on developing ecological sustainable machine design primitives that value self-sovereignty and communitarianism. The presentation will feature tasty 3d printed vegan snacks on the latest prototype, The SURFA2 (Scalable Universal Robotic Frame Assembly co-designed by Scott Beibin and Mike Taylor of Uncanny Technologies.\r\n\r\nPart Two - \r\nAncientscan is a new project created by Scott Beibin and Liz Cole that focuses on documenting ancient archaeological sites and artifacts in order to examine engineering anomalies of the past. Through the use of LiDAR, high resolution photogrammetry, spatial audio and spectral analysis the main goal of the project is to better understand and reverse engineer the technologies of antiquity. The presentation will feature Scott's latest LiDAR scans of tool marks at sites in Egypt.",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 3969,
+      "code": "89UDES",
+      "public_name": "Scott Beibin",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "a24f561b-6f4a-4ee3-87fb-d22fff05f0dc",
+  "origin": "pretalx.c3voc.de"
+}

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 22:30</version>
+  <version>2022-12-29 22:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5090,6 +5090,37 @@ Finally, I'll give a broad overview of the possible solutions currently being di
       </event>
     </room>
     <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc">
+      <event id="55965" guid="efa151e7-9b92-5574-98ae-2006c4808284">
+        <logo/>
+        <date>2022-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>HIP2</room>
+        <slug>jev22-55965-the_mandelbot_ecotech_project_and_ancientscan</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/BLQWGL/</url>
+        <title>The Mandelbot Ecotech Project and Ancientscan</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Two projects on different timelines. Future Tech and Ancient Tech! Together at Last!</abstract>
+        <description>Two presentations by inventor, artist and independent researcher, Scott Beibin&#13;
+&#13;
+Part One - &#13;
+Mandelbot Ecotech is a project and design philosophy that focuses on developing ecological sustainable machine design primitives that value self-sovereignty and communitarianism. The presentation will feature tasty 3d printed vegan snacks on the latest prototype, The SURFA2 (Scalable Universal Robotic Frame Assembly co-designed by Scott Beibin and Mike Taylor of Uncanny Technologies.&#13;
+&#13;
+Part Two - &#13;
+Ancientscan is a new project created by Scott Beibin and Liz Cole that focuses on documenting ancient archaeological sites and artifacts in order to examine engineering anomalies of the past. Through the use of LiDAR, high resolution photogrammetry, spatial audio and spectral analysis the main goal of the project is to better understand and reverse engineer the technologies of antiquity. The presentation will feature Scott's latest LiDAR scans of tool marks at sites in Egypt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3969">Scott Beibin</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="55536" guid="e0ea1305-05d8-503f-9a79-3c1638ab5f02">
         <logo/>
         <date>2022-12-30T12:30:00+01:00</date>
