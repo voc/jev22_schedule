@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 19:00; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 19:00; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 19:10; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 19:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -9205,6 +9205,29 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 5366,
+                "guid": "536a6366-86cf-5b4e-836c-dacf77bf3d8c",
+                "logo": "",
+                "date": "2022-12-29T21:30:00+01:00",
+                "start": "21:30",
+                "duration": "03:00",
+                "room": "WICMP Seminarraum",
+                "slug": "jev22-5366-irgendwas_mit_seil",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/HVXVCS/",
+                "title": "Irgendwas mit Seil",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "am lebenden Objekt.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [],
+                "links": [],
+                "attachments": []
               }
             ],
             "Rave Cave": [
@@ -13777,10 +13800,10 @@
                 "start": "12:00",
                 "duration": "02:00",
                 "room": "Klangkeller - H1-U.1",
-                "slug": "jev22-6334-funktionsweise_und_anwendungsbeispiele_einer_turbosound",
+                "slug": "jev22-6334-kommando_hoersturz",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/FQUCKQ/",
-                "title": "Funktionsweise und Anwendungsbeispiele einer Turbosound",
-                "subtitle": "",
+                "title": "Kommando H\u00f6rsturz",
+                "subtitle": "Funktionsweise und Anwendungsbeispiele einer Turbosound",
                 "track": "Freir\u00e4ume",
                 "type": "Kunst",
                 "language": "de",

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 19:00; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 19:00; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 19:10; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 19:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -8115,6 +8115,29 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <links/>
         <attachments/>
       </event>
+      <event id="5366" guid="536a6366-86cf-5b4e-836c-dacf77bf3d8c">
+        <logo/>
+        <date>2022-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>03:00</duration>
+        <room>WICMP Seminarraum</room>
+        <slug>jev22-5366-irgendwas_mit_seil</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/HVXVCS/</url>
+        <title>Irgendwas mit Seil</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>am lebenden Objekt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Rave Cave">
       <event id="1973" guid="fe1b973f-6e41-542e-8230-a1a07f030ca9">
@@ -12085,10 +12108,10 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Klangkeller - H1-U.1</room>
-        <slug>jev22-6334-funktionsweise_und_anwendungsbeispiele_einer_turbosound</slug>
+        <slug>jev22-6334-kommando_hoersturz</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FQUCKQ/</url>
-        <title>Funktionsweise und Anwendungsbeispiele einer Turbosound</title>
-        <subtitle/>
+        <title>Kommando Hörsturz</title>
+        <subtitle>Funktionsweise und Anwendungsbeispiele einer Turbosound</subtitle>
         <track>Freiräume</track>
         <type>Kunst</type>
         <language>de</language>

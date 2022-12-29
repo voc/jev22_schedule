@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 19:00</version>
+  <version>2022-12-29 19:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4334,6 +4334,29 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <persons>
           <person id="7">MikeTsenatek</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5366" guid="536a6366-86cf-5b4e-836c-dacf77bf3d8c">
+        <logo/>
+        <date>2022-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>03:00</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5366-irgendwas_mit_seil</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/HVXVCS/</url>
+        <title>Irgendwas mit Seil</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>am lebenden Objekt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
