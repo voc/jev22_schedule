@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 20:40</version>
+  <version>2022-12-29 20:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3135,8 +3135,8 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
       </event>
       <event id="49088" guid="28b0519f-7cf6-5c93-a6d7-fcd6fdc848ad">
         <logo/>
-        <date>2022-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2022-12-29T21:15:00+01:00</date>
+        <start>21:15</start>
         <duration>00:40</duration>
         <room>Fireshonks</room>
         <slug>jev22-49088-how_to_become_an_openstreetmap_pro</slug>
@@ -3162,9 +3162,9 @@ Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
       </event>
       <event id="49109" guid="49d91642-a4ad-51d7-8628-a71c1c12becb">
         <logo/>
-        <date>2022-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>00:40</duration>
+        <date>2022-12-29T22:15:00+01:00</date>
+        <start>22:15</start>
+        <duration>01:45</duration>
         <room>Fireshonks</room>
         <slug>jev22-49109-die_bequemsten_gepaeckablagen_im_fernverkehr_der_deutschen_bahn</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/J9KXQ7/</url>
