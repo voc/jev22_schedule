@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 02:50</version>
+  <version>2022-12-29 09:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4668,7 +4668,7 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <track/>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der normale Hacker, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.</abstract>
+        <abstract>Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der/die normale Hacker*in, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.</abstract>
         <description/>
         <recording>
           <license/>

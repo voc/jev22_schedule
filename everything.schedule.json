@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-29 02:50; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 02:50; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 09:30; FireShonks 0.41; Reconnect To Chaos! 2.2; Hellarious 0.8.1 final 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 09:30; Winterchaos 0.4; Hacking in Parallel 0.16; Freiraumforum 0.46; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -10857,7 +10857,7 @@
                 "track": null,
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der normale Hacker, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.",
+                "abstract": "Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der/die normale Hacker*in, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
