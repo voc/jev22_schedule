@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 21:10</version>
+  <version>2022-12-29 21:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4492,8 +4492,8 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
       </event>
       <event id="2921" guid="9ad0a444-4e4b-4107-a18e-24ee9cca1327">
         <logo/>
-        <date>2022-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2022-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
         <slug>jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown</slug>

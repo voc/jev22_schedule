@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 21:10; FireShonks 0.44; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 21:10; Winterchaos 0.4; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 21:20; FireShonks 0.44; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 21:20; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -9583,8 +9583,8 @@
                 "id": 2921,
                 "guid": "9ad0a444-4e4b-4107-a18e-24ee9cca1327",
                 "logo": "",
-                "date": "2022-12-29T21:00:00+01:00",
-                "start": "21:00",
+                "date": "2022-12-29T21:30:00+01:00",
+                "start": "21:30",
                 "duration": "00:45",
                 "room": "Winterchaos",
                 "slug": "jev22-2921-real_citizens_of_rheinfelden_living_in_an_ai_painted_model_of_jakob_strassers_hometown",
