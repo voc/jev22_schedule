@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 22:50",
+    "version": "2022-12-29 23:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -327,13 +327,6 @@
           "description": null,
           "capacity": null,
           "location": "Aalen"
-        },
-        {
-          "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
-          "name": "WoodbineDWeb",
-          "description": "Talks at Woodbine DWeb NYC 2022",
-          "capacity": null,
-          "location": "New York, USA"
         }
       ],
       "days": [
@@ -480,8 +473,7 @@
                 "attachments": []
               }
             ],
-            "Hackwerk": [],
-            "WoodbineDWeb": []
+            "Hackwerk": []
           }
         },
         {
@@ -1646,40 +1638,7 @@
                 "attachments": []
               }
             ],
-            "Hackwerk": [],
-            "WoodbineDWeb": [
-              {
-                "abstract": "Intro to Solar Protocol",
-                "attachments": [],
-                "date": "2022-12-27T10:30:00-05:00",
-                "description": "http://solarprotcool.net/",
-                "do_not_record": false,
-                "duration": "01:00",
-                "guid": "b67130ca-1f54-41c7-928c-b0497146bebc",
-                "id": 6713,
-                "language": "en",
-                "links": [],
-                "logo": "",
-                "persons": [
-                  {
-                    "id": 200,
-                    "code": "MICRO0",
-                    "public_name": "micro",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "recording_license": "CC-BY-SA-4.0",
-                "room": "WoodbineDWeb",
-                "slug": "jev22-6713-intro_to_solar_protocol",
-                "start": "10:30",
-                "subtitle": "",
-                "title": "Intro to Solar Protocol",
-                "track": "",
-                "type": "Talk",
-                "url": "https://woodbine.nyc/2022/12/dweb-jev/solarprotocol-intro/"
-              }
-            ]
+            "Hackwerk": []
           }
         },
         {
@@ -3548,8 +3507,7 @@
                 "attachments": []
               }
             ],
-            "Hackwerk": [],
-            "WoodbineDWeb": []
+            "Hackwerk": []
           }
         },
         {
@@ -5492,8 +5450,7 @@
                 "links": [],
                 "attachments": []
               }
-            ],
-            "WoodbineDWeb": []
+            ]
           }
         },
         {
@@ -6799,8 +6756,7 @@
                 "attachments": []
               }
             ],
-            "Hackwerk": [],
-            "WoodbineDWeb": []
+            "Hackwerk": []
           }
         },
         {
@@ -6998,8 +6954,7 @@
                 "attachments": []
               }
             ],
-            "Hackwerk": [],
-            "WoodbineDWeb": []
+            "Hackwerk": []
           }
         }
       ]
