@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 10:30</version>
+  <version>2022-12-29 11:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2746,13 +2746,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle> - Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -6032,6 +6032,36 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         </recording>
         <persons>
           <person id="97">Lukas Lischke</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2526" guid="252ff6ab-6458-58b2-b380-a99a70d39bd4">
+        <logo/>
+        <date>2022-12-31T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>Ahlam</room>
+        <slug>jev22-2526-antisemitismus_in_muenchen</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/SCHS7G/</url>
+        <title>Antisemitismus in München</title>
+        <subtitle>: Querdenken, andere Verschwörungstheorien und alltägliche Übergriffe - und was wir dagegen tun können</subtitle>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Antisemitismus ist leider immer noch aktuell, auch in München. RIAS Bayern dokumentiert diese traurige Aktualität. Wir wollen uns mit konkreten Vorfällen auseinandersetzen und mit der Frage, wie wir Antisemitismus konsequent entgegentreten können.</abstract>
+        <description>Seit einigen Jahren dokumentiert die Recherche- und Informationsstelle Antisemitismus (RIAS) auch in Bayern antisemtische Vorfälle. Auf Basis dieser Dokumentationen setzen wir uns mit der Realität des Antisemitismus in unserer Stadt auseinander und suchen nach Umgangsweisen, auch und gerade in Freiräumen.&#13;
+&#13;
+Über die Dokumentationsstelle: "RIAS Bayern nimmt Meldungen über antisemitische Vorfälle auf und unterstützt Betroffene von Antisemitismus in Bayern. Auf Grundlage der gemeldeten Fälle und eigener Recherche verfasst RIAS Bayern regelmäßig bayernspezifische Berichte über Antisemitismus, betreibt Aufklärungs- und Öffentlichkeitsarbeit und trägt so zum Kampf gegen Antisemitismus bei.&#13;
+&#13;
+"Abhängig von den Wünschen und Bedürfnissen der Betroffenen oder der Meldenden, vermittelt RIAS Bayern weitergehende psychosoziale, juristische, Antidiskriminierungs- und Opferberatung, betreibt Öffentlichkeitsarbeit und veröffentlicht einzelne anonymisierte Fälle. Zentrales Prinzip ist der Vertrauensschutz: Die Betroffenen und Zeugen entscheiden, wie mit ihrer Meldung und ihren Informationen umgegangen wird. RIAS Bayern steht auf der Seite der Menschen, die von Antisemitismus betroffen sind."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="138">Forum für Freiraum</person>
+          <person id="207">Robert Andreasch</person>
         </persons>
         <links/>
         <attachments/>

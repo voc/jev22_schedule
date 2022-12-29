@@ -1,0 +1,40 @@
+{
+  "id": 2526,
+  "guid": "252ff6ab-6458-58b2-b380-a99a70d39bd4",
+  "logo": "",
+  "date": "2022-12-31T12:30:00+01:00",
+  "start": "12:30",
+  "duration": "01:00",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "slug": "jev22-2526-antisemitismus_in_muenchen",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SCHS7G/",
+  "title": "Antisemitismus in M\u00fcnchen",
+  "subtitle": ": Querdenken, andere Verschw\u00f6rungstheorien und allt\u00e4gliche \u00dcbergriffe - und was wir dagegen tun k\u00f6nnen",
+  "track": "Freir\u00e4ume",
+  "type": "Talk",
+  "language": "de",
+  "abstract": "Antisemitismus ist leider immer noch aktuell, auch in M\u00fcnchen. RIAS Bayern dokumentiert diese traurige Aktualit\u00e4t. Wir wollen uns mit konkreten Vorf\u00e4llen auseinandersetzen und mit der Frage, wie wir Antisemitismus konsequent entgegentreten k\u00f6nnen.",
+  "description": "Seit einigen Jahren dokumentiert die Recherche- und Informationsstelle Antisemitismus (RIAS) auch in Bayern antisemtische Vorf\u00e4lle. Auf Basis dieser Dokumentationen setzen wir uns mit der Realit\u00e4t des Antisemitismus in unserer Stadt auseinander und suchen nach Umgangsweisen, auch und gerade in Freir\u00e4umen.\r\n\r\n\u00dcber die Dokumentationsstelle: \"RIAS Bayern nimmt Meldungen \u00fcber antisemitische Vorf\u00e4lle auf und unterst\u00fctzt Betroffene von Antisemitismus in Bayern. Auf Grundlage der gemeldeten F\u00e4lle und eigener Recherche verfasst RIAS Bayern regelm\u00e4\u00dfig bayernspezifische Berichte \u00fcber Antisemitismus, betreibt Aufkl\u00e4rungs- und \u00d6ffentlichkeitsarbeit und tr\u00e4gt so zum Kampf gegen Antisemitismus bei.\r\n\r\n\"Abh\u00e4ngig von den W\u00fcnschen und Bed\u00fcrfnissen der Betroffenen oder der Meldenden, vermittelt RIAS Bayern weitergehende psychosoziale, juristische, Antidiskriminierungs- und Opferberatung, betreibt \u00d6ffentlichkeitsarbeit und ver\u00f6ffentlicht einzelne anonymisierte F\u00e4lle. Zentrales Prinzip ist der Vertrauensschutz: Die Betroffenen und Zeugen entscheiden, wie mit ihrer Meldung und ihren Informationen umgegangen wird. RIAS Bayern steht auf der Seite der Menschen, die von Antisemitismus betroffen sind.\"",
+  "recording_license": "",
+  "do_not_record": false,
+  "persons": [
+    {
+      "id": 138,
+      "code": "8UNDWN",
+      "public_name": "Forum f\u00fcr Freiraum",
+      "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+      "answers": []
+    },
+    {
+      "id": 207,
+      "code": "BAZBLF",
+      "public_name": "Robert Andreasch",
+      "biography": null,
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "origin": "forum.freiraeumen.jetzt"
+}

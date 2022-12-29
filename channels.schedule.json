@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "31037"
     },
-    "version": "2022-12-29 10:30",
+    "version": "2022-12-29 11:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -3322,14 +3322,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": " - Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6953,6 +6953,44 @@
                     "code": "AHMGBT",
                     "public_name": "Lukas Lischke",
                     "biography": "Kontinuierliche Weiterentwicklung mit dem Ziel des lebenslangen Lernens treiben mich an.\r\nWissen zu erlangen, zu vermitteln und auszutauschen empfinde ich als zutiefst erf\u00fcllend.\r\n\r\nIch bin Produktmanager f\u00fcr hochfrequenzbasierte inline Sensoren und Messysteme bei Work Microwave GmbH in Holzkirchen sowie langj\u00e4hriges Mitglied im gemeinn\u00fctzigen Fablab Oberland e.V. mit Sitz in Gmund.\r\n\r\nHeute w\u00fcrde ich ihnen gern etwas \u00fcber mein aktuelles Herzensthema im Ehrenamt erz\u00e4hlen!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 2526,
+                "guid": "252ff6ab-6458-58b2-b380-a99a70d39bd4",
+                "logo": "",
+                "date": "2022-12-31T12:30:00+01:00",
+                "start": "12:30",
+                "duration": "01:00",
+                "room": "Ahlam",
+                "slug": "jev22-2526-antisemitismus_in_muenchen",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/SCHS7G/",
+                "title": "Antisemitismus in M\u00fcnchen",
+                "subtitle": ": Querdenken, andere Verschw\u00f6rungstheorien und allt\u00e4gliche \u00dcbergriffe - und was wir dagegen tun k\u00f6nnen",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Antisemitismus ist leider immer noch aktuell, auch in M\u00fcnchen. RIAS Bayern dokumentiert diese traurige Aktualit\u00e4t. Wir wollen uns mit konkreten Vorf\u00e4llen auseinandersetzen und mit der Frage, wie wir Antisemitismus konsequent entgegentreten k\u00f6nnen.",
+                "description": "Seit einigen Jahren dokumentiert die Recherche- und Informationsstelle Antisemitismus (RIAS) auch in Bayern antisemtische Vorf\u00e4lle. Auf Basis dieser Dokumentationen setzen wir uns mit der Realit\u00e4t des Antisemitismus in unserer Stadt auseinander und suchen nach Umgangsweisen, auch und gerade in Freir\u00e4umen.\r\n\r\n\u00dcber die Dokumentationsstelle: \"RIAS Bayern nimmt Meldungen \u00fcber antisemitische Vorf\u00e4lle auf und unterst\u00fctzt Betroffene von Antisemitismus in Bayern. Auf Grundlage der gemeldeten F\u00e4lle und eigener Recherche verfasst RIAS Bayern regelm\u00e4\u00dfig bayernspezifische Berichte \u00fcber Antisemitismus, betreibt Aufkl\u00e4rungs- und \u00d6ffentlichkeitsarbeit und tr\u00e4gt so zum Kampf gegen Antisemitismus bei.\r\n\r\n\"Abh\u00e4ngig von den W\u00fcnschen und Bed\u00fcrfnissen der Betroffenen oder der Meldenden, vermittelt RIAS Bayern weitergehende psychosoziale, juristische, Antidiskriminierungs- und Opferberatung, betreibt \u00d6ffentlichkeitsarbeit und ver\u00f6ffentlicht einzelne anonymisierte F\u00e4lle. Zentrales Prinzip ist der Vertrauensschutz: Die Betroffenen und Zeugen entscheiden, wie mit ihrer Meldung und ihren Informationen umgegangen wird. RIAS Bayern steht auf der Seite der Menschen, die von Antisemitismus betroffen sind.\"",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 138,
+                    "code": "8UNDWN",
+                    "public_name": "Forum f\u00fcr Freiraum",
+                    "biography": "https://forum.freiraeumen.jetzt/freiraumforum/",
+                    "answers": []
+                  },
+                  {
+                    "id": 207,
+                    "code": "BAZBLF",
+                    "public_name": "Robert Andreasch",
+                    "biography": null,
                     "answers": []
                   }
                 ],
