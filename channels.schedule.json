@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 19:30",
+    "version": "2022-12-29 19:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1522,14 +1522,14 @@
             ],
             "Bhavani": [
               {
-                "id": 2242,
-                "guid": "22424983-c48f-5273-b283-3f9425d617b1",
+                "id": 6202,
+                "guid": "62027428-e983-516c-bfa7-ab2f1b138e95",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "02:00",
                 "room": "Bhavani",
-                "slug": "jev22-2242-gebaerdensprache_und_freiraum",
+                "slug": "jev22-6202-gebaerdensprache_und_freiraum",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/",
                 "title": "Geb\u00e4rdensprache und Freiraum",
                 "subtitle": "Deafolution!",
@@ -3322,14 +3322,14 @@
                 "attachments": []
               },
               {
-                "id": 3618,
-                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
+                "id": 9386,
+                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-3618-utopia_dystopia_lost_futures",
+                "slug": "jev22-9386-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": "Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
