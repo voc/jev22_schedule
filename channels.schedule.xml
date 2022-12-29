@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 19:40</version>
+  <version>2022-12-29 20:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3805,7 +3805,7 @@ Links to the project:&#13;
         <attachments/>
       </event>
       <event id="3191" guid="31916d57-f27c-5fa7-9b8f-760311966f4a">
-        <logo/>
+        <logo>/media/rtc22/submissions/FEK7VC/20221229_tzwenn_EnergyMeasureMisconceptions_dragged_73oI8ZJ.png</logo>
         <date>2022-12-29T18:15:00+01:00</date>
         <start>18:15</start>
         <duration>01:00</duration>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 19:40; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 19:40; Winterchaos 0.4; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 20:40; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 20:40; Winterchaos 0.4; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7496,7 +7496,7 @@ Links to the project:&#13;
         <attachments/>
       </event>
       <event id="3191" guid="31916d57-f27c-5fa7-9b8f-760311966f4a">
-        <logo/>
+        <logo>/media/rtc22/submissions/FEK7VC/20221229_tzwenn_EnergyMeasureMisconceptions_dragged_73oI8ZJ.png</logo>
         <date>2022-12-29T18:15:00+01:00</date>
         <start>18:15</start>
         <duration>01:00</duration>
