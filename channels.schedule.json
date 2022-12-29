@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 22:20",
+    "version": "2022-12-29 22:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6162,37 +6162,6 @@
             ],
             "CCL": [],
             "xrelog22 - Stream": [
-              {
-                "id": 49232,
-                "guid": "d4c1c6c4-9f83-5ec8-80a1-5dd9011f4c12",
-                "logo": "",
-                "date": "2022-12-30T15:00:00+01:00",
-                "start": "15:00",
-                "duration": "00:45",
-                "room": "xrelog22 - Stream",
-                "slug": "jev22-49232-energie_daten",
-                "url": "https://pretalx.c3voc.de/xrelog-2022/talk/WWKKFY/",
-                "title": "Energie & Daten",
-                "subtitle": "",
-                "track": "Activism",
-                "type": "Diskussions Panel (zzgl. Q&A)",
-                "language": "de",
-                "abstract": "Energie & Daten",
-                "description": "Ein spontaner Fireside-Chat rund um Themen aus der Welt der Bits und B\u00e4ume.",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 3351,
-                    "code": "SEVDXT",
-                    "public_name": "Matthias",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
               {
                 "id": 49307,
                 "guid": "6be5205a-e021-58e5-aac5-fbf654757933",

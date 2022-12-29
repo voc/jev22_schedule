@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 22:20</version>
+  <version>2022-12-29 22:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5368,31 +5368,6 @@ I will wander around the event and ask you about your project. If you are intere
     </room>
     <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49232" guid="d4c1c6c4-9f83-5ec8-80a1-5dd9011f4c12">
-        <logo/>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:45</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49232-energie_daten</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/WWKKFY/</url>
-        <title>Energie &amp; Daten</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Diskussions Panel (zzgl. Q&amp;A)</type>
-        <language>de</language>
-        <abstract>Energie &amp; Daten</abstract>
-        <description>Ein spontaner Fireside-Chat rund um Themen aus der Welt der Bits und Bäume.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3351">Matthias</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="49307" guid="6be5205a-e021-58e5-aac5-fbf654757933">
         <logo/>
         <date>2022-12-30T20:30:00+01:00</date>
