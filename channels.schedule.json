@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 17:40",
+    "version": "2022-12-29 18:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -4272,7 +4272,7 @@
                 "type": "Talk",
                 "language": "en",
                 "abstract": "Lightning Talks Day 3 -- limited to 15 minutes",
-                "description": "Lightning Talks Day 3 -- limited to 15 minutes",
+                "description": "Lightning Talks Day 3 -- limited to 15 minutes\r\nhttps://wiki.hip-berlin.de/index.php?title=Lightning_Talks",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
