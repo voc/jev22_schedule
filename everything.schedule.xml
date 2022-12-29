@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 19:10; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.3; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 19:10; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-29 19:30; FireShonks 0.43; Hacking in Parallel 0.25; Reconnect To Chaos! 2.5; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.10; ChilyConChaos 2022-12-29 19:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -10222,7 +10222,34 @@ I also hope that this discussion will inspire collaborations for future work inv
       </event>
     </room>
     <room name="RTC-Workshop 1 (Sem1)" guid="a8878181-5c2d-4882-a4aa-2f799d256fdb"/>
-    <room name="Haus 2" guid="146a5fe7-e0e6-41cd-b1ff-ea926a8b61cc"/>
+    <room name="Haus 2" guid="146a5fe7-e0e6-41cd-b1ff-ea926a8b61cc">
+      <event id="9301" guid="ee93f011-475e-5d6b-8a2e-eb00de716cc9">
+        <logo/>
+        <date>2022-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Haus 2</room>
+        <slug>jev22-9301-foll_fettes_fruehstueck</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/QUQJY3/</url>
+        <title>Foll Fettes Frühstück</title>
+        <subtitle>Reconnect at Breakfast</subtitle>
+        <track>Potsdam</track>
+        <type>Präsenzworkshop</type>
+        <language>de</language>
+        <abstract>(English version below)&#13;
+Lasst uns nochmal alle zusammenkommen, um gemeinsam rumzunerden, mit Leuten quatschen, die wir noch nicht oder erst während des RTC kennen gelernt haben. Dazu wird es im Haus 2 ein gemeinsames Frühstück geben. Es stehen für euch Dinge bereit, aber wenn ihr eine Kleinigkeit habt, die ihr anderen Nerds noch anbieten wollt, bringt sie gern mit.&#13;
+&#13;
+Let's all get together again to hang out, chat with people we haven't met yet or only met during the RTC. For this, there will be a breakfast together in house 2. There will be things ready for you, but if you have a little something you still want to offer to other nerds, feel free to bring it.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
