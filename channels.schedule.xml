@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 22:10</version>
+  <version>2022-12-29 22:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -154,9 +154,8 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         <type>Talk</type>
         <language>de</language>
         <abstract>Veranstaltungsbeginn mit Einführung&#13;
-&#13;
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Vor den ersten Vortrag die Veranstaltung eröffnen.</description>
+        <description>Der Hai eröffnet die Veranstaltung offiziell!</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1376,7 +1375,7 @@ Wie erstelle ich Dateien so, dass sie später auch vom Lasercutter richtig verst
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
 &#13;
 Q&amp;A https://meeten.statt-drosseln.de/b/c_r-abz-mh4-mom</abstract>
-        <description>This talk will be held in English. Both English and German subtitles are provided.&#13;
+        <description>The talk will be held in English. Both English and German subtitles are provided.&#13;
 &#13;
 This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</description>
         <recording>
