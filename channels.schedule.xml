@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 15:30</version>
+  <version>2022-12-29 15:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3355,7 +3355,9 @@ However, I don't only want to be "that emoji person", so for this talk, I want t
         <track>E.T.I.</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Wenn der Bund sagt: “Hack mich!” kann er Sicherheitsforscher:innen danach schlecht mit dem Hackerparagraphen zur Rechenschaft ziehen. Das ist die Kernidee des Bunten Bug Bountys.&#13;
+        <abstract>Ein Plädoyer für anonyme, niedrigschwellige, rechtssichere und ethische Disclosure Prozesse&#13;
+&#13;
+Wenn der Bund sagt: “Hack mich!” kann er Sicherheitsforscher:innen danach schlecht mit dem Hackerparagraphen zur Rechenschaft ziehen. Das ist die Kernidee des Bunten Bug Bountys.&#13;
 &#13;
 Das Melden von Sicherheitslücken und Datenlecks ist in Deutschland aktuell ein riskantes und aufwändiges Unterfangen. Erfahrungsgemäß besteht 60 - 80% des Aufwandes darin, die Lücke und das Datenleck so zu dokumentieren, dass die Sicherheitsforscher:innen juristisch nicht angreifbar sind. &#13;
 Sowohl von Seiten der EU [1] als auch die Deutsche Bundeswehr [2] gibt es hier bereits etablierte Angebote. Entsprechend haben wir im Rahmen des Cybersicherheitsdialog des BSI [3] im September diesen Jahres das Projekt “B3 - Buntes Bug Bounty” gestartet. Ziel des Projektes ist es einen ethischen,  niedrigschwelligen und rechtssicherer Meldeprozess für Sicherheitslücken und Datenlecks zu entwickeln. Im Rahmen des Vortrags soll der aktuelle Stand der Diskussion vorgestellt und zur Teilnahme an der Diskussion eingeladen werden.&#13;
