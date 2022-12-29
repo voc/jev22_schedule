@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 13:30</version>
+  <version>2022-12-29 15:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3040,10 +3040,7 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden können. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. &#13;
 &#13;
-Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.&#13;
-&#13;
-Slides sind hier verfügbar:&#13;
-https://barrierearme-datenvisualisierung.netlify.app/</description>
+Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.</description>
         <recording>
           <license/>
           <optout>false</optout>

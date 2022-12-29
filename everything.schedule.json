@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-29 13:30; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 13:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
+    "version": "2022-12-29 15:30; FireShonks 0.42; Hacking in Parallel 0.16; Reconnect To Chaos! 2.2; Hellarious 0.8.2 beta 2 FINAL; CCL CE 1.0.0; xrelog22: Independent Multiverses 1.8; Wintergalaktische Club Mate Party 0.9; ChilyConChaos 2022-12-29 15:30; Winterchaos 0.4; Freiraumforum 0.47; Hackwerk 0.2; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -7210,7 +7210,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Wie k\u00f6nnen Datenvisualisierungen so gestaltet werden, dass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden k\u00f6nnen. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die pr\u00e4sentierten Daten zum Download anzubieten und wie ein Diagramm f\u00fcr Screenreader-Nutzer:innen beschrieben werden kann.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
-                "description": "Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden k\u00f6nnen. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. \r\n\r\nDieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.\r\n\r\nSlides sind hier verf\u00fcgbar:\r\nhttps://barrierearme-datenvisualisierung.netlify.app/",
+                "description": "Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden k\u00f6nnen. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. \r\n\r\nDieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
