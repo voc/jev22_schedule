@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 11:30; FireShonks 0.49; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 11:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
+    "version": "2022-12-30 11:40; FireShonks 0.50; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 11:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11278,6 +11278,37 @@
                 "attachments": []
               },
               {
+                "id": 55128,
+                "guid": "dd8d7076-5054-5d95-b654-7416fb2d9f29",
+                "logo": "",
+                "date": "2022-12-30T16:25:00+01:00",
+                "start": "16:25",
+                "duration": "00:30",
+                "room": "Fireshonks-Stream",
+                "slug": "jev22-55128-erklaerhaj_loetet",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/",
+                "title": "Erkl\u00e4rhaj l\u00f6tet",
+                "subtitle": "",
+                "track": "R3S",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
+                "description": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3401,
+                    "code": "YLYLMA",
+                    "public_name": "Erkl\u00e4rhai",
+                    "biography": "Erkl\u00e4rhaj erkl\u00e4rt tolle Experimente live auf der B\u00fchne!",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              },
+              {
                 "id": 49164,
                 "guid": "dc229c46-4da1-5b34-bbe1-5c219428a716",
                 "logo": "",
@@ -11340,22 +11371,22 @@
                 "attachments": []
               },
               {
-                "id": 55128,
-                "guid": "dd8d7076-5054-5d95-b654-7416fb2d9f29",
+                "id": 54012,
+                "guid": "87c55596-2e1b-5789-99dd-c9c32bcf8ead",
                 "logo": "",
-                "date": "2022-12-30T19:00:00+01:00",
-                "start": "19:00",
-                "duration": "00:30",
+                "date": "2022-12-30T18:50:00+01:00",
+                "start": "18:50",
+                "duration": "00:40",
                 "room": "Fireshonks-Stream",
-                "slug": "jev22-55128-erklaerhaj_loetet",
-                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/",
-                "title": "Erkl\u00e4rhaj l\u00f6tet",
+                "slug": "jev22-54012-erklaerhai_freundet_sich_mit_voegeln_an",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/",
+                "title": "Erkl\u00e4rhai freundet sich mit V\u00f6geln an",
                 "subtitle": "",
                 "track": "R3S",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
-                "description": "Kann man mit Flossen l\u00f6ten? Keine Ahnung! Erkl\u00e4rhaj findet es heraus.",
+                "abstract": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!\r\n\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "description": "Erkl\u00e4rhaj erkl\u00e4rt weitere tolle Experimente live auf der B\u00fchne!",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

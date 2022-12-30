@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 11:30</version>
+  <version>2022-12-30 11:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4961,6 +4961,31 @@ Quellen in hoher Qualität zum vorher runterladen: https://t1p.de/IBQuellen</des
         <links/>
         <attachments/>
       </event>
+      <event id="55128" guid="dd8d7076-5054-5d95-b654-7416fb2d9f29">
+        <logo/>
+        <date>2022-12-30T16:25:00+01:00</date>
+        <start>16:25</start>
+        <duration>00:30</duration>
+        <room>Fireshonks</room>
+        <slug>jev22-55128-erklaerhaj_loetet</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/</url>
+        <title>Erklärhaj lötet</title>
+        <subtitle/>
+        <track>R3S</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</abstract>
+        <description>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3401">Erklärhai</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
       <event id="49164" guid="dc229c46-4da1-5b34-bbe1-5c219428a716">
         <logo/>
         <date>2022-12-30T17:00:00+01:00</date>
@@ -5024,21 +5049,24 @@ Auch ist Teletext ein wunderbares Beispiel für ein Protokoll, welches aus der Z
         <links/>
         <attachments/>
       </event>
-      <event id="55128" guid="dd8d7076-5054-5d95-b654-7416fb2d9f29">
+      <event id="54012" guid="87c55596-2e1b-5789-99dd-c9c32bcf8ead">
         <logo/>
-        <date>2022-12-30T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:30</duration>
+        <date>2022-12-30T18:50:00+01:00</date>
+        <start>18:50</start>
+        <duration>00:40</duration>
         <room>Fireshonks</room>
-        <slug>jev22-55128-erklaerhaj_loetet</slug>
-        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/VEAH8V/</url>
-        <title>Erklärhaj lötet</title>
+        <slug>jev22-54012-erklaerhai_freundet_sich_mit_voegeln_an</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/RMVWXH/</url>
+        <title>Erklärhai freundet sich mit Vögeln an</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</abstract>
-        <description>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</description>
+        <abstract>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!&#13;
+&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+        <description>Erklärhaj erklärt weitere tolle Experimente live auf der Bühne!</description>
         <recording>
           <license/>
           <optout>false</optout>
