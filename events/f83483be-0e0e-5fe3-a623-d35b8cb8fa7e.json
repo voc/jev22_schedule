@@ -2,10 +2,10 @@
   "id": 8348,
   "guid": "f83483be-0e0e-5fe3-a623-d35b8cb8fa7e",
   "logo": "",
-  "date": "2022-12-30T19:00:00+01:00",
-  "start": "19:00",
+  "date": "2022-12-29T15:00:00+01:00",
+  "start": "15:00",
   "duration": "03:00",
-  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
+  "room": "Workshopraum 3 - H2-3.6",
   "slug": "jev22-8348-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/",
   "title": "Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.",
@@ -35,6 +35,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
+  "room_id": null,
   "origin": "forum.freiraeumen.jetzt"
 }

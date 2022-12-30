@@ -2,10 +2,10 @@
   "id": 7246,
   "guid": "cdca7b2c-463d-502d-8c8d-ee913ce6cedb",
   "logo": "/media/freiraumforum/submissions/XKASRW/A480E1AE-0A92-4485-B41E-8D908E2ACEE4_RswgAEF.jpeg",
-  "date": "2022-12-27T14:00:00+01:00",
-  "start": "14:00",
+  "date": "2022-12-28T10:00:00+01:00",
+  "start": "10:00",
   "duration": "02:00",
-  "room": "Workshopraum 3 - H2-3.6",
+  "room": "Workshopraum 1 - H2-2.5",
   "slug": "jev22-7246-anti_rassismus_critical_whiteness",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XKASRW/",
   "title": "Anti-Rassismus & Critical Whiteness",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": null,
+  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
   "origin": "forum.freiraeumen.jetzt"
 }

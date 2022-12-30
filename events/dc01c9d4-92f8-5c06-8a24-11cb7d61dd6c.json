@@ -2,10 +2,10 @@
   "id": 194,
   "guid": "dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c",
   "logo": "",
-  "date": "2022-12-31T14:00:00+01:00",
-  "start": "14:00",
+  "date": "2022-12-31T15:15:00+01:00",
+  "start": "15:15",
   "duration": "00:30",
-  "room": "Vortragsraum 2 - Bhavani - H1-5.2",
+  "room": "Vortragsraum 1 - Ahlam - H2-1.6",
   "slug": "jev22-194-infrastructure_review",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/",
   "title": "Infrastructure Review",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": "64f358c2-82f2-11ed-b6f2-370ab4c5fdf0",
+  "room_id": "568cabc6-82f2-11ed-82f7-cf29158272bb",
   "origin": "forum.freiraeumen.jetzt"
 }

@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 16:00",
+    "version": "2022-12-30 16:20",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1435,14 +1435,14 @@
             "Winterchaos": [],
             "Ahlam": [
               {
-                "id": 4969,
-                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
+                "id": 651,
+                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
                 "logo": "",
                 "date": "2022-12-27T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Ahlam",
-                "slug": "jev22-4969-lass_mich_durch",
+                "slug": "jev22-651-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
                 "subtitle": "Wege befreien im urbanen Raum",
@@ -3388,14 +3388,14 @@
                 "attachments": []
               },
               {
-                "id": 9386,
-                "guid": "e938a62f-2fbf-5a99-b2fd-9cda1478da7b",
+                "id": 3618,
+                "guid": "361efb88-3d99-536c-b963-27fad3254da9",
                 "logo": "/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg",
                 "date": "2022-12-28T14:00:00+01:00",
                 "start": "14:00",
                 "duration": "02:00",
                 "room": "Ahlam",
-                "slug": "jev22-9386-utopia_dystopia_lost_futures",
+                "slug": "jev22-3618-utopia_dystopia_lost_futures",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/",
                 "title": "Utopia, Dystopia & Lost Futures",
                 "subtitle": "Interdisziplin\u00e4res Forschungskolloquium. by Assoziation:E",
@@ -6720,14 +6720,14 @@
                 "attachments": []
               },
               {
-                "id": 8348,
-                "guid": "f83483be-0e0e-5fe3-a623-d35b8cb8fa7e",
+                "id": 3858,
+                "guid": "38bb5885-f7af-500b-b082-23bf649492d7",
                 "logo": "",
                 "date": "2022-12-30T19:00:00+01:00",
                 "start": "19:00",
                 "duration": "03:00",
                 "room": "Ahlam",
-                "slug": "jev22-8348-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v",
+                "slug": "jev22-3858-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/",
                 "title": "Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.",
                 "subtitle": "",
@@ -6760,14 +6760,14 @@
             ],
             "Bhavani": [
               {
-                "id": 651,
-                "guid": "06515679-7dcb-548b-a4aa-6b16dd0ff4f3",
+                "id": 4969,
+                "guid": "496911dd-030d-55dc-9692-8552ec8a676b",
                 "logo": "",
                 "date": "2022-12-30T11:00:00+01:00",
                 "start": "11:00",
                 "duration": "01:00",
                 "room": "Bhavani",
-                "slug": "jev22-651-lass_mich_durch",
+                "slug": "jev22-4969-lass_mich_durch",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/",
                 "title": "Lass mich durch",
                 "subtitle": "Wege befreien im urbanen Raum",
@@ -7035,6 +7035,37 @@
                 ],
                 "links": [],
                 "attachments": []
+              },
+              {
+                "id": 194,
+                "guid": "dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c",
+                "logo": "",
+                "date": "2022-12-31T15:15:00+01:00",
+                "start": "15:15",
+                "duration": "00:30",
+                "room": "Ahlam",
+                "slug": "jev22-194-infrastructure_review",
+                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/",
+                "title": "Infrastructure Review",
+                "subtitle": "",
+                "track": "Freir\u00e4ume",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 114,
+                    "code": "QJFZTP",
+                    "public_name": "Eine spontane Ansammlung von Wesen",
+                    "biography": "Eine spontane Ansammlung von Wesen, die so Netzwerk und Video machen.",
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
               }
             ],
             "Bhavani": [
@@ -7077,37 +7108,6 @@
                     "code": "P3ENH8",
                     "public_name": "Kilian Schauer",
                     "biography": null,
-                    "answers": []
-                  }
-                ],
-                "links": [],
-                "attachments": []
-              },
-              {
-                "id": 194,
-                "guid": "dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c",
-                "logo": "",
-                "date": "2022-12-31T14:00:00+01:00",
-                "start": "14:00",
-                "duration": "00:30",
-                "room": "Bhavani",
-                "slug": "jev22-194-infrastructure_review",
-                "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/",
-                "title": "Infrastructure Review",
-                "subtitle": "",
-                "track": "Freir\u00e4ume",
-                "type": "Talk",
-                "language": "de",
-                "abstract": "Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.",
-                "description": "",
-                "recording_license": "",
-                "do_not_record": false,
-                "persons": [
-                  {
-                    "id": 114,
-                    "code": "QJFZTP",
-                    "public_name": "Eine spontane Ansammlung von Wesen",
-                    "biography": "Eine spontane Ansammlung von Wesen, die so Netzwerk und Video machen.",
                     "answers": []
                   }
                 ],

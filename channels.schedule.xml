@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 16:00</version>
+  <version>2022-12-30 16:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1016,13 +1016,13 @@ anonymised.</abstract>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
-      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-4969-lass_mich_durch</slug>
+        <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle>Wege befreien im urbanen Raum</subtitle>
@@ -2795,13 +2795,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
+      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle>Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -5869,13 +5869,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <links/>
         <attachments/>
       </event>
-      <event id="8348" guid="f83483be-0e0e-5fe3-a623-d35b8cb8fa7e">
+      <event id="3858" guid="38bb5885-f7af-500b-b082-23bf649492d7">
         <logo/>
         <date>2022-12-30T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-8348-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
+        <slug>jev22-3858-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
         <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
         <subtitle/>
@@ -5901,13 +5901,13 @@ Multiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen 
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-651-lass_mich_durch</slug>
+        <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle>Wege befreien im urbanen Raum</subtitle>
@@ -6137,6 +6137,31 @@ Seit der Gründung des a.i.d.a.-Vereins wird hier das für antifaschistische Akt
         <links/>
         <attachments/>
       </event>
+      <event id="194" guid="dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c">
+        <logo/>
+        <date>2022-12-31T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:30</duration>
+        <room>Ahlam</room>
+        <slug>jev22-194-infrastructure_review</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/</url>
+        <title>Infrastructure Review</title>
+        <subtitle/>
+        <track>Freiräume</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="114">Eine spontane Ansammlung von Wesen</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
       <event id="1265" guid="a1265b34-bb29-5a3f-864d-ed54292cb427">
@@ -6165,31 +6190,6 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
           <person id="167">Tobias McFadden</person>
           <person id="205">Felix Golatofski</person>
           <person id="206">Kilian Schauer</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="194" guid="dc01c9d4-92f8-5c06-8a24-11cb7d61dd6c">
-        <logo/>
-        <date>2022-12-31T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Bhavani</room>
-        <slug>jev22-194-infrastructure_review</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/PNVSCM/</url>
-        <title>Infrastructure Review</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Eine Geschichte von vielen (wieder) blinkenden Lichtern, staubigen Stunden im Keller, dutzenden Kabeln ins Nirgendwo und Himbeerkuchenmangel. Und Lasern.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="114">Eine spontane Ansammlung von Wesen</person>
         </persons>
         <links/>
         <attachments/>
