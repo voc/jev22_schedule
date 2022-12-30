@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 19:10; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 19:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 0.53; Woodbine 0.1</version>
+  <version>2022-12-30 20:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 20:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 0.53; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -10530,8 +10530,8 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
       </event>
       <event id="49301" guid="3b0de8b2-71a0-5178-90d9-75474acc1a14">
         <logo/>
-        <date>2022-12-30T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2022-12-30T21:30:00+01:00</date>
+        <start>21:30</start>
         <duration>01:00</duration>
         <room>Bierschoine</room>
         <slug>jev22-49301-hack_tell</slug>
@@ -10552,8 +10552,8 @@ I will wander around the event and ask you about your project. If you are intere
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="3419">Mayo Freude</person>
-          <person id="3416">Christoph Göbel</person>
+          <person id="3384">Krek</person>
+          <person id="265">Carina Haupt</person>
         </persons>
         <links/>
         <attachments/>

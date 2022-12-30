@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 19:10",
+    "version": "2022-12-30 20:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6247,8 +6247,8 @@
                 "id": 49301,
                 "guid": "3b0de8b2-71a0-5178-90d9-75474acc1a14",
                 "logo": "",
-                "date": "2022-12-30T21:00:00+01:00",
-                "start": "21:00",
+                "date": "2022-12-30T21:30:00+01:00",
+                "start": "21:30",
                 "duration": "01:00",
                 "room": "Bierschoine",
                 "slug": "jev22-49301-hack_tell",
@@ -6264,17 +6264,17 @@
                 "do_not_record": true,
                 "persons": [
                   {
-                    "id": 3419,
-                    "code": "B9LDFP",
-                    "public_name": "Mayo Freude",
-                    "biography": null,
+                    "id": 3384,
+                    "code": "RFUD8R",
+                    "public_name": "Krek",
+                    "biography": "Ich mach gerne Dinge mit Computern und Zukunft.",
                     "answers": []
                   },
                   {
-                    "id": 3416,
-                    "code": "M3Q7TL",
-                    "public_name": "Christoph G\u00f6bel",
-                    "biography": "Ich bin Sympathisant der Alten H\u00f6lle und ein guter Freund der Teufelin.\r\nIch hatte noch eine Rechnung mit ihr offen und l\u00f6se diese nun ein. Als Erlebnisp\u00e4dagoge ist es meine Aufgabe Menschen dazu zu bewegen sich zu zeigen, sich zu \u00f6ffnen und auch \u00fcber sich hinauszuwachsen. Diese F\u00e4higkeit kommt mir zu gute, denn ich werde dieses Jahr zusammen mit meiner Partnerin Marika den \"hack&tell\" moderieren und euch dazu bewegen der Community zu zeigen, was auf euren Bildschirmen, in euren Laboren oder eurer Werkstatt abgeht.",
+                    "id": 265,
+                    "code": "HQZJFN",
+                    "public_name": "Carina Haupt",
+                    "biography": "Leiterin einer Forschungsgruppe zum Thema Sustainable Software Engineering am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt (DLR).",
                     "answers": []
                   }
                 ],
