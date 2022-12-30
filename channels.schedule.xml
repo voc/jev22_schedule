@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 11:40</version>
+  <version>2022-12-30 12:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -6120,12 +6120,10 @@ Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist u
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Antisemitismus ist leider immer noch aktuell, auch in München. RIAS Bayern dokumentiert diese traurige Aktualität. Wir wollen uns mit konkreten Vorfällen auseinandersetzen und mit der Frage, wie wir Antisemitismus konsequent entgegentreten können.</abstract>
-        <description>Seit einigen Jahren dokumentiert die Recherche- und Informationsstelle Antisemitismus (RIAS) auch in Bayern antisemtische Vorfälle. Auf Basis dieser Dokumentationen setzen wir uns mit der Realität des Antisemitismus in unserer Stadt auseinander und suchen nach Umgangsweisen, auch und gerade in Freiräumen.&#13;
+        <abstract>Antisemitismus ist leider immer noch aktuell, auch in München. Wir wollen uns mit konkreten Vorfällen auseinandersetzen und mit der Frage, wie wir Antisemitismus konsequent entgegentreten können.</abstract>
+        <description>Die Antifaschistische Informations-, Dokumentations- und Archivstelle München e. V. sammelt seit 1990 Material zu den Themen Neonazismus, Rassismus, Antisemitismus und Nationalismus sowie Publikationen von und Informationen über ultrakonservative, extrem rechte und rechtspopulistische Gruppierungen. a.i.d.a. archiviert Bücher, Zeitungen, Zeitschriften, Broschüren, Flugblätter, Aufkleber, Plakate, Webseiten und anderes aus der extrem rechten Szene. Wir dokumentieren auch Gegenaktivitäten und Publikationen aus der antifaschistischen Arbeit.&#13;
 &#13;
-Über die Dokumentationsstelle: "RIAS Bayern nimmt Meldungen über antisemitische Vorfälle auf und unterstützt Betroffene von Antisemitismus in Bayern. Auf Grundlage der gemeldeten Fälle und eigener Recherche verfasst RIAS Bayern regelmäßig bayernspezifische Berichte über Antisemitismus, betreibt Aufklärungs- und Öffentlichkeitsarbeit und trägt so zum Kampf gegen Antisemitismus bei.&#13;
-&#13;
-"Abhängig von den Wünschen und Bedürfnissen der Betroffenen oder der Meldenden, vermittelt RIAS Bayern weitergehende psychosoziale, juristische, Antidiskriminierungs- und Opferberatung, betreibt Öffentlichkeitsarbeit und veröffentlicht einzelne anonymisierte Fälle. Zentrales Prinzip ist der Vertrauensschutz: Die Betroffenen und Zeugen entscheiden, wie mit ihrer Meldung und ihren Informationen umgegangen wird. RIAS Bayern steht auf der Seite der Menschen, die von Antisemitismus betroffen sind."</description>
+Seit der Gründung des a.i.d.a.-Vereins wird hier das für antifaschistische Aktivitäten dringend notwendige Hintergrundmaterial gesammelt. Über a.i.d.a. sollen diese Informationen möglichst vielen Leuten zugänglich gemacht werden, über Anfragen kann das Archiv genutzt werden. Wir unterstützen Fach-, Seminar- und Magisterarbeiten, bearbeiten Anfragen von Journalist_innen und Initiativen und vieles mehr.</description>
         <recording>
           <license/>
           <optout>false</optout>
