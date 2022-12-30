@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 16:30</version>
+  <version>2022-12-30 16:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4976,7 +4976,9 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
         <track>R3S</track>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</abstract>
+        <abstract>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.&#13;
+&#13;
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
         <description>Kann man mit Flossen löten? Keine Ahnung! Erklärhaj findet es heraus.</description>
         <recording>
           <license/>
