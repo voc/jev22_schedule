@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 10:40; FireShonks 0.47; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 10:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
+    "version": "2022-12-30 11:20; FireShonks 0.49; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 11:20 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -7305,7 +7305,7 @@
                 "track": "R3S",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Wie k\u00f6nnen Datenvisualisierungen so gestaltet werden, dass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden k\u00f6nnen. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die pr\u00e4sentierten Daten zum Download anzubieten und wie ein Diagramm f\u00fcr Screenreader-Nutzer:innen beschrieben werden kann.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Wie k\u00f6nnen Datenvisualisierungen so gestaltet werden, dass sie auch f\u00fcr Menschen mit Behinderungen gut zug\u00e4nglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden k\u00f6nnen. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die pr\u00e4sentierten Daten zum Download anzubieten und wie ein Diagramm f\u00fcr Screenreader-Nutzer:innen beschrieben werden kann.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nWorkshop im Anschluss: https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp",
                 "description": "Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden k\u00f6nnen. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. \r\n\r\nDieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.",
                 "recording_license": "",
                 "do_not_record": false,
@@ -11168,7 +11168,7 @@
                 "track": "R3S",
                 "type": "Talk",
                 "language": "de",
-                "abstract": "Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks",
+                "abstract": "Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.\r\n\r\nStream-Link: https://streaming.media.ccc.de/jev22/fireshonks\r\n\r\nWorkshop im Anschluss: https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp",
                 "description": "Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde \u00fcberhaupt Farben? All diese Fragen und mehr m\u00f6chte ich anhand von einigen Beispielen exemplarisch beantworten und mit euch gemeinsam daf\u00fcr sorgen, dass eure Pr\u00e4senzen im Cyberspace f\u00fcr alle zug\u00e4nglicher werden.",
                 "recording_license": "",
                 "do_not_record": false,

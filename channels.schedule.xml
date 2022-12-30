@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 10:40</version>
+  <version>2022-12-30 11:20</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -3085,7 +3085,9 @@ Aber obwohl die gesetzliche Lage sehr klar ist, ist die Durchsetzung leider noch
         <language>de</language>
         <abstract>Wie können Datenvisualisierungen so gestaltet werden, dass sie auch für Menschen mit Behinderungen gut zugänglich sind? Ich zeige, wie Barrieren in Datenvisualisierungen vermieden werden können. Es gibt Tipps dazu, was zum Beispiel bei der Wahl von Farben in einem Balkendiagramm zu beachten ist,  warum es sinnvoll ist, die präsentierten Daten zum Download anzubieten und wie ein Diagramm für Screenreader-Nutzer:innen beschrieben werden kann.&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Workshop im Anschluss: https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp</abstract>
         <description>Im Vortrag werden Hinweise dazu gegeben, wie Barrieren bei Datenvisualisierungen vermieden werden können. Hierbei geht es beispielsweise um ausreichende Unterscheidbarkeit von Farben, klare Beschriftungen und Benutzbarkeit mit Screenreader. &#13;
 &#13;
 Dieser Vortrag richtet sich an alle, die mit dem Designen, Entwickeln oder Verbreiten von Datenvisualisierungen im Internet zu tun haben, zum Beispiel Programmierer:innen von Dashboards, Designer:innen von Infografiken oder Menschen, die gerne Bilder von Statistiken posten.</description>
@@ -4848,7 +4850,9 @@ Mit unserem Vortrag möchten wir in einen produktiven Austausch mit den Teilnehm
         <language>de</language>
         <abstract>Als sehbehinderte Person bekomme ich in sozialen Netzwerken immer wieder die Frage gestellt, wie eine gute Bildbeschreibung aussehen soll. Die Antwort darauf ist nicht so leicht, wie man vielleicht denkt - aber keine Angst, jede Bildbeschreibung ist besser als keine Bildbeschreibung und viele machen instinktiv alles richtig.&#13;
 &#13;
-Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
+Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks&#13;
+&#13;
+Workshop im Anschluss: https://meeten.statt-drosseln.de/b/mer-uld-o2j-uvp</abstract>
         <description>Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde überhaupt Farben? All diese Fragen und mehr möchte ich anhand von einigen Beispielen exemplarisch beantworten und mit euch gemeinsam dafür sorgen, dass eure Präsenzen im Cyberspace für alle zugänglicher werden.</description>
         <recording>
           <license/>
