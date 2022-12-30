@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 16:40; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 16:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.53; Woodbine 0.1</version>
+  <version>2022-12-30 17:10; FireShonks 0.56; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 17:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.53; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -9954,8 +9954,8 @@ unterscheiden.</description>
       </event>
       <event id="49077" guid="45a4133f-555f-54c8-a0c8-6b69f831c005">
         <logo>/media/fire-shonks-2022/submissions/BBJ7JR/P8FF-3F7F_ULTto0M.png</logo>
-        <date>2022-12-30T17:55:00+01:00</date>
-        <start>17:55</start>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
         <slug>jev22-49077-die_technik_hinter_teletext</slug>
