@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 19:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 19:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.53; Woodbine 0.1</version>
+  <version>2022-12-30 19:10; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 19:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 0.53; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -11055,8 +11055,8 @@ Mögliche, aber noch lange nicht bestätigte Paella Zutaten könnten sein ...&#1
       </event>
       <event id="3020" guid="98cb6023-46d6-41dd-85d8-17d43dcaf8a0">
         <logo/>
-        <date>2022-12-30T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2022-12-30T20:30:00+01:00</date>
+        <start>20:30</start>
         <duration>00:45</duration>
         <room>Winterchaos</room>
         <slug>jev22-3020-modular_synth</slug>
