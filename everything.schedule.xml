@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 12:50; FireShonks 0.50; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 12:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
+  <version>2022-12-30 14:10; FireShonks 0.51; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 14:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -9829,9 +9829,9 @@ In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrot
         <start>14:00</start>
         <duration>00:40</duration>
         <room>Fireshonks-Stream</room>
-        <slug>jev22-49114-text_embeddings_fuer_anfaenger</slug>
+        <slug>jev22-49114-text_embeddings_fuer_neulinge</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/</url>
-        <title>Text Embeddings für Anfänger</title>
+        <title>Text Embeddings für Neulinge</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 12:50</version>
+  <version>2022-12-30 14:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4901,9 +4901,9 @@ In diesem Vortrag werden die verschiedenen Szenarien erläutert, in denen Logrot
         <start>14:00</start>
         <duration>00:40</duration>
         <room>Fireshonks</room>
-        <slug>jev22-49114-text_embeddings_fuer_anfaenger</slug>
+        <slug>jev22-49114-text_embeddings_fuer_neulinge</slug>
         <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/</url>
-        <title>Text Embeddings für Anfänger</title>
+        <title>Text Embeddings für Neulinge</title>
         <subtitle/>
         <track>R3S</track>
         <type>Talk</type>

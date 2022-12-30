@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 12:50",
+    "version": "2022-12-30 14:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -5711,9 +5711,9 @@
                 "start": "14:00",
                 "duration": "00:40",
                 "room": "Fireshonks",
-                "slug": "jev22-49114-text_embeddings_fuer_anfaenger",
+                "slug": "jev22-49114-text_embeddings_fuer_neulinge",
                 "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/CZXESA/",
-                "title": "Text Embeddings f\u00fcr Anf\u00e4nger",
+                "title": "Text Embeddings f\u00fcr Neulinge",
                 "subtitle": "",
                 "track": "R3S",
                 "type": "Talk",
