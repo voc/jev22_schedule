@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 17:50; FireShonks 0.56; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 17:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.53; Woodbine 0.1",
+    "version": "2022-12-30 19:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 19:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.53; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11941,7 +11941,7 @@
                 "abstract": "Hier habt ihr die M\u00f6glichkeit eure Hacks und Projekte im Rahmen einer F\u00fcnfminutenpr\u00e4sentation der Community vorzustellen. \r\n\r\nThis is your chance to show your hacks or projects in 5-minute-presentations to the community.",
                 "description": "Ich werde w\u00e4hrend der Veranstaltung umherlaufen und euch auf eure Projekte ansprechen. Ihr werdet die M\u00f6glichkeit bekommen eure Hacks und Projekte als F\u00fcnfminutenpr\u00e4sentation der Community vorstellen zu k\u00f6nnen. Ich werde die Beitr\u00e4ge sammeln und sortieren, sowie den Slot moderieren. Wir freuen uns auf eure Beitr\u00e4ge.\r\n\r\nI will wander around the event and ask you about your project. If you are interested you can show your work to the community in a 5-minute-presentation. I will collect your works and put them in order to moderate the slot. We are happy about your contributions.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 3419,
