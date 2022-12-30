@@ -1,0 +1,40 @@
+{
+  "id": 3858,
+  "guid": "38bb5885-f7af-500b-b082-23bf649492d7",
+  "logo": "",
+  "date": "2022-12-29T15:00:00+01:00",
+  "start": "15:00",
+  "duration": "03:00",
+  "room": "Workshopraum 3 - H2-3.6",
+  "slug": "jev22-3858-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v",
+  "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/",
+  "title": "Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.",
+  "subtitle": "",
+  "track": "Freir\u00e4ume",
+  "type": "Workshop",
+  "language": "de",
+  "abstract": "Ziel der Schulung ist es, in die junge und neue Partyszene das Wissen \u00fcber Substanzen, Safer-Use,\r\nDeeskalation, Awareness, Erste Hilfe und Jugendschutz zu tragen. Die Teilnehmenden sollen die gelernten\r\nInhalte selbst anwenden und multiplikatorisch weitergeben.",
+  "description": "Sozialarbeiter*innen von Mindzone und ConAction  wollem Informationen zum \u201esauber feiern\u201c nicht nur in ihrer allt\u00e4glichen Arbeit an Partyg\u00e4nger*innen sondern auch Veranstaltende im privaten oder \u00f6ffentlichen Raum weitergeben. Durch den Workshop sollen sie theoretische Inputs und praktische Tipps bekommen, um einen sicheren Umgang mit den teils konsumierenden Partyg\u00e4sten zu erlernen und sich hierf\u00fcr ein gesch\u00e4rftes Risikobewusstsein anzueignen. Die Teilnehmer*innen dieser Schulungen\r\nk\u00f6nnen zum einen die Inhalte selbst auf den Partys umsetzen und gleichzeitig aber auch als Szene-\r\nMultiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen Schulungen nur ein Grundstock an Wissen vermittelt werden kann und auch danach die Teilnehmenden keine Expert*innen auf den Themengebieten sind. Es ist zumindest jedoch ein Anfang in der Szene auf wichtige Themen aufmerksam zu machen.",
+  "recording_license": "",
+  "do_not_record": true,
+  "persons": [
+    {
+      "id": 78,
+      "code": "U3NQPM",
+      "public_name": "Patrick Dresen und Sarah Lelle",
+      "biography": "Vortragende:\r\nSarah Lelle Soziale Arbeit (BA);Streetworkerin bei ConAction Condrobs e.V.\r\nPatrick Dresen Sozialarbeiter (BA); Fachberater f\u00fcr Safer Use Harm Reduction im Partysetting, Peerkoordination bei Projekt Mindzone",
+      "answers": []
+    },
+    {
+      "id": 90,
+      "code": "TRUZZB",
+      "public_name": "Mindzone",
+      "biography": "mindzone ist eine Initiative von jungen Partyg\u00e4ngern, die 1996 in M\u00fcnchen entstanden ist und mittlerweile bayernweit im Nachtleben aktiv ist. Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen und illegalen Substanzen in verschiedener Weise auftreten k\u00f6nnen. Als Sozialarbeitende erreichen wir Konsument*innen von Partydrogen durch ein niedrigschwelliges Infostandangebot auf Partys der elektronischen Musikszene. Um einen guten Zugang zu erreichen, arbeiten wir mit ehrenamtlichen Szeneg\u00e4nger*innen, die speziell in drogenrelevanten Belangen geschult werden.",
+      "answers": []
+    }
+  ],
+  "links": [],
+  "attachments": [],
+  "room_id": null,
+  "origin": "forum.freiraeumen.jetzt"
+}

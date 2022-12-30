@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 15:40</version>
+  <version>2022-12-30 15:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -81,13 +81,13 @@ Moderation: Peter Arun Pfaff</description>
         <links/>
         <attachments/>
       </event>
-      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
         <logo/>
         <date>2022-12-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:50</duration>
         <room>Ahlam</room>
-        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1016,13 +1016,13 @@ anonymised.</abstract>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
-      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
+      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-651-lass_mich_durch</slug>
+        <slug>jev22-4969-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle>Wege befreien im urbanen Raum</subtitle>
@@ -1041,13 +1041,13 @@ anonymised.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Ahlam</room>
-        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1097,13 +1097,13 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
+      <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-6202-gebaerdensprache_und_freiraum</slug>
+        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum</title>
         <subtitle>Deafolution!</subtitle>
@@ -2795,13 +2795,13 @@ Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsid
         <links/>
         <attachments/>
       </event>
-      <event id="3618" guid="361efb88-3d99-536c-b963-27fad3254da9">
+      <event id="9386" guid="e938a62f-2fbf-5a99-b2fd-9cda1478da7b">
         <logo>/media/freiraumforum/submissions/QWK3FX/Kolloquium_WiSe_22-23_sO1lEND.jpg</logo>
         <date>2022-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-3618-utopia_dystopia_lost_futures</slug>
+        <slug>jev22-9386-utopia_dystopia_lost_futures</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/QWK3FX/</url>
         <title>Utopia, Dystopia &amp; Lost Futures</title>
         <subtitle>Interdisziplinäres Forschungskolloquium. by Assoziation:E</subtitle>
@@ -5869,40 +5869,45 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <links/>
         <attachments/>
       </event>
-      <event id="8684" guid="86dfbd8c-47d1-5c2a-bbc6-1ff2da203924">
+      <event id="8348" guid="f83483be-0e0e-5fe3-a623-d35b8cb8fa7e">
         <logo/>
-        <date>2022-12-30T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>01:30</duration>
+        <date>2022-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-8684-wdzwo</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/J7YXPG/</url>
-        <title>WdZwo</title>
-        <subtitle>Wir squatten das Outback</subtitle>
+        <slug>jev22-8348-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
+        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
+        <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
+        <subtitle/>
         <track>Freiräume</track>
-        <type>Diskussion</type>
+        <type>Workshop</type>
         <language>de</language>
-        <abstract>In lockerer Runde wollen wir die WdZwo aufleben lassen und mit euch in Austausch und Diskussion treten. Wir reichern die Runde an mit einer Vorstellung der Hofbesetzung in der Holledau und freuen uns über Austausch auch allgemein zum Thema Besetzung.</abstract>
-        <description>Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem öffentlich-werden erfolgte die Räumung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.</description>
+        <abstract>Ziel der Schulung ist es, in die junge und neue Partyszene das Wissen über Substanzen, Safer-Use,&#13;
+Deeskalation, Awareness, Erste Hilfe und Jugendschutz zu tragen. Die Teilnehmenden sollen die gelernten&#13;
+Inhalte selbst anwenden und multiplikatorisch weitergeben.</abstract>
+        <description>Sozialarbeiter*innen von Mindzone und ConAction  wollem Informationen zum „sauber feiern“ nicht nur in ihrer alltäglichen Arbeit an Partygänger*innen sondern auch Veranstaltende im privaten oder öffentlichen Raum weitergeben. Durch den Workshop sollen sie theoretische Inputs und praktische Tipps bekommen, um einen sicheren Umgang mit den teils konsumierenden Partygästen zu erlernen und sich hierfür ein geschärftes Risikobewusstsein anzueignen. Die Teilnehmer*innen dieser Schulungen&#13;
+können zum einen die Inhalte selbst auf den Partys umsetzen und gleichzeitig aber auch als Szene-&#13;
+Multiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen Schulungen nur ein Grundstock an Wissen vermittelt werden kann und auch danach die Teilnehmenden keine Expert*innen auf den Themengebieten sind. Es ist zumindest jedoch ein Anfang in der Szene auf wichtige Themen aufmerksam zu machen.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="142">Aaron</person>
+          <person id="78">Patrick Dresen und Sarah Lelle</person>
+          <person id="90">Mindzone</person>
         </persons>
         <links/>
         <attachments/>
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
+      <event id="651" guid="06515679-7dcb-548b-a4aa-6b16dd0ff4f3">
         <logo/>
         <date>2022-12-30T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-4969-lass_mich_durch</slug>
+        <slug>jev22-651-lass_mich_durch</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/K37GRN/</url>
         <title>Lass mich durch</title>
         <subtitle>Wege befreien im urbanen Raum</subtitle>
@@ -6005,36 +6010,6 @@ Komm in die Gänge! Cheers to 10 years!</abstract>
         </recording>
         <persons>
           <person id="145">Dion</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="4864" guid="48ff64f6-0b5f-5dcd-a921-50fd47787bbc">
-        <logo>/media/freiraumforum/submissions/3HAWBE/Kulturator_Logo_Reinzeichnung-web_rNCO8TZ.jpg</logo>
-        <date>2022-12-30T16:15:00+01:00</date>
-        <start>16:15</start>
-        <duration>00:30</duration>
-        <room>Bhavani</room>
-        <slug>jev22-4864-hacking_social_entrepreneurship_jeder_mensch_ist_gemeinnuetzig_kulturator_gute_dinge_stiftung</slug>
-        <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/3HAWBE/</url>
-        <title>Hacking social entrepreneurship // Jeder Mensch ist gemeinnützig / Kulturator | Gute-Dinge-Stiftung</title>
-        <subtitle/>
-        <track>Freiräume</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Kurz &amp; unterhaltsam: hinter den Kulissen eines Systemhacks, 18 Monate Kampf für gute Dinge, gegen Bürokratie und Bleibenlassen. Wie man ohne Geld eine Stiftung gründet um ein offenes Dach für gute Ideen ohne Bürokratie zu bauen. Ehrenamtlich, seit 6 Jahren. Engagement first, Bürokratie second.</abstract>
-        <description>Johannes und Max haben 2016 den Kulturator gegründet, davor wurden anderthalb Jahre Briefe geschrieben. Das Ziel: eine Stiftung gründen – zu jedem Zweck der Welt – damit alle netten Menschen unter diesem Dach offiziell gemeinnützig aktiv werden können.&#13;
-&#13;
-Dann kann man auch mit geflüchteten Kindern in den Zoo fahren und man kann die Tickets geschenkt bekommen. Einzige Alternative: Verein gründen. Das geht aber nicht allein. Also gründen viele Menschen potemkinsche Vereinsdörfer, mit Schatzmeistern, die keinen Bock haben, Satzungen die keiner schreiben mag, Sitzungen die keiner abhalten will, Notare und Anwaltsbesuche, die keiner zahlen will – nur um am Ende mit Kindern in den Zoo zu fahren.&#13;
-&#13;
-Die meisten lassen das natürlich bleiben. &#13;
-Aber jetzt gibt's uns – und Ihr könnt alle endlich einfach nett sein :)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">Johannes Schricker (Kulturator)</person>
         </persons>
         <links/>
         <attachments/>

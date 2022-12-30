@@ -16,7 +16,7 @@
   "abstract": "Wann ist das, was wir machen gut? Diese Frage stellen sich alle, die kreativ gestaltend unterwegs sind. Es ist die Frage nach den Ma\u00dfst\u00e4ben, Randbedingungen und Zielen unseres Wirkens. Wir sprechen in offener, moderierter Diskussion \u00fcber unsere Ansichten, Erfahrungen und Erkenntnisse dar\u00fcber.",
   "description": "Reflexion des eigenen Tuns und dessen Auswirkungen in regelm\u00e4\u00dfigen Abst\u00e4nden - besonders zum Jahreswechsel - hat sich bew\u00e4hrt als Prozess zu mehr Klarheit und zielgerichteter Planung. Wir tauschen unsere Gedanken aus, bekommen neue Impulse und lernen von einander.",
   "recording_license": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "persons": [
     {
       "id": 23,
