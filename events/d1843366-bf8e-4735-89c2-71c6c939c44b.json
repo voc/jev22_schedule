@@ -13,7 +13,7 @@
   "language": "de",
   "abstract": "",
   "description": "",
-  "do_not_record": false,
+  "do_not_record": true,
   "recording_license": "",
   "url": "https://curious.bio/2022/11/remote-chaos-experience/",
   "logo": "",
