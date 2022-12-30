@@ -2,9 +2,9 @@
   "guid": "82926e86-a7de-43ec-8904-09fca1015eb2",
   "type": "Talk",
   "id": 54988,
-  "slug": "jev22-54988-hirntumordiagnostik",
-  "title": "Hirntumordiagnostik",
-  "subtitle": "",
+  "slug": "jev22-54988-von_dna_zum_datenschutz",
+  "title": "Von DNA zum Datenschutz",
+  "subtitle": "No Streaming, no Record",
   "date": "2022-12-30T20:00:00+01:00",
   "start": "20:00",
   "duration": "01:00",
@@ -13,7 +13,7 @@
   "language": "de",
   "logo": "",
   "abstract": "",
-  "description": "",
+  "description": "No Streaming, no Record",
   "recording": {
     "optout": false
   },

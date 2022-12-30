@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 17:10",
+    "version": "2022-12-30 17:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6351,9 +6351,9 @@
                 "guid": "a4cda022-4123-4a18-801e-7fcf1a68d44e",
                 "type": "Talk",
                 "id": 54987,
-                "slug": "jev22-54987-biometrische_ueberwachung",
-                "title": "Biometrische \u00dcberwachung",
-                "subtitle": "Kartieren zur Gegenwehr",
+                "slug": "jev22-54987-faellt_aus",
+                "title": "F\u00c4LLT AUS",
+                "subtitle": "Biometrische \u00dcberwachung - Kartieren zur Gegenwehr -- F\u00c4LLT AUS",
                 "date": "2022-12-30T18:00:00+01:00",
                 "start": "18:00",
                 "duration": "01:00",
@@ -6377,9 +6377,9 @@
                 "guid": "82926e86-a7de-43ec-8904-09fca1015eb2",
                 "type": "Talk",
                 "id": 54988,
-                "slug": "jev22-54988-hirntumordiagnostik",
-                "title": "Hirntumordiagnostik",
-                "subtitle": "",
+                "slug": "jev22-54988-von_dna_zum_datenschutz",
+                "title": "Von DNA zum Datenschutz",
+                "subtitle": "No Streaming, no Record",
                 "date": "2022-12-30T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
@@ -6388,7 +6388,7 @@
                 "language": "de",
                 "logo": "",
                 "abstract": "",
-                "description": "",
+                "description": "No Streaming, no Record",
                 "recording": {
                   "optout": false
                 },
@@ -6510,7 +6510,7 @@
                 "abstract": "",
                 "description": "Talk \u00fcber selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des W\u00fcrfel, die Firmware und auch das PCB.<br /><br />![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)<br />",
                 "recording_license": "",
-                "do_not_record": true,
+                "do_not_record": false,
                 "persons": [
                   {
                     "id": 13,

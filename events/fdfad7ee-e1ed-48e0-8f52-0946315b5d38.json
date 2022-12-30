@@ -16,7 +16,7 @@
   "abstract": "",
   "description": "Talk \u00fcber selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des W\u00fcrfel, die Firmware und auch das PCB.<br /><br />![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)<br />",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 13,

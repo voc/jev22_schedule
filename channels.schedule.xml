@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 17:10</version>
+  <version>2022-12-30 17:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5551,9 +5551,9 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
       <event guid="a4cda022-4123-4a18-801e-7fcf1a68d44e" id="54987">
         <type>Talk</type>
-        <slug>jev22-54987-biometrische_ueberwachung</slug>
-        <title>Biometrische Überwachung</title>
-        <subtitle>Kartieren zur Gegenwehr</subtitle>
+        <slug>jev22-54987-faellt_aus</slug>
+        <title>FÄLLT AUS</title>
+        <subtitle>Biometrische Überwachung - Kartieren zur Gegenwehr -- FÄLLT AUS</subtitle>
         <date>2022-12-30T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
@@ -5573,9 +5573,9 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
       </event>
       <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
         <type>Talk</type>
-        <slug>jev22-54988-hirntumordiagnostik</slug>
-        <title>Hirntumordiagnostik</title>
-        <subtitle/>
+        <slug>jev22-54988-von_dna_zum_datenschutz</slug>
+        <title>Von DNA zum Datenschutz</title>
+        <subtitle>No Streaming, no Record</subtitle>
         <date>2022-12-30T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
@@ -5584,7 +5584,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <language>de</language>
         <logo/>
         <abstract/>
-        <description/>
+        <description>No Streaming, no Record</description>
         <recording>
           <license/>
           <optout>false</optout>
