@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 03:35</version>
+  <version>2022-12-30 04:14</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -14,11 +14,13 @@
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
     <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
-    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="9183" guid="918367c1-980e-539b-93ec-44da7b2b5bc8">
@@ -135,8 +137,6 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         <attachments/>
       </event>
     </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
@@ -795,6 +795,100 @@ Be warned: This talk will cover enough information to make you consider building
         <attachments/>
       </event>
     </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49310" guid="31c55a8e-77c7-569e-818e-22a7b9c9edf5">
+        <logo/>
+        <date>2022-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49310-opening</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="265">Carina Haupt</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
+        <logo/>
+        <date>2022-12-27T17:45:00+01:00</date>
+        <start>17:45</start>
+        <duration>00:45</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-9081-gnu_taler</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
+        <title>GNU Taler</title>
+        <subtitle>mit Krypto bezahlen ohne Blockchain?</subtitle>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es für eine Veranstaltung betreiben kann.&#13;
+&#13;
+Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Windfisch</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="6708" guid="a67ef084-e55e-5910-98fd-db72b633e5ce">
+        <logo/>
+        <date>2022-12-27T18:45:00+01:00</date>
+        <start>18:45</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
+        <title>Werd Dein eigener ISPv6</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.</abstract>
+        <description>IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und&#13;
+eine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt&#13;
+IPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix&#13;
+haben und da drüber End-to-End Server betreiben können. Ist aber leider gar nicht&#13;
+so. Weil mich das  geärgert hat, hab ich angefangen, mich durch die Formalitäten&#13;
+zu kämpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.&#13;
+Dabei was gelernt über:&#13;
+   - Formulare&#13;
+   - Tunnels&#13;
+   - "Sponsoring LIRs"&#13;
+   - RIPE Databases&#13;
+   - Border Gateway Protocol&#13;
+Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">bauerm</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="409" guid="ef0a4cff-09db-5cb4-bbeb-ecb3ca678345">
         <logo/>
@@ -893,33 +987,7 @@ anonymised.</abstract>
         <attachments/>
       </event>
     </room>
-    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
-      <event id="49310" guid="31c55a8e-77c7-569e-818e-22a7b9c9edf5">
-        <logo/>
-        <date>2022-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:30</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49310-opening</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/ZB3LHM/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Herzlich Willkommen bei Hellarious - Hacking in Hell!</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="265">Carina Haupt</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="2158" guid="cd2bc158-39c7-4f9c-bd87-0bf9d6061875">
         <date>2022-12-27T12:30:00+01:00</date>
@@ -945,73 +1013,7 @@ anonymised.</abstract>
         <persons/>
       </event>
     </room>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
-      <event id="9081" guid="90814dd8-5e51-5f60-9fa5-988932bf2aac">
-        <logo/>
-        <date>2022-12-27T17:45:00+01:00</date>
-        <start>17:45</start>
-        <duration>00:45</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-9081-gnu_taler</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/8LJY9B/</url>
-        <title>GNU Taler</title>
-        <subtitle>mit Krypto bezahlen ohne Blockchain?</subtitle>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es für eine Veranstaltung betreiben kann.&#13;
-&#13;
-Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="2">Windfisch</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="6708" guid="a67ef084-e55e-5910-98fd-db72b633e5ce">
-        <logo/>
-        <date>2022-12-27T18:45:00+01:00</date>
-        <start>18:45</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-6708-werd_dein_eigener_ispv6</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/VLW3VB/</url>
-        <title>Werd Dein eigener ISPv6</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.</abstract>
-        <description>IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und&#13;
-eine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt&#13;
-IPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix&#13;
-haben und da drüber End-to-End Server betreiben können. Ist aber leider gar nicht&#13;
-so. Weil mich das  geärgert hat, hab ich angefangen, mich durch die Formalitäten&#13;
-zu kämpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.&#13;
-Dabei was gelernt über:&#13;
-   - Formulare&#13;
-   - Tunnels&#13;
-   - "Sponsoring LIRs"&#13;
-   - RIPE Databases&#13;
-   - Border Gateway Protocol&#13;
-Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="17">bauerm</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="4969" guid="496911dd-030d-55dc-9692-8552ec8a676b">
@@ -1206,8 +1208,6 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <attachments/>
       </event>
     </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
       <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
         <abstract>Intro to Solar Protocol</abstract>
@@ -2019,158 +2019,6 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
         <attachments/>
       </event>
     </room>
-    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
-      <event id="631" guid="0d6314a9-9049-59b4-b6e3-3d909086b378">
-        <logo>/media/rtc22/submissions/MCVSWU/Logo_blue_BNLLwsP.png</logo>
-        <date>2022-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Sparti</room>
-        <slug>jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/MCVSWU/</url>
-        <title>Machen wir die Elektronik durch "Hardware as a service" kreislauffähiger</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Die Elektronikindustrie verursacht eine große Menge negativer externer Effekte, von den Minen bis zum Ende der Lebensdauer der Produkte. Viele Studien haben gezeigt, dass die meisten dieser Auswirkungen während der Entstehung und dem Ende des Produkts auftreten. Daher besteht die erste Priorität darin, die Zahl der hergestellten und verkauften elektronischen Geräte zu verringern. Dies ist jedoch für Unternehmen, die ausschließlich auf den Verkauf dieser Geräte angewiesen sind, nicht realisierbar. Daher ist ein anderes Geschäftsmodell erforderlich: Product as as Service (PaaS). Wir werden untersuchen, unter welchen Bedingungen diese neue Art des Wirtschaftens wirklich nachhaltig sein kann (Spoiler: indem sie zirkulär ist!) und ob die Elektronik nicht auch zu einem Gemeingut werden könnte.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="19">Lina Dingler</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7505" guid="75057471-bd37-59f6-90b1-b4542d721684">
-        <logo/>
-        <date>2022-12-28T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>01:30</duration>
-        <room>Sparti</room>
-        <slug>jev22-7505-ipv6_einfach_nutzen</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/</url>
-        <title>IPv6 einfach nutzen</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Eine einfache Vorstellung von  IPv6</abstract>
-        <description>IPv6 am Beispiel gezeigt.  &#13;
-&#13;
-Mit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
-Dazu Referenzen und Literaturhinweise.&#13;
-&#13;
-Vorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. &#13;
-Das geschieht nur per IPv6 aber ohne (zusätzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.&#13;
-&#13;
-Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit Clemens Schrimpe https://requestforcomments.de/archives/412&#13;
-&#13;
-Zum Mitlesen wird der Vortrag hier abrufbar sein: &#13;
-https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/IPv6-verbinden_und_ergaenzende_Erlaeuterungen.html</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9">mutant</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="3857" guid="3857781d-01fe-5eb6-85e4-23c38dcb1205">
-        <logo>/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png</logo>
-        <date>2022-12-28T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>01:00</duration>
-        <room>Sparti</room>
-        <slug>jev22-3857-wir_koennen_dich_durchschauen</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
-        <title>Wir können dich durchschauen</title>
-        <subtitle>Bildgebung in der Medizin</subtitle>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Dunkle Räume, teure Bildschirme, spannende Technik - willkommen in der Radiologie! Erfahrt welche gängigen Möglichkeiten es gibt, Bilder vom Inneren des Körpers zu machen, wie die Verfahren funktionieren und wofür sie geeignet sind.</abstract>
-        <description>In diesem Vortrag werden die Grundlagen der medizinischen Bildgebung vorgestellt und gezeigt, was die verschiedenen Verfahren wie Ultraschall, Röntgen, CT und MRT beinhalten und wie sie funktionieren. Wir gehen auf Anwendungsbereiche und Risiken ein und sehen, was sich hinter den häufig verwendeten Abkürzungen verbirgt. Der Vortrag richtet sich an interessierte Laien und verzichtet auf möglicherweise verstörende Fotos. Seid dabei, um mehr über die spannende Welt der medizinischen Bildgebung zu erfahren!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="12">qbit</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7282" guid="a72ea826-ff65-5267-b8ad-f916698ab19a">
-        <logo>/media/rtc22/submissions/EXAGFT/6CC33200-3954-4A59-8D6A-F167CB0F3866_R5lGEkK.png</logo>
-        <date>2022-12-28T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>01:00</duration>
-        <room>Sparti</room>
-        <slug>jev22-7282-antiverschwurbeltes_axiom</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/EXAGFT/</url>
-        <title>antiverschwurbeltes axiom</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Echsenmenschen präsentieren ihre Aktionen und teilen Ihre Skills. Taucht mit uns in die faszinierende Welt der Schwurbel.&#13;
-&#13;
-FRÜHERE BOTSCHAFTEN DER REPTILOIDEN AN DIE MENSCHHEIT&#13;
-&#13;
-⏩ 2020 zur kritischen einführungswoche tu-berlin :   https://youtu.be/dpPrUPpm5pI?t=1018 mit einführung in die schwurbologie&#13;
-&#13;
-⏩ rc3 2020 im //aboutblank berlin: https://media.ccc.de/v/rc3-11498-schwurbeldemos_der_neuen_rechten_und_gegenprotest mit stürmchen auf das parlament&#13;
-&#13;
-⏩ rc3 2021 in der c-base berlin:  https://kolektiva.media/w/okL7ACMAVt52hHn2Q1nMf7</abstract>
-        <description>Videobeiträge: &#13;
-Lustige Reaktionen der Schwurbel auf Gegenprotest, „Pest of“ bundesweiter Echsenproteste  2022, deutsche "Spache" effektiv zerstören mittels Gendern, How-to-mit-Schwurbel-reden, Echsen-Resilienz, Parasitär-Elitär Musikvideo&#13;
-Live:&#13;
-Hymne der Echsenmenschen mit der Band "Marcel Pascal und die High Quality Girls", Jeapardy, Echsen Sitcom, Kochen mit Atti, Q&amp;A (euer Part)&#13;
-&#13;
-https://antiverschwurbelte-aktion.de/&#13;
-join us!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="13">Schnappi</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="5374" guid="5a374648-e0bf-53ff-84f6-998fdeefce9b">
-        <logo/>
-        <date>2022-12-28T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>02:30</duration>
-        <room>Sparti</room>
-        <slug>jev22-5374-cursedin</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
-        <title>cursedin</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Performance</type>
-        <language>de</language>
-        <abstract>wahrscheinlich liquid DnB. tanzbar, darf aber auch zu code verarbeitet werden</abstract>
-        <description>https://soundcloud.com/cursedin</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="10">Kerstin</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
       <event id="49292" guid="cb77f0fa-6037-568c-b6b0-d3da3ff8d593">
         <logo>/media/hacking-in-hell-2022/submissions/AKSLWC/IMG_20200918_193952_XB6Lw6P.jpg</logo>
@@ -2219,211 +2067,6 @@ In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt
         </recording>
         <persons>
           <person id="265">Carina Haupt</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
-      <event id="6037" guid="60c37cca-de6c-510c-89f5-4c7bf3c0ab75">
-        <date>2022-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>CCL</room>
-        <slug>jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit</slug>
-        <title>Martyra Peng und die Zukunft der Sexarbeit</title>
-        <subtitle/>
-        <track>Curious Community Labs</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Sexualisierte Gewalt/erzwungene Sexarbeit. Meine Thesen über toxische Geschäftsmodelle im Plattformkapitalismus beruhen auf langjähriger Forschung in sozialen Netzwerken über die technischen Voraussetzungen von Patriarchaler Machtausübung am Beispiel sexueller Ausbeutung. Dazu erschien von mir das Buch Sexwork 3.0 Stichworte: Internet Ökonomie Gesellschaft</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
-        <logo/>
-        <attachments/>
-        <persons>
-          <person id="1000">Martyra Peng</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="309" guid="0b3095e5-9da6-5d36-9f41-f57e4aa265f5">
-        <date>2022-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:00</duration>
-        <room>CCL</room>
-        <slug>jev22-309-mikroskopieren_und_kochen</slug>
-        <title>Mikroskopieren und Kochen</title>
-        <subtitle>Workshop</subtitle>
-        <track>Curious Community Labs</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Fotos von Mikroskopie-Präparaten möglichst genau als Suppe nachkochen. Hilfsmittel: Glasteller, Mikroskop, Kamera. Alles muss essbar und schmackhaft sein. Und ausgelöffelt werden</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
-        <logo/>
-        <attachments/>
-        <persons/>
-        <links/>
-      </event>
-      <event id="6311" guid="63115c2b-d2d8-502c-90d8-132dfe7a3ee0">
-        <date>2022-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:20</duration>
-        <room>CCL</room>
-        <slug>jev22-6311-die_wunderbare_welt_der_flaschengaerten</slug>
-        <title>Die wunderbare Welt der Flaschengärten</title>
-        <subtitle/>
-        <track>Curious Community Labs</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>Mit Moos, Steinen und Pflanzen lassen sich in einem geschlossenen Ökosystem (Schraubglas) wundervolle Landschaften zaubern. Einmal gewässert müssen sie nicht mehr gegossen werden! Gartengestaltung in Miniatur – pflegeleicht, kreativ und spannend zu beobachten.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
-        <logo/>
-        <attachments/>
-        <persons>
-          <person id="1001">Felix Schimmeyer</person>
-        </persons>
-        <links/>
-      </event>
-      <event id="9195" guid="919dcf50-7477-5f1a-b363-cd880113d3fc">
-        <date>2022-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>CCL</room>
-        <slug>jev22-9195-unser_weg_zum_portablen_dna_synthesizer</slug>
-        <title>Unser Weg zum portablen DNA-Synthesizer</title>
-        <subtitle/>
-        <track>Curious Community Labs</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
-        <logo/>
-        <attachments/>
-        <persons>
-          <person id="1002">Bernhard Tittelbach</person>
-        </persons>
-        <links/>
-      </event>
-    </room>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
-        <logo/>
-        <date>2022-12-28T11:42:23+01:00</date>
-        <start>11:42</start>
-        <duration>00:15</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49308-opening</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/M7TWWN/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Impulse Vortrag</type>
-        <language>de</language>
-        <abstract>Welcome to xrelog22</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3509">XR.Labs Operation Group</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="53789" guid="bb608932-d054-579c-b207-90fb2db578bf">
-        <logo/>
-        <date>2022-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-53789-the_evolution_of_the_metaverse</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/VK9JTW/</url>
-        <title>The Evolution of the Metaverse</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>en</language>
-        <abstract>The Evolution of the Metaverse (A Late Night One ...)</abstract>
-        <description>Some toughts about the evolution of the metaverse compared to the evolution of the internet itself by DarlingVR Creator.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3886">Darling</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49305" guid="8eab3ce0-c079-5052-82b3-98ac397d240c">
-        <logo/>
-        <date>2022-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49305-overte</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
-        <title>Overte</title>
-        <subtitle>In-world creation with Voxels, Physics, etc.</subtitle>
-        <track>Sachen Machen</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>Casual hands-on in Overte</abstract>
-        <description>Try out Overte and its in-world creation with the developers.&#13;
-You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
-You can also spectate the event on PeerTube.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49219" guid="0c89378a-1c09-5bae-9f59-ca6f55b4f5d4">
-        <logo/>
-        <date>2022-12-28T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49219-mafifa</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
-        <title>mafifa</title>
-        <subtitle>WM 2030</subtitle>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.</abstract>
-        <description>Finden wir den nächsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
-Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live übertragen und kommentiert. Belly Rethy ist raus.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3253">CodeFreezR</person>
         </persons>
         <links/>
         <attachments/>
@@ -2589,6 +2232,411 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <attachments/>
       </event>
     </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
+        <type>Talk</type>
+        <slug>jev22-54984-einfuehrung_in_nixos</slug>
+        <title>Einfuehrung in NixOS</title>
+        <subtitle/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">Felix Ulonska</person>
+        </persons>
+      </event>
+      <event guid="17386a7d-577c-46a0-a994-cbbe1ac29bf7" id="54985">
+        <type>Talk</type>
+        <slug>jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
+        <title>Wie No-Code und Serverless Ideen verwirklichen und den Markt verändern</title>
+        <subtitle/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Max</person>
+          <person id="3">Jonathan</person>
+        </persons>
+      </event>
+    </room>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="631" guid="0d6314a9-9049-59b4-b6e3-3d909086b378">
+        <logo>/media/rtc22/submissions/MCVSWU/Logo_blue_BNLLwsP.png</logo>
+        <date>2022-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Sparti</room>
+        <slug>jev22-631-machen_wir_die_elektronik_durch_hardware_as_a_service_kreislauffaehiger</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/MCVSWU/</url>
+        <title>Machen wir die Elektronik durch "Hardware as a service" kreislauffähiger</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Die Elektronikindustrie verursacht eine große Menge negativer externer Effekte, von den Minen bis zum Ende der Lebensdauer der Produkte. Viele Studien haben gezeigt, dass die meisten dieser Auswirkungen während der Entstehung und dem Ende des Produkts auftreten. Daher besteht die erste Priorität darin, die Zahl der hergestellten und verkauften elektronischen Geräte zu verringern. Dies ist jedoch für Unternehmen, die ausschließlich auf den Verkauf dieser Geräte angewiesen sind, nicht realisierbar. Daher ist ein anderes Geschäftsmodell erforderlich: Product as as Service (PaaS). Wir werden untersuchen, unter welchen Bedingungen diese neue Art des Wirtschaftens wirklich nachhaltig sein kann (Spoiler: indem sie zirkulär ist!) und ob die Elektronik nicht auch zu einem Gemeingut werden könnte.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">Lina Dingler</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7505" guid="75057471-bd37-59f6-90b1-b4542d721684">
+        <logo/>
+        <date>2022-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>Sparti</room>
+        <slug>jev22-7505-ipv6_einfach_nutzen</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/UWUJ8U/</url>
+        <title>IPv6 einfach nutzen</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine einfache Vorstellung von  IPv6</abstract>
+        <description>IPv6 am Beispiel gezeigt.  &#13;
+&#13;
+Mit Erlaeuterungen von Begriffen, d.h. einfache Grundlagen zum Adressaufbau in IPv6 werden vorgestellt. &#13;
+Dazu Referenzen und Literaturhinweise.&#13;
+&#13;
+Vorgestellt wird eine praktische Anwendung des IPv6 Internets, um eine Verbindung zu entfernten Maschinen aufzunehmen. &#13;
+Das geschieht nur per IPv6 aber ohne (zusätzliche) Software, ohne VPN und (fast) ohne Hilfsmittel.&#13;
+&#13;
+Zur Einstimmung empfehle ich den Podcast "Anna-Lena Baecker RFCE014: IPv6" mit Clemens Schrimpe https://requestforcomments.de/archives/412&#13;
+&#13;
+Zum Mitlesen wird der Vortrag hier abrufbar sein: &#13;
+https://schweinekraftland.de/Home_Network_access_IPv6/Home_Network_IPv6_v2_HTML/IPv6-verbinden_und_ergaenzende_Erlaeuterungen.html</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9">mutant</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="3857" guid="3857781d-01fe-5eb6-85e4-23c38dcb1205">
+        <logo>/media/rtc22/submissions/UGPT9B/DALLE_2022-12-03_14.48.18_-_a_radiologist_holding_an_xray_image_p1P4tvI.png</logo>
+        <date>2022-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Sparti</room>
+        <slug>jev22-3857-wir_koennen_dich_durchschauen</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/UGPT9B/</url>
+        <title>Wir können dich durchschauen</title>
+        <subtitle>Bildgebung in der Medizin</subtitle>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Dunkle Räume, teure Bildschirme, spannende Technik - willkommen in der Radiologie! Erfahrt welche gängigen Möglichkeiten es gibt, Bilder vom Inneren des Körpers zu machen, wie die Verfahren funktionieren und wofür sie geeignet sind.</abstract>
+        <description>In diesem Vortrag werden die Grundlagen der medizinischen Bildgebung vorgestellt und gezeigt, was die verschiedenen Verfahren wie Ultraschall, Röntgen, CT und MRT beinhalten und wie sie funktionieren. Wir gehen auf Anwendungsbereiche und Risiken ein und sehen, was sich hinter den häufig verwendeten Abkürzungen verbirgt. Der Vortrag richtet sich an interessierte Laien und verzichtet auf möglicherweise verstörende Fotos. Seid dabei, um mehr über die spannende Welt der medizinischen Bildgebung zu erfahren!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">qbit</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7282" guid="a72ea826-ff65-5267-b8ad-f916698ab19a">
+        <logo>/media/rtc22/submissions/EXAGFT/6CC33200-3954-4A59-8D6A-F167CB0F3866_R5lGEkK.png</logo>
+        <date>2022-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Sparti</room>
+        <slug>jev22-7282-antiverschwurbeltes_axiom</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/EXAGFT/</url>
+        <title>antiverschwurbeltes axiom</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Echsenmenschen präsentieren ihre Aktionen und teilen Ihre Skills. Taucht mit uns in die faszinierende Welt der Schwurbel.&#13;
+&#13;
+FRÜHERE BOTSCHAFTEN DER REPTILOIDEN AN DIE MENSCHHEIT&#13;
+&#13;
+⏩ 2020 zur kritischen einführungswoche tu-berlin :   https://youtu.be/dpPrUPpm5pI?t=1018 mit einführung in die schwurbologie&#13;
+&#13;
+⏩ rc3 2020 im //aboutblank berlin: https://media.ccc.de/v/rc3-11498-schwurbeldemos_der_neuen_rechten_und_gegenprotest mit stürmchen auf das parlament&#13;
+&#13;
+⏩ rc3 2021 in der c-base berlin:  https://kolektiva.media/w/okL7ACMAVt52hHn2Q1nMf7</abstract>
+        <description>Videobeiträge: &#13;
+Lustige Reaktionen der Schwurbel auf Gegenprotest, „Pest of“ bundesweiter Echsenproteste  2022, deutsche "Spache" effektiv zerstören mittels Gendern, How-to-mit-Schwurbel-reden, Echsen-Resilienz, Parasitär-Elitär Musikvideo&#13;
+Live:&#13;
+Hymne der Echsenmenschen mit der Band "Marcel Pascal und die High Quality Girls", Jeapardy, Echsen Sitcom, Kochen mit Atti, Q&amp;A (euer Part)&#13;
+&#13;
+https://antiverschwurbelte-aktion.de/&#13;
+join us!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Schnappi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5374" guid="5a374648-e0bf-53ff-84f6-998fdeefce9b">
+        <logo/>
+        <date>2022-12-28T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>02:30</duration>
+        <room>Sparti</room>
+        <slug>jev22-5374-cursedin</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/KMUA7T/</url>
+        <title>cursedin</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Performance</type>
+        <language>de</language>
+        <abstract>wahrscheinlich liquid DnB. tanzbar, darf aber auch zu code verarbeitet werden</abstract>
+        <description>https://soundcloud.com/cursedin</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="10">Kerstin</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
+      <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
+        <logo/>
+        <date>2022-12-28T11:42:23+01:00</date>
+        <start>11:42</start>
+        <duration>00:15</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49308-opening</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/M7TWWN/</url>
+        <title>Opening</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Impulse Vortrag</type>
+        <language>de</language>
+        <abstract>Welcome to xrelog22</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3509">XR.Labs Operation Group</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="53789" guid="bb608932-d054-579c-b207-90fb2db578bf">
+        <logo/>
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-53789-the_evolution_of_the_metaverse</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/VK9JTW/</url>
+        <title>The Evolution of the Metaverse</title>
+        <subtitle/>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>en</language>
+        <abstract>The Evolution of the Metaverse (A Late Night One ...)</abstract>
+        <description>Some toughts about the evolution of the metaverse compared to the evolution of the internet itself by DarlingVR Creator.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3886">Darling</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49305" guid="8eab3ce0-c079-5052-82b3-98ac397d240c">
+        <logo/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49305-overte</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
+        <title>Overte</title>
+        <subtitle>In-world creation with Voxels, Physics, etc.</subtitle>
+        <track>Sachen Machen</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Casual hands-on in Overte</abstract>
+        <description>Try out Overte and its in-world creation with the developers.&#13;
+You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
+You can also spectate the event on PeerTube.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3418">Julian Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49219" guid="0c89378a-1c09-5bae-9f59-ca6f55b4f5d4">
+        <logo/>
+        <date>2022-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49219-mafifa</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
+        <title>mafifa</title>
+        <subtitle>WM 2030</subtitle>
+        <track>Activism</track>
+        <type>Live Session (30)</type>
+        <language>de</language>
+        <abstract>mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.</abstract>
+        <description>Finden wir den nächsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
+Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live übertragen und kommentiert. Belly Rethy ist raus.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3253">CodeFreezR</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+      <event id="6037" guid="60c37cca-de6c-510c-89f5-4c7bf3c0ab75">
+        <date>2022-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>CCL</room>
+        <slug>jev22-6037-martyra_peng_und_die_zukunft_der_sexarbeit</slug>
+        <title>Martyra Peng und die Zukunft der Sexarbeit</title>
+        <subtitle/>
+        <track>Curious Community Labs</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sexualisierte Gewalt/erzwungene Sexarbeit. Meine Thesen über toxische Geschäftsmodelle im Plattformkapitalismus beruhen auf langjähriger Forschung in sozialen Netzwerken über die technischen Voraussetzungen von Patriarchaler Machtausübung am Beispiel sexueller Ausbeutung. Dazu erschien von mir das Buch Sexwork 3.0 Stichworte: Internet Ökonomie Gesellschaft</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
+        <logo/>
+        <attachments/>
+        <persons>
+          <person id="1000">Martyra Peng</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="309" guid="0b3095e5-9da6-5d36-9f41-f57e4aa265f5">
+        <date>2022-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>CCL</room>
+        <slug>jev22-309-mikroskopieren_und_kochen</slug>
+        <title>Mikroskopieren und Kochen</title>
+        <subtitle>Workshop</subtitle>
+        <track>Curious Community Labs</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Fotos von Mikroskopie-Präparaten möglichst genau als Suppe nachkochen. Hilfsmittel: Glasteller, Mikroskop, Kamera. Alles muss essbar und schmackhaft sein. Und ausgelöffelt werden</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
+        <logo/>
+        <attachments/>
+        <persons/>
+        <links/>
+      </event>
+      <event id="6311" guid="63115c2b-d2d8-502c-90d8-132dfe7a3ee0">
+        <date>2022-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:20</duration>
+        <room>CCL</room>
+        <slug>jev22-6311-die_wunderbare_welt_der_flaschengaerten</slug>
+        <title>Die wunderbare Welt der Flaschengärten</title>
+        <subtitle/>
+        <track>Curious Community Labs</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Mit Moos, Steinen und Pflanzen lassen sich in einem geschlossenen Ökosystem (Schraubglas) wundervolle Landschaften zaubern. Einmal gewässert müssen sie nicht mehr gegossen werden! Gartengestaltung in Miniatur – pflegeleicht, kreativ und spannend zu beobachten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
+        <logo/>
+        <attachments/>
+        <persons>
+          <person id="1001">Felix Schimmeyer</person>
+        </persons>
+        <links/>
+      </event>
+      <event id="9195" guid="919dcf50-7477-5f1a-b363-cd880113d3fc">
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>CCL</room>
+        <slug>jev22-9195-unser_weg_zum_portablen_dna_synthesizer</slug>
+        <title>Unser Weg zum portablen DNA-Synthesizer</title>
+        <subtitle/>
+        <track>Curious Community Labs</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
+        <logo/>
+        <attachments/>
+        <persons>
+          <person id="1002">Bernhard Tittelbach</person>
+        </persons>
+        <links/>
+      </event>
+    </room>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="2814" guid="7a0fc001-e587-47e1-b378-b6ec7e666337">
         <logo/>
@@ -2946,54 +2994,6 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         </persons>
         <links/>
         <attachments/>
-      </event>
-    </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
-      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
-        <type>Talk</type>
-        <slug>jev22-54984-einfuehrung_in_nixos</slug>
-        <title>Einfuehrung in NixOS</title>
-        <subtitle/>
-        <date>2022-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>01:00</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="1">Felix Ulonska</person>
-        </persons>
-      </event>
-      <event guid="17386a7d-577c-46a0-a994-cbbe1ac29bf7" id="54985">
-        <type>Talk</type>
-        <slug>jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
-        <title>Wie No-Code und Serverless Ideen verwirklichen und den Markt verändern</title>
-        <subtitle/>
-        <date>2022-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="2">Max</person>
-          <person id="3">Jonathan</person>
-        </persons>
       </event>
     </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
@@ -3738,6 +3738,284 @@ https://wiki.hip-berlin.de/index.php?title=Powerpoint_Karaoke</description>
         <attachments/>
       </event>
     </room>
+    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
+      <event id="49291" guid="ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8">
+        <logo/>
+        <date>2022-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49291-ueberwacht_mehr_insekten</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
+        <title>Überwacht mehr Insekten!</title>
+        <subtitle/>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Entomolog:innen sind eine aussterbende Spezies mit einem krassen Fähigkeitspektrum. Die zurückgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur für die Tierchen selber, sondern letztendlich auch für uns und die uns umgebenden Ökosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.</abstract>
+        <description>Nach einem gemütlichen Input zur ökologischen Situation der Wildbienen (v. A. in Europa) und warum uns diese interessieren sollte, werden ein paar verschiedene Projekte/Ansätze vorgestellt, welche Möglichkeiten zur Verbesserung der Situation versucht werden und wie man sich einbringen kann, bevor wir in den offenen Austausch einsteigen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3399">curtisanne</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="55180" guid="352792c2-578f-5701-a76a-4921d562bbc2">
+        <logo/>
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-55180-das_geheime_leben_der_zelle</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BEJAFE/</url>
+        <title>Das geheime Leben der Zelle</title>
+        <subtitle>wie das Leben funktioniert</subtitle>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Bunter Crash-Kurs über die Merkmale des Lebens - und die winzigen, wilden, überraschenden und geschäftigen Mechanismen, die es zum Erhalt und Vermehrung verwendet.</abstract>
+        <description>Vortrag ohne Folien, dafür mit handgezeichnetem "Tafelbild" und öffentlichem Bildmaterial. Keine besonderen Vorkenntnisse erforderlich, es kann hoffentlich jeder was dabei mitnehmen. &#13;
+&#13;
+Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3935">Paul</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49289" guid="8b87caeb-8133-58f9-947a-5106630a29b3">
+        <logo/>
+        <date>2022-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49289-the_state_of_the_state</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
+        <title>The state of the state</title>
+        <subtitle>die wichtigsten Themen der digitalen Verwaltung</subtitle>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Verwaltungsdigitalisierung is trodding on.</abstract>
+        <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3395">Spyro</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="49302" guid="8e57baa4-ef35-5128-a04d-c5e461322fc5">
+        <logo/>
+        <date>2022-12-29T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>00:30</duration>
+        <room>Bierschoine</room>
+        <slug>jev22-49302-iridium_reverse_engineering</slug>
+        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
+        <title>Iridium reverse engineering</title>
+        <subtitle>News seit 2016</subtitle>
+        <track>Hellarious</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.</abstract>
+        <description>Dieser Vortrag gibt eine Uebersicht zu den Verbessungen der Tools, neu verfuegbarer Hardware und zum Verstaendnis der Daten die sich ueber das Netzwerk sammeln lassen.&#13;
+&#13;
+Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="379">schneider</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
+      <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
+        <logo/>
+        <date>2022-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
+        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?&#13;
+Want to get organized and get an efficient overview of all your TODOs?&#13;
+Or already using some concepts and want to go deeper and learn (hopefully) some new tricks?&#13;
+Then join this talk.</abstract>
+        <description>First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind &amp; workflows.&#13;
+&#13;
+Second half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) &#13;
+&#13;
+Third is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.&#13;
+Best way to learn and teach is by communicating, so lets talk!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">MaW</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="2775" guid="2f7757c0-259b-5899-90c4-0690be7a4b35">
+        <logo>/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg</logo>
+        <date>2022-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:45</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-2775-surviving_as_a_nerd</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
+        <title>Surviving as a NERD</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Relationship Survival Guide für Nerds</abstract>
+        <description>Talking Points:&#13;
+Was wir mit Nerd meinen&#13;
+Egoismus vs. Authentisches Selbst&#13;
+Das Ziel&#13;
+Hack dein (sozial) Leben&#13;
+Hack deine Beziehungen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">Akira DeLaine</person>
+          <person id="14">SycretSoul</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="982" guid="be09a825-3f68-5362-b03f-bdae90ce5588">
+        <logo/>
+        <date>2022-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>00:30</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-982-schlangenprogrammiernacht</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
+        <title>Schlangenprogrammiernacht</title>
+        <subtitle>Ein Blick hinter die Kulissen</subtitle>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein für die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.</abstract>
+        <description>Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!&#13;
+&#13;
+Konkret wird es darum gehen…&#13;
+&#13;
+- wie der Gameserver mit den Bot-Prozessen kommuniziert,&#13;
+- wie die Unterstützung mehrerer Programmiersprachen umgesetzt ist und&#13;
+- wie verhindert wird, dass die User mit ihrem Code das Hostsystem übernehmen.&#13;
+&#13;
+Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">Thomas „cfr34k“</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="7656" guid="d765694d-8e4c-5eb2-aa64-8815a6693661">
+        <logo>/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg</logo>
+        <date>2022-12-29T16:15:00+01:00</date>
+        <start>16:15</start>
+        <duration>02:00</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
+        <title>Schafkopf für Anfänger</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Mal was Analoges - Schafkopfen für Anfänger:&#13;
+Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">MikeTsenatek</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="5366" guid="536a6366-86cf-5b4e-836c-dacf77bf3d8c">
+        <logo/>
+        <date>2022-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>03:00</duration>
+        <room>Seminarraum</room>
+        <slug>jev22-5366-irgendwas_mit_seil</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/HVXVCS/</url>
+        <title>Irgendwas mit Seil</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>am lebenden Objekt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
+        <type>Talk</type>
+        <slug>jev22-54986-risc_v</slug>
+        <title>RISC-V</title>
+        <subtitle>Eine OpenSource Prozessorarchitektur</subtitle>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">David Ahlmer</person>
+        </persons>
+      </event>
+    </room>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="8920" guid="ad8d9204-0bca-55b0-8733-956fd2127b77">
         <logo/>
@@ -3959,137 +4237,6 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <attachments/>
       </event>
     </room>
-    <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
-      <event id="49291" guid="ec47ccd5-d68d-5ba3-948a-a8ed5056a2d8">
-        <logo/>
-        <date>2022-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49291-ueberwacht_mehr_insekten</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/B8CYZU/</url>
-        <title>Überwacht mehr Insekten!</title>
-        <subtitle/>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Entomolog:innen sind eine aussterbende Spezies mit einem krassen Fähigkeitspektrum. Die zurückgehenden Ergebnisse der Feldarbeit versucht man mangels Expert:innennachwuchs seit einiger Zeit durch die Entwicklung verschiedener Citizen Science-Projekten zu kompensieren. Doch warum ist ein kontinuierliches Insekten-Monitoring eigentlich so wichtig? - Nicht nur für die Tierchen selber, sondern letztendlich auch für uns und die uns umgebenden Ökosysteme? Ein kleiner Einblick sowie unkomplizierte Handelsoptionen werden in diesem Talk, v. A. am Beispiel der Wildbienen, vermittelt.</abstract>
-        <description>Nach einem gemütlichen Input zur ökologischen Situation der Wildbienen (v. A. in Europa) und warum uns diese interessieren sollte, werden ein paar verschiedene Projekte/Ansätze vorgestellt, welche Möglichkeiten zur Verbesserung der Situation versucht werden und wie man sich einbringen kann, bevor wir in den offenen Austausch einsteigen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3399">curtisanne</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="55180" guid="352792c2-578f-5701-a76a-4921d562bbc2">
-        <logo/>
-        <date>2022-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-55180-das_geheime_leben_der_zelle</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/BEJAFE/</url>
-        <title>Das geheime Leben der Zelle</title>
-        <subtitle>wie das Leben funktioniert</subtitle>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Bunter Crash-Kurs über die Merkmale des Lebens - und die winzigen, wilden, überraschenden und geschäftigen Mechanismen, die es zum Erhalt und Vermehrung verwendet.</abstract>
-        <description>Vortrag ohne Folien, dafür mit handgezeichnetem "Tafelbild" und öffentlichem Bildmaterial. Keine besonderen Vorkenntnisse erforderlich, es kann hoffentlich jeder was dabei mitnehmen. &#13;
-&#13;
-Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werden.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3935">Paul</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49289" guid="8b87caeb-8133-58f9-947a-5106630a29b3">
-        <logo/>
-        <date>2022-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>00:30</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49289-the_state_of_the_state</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/S8JDP7/</url>
-        <title>The state of the state</title>
-        <subtitle>die wichtigsten Themen der digitalen Verwaltung</subtitle>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Verwaltungsdigitalisierung is trodding on.</abstract>
-        <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3395">Spyro</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49302" guid="8e57baa4-ef35-5128-a04d-c5e461322fc5">
-        <logo/>
-        <date>2022-12-29T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>00:30</duration>
-        <room>Bierschoine</room>
-        <slug>jev22-49302-iridium_reverse_engineering</slug>
-        <url>https://pretalx.c3voc.de/hacking-in-hell-2022/talk/3BKQRF/</url>
-        <title>Iridium reverse engineering</title>
-        <subtitle>News seit 2016</subtitle>
-        <track>Hellarious</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Das Iridium-Satellitennetzwerk bietet diverse Services wie Sprache, Daten, SMS und Machine-to-Machine Kommuniktion. Es wurde 2016 zum letzten Mal von uns oeffentlich dokumentiert. Seit dem hat sich sowohl bei den technischen Mitteln zum Empfangen als auch beim Verstaendnis der Daten einiges getan.</abstract>
-        <description>Dieser Vortrag gibt eine Uebersicht zu den Verbessungen der Tools, neu verfuegbarer Hardware und zum Verstaendnis der Daten die sich ueber das Netzwerk sammeln lassen.&#13;
-&#13;
-Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="379">schneider</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
-      <event id="1843" guid="d1843366-bf8e-4735-89c2-71c6c939c44b">
-        <date>2022-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>2:00</duration>
-        <room>CCL</room>
-        <slug>jev22-1843-loete_deinen_eigenen_pflanzensensor</slug>
-        <title>Löte deinen eigenen Pflanzensensor</title>
-        <subtitle>Workshop</subtitle>
-        <track>Curious Community Labs</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
-        <logo/>
-        <attachments/>
-        <persons/>
-        <links/>
-      </event>
-    </room>
     <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
       <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
         <logo/>
@@ -4236,150 +4383,54 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <attachments/>
       </event>
     </room>
-    <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
-      <event id="5092" guid="50923b4d-ca00-5303-94be-b014fb3af89d">
-        <logo/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
-        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>GTD, ZTD, Bulletjournal, KANBAN, SCRUM and other buzzwords are new to you?&#13;
-Want to get organized and get an efficient overview of all your TODOs?&#13;
-Or already using some concepts and want to go deeper and learn (hopefully) some new tricks?&#13;
-Then join this talk.</abstract>
-        <description>First half will be an overview of task-and organisation systems, and the underlying concept how to use it. It is not a hands-on handholding session, but rather explaining the concept, so that you can check and integrate the systems that fit best to your mind &amp; workflows.&#13;
-&#13;
-Second half will then be a collection of some nice tricks and tools (PKM, Inbox-zero, Logseq, Obsidian, Emacs (org-mode),..) &#13;
-&#13;
-Third is the most important: FAQ-round for your concerns and issues regarding time- and organisation-systems.&#13;
-Best way to learn and teach is by communicating, so lets talk!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="28">MaW</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="2775" guid="2f7757c0-259b-5899-90c4-0690be7a4b35">
-        <logo>/media/wicmp1/submissions/7R9URV/photo_2022-11-30_12.42.22_yYY0TVB.jpeg</logo>
-        <date>2022-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:45</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-2775-surviving_as_a_nerd</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/7R9URV/</url>
-        <title>Surviving as a NERD</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Ein Relationship Survival Guide für Nerds</abstract>
-        <description>Talking Points:&#13;
-Was wir mit Nerd meinen&#13;
-Egoismus vs. Authentisches Selbst&#13;
-Das Ziel&#13;
-Hack dein (sozial) Leben&#13;
-Hack deine Beziehungen</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="13">Akira DeLaine</person>
-          <person id="14">SycretSoul</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="982" guid="be09a825-3f68-5362-b03f-bdae90ce5588">
-        <logo/>
-        <date>2022-12-29T15:15:00+01:00</date>
-        <start>15:15</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-982-schlangenprogrammiernacht</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/TWELKD/</url>
-        <title>Schlangenprogrammiernacht</title>
-        <subtitle>Ein Blick hinter die Kulissen</subtitle>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Wir werden einen Blick auf die Technik hinter der _Schlangenprogrammiernacht_ werfen (ein für die GPN18/19 gebautes Programmierspiel). Es geht um Docker, Interprozesskommunikation und wie verschiedene Programmiersprachen eingebunden werden.</abstract>
-        <description>Vielleicht habt ihr schonmal bei der Schlangenprogrammiernacht mitgespielt und euch gefragt: Was passiert eigentlich mit meinem Code, wenn ich diesen Run-Button klicke? Hier erfahrt ihr das!&#13;
-&#13;
-Konkret wird es darum gehen…&#13;
-&#13;
-- wie der Gameserver mit den Bot-Prozessen kommuniziert,&#13;
-- wie die Unterstützung mehrerer Programmiersprachen umgesetzt ist und&#13;
-- wie verhindert wird, dass die User mit ihrem Code das Hostsystem übernehmen.&#13;
-&#13;
-Solltet ihr noch nie gespielt haben, habt ihr hier auf der WICMP unter [schlangen.bytewerk.org](https://schlangen.bytewerk.org) die Gelegenheit dazu! Kenntnis des Spiels aus Benutzersicht wird vorausgesetzt.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="20">Thomas „cfr34k“</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="7656" guid="d765694d-8e4c-5eb2-aa64-8815a6693661">
-        <logo>/media/wicmp1/submissions/YLYW79/Schafkopf_4l0HCSP.jpg</logo>
-        <date>2022-12-29T16:15:00+01:00</date>
-        <start>16:15</start>
-        <duration>02:00</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-7656-schafkopf_fuer_anfaenger</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/YLYW79/</url>
-        <title>Schafkopf für Anfänger</title>
-        <subtitle/>
-        <track>Erlangen</track>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
+      <event id="1843" guid="d1843366-bf8e-4735-89c2-71c6c939c44b">
+        <date>2022-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>CCL</room>
+        <slug>jev22-1843-loete_deinen_eigenen_pflanzensensor</slug>
+        <title>Löte deinen eigenen Pflanzensensor</title>
+        <subtitle>Workshop</subtitle>
+        <track>Curious Community Labs</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Mal was Analoges - Schafkopfen für Anfänger:&#13;
-Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract>
+        <abstract/>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
-        <persons>
-          <person id="7">MikeTsenatek</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="5366" guid="536a6366-86cf-5b4e-836c-dacf77bf3d8c">
+        <url>https://curious.bio/2022/11/remote-chaos-experience/</url>
         <logo/>
-        <date>2022-12-29T21:30:00+01:00</date>
-        <start>21:30</start>
-        <duration>03:00</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-5366-irgendwas_mit_seil</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/HVXVCS/</url>
-        <title>Irgendwas mit Seil</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>am lebenden Objekt.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
+        <attachments/>
         <persons/>
+        <links/>
+      </event>
+    </room>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23">
+      <event id="9553" guid="9e5cb532-9e5c-5c6d-a7d2-4bd38ce4617d">
+        <logo>/media/jev-2022/submissions/QMGCPZ/2022-12-23_23-40-17_ap56Ft2.jpg</logo>
+        <date>2022-12-29T20:05:00+01:00</date>
+        <start>20:05</start>
+        <duration>00:30</duration>
+        <room>Hackwerk</room>
+        <slug>jev22-9553-hack_bag_im_backpack</slug>
+        <url>https://pretalx.hackwerk.fun/jev-2022/talk/QMGCPZ/</url>
+        <title>Hack-Bag im Backpack</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der/die normale Hacker*in, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">hanser</person>
+        </persons>
         <links/>
         <attachments/>
       </event>
@@ -4731,57 +4782,6 @@ Mehr Infos: https://freieraeume-film.de/</description>
         </persons>
         <links/>
         <attachments/>
-      </event>
-    </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23">
-      <event id="9553" guid="9e5cb532-9e5c-5c6d-a7d2-4bd38ce4617d">
-        <logo>/media/jev-2022/submissions/QMGCPZ/2022-12-23_23-40-17_ap56Ft2.jpg</logo>
-        <date>2022-12-29T20:05:00+01:00</date>
-        <start>20:05</start>
-        <duration>00:30</duration>
-        <room>Hackwerk</room>
-        <slug>jev22-9553-hack_bag_im_backpack</slug>
-        <url>https://pretalx.hackwerk.fun/jev-2022/talk/QMGCPZ/</url>
-        <title>Hack-Bag im Backpack</title>
-        <subtitle/>
-        <track/>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Ein Einblick in meine EDC-Werkzeugtasche (Every-Day-Carry), die zu Hause immer griffbereit und unterwegs immer im Rucksack mit dabei ist. So kann auch der/die normale Hacker*in, ohne selbst MacGyver zu sein, sehr viele Dinge schnell und unkompliziert reparieren.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="12">hanser</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
-      <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
-        <type>Talk</type>
-        <slug>jev22-54986-risc_v</slug>
-        <title>RISC-V</title>
-        <subtitle>Eine OpenSource Prozessorarchitektur</subtitle>
-        <date>2022-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="4">David Ahlmer</person>
-        </persons>
       </event>
     </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
@@ -5247,33 +5247,6 @@ I also hope that this discussion will inspire collaborations for future work inv
         <attachments/>
       </event>
     </room>
-    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
-      <event id="4292" guid="4292c24c-d93e-5782-8fa6-bccaa9654778">
-        <logo/>
-        <date>2022-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>Sparti</room>
-        <slug>jev22-4292-closing_ceremony</slug>
-        <url>https://cfp.ccc-p.org/rtc22/talk/XQSHAS/</url>
-        <title>Closing Ceremony</title>
-        <subtitle/>
-        <track>Potsdam</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Closing Ceremony</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="4">cyroxx</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4">
       <event id="52467" guid="c219de23-5e83-5467-aade-233bf48f77d7">
         <logo>/media/hacking-in-hell-2022/submissions/WM8JYF/mde_logo_insta_qgtGdoS.jpg</logo>
@@ -5470,70 +5443,6 @@ I will wander around the event and ask you about your project. If you are intere
         <attachments/>
       </event>
     </room>
-    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49307" guid="6be5205a-e021-58e5-aac5-fbf654757933">
-        <logo/>
-        <date>2022-12-30T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49307-overte</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
-        <title>Overte</title>
-        <subtitle>Logic using the JavaScript API</subtitle>
-        <track>Sachen Machen</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>Casual introduction into the capabilities of Overte's scripting engine.</abstract>
-        <description>Try out scripting in Overte and see the endless possibilities.&#13;
-You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
-You can also spectate the event on PeerTube.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="56027" guid="d6e0ca60-732d-5793-8989-b77e5ace1aa2">
-        <logo/>
-        <date>2022-12-30T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-56027-poetry_paella_inkl_jev22_recap</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/GXJ9AH/</url>
-        <title>Poetry Paella inkl. jev22 recap</title>
-        <subtitle/>
-        <track>Kunst &amp; Musik</track>
-        <type>Live Session (60)</type>
-        <language>de</language>
-        <abstract>Poetry Paella inkl. jev22 recap</abstract>
-        <description>Was übrig geblieben ist, wird am nächsten Tag in die Pfanne gehauen. Reis, Safran und gutes Olivenöl darüber, fein abschmecken und fertig. 1-2 Überraschungsgäste wollen hier noch nicht gespoilert werden.&#13;
-&#13;
-Haben da ja noch ein paar lose Enden, die wollen wir uns zumindestens nochmal kurz anschauen und evt. mit genuß vertilgen. Wie es so unsere Art auf der #xrelog22 ist werdet ihr den größten Spaß haben, wenn ihr uns dazu im Multiversum von overte besucht. Den Client gibt's gratis hier: https://overte.org/#downloads. Garantiert Bullshitfrei, free &amp; open source. Ein Login ist nicht erforderlich.&#13;
-&#13;
-Mögliche, aber noch lange nicht bestätigte Paella Zutaten könnten sein ...&#13;
-&#13;
-... Glühweinprogrammier-Nacht NewsFlash&#13;
-... NewYork NewsFlash (wip)&#13;
-... Südbairische Hackertour NewsFlash (pre-wip)&#13;
-... Mafifa WM 2030 - die Quintessenz im Schnelldurchlauf&#13;
-... Und was ist mit Bits &amp; Bäume? Wird die 9te Hackerethik offiziel?&#13;
-... Literatur, Demo-Szene und mal schauen</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
     <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752">
       <event id="3038" guid="a303d860-5b1a-51a9-8bbc-60763964e065">
         <logo/>
@@ -5601,6 +5510,144 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <attachments/>
       </event>
     </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="a4cda022-4123-4a18-801e-7fcf1a68d44e" id="54987">
+        <type>Talk</type>
+        <slug>jev22-54987-biometrische_ueberwachung</slug>
+        <title>Biometrische Überwachung</title>
+        <subtitle>Kartieren zur Gegenwehr</subtitle>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">Bjorn</person>
+        </persons>
+      </event>
+      <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
+        <type>Talk</type>
+        <slug>jev22-54988-hirntumordiagnostik</slug>
+        <title>Hirntumordiagnostik</title>
+        <subtitle/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Frikandel</person>
+        </persons>
+      </event>
+    </room>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
+      <event id="4292" guid="4292c24c-d93e-5782-8fa6-bccaa9654778">
+        <logo/>
+        <date>2022-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Sparti</room>
+        <slug>jev22-4292-closing_ceremony</slug>
+        <url>https://cfp.ccc-p.org/rtc22/talk/XQSHAS/</url>
+        <title>Closing Ceremony</title>
+        <subtitle/>
+        <track>Potsdam</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Closing Ceremony</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">cyroxx</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
+      <event id="49307" guid="6be5205a-e021-58e5-aac5-fbf654757933">
+        <logo/>
+        <date>2022-12-30T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-49307-overte</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
+        <title>Overte</title>
+        <subtitle>Logic using the JavaScript API</subtitle>
+        <track>Sachen Machen</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Casual introduction into the capabilities of Overte's scripting engine.</abstract>
+        <description>Try out scripting in Overte and see the endless possibilities.&#13;
+You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
+You can also spectate the event on PeerTube.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3418">Julian Groß</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="56027" guid="d6e0ca60-732d-5793-8989-b77e5ace1aa2">
+        <logo/>
+        <date>2022-12-30T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-56027-poetry_paella_inkl_jev22_recap</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/GXJ9AH/</url>
+        <title>Poetry Paella inkl. jev22 recap</title>
+        <subtitle/>
+        <track>Kunst &amp; Musik</track>
+        <type>Live Session (60)</type>
+        <language>de</language>
+        <abstract>Poetry Paella inkl. jev22 recap</abstract>
+        <description>Was übrig geblieben ist, wird am nächsten Tag in die Pfanne gehauen. Reis, Safran und gutes Olivenöl darüber, fein abschmecken und fertig. 1-2 Überraschungsgäste wollen hier noch nicht gespoilert werden.&#13;
+&#13;
+Haben da ja noch ein paar lose Enden, die wollen wir uns zumindestens nochmal kurz anschauen und evt. mit genuß vertilgen. Wie es so unsere Art auf der #xrelog22 ist werdet ihr den größten Spaß haben, wenn ihr uns dazu im Multiversum von overte besucht. Den Client gibt's gratis hier: https://overte.org/#downloads. Garantiert Bullshitfrei, free &amp; open source. Ein Login ist nicht erforderlich.&#13;
+&#13;
+Mögliche, aber noch lange nicht bestätigte Paella Zutaten könnten sein ...&#13;
+&#13;
+... Glühweinprogrammier-Nacht NewsFlash&#13;
+... NewYork NewsFlash (wip)&#13;
+... Südbairische Hackertour NewsFlash (pre-wip)&#13;
+... Mafifa WM 2030 - die Quintessenz im Schnelldurchlauf&#13;
+... Und was ist mit Bits &amp; Bäume? Wird die 9te Hackerethik offiziel?&#13;
+... Literatur, Demo-Szene und mal schauen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
       <event id="3014" guid="fdfad7ee-e1ed-48e0-8f52-0946315b5d38">
         <logo/>
@@ -5984,64 +6031,19 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
         <attachments/>
       </event>
     </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
-      <event guid="a4cda022-4123-4a18-801e-7fcf1a68d44e" id="54987">
-        <type>Talk</type>
-        <slug>jev22-54987-biometrische_ueberwachung</slug>
-        <title>Biometrische Überwachung</title>
-        <subtitle>Kartieren zur Gegenwehr</subtitle>
-        <date>2022-12-30T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="5">Bjorn</person>
-        </persons>
-      </event>
-      <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
-        <type>Talk</type>
-        <slug>jev22-54988-hirntumordiagnostik</slug>
-        <title>Hirntumordiagnostik</title>
-        <subtitle/>
-        <date>2022-12-30T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:00</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">Frikandel</person>
-        </persons>
-      </event>
-    </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
     <room name="HIP1" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0da"/>
     <room name="HIP2" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0dc"/>
-    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
     <room name="Bierschoine" guid="0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4"/>
-    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
     <room name="Seminarraum" guid="99808216-837b-11ed-85fb-6c400891b752"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
+    <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0"/>
+    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
+    <room name="CCL" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
+    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
     <room name="Ahlam" guid="568cabc6-82f2-11ed-82f7-cf29158272bb">
       <event id="1708" guid="1708dae9-7ae4-5050-9a9a-362b8e18d0cd">
@@ -6184,8 +6186,6 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <attachments/>
       </event>
     </room>
-    <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
-    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
 </schedule>

@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2022-12-30 03:35; FireShonks 0.45; Hacking in Parallel 0.27; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.11; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 03:35; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2 ; Woodbine 0.1",
+    "version": "2022-12-30 04:14; FireShonks 0.45; Hacking in Parallel 0.27; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 04:14 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.48; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -75,6 +75,76 @@
         "stream": null
       },
       {
+        "name": "Bierschoine",
+        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
+        "description": "Gro\u00dfer Vortragsr\u00e4um mit B\u00fchne und integriertem Hackcenter",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Bierschoine",
+        "stream": "s6"
+      },
+      {
+        "name": "Salon",
+        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
+        "description": "Gasthaus 1. OG. Raum f\u00fcr kleiner Sofarunden und die Lagerfeuervortr\u00e4ge.",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Salon",
+        "stream": null
+      },
+      {
+        "name": "Bastelstube",
+        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
+        "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
+        "capacity": null,
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "schedule_name": "Bastelstube",
+        "stream": null
+      },
+      {
+        "name": "WICMP Seminarraum",
+        "guid": "99808216-837b-11ed-85fb-6c400891b752",
+        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "WICMP Seminarraum",
+        "stream": "s2"
+      },
+      {
+        "name": "Rave Cave",
+        "guid": null,
+        "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
+        "capacity": 20,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Rave Cave",
+        "stream": null
+      },
+      {
+        "name": "Spezial Raum",
+        "guid": null,
+        "description": "Schaut in der Beschreibung des Workshops nach dem Ort",
+        "capacity": 120,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Spezial Raum",
+        "stream": null
+      },
+      {
+        "name": "Lounge",
+        "guid": null,
+        "description": "Die Lounge direkt im Hauptraum.",
+        "capacity": 120,
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "schedule_name": "Lounge",
+        "stream": null
+      },
+      {
+        "name": "Warpzone",
+        "guid": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+        "location": "M\u00fcnster",
+        "schedule_name": "Warpzone",
+        "stream": "wongress"
+      },
+      {
         "name": "RTC-B\u00fchne (Sparti)",
         "guid": "6f12618c-0f1c-4318-a201-099152f86ac0",
         "description": "Haupt-Raum .. Streaming-B\u00fchne mit (kleinem) Publikum",
@@ -129,40 +199,6 @@
         "stream": null
       },
       {
-        "name": "Bierschoine",
-        "guid": "0ce1f1b3-35c6-48ee-b3db-1c54e85f36b4",
-        "description": "Gro\u00dfer Vortragsr\u00e4um mit B\u00fchne und integriertem Hackcenter",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Bierschoine",
-        "stream": "s6"
-      },
-      {
-        "name": "Salon",
-        "guid": "6a427063-66f2-4353-b582-65bd53390b22",
-        "description": "Gasthaus 1. OG. Raum f\u00fcr kleiner Sofarunden und die Lagerfeuervortr\u00e4ge.",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Salon",
-        "stream": null
-      },
-      {
-        "name": "Bastelstube",
-        "guid": "60cd5303-5ef2-40f9-9491-77ea43ef0c30",
-        "description": "Der Backstageraum im 1. OG der Bierscheune. Hier wird gewerkelt und gehackt. Sowohl mit dem Computer als auch mit den H\u00e4nden.",
-        "capacity": null,
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "schedule_name": "Bastelstube",
-        "stream": null
-      },
-      {
-        "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
-        "name": "Halle 4K",
-        "location": "Hamburg",
-        "schedule_name": "Halle 4K",
-        "stream": "s3"
-      },
-      {
         "name": "xrelog22 - Stream",
         "guid": "ad28953f-122e-4293-836d-860320183a1c",
         "description": "Main-Stream",
@@ -190,40 +226,20 @@
         "stream": null
       },
       {
-        "name": "WICMP Seminarraum",
-        "guid": "99808216-837b-11ed-85fb-6c400891b752",
-        "description": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links.",
-        "capacity": 20,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "WICMP Seminarraum",
-        "stream": "s2"
+        "guid": "3100bf0b-d2c9-43be-8bf4-c083b4239a78",
+        "name": "Halle 4K",
+        "location": "Hamburg",
+        "schedule_name": "Halle 4K",
+        "stream": "s3"
       },
       {
-        "name": "Rave Cave",
-        "guid": null,
-        "description": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr.",
-        "capacity": 20,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "Rave Cave",
-        "stream": null
-      },
-      {
-        "name": "Spezial Raum",
-        "guid": null,
-        "description": "Schaut in der Beschreibung des Workshops nach dem Ort",
-        "capacity": 120,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "Spezial Raum",
-        "stream": null
-      },
-      {
-        "name": "Lounge",
-        "guid": null,
-        "description": "Die Lounge direkt im Hauptraum.",
-        "capacity": 120,
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
-        "schedule_name": "Lounge",
-        "stream": null
+        "name": "Hackwerk",
+        "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
+        "description": null,
+        "capacity": null,
+        "location": "Aalen",
+        "schedule_name": "Hackwerk",
+        "stream": "aalend"
       },
       {
         "name": "Winterchaos",
@@ -397,22 +413,6 @@
         "stream": null
       },
       {
-        "name": "Hackwerk",
-        "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
-        "description": null,
-        "capacity": null,
-        "location": "Aalen",
-        "schedule_name": "Hackwerk",
-        "stream": "aalend"
-      },
-      {
-        "name": "Warpzone",
-        "guid": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
-        "location": "M\u00fcnster",
-        "schedule_name": "Warpzone",
-        "stream": "wongress"
-      },
-      {
         "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
         "name": "WoodbineDWeb",
         "description": "Talks at Woodbine DWeb NYC 2022",
@@ -475,6 +475,128 @@
           }
         },
         "rooms": null
+      },
+      {
+        "url": "https://pretalx.c3voc.de/hacking-in-hell-2022",
+        "name": "Hellarious",
+        "title": "Hellarious: Hacking in Hell",
+        "location": "Brandenburg, Alte H\u00f6lle",
+        "links": [
+          "https://alte-hoelle.de/"
+        ],
+        "meta": {
+          "name": {
+            "de": "Hellarious"
+          },
+          "slug": "hacking-in-hell-2022",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://pretalx.c3voc.de/hacking-in-hell-2022/",
+            "schedule": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/",
+            "login": "https://pretalx.c3voc.de/hacking-in-hell-2022/login/",
+            "feed": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/feed.xml"
+          }
+        },
+        "rooms": null
+      },
+      {
+        "url": "https://talks.w.icmp.camp/wicmp1",
+        "slug": "wicmp1",
+        "name": "Wintergalaktische Club Mate Party",
+        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "links": [
+          "https://w.icmp.camp"
+        ],
+        "meta": {
+          "name": {
+            "de": "Wintergalaktische Club Mate Party",
+            "en": "Wintergalactic Club Mate Party"
+          },
+          "slug": "wicmp1",
+          "is_public": true,
+          "date_from": "2022-12-27",
+          "date_to": "2022-12-30",
+          "timezone": "Europe/Berlin",
+          "urls": {
+            "base": "https://talks.w.icmp.camp/wicmp1/",
+            "schedule": "https://talks.w.icmp.camp/wicmp1/schedule/",
+            "login": "https://talks.w.icmp.camp/wicmp1/login/",
+            "feed": "https://talks.w.icmp.camp/wicmp1/schedule/feed.xml"
+          }
+        },
+        "rooms": [
+          {
+            "id": 1,
+            "guid": "99808216-837b-11ed-85fb-6c400891b752",
+            "name": {
+              "de": "WICMP Seminarraum"
+            },
+            "description": {
+              "de": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links."
+            },
+            "capacity": 20,
+            "position": 0,
+            "url": "/orga/event/wicmp1/schedule/rooms/1/"
+          },
+          {
+            "id": 2,
+            "guid": null,
+            "name": {
+              "de": "Rave Cave"
+            },
+            "description": {
+              "de": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr."
+            },
+            "capacity": 20,
+            "position": 1,
+            "url": "/orga/event/wicmp1/schedule/rooms/2/"
+          },
+          {
+            "id": 4,
+            "guid": null,
+            "name": {
+              "de": "Spezial Raum",
+              "en": "Special Room"
+            },
+            "description": {
+              "de": "Schaut in der Beschreibung des Workshops nach dem Ort",
+              "en": "Look in the description of the workshop for the place"
+            },
+            "capacity": 120,
+            "position": 2,
+            "url": "/orga/event/wicmp1/schedule/rooms/4/"
+          },
+          {
+            "id": 3,
+            "guid": null,
+            "name": {
+              "de": "Lounge"
+            },
+            "description": {
+              "de": "Die Lounge direkt im Hauptraum."
+            },
+            "capacity": 120,
+            "position": 3,
+            "url": "/orga/event/wicmp1/schedule/rooms/3/"
+          }
+        ]
+      },
+      {
+        "url": "webcals://ramac.mudbyte.de/remote.php/dav/public-calendars/YTtwyZcXsmZDfSoo/?export",
+        "name": "ChilyConChaos",
+        "location": "Gie\u00dfen/Wetzlar",
+        "links": [
+          "https://chilyconchaos.de/"
+        ]
+      },
+      {
+        "url": "https://import.c3voc.de/schedule/warpzone.json?showall=yes",
+        "name": "KampHack: Wongress",
+        "location": "M\u00fcnster",
+        "links": []
       },
       {
         "url": "https://cfp.ccc-p.org/rtc22",
@@ -582,42 +704,6 @@
         ]
       },
       {
-        "url": "https://pretalx.c3voc.de/hacking-in-hell-2022",
-        "name": "Hellarious",
-        "title": "Hellarious: Hacking in Hell",
-        "location": "Brandenburg, Alte H\u00f6lle",
-        "links": [
-          "https://alte-hoelle.de/"
-        ],
-        "meta": {
-          "name": {
-            "de": "Hellarious"
-          },
-          "slug": "hacking-in-hell-2022",
-          "is_public": true,
-          "date_from": "2022-12-27",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://pretalx.c3voc.de/hacking-in-hell-2022/",
-            "schedule": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/",
-            "login": "https://pretalx.c3voc.de/hacking-in-hell-2022/login/",
-            "feed": "https://pretalx.c3voc.de/hacking-in-hell-2022/schedule/feed.xml"
-          }
-        },
-        "rooms": null
-      },
-      {
-        "url": "https://data.jtbx.de/jev22_ccl/schedule.json",
-        "name": "CCL CE",
-        "title": "Curious Community Labs Chaos Experience",
-        "location": "Hamburg",
-        "links": [
-          "https://curious.bio/2022/11/remote-chaos-experience/"
-        ],
-        "osm_url": "https://www.openstreetmap.org/node/9615054340#v1"
-      },
-      {
         "url": "https://pretalx.c3voc.de/xrelog-2022",
         "name": "xrelog22: Independent Multiverses",
         "location": "Hamburg, FTZ/HAW",
@@ -645,93 +731,54 @@
         "rooms": null
       },
       {
-        "url": "https://talks.w.icmp.camp/wicmp1",
-        "slug": "wicmp1",
-        "name": "Wintergalaktische Club Mate Party",
-        "location": "Erlangen, Bits'n'Bugs + ZAM",
+        "url": "https://data.jtbx.de/jev22_ccl/schedule.json",
+        "name": "CCL CE",
+        "title": "Curious Community Labs Chaos Experience",
+        "location": "Hamburg",
         "links": [
-          "https://w.icmp.camp"
+          "https://curious.bio/2022/11/remote-chaos-experience/"
+        ],
+        "osm_url": "https://www.openstreetmap.org/node/9615054340#v1"
+      },
+      {
+        "url": "https://pretalx.hackwerk.fun/jev-2022",
+        "name": "Hackwerk",
+        "location": "Aalen",
+        "description": "Auch wir w\u00fcrden gerne bei der dezentralen Jahresendveranstaltung mitmachen. Hierzu laden wir vom 29.12-31.12. zum netten Zusammensein mit vielen Chaos-Wesen nach Aalen ein. \n\n Wir schauen bei einigen Gl\u00fchtschunks und Mate zusammen die Streams auf media.ccc.de an, haben aber auch vor selbst Vortr\u00e4ge zu halten und zu Streamen. \n\n Bitte hier ein Ticket klicken (wir verwenden das Ticketsystem, um die Teilnehmerzahl zu wissen)  \u2013 f\u00fcr Talk-Einreichungen haben wir ein Pretalx eingerichtet.",
+        "links": [
+          "https://tickets.hackwerk.fun/hackwerk/jev2022/",
+          "https://pretalx.hackwerk.fun/jev-2022/cfp"
         ],
         "meta": {
           "name": {
-            "de": "Wintergalaktische Club Mate Party",
-            "en": "Wintergalactic Club Mate Party"
+            "de": "Jahresendveranstaltung",
+            "en": "End-of-Year event"
           },
-          "slug": "wicmp1",
+          "slug": "jev-2022",
           "is_public": true,
-          "date_from": "2022-12-27",
+          "date_from": "2022-12-29",
           "date_to": "2022-12-30",
           "timezone": "Europe/Berlin",
           "urls": {
-            "base": "https://talks.w.icmp.camp/wicmp1/",
-            "schedule": "https://talks.w.icmp.camp/wicmp1/schedule/",
-            "login": "https://talks.w.icmp.camp/wicmp1/login/",
-            "feed": "https://talks.w.icmp.camp/wicmp1/schedule/feed.xml"
+            "base": "https://pretalx.hackwerk.fun/jev-2022/",
+            "schedule": "https://pretalx.hackwerk.fun/jev-2022/schedule/",
+            "login": "https://pretalx.hackwerk.fun/jev-2022/login/",
+            "feed": "https://pretalx.hackwerk.fun/jev-2022/schedule/feed.xml"
           }
         },
         "rooms": [
           {
-            "id": 1,
-            "guid": "99808216-837b-11ed-85fb-6c400891b752",
-            "name": {
-              "de": "WICMP Seminarraum"
-            },
-            "description": {
-              "de": "Der Seminarraum des ZAM. Im Hauptraum rechts die Rampe hoch, nach den Spinden links."
-            },
-            "capacity": 20,
-            "position": 0,
-            "url": "/orga/event/wicmp1/schedule/rooms/1/"
-          },
-          {
-            "id": 2,
-            "guid": null,
-            "name": {
-              "de": "Rave Cave"
-            },
-            "description": {
-              "de": "Da wo der Tiefton beischl\u00e4ft. Im Hauptraum rechts hinter, dann hinter dem Escape-Room die rote T\u00fcr."
-            },
-            "capacity": 20,
-            "position": 1,
-            "url": "/orga/event/wicmp1/schedule/rooms/2/"
-          },
-          {
-            "id": 4,
-            "guid": null,
-            "name": {
-              "de": "Spezial Raum",
-              "en": "Special Room"
-            },
-            "description": {
-              "de": "Schaut in der Beschreibung des Workshops nach dem Ort",
-              "en": "Look in the description of the workshop for the place"
-            },
-            "capacity": 120,
-            "position": 2,
-            "url": "/orga/event/wicmp1/schedule/rooms/4/"
-          },
-          {
             "id": 3,
-            "guid": null,
+            "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
             "name": {
-              "de": "Lounge"
+              "de": "Hackwerk",
+              "en": "Hackwerk"
             },
-            "description": {
-              "de": "Die Lounge direkt im Hauptraum."
-            },
-            "capacity": 120,
-            "position": 3,
-            "url": "/orga/event/wicmp1/schedule/rooms/3/"
+            "description": {},
+            "capacity": null,
+            "position": null,
+            "url": "/orga/event/jev-2022/schedule/rooms/3/"
           }
-        ]
-      },
-      {
-        "url": "webcals://ramac.mudbyte.de/remote.php/dav/public-calendars/YTtwyZcXsmZDfSoo/?export",
-        "name": "ChilyConChaos",
-        "location": "Gie\u00dfen/Wetzlar",
-        "links": [
-          "https://chilyconchaos.de/"
         ]
       },
       {
@@ -1045,53 +1092,6 @@
             "url": "/orga/event/freiraumforum/schedule/rooms/41/"
           }
         ]
-      },
-      {
-        "url": "https://pretalx.hackwerk.fun/jev-2022",
-        "name": "Hackwerk",
-        "location": "Aalen",
-        "description": "Auch wir w\u00fcrden gerne bei der dezentralen Jahresendveranstaltung mitmachen. Hierzu laden wir vom 29.12-31.12. zum netten Zusammensein mit vielen Chaos-Wesen nach Aalen ein. \n\n Wir schauen bei einigen Gl\u00fchtschunks und Mate zusammen die Streams auf media.ccc.de an, haben aber auch vor selbst Vortr\u00e4ge zu halten und zu Streamen. \n\n Bitte hier ein Ticket klicken (wir verwenden das Ticketsystem, um die Teilnehmerzahl zu wissen)  \u2013 f\u00fcr Talk-Einreichungen haben wir ein Pretalx eingerichtet.",
-        "links": [
-          "https://tickets.hackwerk.fun/hackwerk/jev2022/",
-          "https://pretalx.hackwerk.fun/jev-2022/cfp"
-        ],
-        "meta": {
-          "name": {
-            "de": "Jahresendveranstaltung",
-            "en": "End-of-Year event"
-          },
-          "slug": "jev-2022",
-          "is_public": true,
-          "date_from": "2022-12-29",
-          "date_to": "2022-12-30",
-          "timezone": "Europe/Berlin",
-          "urls": {
-            "base": "https://pretalx.hackwerk.fun/jev-2022/",
-            "schedule": "https://pretalx.hackwerk.fun/jev-2022/schedule/",
-            "login": "https://pretalx.hackwerk.fun/jev-2022/login/",
-            "feed": "https://pretalx.hackwerk.fun/jev-2022/schedule/feed.xml"
-          }
-        },
-        "rooms": [
-          {
-            "id": 3,
-            "guid": "7ddef1dc-d3e8-451b-9ea5-3441bfa22e23",
-            "name": {
-              "de": "Hackwerk",
-              "en": "Hackwerk"
-            },
-            "description": {},
-            "capacity": null,
-            "position": null,
-            "url": "/orga/event/jev-2022/schedule/rooms/3/"
-          }
-        ]
-      },
-      {
-        "url": "https://import.c3voc.de/schedule/warpzone.json?showall=yes",
-        "name": "KampHack: Wongress",
-        "location": "M\u00fcnster",
-        "links": []
       },
       {
         "url": "TBD",
