@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 15:00; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 15:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
+    "version": "2022-12-30 15:10; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 15:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11556,7 +11556,7 @@
                 "track": "Haecksen",
                 "type": "Workshop",
                 "language": "de",
-                "abstract": "Haecksen-Closing (Haecksen only)",
+                "abstract": "Haecksen-Closing (Haecksen only)\r\n\r\nLink zum Workshop-Raum: [Ada](https://meeten.statt-drosseln.de/b/cri-uye-ogv-vfh)",
                 "description": "Haecksen-Closing (Haecksen only)",
                 "recording_license": "",
                 "do_not_record": true,
@@ -12156,7 +12156,31 @@
             ],
             "Rave Cave": [],
             "Spezial Raum": [],
-            "Lounge": [],
+            "Lounge": [
+              {
+                "id": 9971,
+                "guid": "99a7d122-eb0f-5e2d-b852-a85ba8af17c4",
+                "logo": "",
+                "date": "2022-12-30T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "00:30",
+                "room": "Lounge",
+                "slug": "jev22-9971-wicmp_review_in_der_lounge",
+                "url": "https://talks.w.icmp.camp/wicmp1/talk/AXNABB/",
+                "title": "WICMP Review in der Lounge",
+                "subtitle": "",
+                "track": "Erlangen",
+                "type": "Talk",
+                "language": "de",
+                "abstract": "Ein Closing Event wird es nicht geben, weil die Veranstaltung nicht Punkt 17 Uhr endet. Aber sowas \u00e4hnliches!",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "ChilyConChaos": [
               {
                 "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",

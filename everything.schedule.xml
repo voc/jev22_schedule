@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 15:00; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 15:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
+  <version>2022-12-30 15:10; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 15:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -10141,7 +10141,9 @@ Ablauf:&#13;
         <track>Haecksen</track>
         <type>Workshop</type>
         <language>de</language>
-        <abstract>Haecksen-Closing (Haecksen only)</abstract>
+        <abstract>Haecksen-Closing (Haecksen only)&#13;
+&#13;
+Link zum Workshop-Raum: [Ada](https://meeten.statt-drosseln.de/b/cri-uye-ogv-vfh)</abstract>
         <description>Haecksen-Closing (Haecksen only)</description>
         <recording>
           <license/>
@@ -10732,7 +10734,31 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
     </room>
     <room name="Rave Cave"/>
     <room name="Spezial Raum"/>
-    <room name="Lounge"/>
+    <room name="Lounge">
+      <event id="9971" guid="99a7d122-eb0f-5e2d-b852-a85ba8af17c4">
+        <logo/>
+        <date>2022-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Lounge</room>
+        <slug>jev22-9971-wicmp_review_in_der_lounge</slug>
+        <url>https://talks.w.icmp.camp/wicmp1/talk/AXNABB/</url>
+        <title>WICMP Review in der Lounge</title>
+        <subtitle/>
+        <track>Erlangen</track>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Ein Closing Event wird es nicht geben, weil die Veranstaltung nicht Punkt 17 Uhr endet. Aber sowas ähnliches!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="ChilyConChaos">
       <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
         <title>Securing UnSafe Rust with XRust</title>
