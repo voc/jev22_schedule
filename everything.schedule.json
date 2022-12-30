@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 14:20; FireShonks 0.51; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 14:20 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
+    "version": "2022-12-30 14:50; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 14:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11538,6 +11538,29 @@
                     "answers": []
                   }
                 ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 56306,
+                "guid": "0b3c2c1a-936a-5045-bacf-4428343c8c9f",
+                "logo": "",
+                "date": "2022-12-30T21:00:00+01:00",
+                "start": "21:00",
+                "duration": "01:30",
+                "room": "Fireshonks-Workshop",
+                "slug": "jev22-56306-haecksen_closing",
+                "url": "https://pretalx.c3voc.de/fire-shonks-2022/talk/FTPQGS/",
+                "title": "Haecksen-Closing",
+                "subtitle": "",
+                "track": "Haecksen",
+                "type": "Workshop",
+                "language": "de",
+                "abstract": "Haecksen-Closing (Haecksen only)",
+                "description": "Haecksen-Closing (Haecksen only)",
+                "recording_license": "",
+                "do_not_record": true,
+                "persons": [],
                 "links": [],
                 "attachments": []
               }

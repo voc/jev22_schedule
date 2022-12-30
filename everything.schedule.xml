@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 14:20; FireShonks 0.51; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 14:20 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
+  <version>2022-12-30 14:50; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 14:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -10127,6 +10127,29 @@ Ablauf:&#13;
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
           <person id="3304">pnrd (cyber4EDU e.V.)</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="56306" guid="0b3c2c1a-936a-5045-bacf-4428343c8c9f">
+        <logo/>
+        <date>2022-12-30T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:30</duration>
+        <room>Fireshonks-Workshop</room>
+        <slug>jev22-56306-haecksen_closing</slug>
+        <url>https://pretalx.c3voc.de/fire-shonks-2022/talk/FTPQGS/</url>
+        <title>Haecksen-Closing</title>
+        <subtitle/>
+        <track>Haecksen</track>
+        <type>Workshop</type>
+        <language>de</language>
+        <abstract>Haecksen-Closing (Haecksen only)</abstract>
+        <description>Haecksen-Closing (Haecksen only)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>
