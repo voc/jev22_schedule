@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 10:10; FireShonks 0.47; Hacking in Parallel 0.27; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 10:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
+  <version>2022-12-30 10:40; FireShonks 0.47; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 10:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -10270,7 +10270,35 @@ I also hope that this discussion will inspire collaborations for future work inv
         <attachments/>
       </event>
     </room>
-    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed"/>
+    <room name="HDMI (room 3)" guid="9e74f0b2-ce80-46da-8db4-cd1510000bed">
+      <event id="56184" guid="20071e47-248d-5c92-9afb-d0eab9c80b68">
+        <logo/>
+        <date>2022-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>HDMI (room 3)</room>
+        <slug>jev22-56184-get_started_with_hacking_the_badge</slug>
+        <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/Z8FRRX/</url>
+        <title>Get started with hacking the badge</title>
+        <subtitle/>
+        <track>E.T.I.</track>
+        <type>Workshop</type>
+        <language>en</language>
+        <abstract>Hacking the badge is not hard, once you get over the initial hump of setting up your system. We will show you a way to ge tup &amp; running in minutes, to unleash your creative hacker powers.</abstract>
+        <description>So you have this powerful tool on a lanyard around your neck but no clue how to change it to something more useful, or even more beautiful? Come to this talk/workshop and we will set you up. You will need a badge (naturally), a laptop with (ideally) linux on it, and a USB cable to connect the laptop and the badge.&#13;
+&#13;
+This workshop is also an opportunity to exchange ideas and other wisdom around this device. Whether you know all or nothing -- come as you are, and show us your amazing hacks and ideas on the badge. Let's get the energy flowing in preparation for the summer camp.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3978">gooniesbro</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
     <room name="Soldering Workshop Room" guid="14cd9ea8-652f-4225-b67b-5e25226a2f9f"/>
     <room name="c-base mainhall" guid="a24f561b-6f4a-4ee3-87fb-d22fff05f0db"/>
     <room name="Merch Desk"/>
@@ -12170,7 +12198,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <track>Freiräume</track>
         <type>Gespräch</type>
         <language>de</language>
-        <abstract>Persönlicher Erfahrungsaustausch über die Beweggründe, am Klimaprotestcamp mitzuwirken und was wie die besetzten Räume wirken.</abstract>
+        <abstract>Persönlicher Erfahrungsaustausch über die Beweggründe, am Klimaprotestcamp mitzuwirken &amp; wie die besetzten Räume wirken.</abstract>
         <description>Nach Jahren der Auseinandersetzung mit Klimagerechtigkeit haben wir Lützerath als Ort für den Klimaprotest gewählt. Wir berichten von unseren Erfahrungen dort, warum es diesen Ort gibt, was die Utopien dahinter sind und wie wir uns alle engagieren können.&#13;
 &#13;
 Lützerath ist ein Dorf im rheinischen Braunkohlerevier, das vom Energiekonzern RWE abgerissen werden soll, um den Tagebau Garzweiler II zu erweitern. Um das zu verhindern, blockieren Klimagerechtigkeitsaktivist*innen seit zwei Jahren den Abriss durch ein Protestcamp im Dorf. Wird die Braunkohle, der klimaschädlichste Energieträger überhaupt, unter Lützerath verbrannt, kann Deutschland die im Pariser Klimaabkommen vereinbarte 1,5°C-Grenze nicht einhalten.&#13;

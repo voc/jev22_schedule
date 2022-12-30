@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 10:10; FireShonks 0.47; Hacking in Parallel 0.27; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 10:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
+    "version": "2022-12-30 10:40; FireShonks 0.47; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 10:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.1.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -11708,7 +11708,39 @@
                 "attachments": []
               }
             ],
-            "HDMI (room 3)": [],
+            "HDMI (room 3)": [
+              {
+                "id": 56184,
+                "guid": "20071e47-248d-5c92-9afb-d0eab9c80b68",
+                "logo": "",
+                "date": "2022-12-30T13:00:00+01:00",
+                "start": "13:00",
+                "duration": "01:30",
+                "room": "HDMI (room 3)",
+                "slug": "jev22-56184-get_started_with_hacking_the_badge",
+                "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/Z8FRRX/",
+                "title": "Get started with hacking the badge",
+                "subtitle": "",
+                "track": "E.T.I.",
+                "type": "Workshop",
+                "language": "en",
+                "abstract": "Hacking the badge is not hard, once you get over the initial hump of setting up your system. We will show you a way to ge tup & running in minutes, to unleash your creative hacker powers.",
+                "description": "So you have this powerful tool on a lanyard around your neck but no clue how to change it to something more useful, or even more beautiful? Come to this talk/workshop and we will set you up. You will need a badge (naturally), a laptop with (ideally) linux on it, and a USB cable to connect the laptop and the badge.\r\n\r\nThis workshop is also an opportunity to exchange ideas and other wisdom around this device. Whether you know all or nothing -- come as you are, and show us your amazing hacks and ideas on the badge. Let's get the energy flowing in preparation for the summer camp.",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 3978,
+                    "code": "P8YYXY",
+                    "public_name": "gooniesbro",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": []
+              }
+            ],
             "Soldering Workshop Room": [],
             "c-base mainhall": [],
             "Merch Desk": [],
@@ -13845,7 +13877,7 @@
                 "track": "Freir\u00e4ume",
                 "type": "Gespr\u00e4ch",
                 "language": "de",
-                "abstract": "Pers\u00f6nlicher Erfahrungsaustausch \u00fcber die Beweggr\u00fcnde, am Klimaprotestcamp mitzuwirken und was wie die besetzten R\u00e4ume wirken.",
+                "abstract": "Pers\u00f6nlicher Erfahrungsaustausch \u00fcber die Beweggr\u00fcnde, am Klimaprotestcamp mitzuwirken & wie die besetzten R\u00e4ume wirken.",
                 "description": "Nach Jahren der Auseinandersetzung mit Klimagerechtigkeit haben wir L\u00fctzerath als Ort f\u00fcr den Klimaprotest gew\u00e4hlt. Wir berichten von unseren Erfahrungen dort, warum es diesen Ort gibt, was die Utopien dahinter sind und wie wir uns alle engagieren k\u00f6nnen.\r\n\r\nL\u00fctzerath ist ein Dorf im rheinischen Braunkohlerevier, das vom Energiekonzern RWE abgerissen werden soll, um den Tagebau Garzweiler II zu erweitern. Um das zu verhindern, blockieren Klimagerechtigkeitsaktivist*innen seit zwei Jahren den Abriss durch ein Protestcamp im Dorf. Wird die Braunkohle, der klimasch\u00e4dlichste Energietr\u00e4ger \u00fcberhaupt, unter L\u00fctzerath verbrannt, kann Deutschland die im Pariser Klimaabkommen vereinbarte 1,5\u00b0C-Grenze nicht einhalten.\r\n\r\nVon 1750 bis 2018 war Deutschland f\u00fcr rund 5,7 Prozent aller weltweiten Emissionen verantwortlich \u2013 mehr als Afrika und S\u00fcdamerika zusammen und tr\u00e4gt damit gro\u00dfe Verantwortung f\u00fcr die Verursachung der Katastrophe.\r\n\r\n- ANMELDUNG (optional, f\u00fcr drau\u00dfen): - https://us02web.zoom.us/meeting/register/tZwrceGtpz0pEtWwTVPIe4ScN8-kDtWQYHXa\r\n- Den direkten Zoom-Link f\u00fcr Teilnehmende vor Ort bekommt der Engel / Host.",
                 "recording_license": "",
                 "do_not_record": true,
