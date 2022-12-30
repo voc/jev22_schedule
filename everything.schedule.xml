@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 02:50; FireShonks 0.45; Hacking in Parallel 0.27; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.11; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 02:50; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2; Woodbine 0.1</version>
+  <version>2022-12-30 03:35; FireShonks 0.45; Hacking in Parallel 0.27; Reconnect To Chaos! 2.5; Hellarious 0.9 DEFINITLY FINAL; CCL CE 1.1.0; xrelog22: Independent Multiverses 1.11; Wintergalaktische Club Mate Party 0.11; ChilyConChaos 2022-12-30 03:35; Winterchaos 0.5; Freiraumforum 0.48; Hackwerk 0.2 ; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -88,7 +88,7 @@ Moderation: Peter Arun Pfaff</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="183">terru</person>
@@ -143,7 +143,7 @@ D 1988/2019   74 Min. &#13;
 Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns mit konkreten Utopien zu einer gerechten Welt beschäftigen wollen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="110">Uli</person>
@@ -172,7 +172,7 @@ und Songwritingsession für FLINTA*-Musiker*innen</abstract>
 Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument mitbringen könntest und uns Bescheid gibst.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="84">Sie ist kein Genre</person>
@@ -199,7 +199,7 @@ Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument 
         <description>Viele Mieter*innen könnten ihre Miete sofort senken. Der Mietspiegel wird zurecht kritisiert, weil er unbekannt, die Berechnung intransparent und die Durchsetzung kompliziert ist. Und die Mietervereine weisen auch nicht proaktiv darauf hin. Bei einer (kleinen) Umfrage des Architekt*innen-Kollektiv PONR haben fast 50% angegeben, dass sie mehr als die ortsübliche Miete zahlen. Menschen dabei zu unterstützten, ihre Miete zu senken, könnte neue Zielgruppen für Mietaktivismus zugänglich machen und ein Risiko für Immobilienkonzerne darstellen, die mit höheren Mieten kalkulieren, als sie gesetzlich verlangen können. Der Workshop soll deswegen eine Einführung in die gesetzlichen Rahmenbedingungen der Mietpreisbremse geben und Ansätze für Kampagnen vorstellen und diskutieren.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="106">Pheli</person>
@@ -298,7 +298,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -330,7 +330,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -582,7 +582,7 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
 Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="137">Meri Väyrynen</person>
@@ -609,7 +609,7 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -620,6 +620,7 @@ Für uns ist "Pop" der umfassende Begriff für aktuelle Musikproduktion ohne sti
     </room>
     <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
@@ -893,7 +894,7 @@ Dieser Workshop findet auf Anfrage zweisprachig auf Englisch/Deutsch statt, sons
 Dies ist ein interaktiver Workshop im BBB, es wird nichts aufgezeichnet, dafür darf viel mitgemacht werden!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3239">merline</person>
@@ -921,7 +922,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
 Das soll ein offenes Treffen sein für alle,  die gerne stricken oder Interesse am Stricken haben. Auch wenn ihr konkrete Fragen zu einem Projekt haben, können wir diese klären.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3283">shortkath</person>
@@ -974,7 +975,7 @@ Wer direkt mitarbeiten möchte, benötigt dieses Material: &#13;
 - noch nicht dekorierte Broschennadeln oder Haarclips, alternativ: Sicherheitsnadeln</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3307">Magic_Cauldron</person>
@@ -1003,7 +1004,7 @@ Ihr braucht also: Popcorn, Taschentücher für die Lachtränen, Beruhigungstee s
 (Andere Systeme dürft ihr auch gern nutzen, aber dann müsst ihr selbstständig debuggen.)</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3277">melzai</person>
@@ -1121,7 +1122,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <description>IT security, just like safety, has been focusing on the negatives, trying to learn from the times when things failed. Hence, we have become experts at counting the negatives, at finding all the holes. Because we rightfully fear failure, we have put more and more constraints on our systems through policies and guidelines and ways of working that constrain how they can be built and operated to avoid all the holes we have found. However, we tend to forget that the vast majority of the times, things go well. In fact, often they go well despite all the constraints we have put on the systems. Are we missing important learning opportunities by ignoring how things go well? In this talk, I will try to demonstrate how we could bring what safety literature calls "Safety II" or "Safety Differently" into the practice of IT security.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3343">Mate Soos</person>
@@ -1351,7 +1352,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <room>HIP - Track 2 - Room 2</room>
         <slug>jev22-49192-regenerative_hacking</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/</url>
-        <title>Regenerative Hacking</title>
+        <title>Regenerative Hacking </title>
         <subtitle>Ecosystemic design workshop for rural community hackspaces</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
@@ -1414,7 +1415,7 @@ Be warned: This talk will cover enough information to make you consider building
         <description>Join this panel and listen to former members of Telecomix, Lulzsec and other hacktivist groups discuss about their experiences doing hacktivism, any consequences they suffered, and how they envision the future for this form of activism.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3380">leon</person>
@@ -1616,7 +1617,7 @@ https://berlinhackandtell.rocks&#13;
 Reserve a slot by dropping a mail to mail@berlinhackandtell.rocks</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3348">ligi</person>
@@ -1777,7 +1778,7 @@ In "Der laute Frühling" schauen wir mit Hilfe von animierten Sequenzen in die Z
 https://de.labournet.tv/project/der-laute-fruehling</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3414">Neutrino</person>
@@ -1804,7 +1805,7 @@ https://de.labournet.tv/project/der-laute-fruehling</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3347">Leo</person>
@@ -2137,7 +2138,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <description>{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="166">Emma Mann</person>
@@ -2163,7 +2164,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
 Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -2190,7 +2191,7 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="140">Jonas</person>
@@ -2218,7 +2219,7 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         <description>Auch wenn Solidarische Landwirtschaft die kapitalistische Tauschlogik überwindet, muss sie sich mit Landeigentum rumschlagen - spätestens wenn der Landwirt in Ruhestand gehen und seine Flächen verkaufen möchte. Eine SoLaWi aus München muss jetzt herausfinden, wie der neue Flächenträger gestaltet sein soll (Stiftun Edith Maryon, Ackersyndikat, Kulturland eG? und was eigentlich eine solidarische Altersrente bei einer Hofübergabe ist. Dieser Workshop startet mit generellen Fragen: Was ist Eigentum, warum ist Landeigentum so intransparent? Wie wird es legitimiert? Wie ermöglichen wir andere Formen der kollektiven Güterverwaltung und welches rechtliche Wissen braucht es dafür?</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="106">Pheli</person>
@@ -2246,7 +2247,7 @@ Danach bauen wir die Stadt neu. Wie viel Raum wird frei, wenn Autoverkehr nur ei
 Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in München für eine aktive Reduktion des Autoverkehrs einsetzen können.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="103">Katharina Mayer</person>
@@ -2273,7 +2274,7 @@ Zum Schluss sammeln wir die Möglichkeiten, wie wir uns politisch und medial in 
         <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="44">Waseem</person>
@@ -2303,7 +2304,7 @@ Tiefenentspannung pur!&#13;
 Nur für schwache Nerven.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="74">hwmueller</person>
@@ -2331,7 +2332,7 @@ Tiefenentspannung pur!&#13;
 Nur für schwache Nerven.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="74">hwmueller</person>
@@ -2508,7 +2509,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -2540,7 +2541,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -2741,7 +2742,7 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -2846,7 +2847,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
 Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="137">Meri Väyrynen</person>
@@ -2857,6 +2858,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
     </room>
     <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
       <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
         <abstract>Intro to Solar Protocol</abstract>
@@ -3159,7 +3161,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <description>Queer brunch! Wir treffen uns zum gemütlichen plausch. Offen für alle Menschen die sich als queer oder LGBTQI+ identifizieren!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3287">dakoraa</person>
@@ -3215,7 +3217,7 @@ Für die, die mitmachen möchten, benötigtes Material: &#13;
 - ausgeschnittene Hexagonformen mit 1" Seitenlänge (es gibt online freie Vorlagen zum Download. Am besten mit Suchbegriffen wie "1" oder 1,5" Hexagon EPP free pattern".)</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3307">Magic_Cauldron</person>
@@ -3242,7 +3244,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <description>Unsere Definition für eine Teilnahme findest du hier: https://www.haecksen.org/wer-sind-die-haecksen/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="43">C_ristina</person>
@@ -3277,7 +3279,7 @@ Der Workshop soll Personen dabei helfen, mehr über ihr Verhalten im Internet ra
 * In case of emergency: Wohin kann ich mich wenden, wenn "was" (Data Breach, Identitätsdiebstahl, ...) passiert ist?</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3377">Lunikell</person>
@@ -3310,7 +3312,7 @@ Dieser Workshop ist nur für Haecksen!&#13;
 (Gruppe teilen auf 15 Personen jeweils, davon nochmal 3er Gruppen bauen, in den Triplets Selbstvorstellung, in der 15er Gruppe Vorstellung durch eine andere Haeckse.)</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="43">C_ristina</person>
@@ -3346,7 +3348,7 @@ Wir möchten uns austauschen über existierende Codes of Conduct, Hürden auf de
 Aber Vorsicht: Das wird kein Vortrag, Austausch ist ernst gemeint ;)</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3270">buecherwurm</person>
@@ -3495,7 +3497,7 @@ Topics and tools we present are:&#13;
 For these steps and typical attack patterns we explain reasonable approaches and what has been proven in our work.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -3674,7 +3676,7 @@ Our play will use the language of the Internet: Easy English with heavy accents 
 Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3248">e-punc</person>
@@ -3793,7 +3795,7 @@ But the world of It security can seem overwhelming and its easy to feel lost and
         <description>I already held the talk in German at this years Bits und Bäume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -3932,7 +3934,7 @@ Premiere&#13;
 2020-01-17, ZAK Spandau, Berlin</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3371">Clemens Schöll</person>
@@ -4290,7 +4292,7 @@ Bitte bringt Papier, einen schwarzen Stift (z.B. einen dünnen Filzstift) und ei
 Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="5">Gini</person>
@@ -4317,7 +4319,7 @@ Im begrenzten Umfang werde ich auch passende Stifte und etwas Papier mitbringen.
 Im Workshop stelle ich unterschiedliche Modi der Entscheidungsfindung vor und wir beschäftigen uns mit deren Vor- und Nachteilen für deren Einsatz im Gruppen-/Teamalltag.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="24">Sebastian Schultz</person>
@@ -4402,7 +4404,7 @@ Das ganze ist als offene Gesprächsrunde angedacht, in der alle Teilnehmenden Fr
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3384">Krek</person>
@@ -4428,7 +4430,7 @@ Bunte Bilder mit Licht in die Luft malen. Laser und Ansteuerungssoftware sind vo
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3400">lasermo</person>
@@ -4483,7 +4485,7 @@ Bunte Bilder mit Licht in die Luft malen. Laser und Ansteuerungssoftware sind vo
 	•	Hast du noch eine Nähmaschine zu hause? bring gerne mit. Bisher sind etwa 4 Maschinen da da tarraaaa-tata</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3405">lele</person>
@@ -4508,7 +4510,7 @@ Bunte Bilder mit Licht in die Luft malen. Laser und Ansteuerungssoftware sind vo
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3347">Leo</person>
@@ -4773,7 +4775,7 @@ It breaks then down roughly like this:&#13;
 - Optional: What was, what will be. The best takeaways from the sessions</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3509">XR.Labs Operation Group</person>
@@ -4841,7 +4843,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="32">ceddral</person>
@@ -4902,7 +4904,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
 Nachtrag aus aktuellem Anlass: Vorne im Sofa-Bereich gibt es Decken - Empfehlung diese leihweise mitzubringen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="21">Roman Stöhr</person>
@@ -5012,7 +5014,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="18">Freddy Faulig</person>
@@ -5082,7 +5084,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <description>Möglicherweise schon bald werden Quantencomputer unsere Welt verändern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose. Anschliessend betrachten wir, wie wir uns heute schon auf Post-Quantum Ära vorbereiten können und gehen auf Themen wie Cryptographic Agility ein.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1">Zöpfe</person>
@@ -5189,7 +5191,7 @@ Ziel des Workshops ist es, sich diesen Fragen durch zugängliche und strukturier
 Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsidentität angelegt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="38">Martin Barner</person>
@@ -5306,7 +5308,7 @@ Moderation: Peter Arun Pfaff</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="96">Ray</person>
@@ -5332,7 +5334,7 @@ Moderation: Peter Arun Pfaff</description>
 Mehr Infos: https://allesisteins.film/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -5360,7 +5362,7 @@ Mehr Infos: https://allesisteins.film/</description>
 -solidarische Stadt</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="144">Seebrücke München</person>
@@ -5389,7 +5391,7 @@ Wie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.&#13;
 Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -5416,7 +5418,7 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <description>Dieser intersektionale Workshop vermittelt Basiswissen von der Geschichte des Rassismus über anti-rassistisches Empowerment bis zum Neo-Kolonialismus der heutigen Zeit. Dabei werden sowohl nicht-weiße Perspektiven also auch Kritisches Weißsein thematisiert. Es wird genügend Raum für Fragen und Reflexion geben.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="44">Waseem</person>
@@ -5443,7 +5445,7 @@ und Songwritingsession für FLINTA*-Musiker*innen</abstract>
 Wenn du Instrumentalist*in bist, wäre es toll, wenn du dein eigenes Instrument mitbringen könntest und uns Bescheid gibst.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="84">Sie ist kein Genre</person>
@@ -5535,7 +5537,7 @@ Der abgekürzte Erste-Hilfe Kurs gibt grundlegende Auskunft welche Fälle expliz
 Die Teilnahme am Workshop ist leider nur auf 30 Personen beschränkt. Anmeldung unter http://kollektivis.de/awa/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="108">Abdullah Khan</person>
@@ -5566,7 +5568,7 @@ Nicht nur die Plena von mittlerweile sechs offenen Treffen (Antifa Stammtisch, O
 Wie ist der Raum entstanden? Wie wird er organisiert und wer ist dort aktiv? Wie sehen die Pläne für die Zukunft aus und wie kann man sich einbringen?</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="88">Barrio Olga Benario</person>
@@ -5580,10 +5582,10 @@ Wie ist der Raum entstanden? Wie wird er organisiert und wer ist dort aktiv? Wie
         <start>14:00</start>
         <duration>02:30</duration>
         <room>Workshopraum 4 - H2-4.4</room>
-        <slug>jev22-2-freiwilligenkoordination_im_kulturmanagement_der_sub</slug>
+        <slug>jev22-2-freiwilligenkoordination_im_kulturmanagement_der_sub_und_soziokultur</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/9P3DCV/</url>
-        <title>Freiwilligenkoordination im Kulturmanagement der Sub</title>
-        <subtitle>und Soziokultur</subtitle>
+        <title>Freiwilligenkoordination im Kulturmanagement der Sub- und Soziokultur</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -5601,7 +5603,7 @@ Wie ist der Raum entstanden? Wie wird er organisiert und wer ist dort aktiv? Wie
 Wir tauschen uns aus über eure Erfahrungen und versuchen uns dem Thema anhand dessen uns dem Thema anzunähern.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
@@ -5722,7 +5724,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -5754,7 +5756,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -5869,7 +5871,7 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="101">Joseph Rüffert | Ella Trixi Thät</person>
@@ -6058,7 +6060,7 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
 Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="137">Meri Väyrynen</person>
@@ -6085,7 +6087,7 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -6179,6 +6181,53 @@ Wir werden die Loops und Sounds mit unseren Körpern spielen und gemeinsam Musik
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
+        <type>Talk</type>
+        <slug>jev22-54984-einfuehrung_in_nixos</slug>
+        <title>Einfuehrung in NixOS</title>
+        <subtitle/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">Felix Ulonska</person>
+        </persons>
+      </event>
+      <event guid="17386a7d-577c-46a0-a994-cbbe1ac29bf7" id="54985">
+        <type>Talk</type>
+        <slug>jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
+        <title>Wie No-Code und Serverless Ideen verwirklichen und den Markt verändern</title>
+        <subtitle/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Max</person>
+          <person id="3">Jonathan</person>
+        </persons>
+      </event>
+    </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="4" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
@@ -6439,7 +6488,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <description>Treffen zum Austausch und Plaudern von und mit Haecksen, offen für alle FINTA mit Autismus, ADHS, Tourette, PTSD, OCD und andere Neurodiversitäten. Eine Diagnose ist keine Pflichtvoraussetzung zur Teilnahme, es reicht aus wenn du einen Verdacht auf eine Diagnose hast.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3287">dakoraa</person>
@@ -6473,7 +6522,7 @@ Wir sind ein gemeinnütziger Verein, der daran arbeitet, diese Rechte allen Mens
 In diesem Workshop wollen wir Dich einladen, von Deinen Rechten Gebrauch zu machen und mehr darüber zu erfahren, wer welche Daten zu Dir hat. Dazu erklären wir Dir näher, was es mit Deinen Datenschutzrechten und unseren Werkzeugen auf sich hat und stellen dann gemeinsam Anfragen. Keine Sorge: Du brauchst dafür keine technischen oder rechtlichen Vorkenntnisse. Der Workshop richtet sich vor allem an Menschen, die bisher keine oder wenig Erfahrung mit DSGVO-Anfragen haben. Alle anderen sind aber natürlich auch willkommen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3286">Malte Wessels</person>
@@ -6517,7 +6566,7 @@ https://www.fiberspace.de/2013/07/bauanleitung-fur-eine-handspindel-kopfspindelh
 - Fertiges Garn, Beilaufgarn oder schlicht simples Synthetik-Nähgarn zum Verzwirnen</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3307">Magic_Cauldron</person>
@@ -6554,7 +6603,7 @@ Am Ende des Workshops gibt es die Möglichkeit für eine Q+A Session, falls von 
 Vielleicht schaffen wir ja gemeinsam die Box zu erfolgreich zu pwnen!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3264">Hetti</person>
@@ -7314,7 +7363,7 @@ But how does that look like with smartphones? Should data extracted from there b
 In this talk I first give some fundamentals of smartphone forensics, zero day markets and smartphone security to then analyze what this means for the admissibility of smartphones evidence in courts.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -7592,7 +7641,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <description>C-KiNO #95 will be an updated version of our episode presented at Bits Und Baume at TU Berlin in Oktober 2022.  For Chaos in Potsdam we would like to provide a brief report back on our experiences at BnB conferences ( both 2018 and 22 ) along with our ongoing work related to the controversial "Anthropocene" and "Technosphere" framings of our ecological and social crises. We share our "XLterrestrials" ( i.e. alien, sci-fi and indigenous-inclusive ) analysis and critical perspectives. And we encourage questions, discussion and debate.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="29">Paolo Podrescu</person>
@@ -7676,7 +7725,7 @@ Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werde
         <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3395">Spyro</person>
@@ -7703,7 +7752,7 @@ Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werde
 Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="379">schneider</person>
@@ -7731,7 +7780,7 @@ Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers e
 Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leben zu erwecken. Ihr gebt die Stichwörter vor und ich erzähle euch einen vom Pferd. Nach Lust und Laune können wir auch andere Regeln festlegen. Wenn jemand währenddessen auch Lust bekommt zu Erzählen, ist das auch super. Es kann auch ein Dialog draus werden oder ein Wettstreit um die bessere Geschichte. Lasst uns einfach was improvisieren.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3517">Lutz</person>
@@ -7756,7 +7805,7 @@ Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leb
         <description>Ich möchte euch von Silvia Federicis Analysen zu Hexen und Commons erzählen und in Form eines niedrigschwelligen Zeichenspiels andere Hexenbilder für die Zukunft kreieren.  Ich würde 20-30 Minuten einen Input geben und den Rest der Zeit miteinander sprechen, zeichnen und brainstormen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3923">lizza</person>
@@ -7783,7 +7832,7 @@ Gerne möchte ich mit euch ausprobieren Geschichten mit eurem Input live zum Leb
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3347">Leo</person>
@@ -7972,10 +8021,10 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>13:00</start>
         <duration>00:30</duration>
         <room>WICMP Seminarraum</room>
-        <slug>jev22-5092-intro_to_time</slug>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
-        <title>intro to time</title>
-        <subtitle>&amp; organisation-concepts and useful tricks</subtitle>
+        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
+        <subtitle/>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -7991,7 +8040,7 @@ Third is the most important: FAQ-round for your concerns and issues regarding ti
 Best way to learn and teach is by communicating, so lets talk!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="28">MaW</person>
@@ -8081,7 +8130,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7">MikeTsenatek</person>
@@ -8106,7 +8155,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons/>
         <links/>
@@ -8188,7 +8237,7 @@ Was musst du mitbringen?&#13;
 Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. Das kann ein T-Shirt oder ein Hoody sein (keine gefütterten Hoodys). Auch Jutebeutel oder Kissenbezüge können bedruckt werden. Was immer du aussuchst: Wichtig ist ein möglichst hoher Baumwollanteil.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="25">Anke</person>
@@ -8288,7 +8337,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <description>Introduction to VMware’s ESXi and vCenter Basics, brief coverage of storage, network topics and availability, including a quick demonstration of replication and fault tolerance.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6">Josh</person>
@@ -8545,10 +8594,10 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>14:30</start>
         <duration>01:00</duration>
         <room>Vortragsraum 2 - Bhavani - H1-5.2</room>
-        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums</slug>
+        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
-        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums</title>
-        <subtitle>und Machtverhältnissen</subtitle>
+        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverhältnissen</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -8583,7 +8632,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
 Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beiträgen zu Beginn der Sessions einige Hintergrundinformationen und mögliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachspüren, was den Weg zu einer befreiten Gesellschaft versperrt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -8610,7 +8659,7 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
 Mehr Infos: https://freieraeume-film.de/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -8683,7 +8732,7 @@ Black Feminism, afrikanische Selbstermächtigungen&#13;
 → Offene Diskussion</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -8710,7 +8759,7 @@ Im September 2022 hat ein breites Bündnis von Fachleuten das „Abrissmoratoriu
 Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf welcher Ebene gibt es, Abrisse zu verhindern? Wie kann ich aktiv werden? Wie könnte ein Notfallplan zur Rettung von bedrohten Gebäuden aussehen?</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="116">Jakob Bahret</person>
@@ -8738,7 +8787,7 @@ Eine kapitalismuskritische Auseinandersetzung.</abstract>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="72">Lisa Poettinger</person>
@@ -8767,7 +8816,7 @@ Außerdem wollen wir ein paar Überlegungen teilen, was diese Repression gegen d
 Darüber hinaus werden wir erläutern, weshalb die Antwort auf die Repression nicht sein kann, sich aus diesen Kämpfen zurückzuziehen und weshalb wir weiterhin eine große Notwendigkeit, aber auch ein viel größeres Potential in den Kämpfen um die öffentliche Mobilität erkennen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -8794,7 +8843,7 @@ Darüber hinaus werden wir erläutern, weshalb die Antwort auf die Repression ni
 Wie auch 2021 wird es 2023 wieder vielfältigen Protest und Gegenkultur geben. Die sollen wiederum von einem freien, ökologischen und sozialen Protest- und Aktionscamp ausgehen, in dem verschiedenste Aktionsgruppen und auch Bildungs- und Kulturveranstaltungen aufeinandertreffen können. Das braucht Menschen, die es organisieren! Komm zum ersten OnBoarding und werde Teil der Orga-Struktur!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -8819,7 +8868,7 @@ Wie auch 2021 wird es 2023 wieder vielfältigen Protest und Gegenkultur geben. D
         <description>Im September letzten Jahres wurde, im Zuge der NO-IAA Proteste in München, ein seit Jahren leerstehendes Haus besetzt. Mit unseren Aktionen haben wir die räumliche und symbolische Besetzung der Stadt durch die Autokonzerne der IAA kritisiert. Denn eine klimagerechte Stadt muss für alle Menschen leistbar sein. Doch in kürzester Zeit stürmte die Polizei das Gebäude und führte die Aktivist*innen ab. Auch die Reaktionen auf einige Scheinbesetzungen vor ein paar Jahren zeigten, dass der Schutz von Eigentum oberste Priorität hat. Doch warum ist das so? Warum schützt der Staat leerstehende Häuser mit allen Mitteln und kriminalisiert Menschen, die diese nutzen und mit Leben füllen wollen? Wir wollen uns anschauen, welche Mechanismen dahinterstehen und die Frage stellen, wem die Stadt eigentlich gehört.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -8865,10 +8914,10 @@ Was steckt hinter Konflikten? Wie eskaliert ein Konflikt in der Gruppe und wie k
         <start>15:00</start>
         <duration>03:00</duration>
         <room>Workshopraum 3 - H2-3.6</room>
-        <slug>jev22-9419-celebrate_safe</slug>
+        <slug>jev22-9419-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
-        <title>Celebrate Safe</title>
-        <subtitle>Projekt von Mindzone und ConAction Condrobs e.V.</subtitle>
+        <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Workshop</type>
         <language>de</language>
@@ -8880,7 +8929,7 @@ können zum einen die Inhalte selbst auf den Partys umsetzen und gleichzeitig ab
 Multiplikator*innen fungieren. Wichtig ist jedoch klarzustellen, dass in diesen Schulungen nur ein Grundstock an Wissen vermittelt werden kann und auch danach die Teilnehmenden keine Expert*innen auf den Themengebieten sind. Es ist zumindest jedoch ein Anfang in der Szene auf wichtige Themen aufmerksam zu machen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="78">Patrick Dresen und Sarah Lelle</person>
@@ -8938,7 +8987,7 @@ Unsere ehrenamtlichen Referent*innen bieten Workshops zu den Themen sexuelle Ori
 In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Berührungsängste zu nehmen, Wissen zu vermitteln und Akzeptanz gegenüber queeren Identitäten zu fördern. Dabei geben unsere Referent*innen, die alle selbst queere Jugendliche und junge Erwachsene unter 27 sind, auch Einblick in ihre persönlichen Erfahrungen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="93">diversity@school</person>
@@ -8989,7 +9038,7 @@ In unserem interaktiven Workshop arbeiten wir mit vielseitigen Methoden, um Ber�
 Ziel es Workshops ist es daher, abseits von neoliberalen Logiken, die nur auf die Veränderung von individuellem Verhalten abzielen, machtkritische und emanzipatorische Perspektiven auf das Thema Konsens zu entwickeln und sowohl auf theoretischer als auch auf praktischer Ebene neue Zugänge zu dem Thema zu ermöglichen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="174">Consent Calling</person>
@@ -9014,7 +9063,7 @@ Ziel es Workshops ist es daher, abseits von neoliberalen Logiken, die nur auf di
         <description>Kleines sowohl theoretisches, als auch praktisches Training zu politischen Aktionen mit kleinem rechtlichen Inhalt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="140">Jonas</person>
@@ -9188,7 +9237,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -9220,7 +9269,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -9552,7 +9601,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -9637,6 +9686,30 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
+        <type>Talk</type>
+        <slug>jev22-54986-risc_v</slug>
+        <title>RISC-V</title>
+        <subtitle>Eine OpenSource Prozessorarchitektur</subtitle>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">David Ahlmer</person>
+        </persons>
       </event>
     </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
@@ -9802,7 +9875,7 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
 Quellen in hoher Qualität zum vorher runterladen: https://t1p.de/IBQuellen</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="430">Mela Eckenfels</person>
@@ -9947,7 +10020,7 @@ Link zum Workshop-Raum: [FireShonks](https://meeten.statt-drosseln.de/b/mer-uld-
         <description>Was macht eine gute Bildbeschreibung aus? Worauf muss ich achten? Welche Details sind wichtig und welche nicht? Verstehen Blinde überhaupt Farben? All diese Fragen und mehr möchte ich nach meinem Talk als Input mit euch zusammen auf euren eigenen Social Media-Profilen oder Websites erkunden. Ihr lernt dabei worauf es beim Beschreiben von Bildern im Web ganz besonders ankommt und worauf ihr verzichten könnt. So werden eure Posts noch inklusiver, als sie sowieso sind! &lt;3</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3247">Casey Kreer</person>
@@ -10010,7 +10083,7 @@ Ablauf:&#13;
 - ca. 1,5-2h: Spiel</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3345">MoniKa (cyber4EDU e.V.)</person>
@@ -10248,7 +10321,7 @@ Let's all get together again to hang out, chat with people we haven't met yet or
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons/>
         <links/>
@@ -10415,7 +10488,7 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3411">alpha</person>
@@ -10474,7 +10547,7 @@ Wir treffen uns vor dem Gasthaus und gehen dann hoch zum Heizhaus.</abstract>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3950">Corinna</person>
@@ -10501,7 +10574,7 @@ Na dann los!</abstract>
 Ein paar Grundlagen und ein paar schöne Handgriffe zum mitnehmen quasi !</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3350">Än</person>
@@ -10553,7 +10626,7 @@ Ein paar Grundlagen und ein paar schöne Handgriffe zum mitnehmen quasi !</descr
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3347">Leo</person>
@@ -10661,7 +10734,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="32">ceddral</person>
@@ -10732,7 +10805,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Talk über selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des Würfel, die Firmware und auch das PCB.&lt;br /&gt;&lt;br /&gt;![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="13">Cyrill</person>
@@ -10757,7 +10830,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Kurze Einführung in CAD mit Fusion 360 mit anschliessenden Beispielaufgaben und Übungen. Fokus liegt bei 3D-Druckbaren Designs.&lt;br /&gt;&lt;br /&gt;Der Workshop besteht aus vier Teilen: &lt;br /&gt;  - (Vortrag) Kurze Einführung in 3D Modelierung (CAD vs. 3D Modelierung, ca 5 Minuten) und Einführung in Fusion 360 (ca 20 Minuten)&lt;br /&gt;  - (Workshop) Gemeinsames Beispiel in Fusion erstellen (ca 15-20 Minuten) “Von der Skizze bis zum Druckbaren Model” &lt;br /&gt;  - (Vortrag) Tipps um Dinge einfacher Druckbar zu machen (10 Minuten) &lt;br /&gt;  - (Workshop) 5-10 Beispiel-Aufgaben zum modelieren. Jeder kann sich eine oder zwei aussuchen und für sich modelieren. Vortragende helfen bei Problemen, beantworten Fragen, etc. [Beispiele: Staubsauger-Werkzeug-Adapter, angepasste Haken oder Aufhänger, (einfache) Ersatzteile, Passgenaue Einschübe, etc.]&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="14">Raphi</person>
@@ -10833,7 +10906,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Ein kurzer Vortrag über modulare Synthesizer. Sofern die Geräte vor Ort sein können, werden interessierten Personen auch gerne auch selbst rumspielen dürfen.&lt;br /&gt;&lt;br /&gt;Meine Racks: &lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/2044207](https://www.modulargrid.net/e/racks/view/2044207)&lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/1885770](https://www.modulargrid.net/e/racks/view/1885770)&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="13">Cyrill</person>
@@ -10861,7 +10934,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
 Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das Projekt planen und finanzieren, erfährst du in diesem Vortrag.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="107">Jojo</person>
@@ -10916,7 +10989,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <description>Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem öffentlich-werden erfolgte die Räumung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="142">Aaron</person>
@@ -11172,7 +11245,7 @@ Der Münchner Flüchtlingsrat berät seit 2019 in der Abschiebehaftanstalt am M�
         <description>Der Workshop untergliedert sich in verschiedene Bereiche. Zuerst wird auf allgemeine Erste Hilfe Basics eingegangen und das Wissen aus dem Erste Hilfe Kurs aufgefrischt. Alles jedoch im Bezug auf Großveranstaltungen und Demonstrationen. Im zweiten Teil wird explizit auf Partys, Raves, Festivals etc eingegangen. Dabei sollen sowohl Gäste als auch Veranstalter*innen geschult werden was bei Intoxikation mit verschiedenen Substanzen akut zu tun ist und was präventiv sinnvoll wäre.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="159">Sami Messmer</person>
@@ -11201,7 +11274,7 @@ Im September 2022 hat ein breites Bündnis von Fachleuten das „Abrissmoratoriu
 Warum ist es so einfach, Abriss genehmigt zu bekommen? Welche Möglichkeiten auf welcher Ebene gibt es, Abrisse zu verhindern? Wie kann ich aktiv werden? Wie könnte ein Notfallplan zur Rettung von bedrohten Gebäuden aussehen?</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="116">Jakob Bahret</person>
@@ -11345,7 +11418,7 @@ In den Rauhnächten steht das Tor zwischen den Welten weiter offen als sonst und
 Mit dieser Feuer-Zeremonie verbrennen wir die Dinge, die wir hinter uns lassen möchten. Wir sehen, reflektieren, verstehen, lassen los und Veränderungen zu</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="2">P-T2</person>
@@ -11404,7 +11477,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -11436,7 +11509,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -11663,7 +11736,7 @@ Wir freuen uns sehr, wenn ihr vorbeikommt und mitmacht, in unserer Küche sind a
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -11741,7 +11814,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
 Über einen Screen zeigen wir inszenierte Kunst/Bilder/Videos zum Thema, Tierrechtsaktivisti in Aktion und wie sich die Beziehung zwischen Menschen &amp; Tieren nach dem Ideal einer diskriminierungsfreien Gesellschaft ändern sollte. Ebenso haben wir Flyer und Infos rund zum Thema Speziesismus, Tierrechten und Aktionen. Ein Entscheidungspfad soll dazu animieren, sich mit ihrer eigenen Beziehung zu Tieren &amp; dem Speziesismus auseinaderzusetzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="137">Meri Väyrynen</person>
@@ -11797,7 +11870,7 @@ Zentral wird dabei die Frage sein, wie sich die Geschichte von Techno erzählen 
 Diese Inhalte und die damit verbundenen Praktiken müssen als gesellschaftskritisch betrachtet und dabei herkömmliche, verengte Verständnisse des Politischen erweitert werden. Tatkräftig unterstützt durch diverse Plattenbeispiele soll so Verständnis und Leidenschaft für diese Musikkultur intensiviert werden.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="102">Lutema</person>
@@ -11836,6 +11909,52 @@ Otherwise be spontaneous and just drop by.</description>
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="a4cda022-4123-4a18-801e-7fcf1a68d44e" id="54987">
+        <type>Talk</type>
+        <slug>jev22-54987-biometrische_ueberwachung</slug>
+        <title>Biometrische Überwachung</title>
+        <subtitle>Kartieren zur Gegenwehr</subtitle>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">Bjorn</person>
+        </persons>
+      </event>
+      <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
+        <type>Talk</type>
+        <slug>jev22-54988-hirntumordiagnostik</slug>
+        <title>Hirntumordiagnostik</title>
+        <subtitle/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Frikandel</person>
+        </persons>
+      </event>
+    </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
@@ -11885,7 +12004,7 @@ Otherwise be spontaneous and just drop by.</description>
 Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist unter https://oberlab.de/ zu finden.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="97">Lukas Lischke</person>
@@ -12058,7 +12177,7 @@ Von 1750 bis 2018 war Deutschland für rund 5,7 Prozent aller weltweiten Emissio
 - Den direkten Zoom-Link für Teilnehmende vor Ort bekommt der Engel / Host.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="109">Daniel Bartel</person>
@@ -12087,7 +12206,7 @@ Von 1750 bis 2018 war Deutschland für rund 5,7 Prozent aller weltweiten Emissio
         <description>Eine Gut eingestellte Turbosound ist das A und O für jede gelungene Veranstaltung. Vor allem in Zeiten wo die Ansprüche der Allgemeinheit im Punkto Soundtechnik und Bespielung immer weiter sinken, ist Kommando Hörsturz das Bollwerk im Kampf gegen langweiligen Kommerz Techno. Deshalb wollen wir unser geballtes Wissen gerne in einem Kontext weitergeben der unmissverständlich ist und die Teilnehmer*innen dazu motiviert sich im Kontext Subkultur zu engagieren.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="117">JIM BACKE</person>
@@ -12147,7 +12266,7 @@ Kopfhörer auf, kein Geräusch von außen soll rein. Tanzen auf dem Berg, im Fel
 Tanzen, Schweiß, Musik, Schüsse, Hitze, Fliegen, Wind, Bewegen, Atmen, Loslassen, Tanzen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="179">Christian Oppl {Abschiebehaft in München und Bayern}</person>
@@ -12179,7 +12298,7 @@ Daria: Die Werke die ich ausstelle sind Großformatige Kohlezeichnungen und Kalt
 Gerhana: Ausgestellt werden Malereien, die sich mit der Fähigkeit des Menschen beschäftigen, eigene Realitäten erschaffen zu können. Kurz zusammengefasst: Ich bin ein Künstler der über Künstler malt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="146">Daria Novikova</person>
@@ -12351,7 +12470,7 @@ Eine Kunstaktion im Jahr 2015 zur Verhinderung eines Verkauf des **Haus der Stat
 (FREI)RAUM im Kontext des Speziezismus: Der Stand soll sich mit Themen rund um die (Frei)Räume in der Stadt München für Tiere handeln. Wir zeigen auf, wie (Frei)Räume bereits beansprucht werden von Menschen, die sich für Tierrechte einsetzen und zeigen, wie viel Raum die Ausbeutung von nichtmenschlichen Tieren einnimmt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="100">No Future</person>
@@ -12440,6 +12559,7 @@ Unser Team setzt sich mit den Problemen auseinander, die beim Konsum von legalen
     </room>
     <room name="Timeout Raum - H2-5.1"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
 </schedule>

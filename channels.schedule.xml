@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 02:50</version>
+  <version>2022-12-30 03:35</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -71,7 +71,7 @@ Moderation: Peter Arun Pfaff</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="183">terru</person>
@@ -126,7 +126,7 @@ D 1988/2019   74 Min. &#13;
 Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns mit konkreten Utopien zu einer gerechten Welt beschäftigen wollen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="110">Uli</person>
@@ -136,6 +136,7 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
@@ -492,7 +493,7 @@ Content Notice: Militär, Krieg, Überwachung</description>
         <description>IT security, just like safety, has been focusing on the negatives, trying to learn from the times when things failed. Hence, we have become experts at counting the negatives, at finding all the holes. Because we rightfully fear failure, we have put more and more constraints on our systems through policies and guidelines and ways of working that constrain how they can be built and operated to avoid all the holes we have found. However, we tend to forget that the vast majority of the times, things go well. In fact, often they go well despite all the constraints we have put on the systems. Are we missing important learning opportunities by ignoring how things go well? In this talk, I will try to demonstrate how we could bring what safety literature calls "Safety II" or "Safety Differently" into the practice of IT security.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3343">Mate Soos</person>
@@ -722,7 +723,7 @@ Wissen ist zum Teilen da - Zeit, für Strategien und Tipps zum „legalen Blocki
         <room>HIP2</room>
         <slug>jev22-49192-regenerative_hacking</slug>
         <url>https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/</url>
-        <title>Regenerative Hacking</title>
+        <title>Regenerative Hacking </title>
         <subtitle>Ecosystemic design workshop for rural community hackspaces</subtitle>
         <track>E.T.I.</track>
         <type>Talk</type>
@@ -785,7 +786,7 @@ Be warned: This talk will cover enough information to make you consider building
         <description>Join this panel and listen to former members of Telecomix, Lulzsec and other hacktivist groups discuss about their experiences doing hacktivism, any consequences they suffered, and how they envision the future for this form of activism.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3380">leon</person>
@@ -1170,7 +1171,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
         <description>{Design Clubcult - Dance!} This documentation explores the revolutionary potential of dance,-and club culture by start researching in the capital of Georgia, Tbilisi. This is not a description of the club scene there, rather it is seeking an environment where clubbing is once again located in a culture of socio political resistance. Showing that the revolutionary potential of club culture lies in the art form of dance, which in this context can unfold its power to form communities and thereby enable public action.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="166">Emma Mann</person>
@@ -1196,7 +1197,7 @@ Womit könnten die gängigen Formate wie „Zwischennutzung“ und „Kunst am B
 Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -1206,6 +1207,7 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
       <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
         <abstract>Intro to Solar Protocol</abstract>
@@ -1626,7 +1628,7 @@ Topics and tools we present are:&#13;
 For these steps and typical attack patterns we explain reasonable approaches and what has been proven in our work.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -1805,7 +1807,7 @@ Our play will use the language of the Internet: Easy English with heavy accents 
 Trailer: https://www.youtube.com/watch?v=GvfJ3_a-lKA</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3248">e-punc</person>
@@ -1924,7 +1926,7 @@ But the world of It security can seem overwhelming and its easy to feel lost and
         <description>I already held the talk in German at this years Bits und Bäume conference in Berlin. Parts of it are already contained in my It Security Training Video for Fridays for Future: https://www.instagram.com/p/CXx9M3eIl16/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="40">Viktor</person>
@@ -2485,7 +2487,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="32">ceddral</person>
@@ -2546,7 +2548,7 @@ Bei einem Teil des Workshops ist das Liegen besonders empfehlenswert. Bitte brin
 Nachtrag aus aktuellem Anlass: Vorne im Sofa-Bereich gibt es Decken - Empfehlung diese leihweise mitzubringen.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="21">Roman Stöhr</person>
@@ -2630,7 +2632,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
         <description>Möglicherweise schon bald werden Quantencomputer unsere Welt verändern. Insbesondere auf die Cryptography ist ein grosser Einfluss zu erwarten. Wir werfen einen Blick auf die aktuelle Forschungssituation und wagen eine Zukunftsprognose. Anschliessend betrachten wir, wie wir uns heute schon auf Post-Quantum Ära vorbereiten können und gehen auf Themen wie Cryptographic Agility ein.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="1">Zöpfe</person>
@@ -2737,7 +2739,7 @@ Ziel des Workshops ist es, sich diesen Fragen durch zugängliche und strukturier
 Der Workshop ist explizit für alle Menschen unabhängig von ihrer Geschlechtsidentität angelegt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="38">Martin Barner</person>
@@ -2854,7 +2856,7 @@ Moderation: Peter Arun Pfaff</description>
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="96">Ray</person>
@@ -2880,7 +2882,7 @@ Moderation: Peter Arun Pfaff</description>
 Mehr Infos: https://allesisteins.film/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -2908,7 +2910,7 @@ Mehr Infos: https://allesisteins.film/</description>
 -solidarische Stadt</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="144">Seebrücke München</person>
@@ -2937,7 +2939,7 @@ Wie der Kampf um den Bau einer Autobahn die Gesellschaft spaltet.&#13;
 Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -2947,6 +2949,53 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
+        <type>Talk</type>
+        <slug>jev22-54984-einfuehrung_in_nixos</slug>
+        <title>Einfuehrung in NixOS</title>
+        <subtitle/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">Felix Ulonska</person>
+        </persons>
+      </event>
+      <event guid="17386a7d-577c-46a0-a994-cbbe1ac29bf7" id="54985">
+        <type>Talk</type>
+        <slug>jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
+        <title>Wie No-Code und Serverless Ideen verwirklichen und den Markt verändern</title>
+        <subtitle/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Max</person>
+          <person id="3">Jonathan</person>
+        </persons>
+      </event>
+    </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="4" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
@@ -3901,7 +3950,7 @@ This talk also aims to be a brief guide on how to perform twitter scraping, basi
         <description>C-KiNO #95 will be an updated version of our episode presented at Bits Und Baume at TU Berlin in Oktober 2022.  For Chaos in Potsdam we would like to provide a brief report back on our experiences at BnB conferences ( both 2018 and 22 ) along with our ongoing work related to the controversial "Anthropocene" and "Technosphere" framings of our ecological and social crises. We share our "XLterrestrials" ( i.e. alien, sci-fi and indigenous-inclusive ) analysis and critical perspectives. And we encourage questions, discussion and debate.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="29">Paolo Podrescu</person>
@@ -3980,7 +4029,7 @@ Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werde
         <description>Was ist eigentlich aus dem Onlinezugangsgesetz geworden? Und was sind die neuen Riesentanker der Verwaltungsdigitalisierung? Und fahren sie oder liegen sie quer im Panama-Kanal? Come in and find out.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3395">Spyro</person>
@@ -4007,7 +4056,7 @@ Eine Linksammlung über die Bild-Quellen kann im Anschluss veröffentlicht werde
 Seit dem 32C3 haben wir massive Verbesserungen der Performance des Emfpaengers erreicht. Einplatinencomputer sind inzwischen schnell genug um das komplette Band zu emfpangen. Auf dem freien Markt sind bezahlbare Antennen aufgetaucht. Es wurden spezielle low-noise Antennen entwickelt. Wir konnten mit einer Antenne eines Radioteleskops den Satelliten zuhoeren. Es wurden Nachrichten von und an Flugzeuge in den Daten gefunden. Dies und noch ein paar mehr Dinge dann im Vortrag.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="379">schneider</person>
@@ -4194,10 +4243,10 @@ In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktike
         <start>13:00</start>
         <duration>00:30</duration>
         <room>Seminarraum</room>
-        <slug>jev22-5092-intro_to_time</slug>
+        <slug>jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks</slug>
         <url>https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/</url>
-        <title>intro to time</title>
-        <subtitle>&amp; organisation-concepts and useful tricks</subtitle>
+        <title>intro to time- &amp; organisation-concepts and useful tricks</title>
+        <subtitle/>
         <track>Erlangen</track>
         <type>Talk</type>
         <language>de</language>
@@ -4213,7 +4262,7 @@ Third is the most important: FAQ-round for your concerns and issues regarding ti
 Best way to learn and teach is by communicating, so lets talk!</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="28">MaW</person>
@@ -4303,7 +4352,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="7">MikeTsenatek</person>
@@ -4328,7 +4377,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons/>
         <links/>
@@ -4353,7 +4402,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <description>Introduction to VMware’s ESXi and vCenter Basics, brief coverage of storage, network topics and availability, including a quick demonstration of replication and fault tolerance.&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="6">Josh</person>
@@ -4610,10 +4659,10 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
         <start>14:30</start>
         <duration>01:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums</slug>
+        <slug>jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/</url>
-        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums</title>
-        <subtitle>und Machtverhältnissen</subtitle>
+        <title>Antiautoritäre Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverhältnissen</title>
+        <subtitle/>
         <track>Freiräume</track>
         <type>Talk</type>
         <language>de</language>
@@ -4648,7 +4697,7 @@ Wenn Ihr weitere Fragen zum Aufwand, der Organisation oder auch einfach zum Miet
 Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der Fokus liegt auf einer gemeinsamen Suche im Dialog, assoziativ statt kompetitiv. Teilnehmer*innen werden in Input-Beiträgen zu Beginn der Sessions einige Hintergrundinformationen und mögliche Fragestellungen zu einem Thema angeboten. Es findet kein dogmatisches Belehren statt. Gemeinsam werden Grenzen (anhand) von empirischer Forschung und subjektivem Empfinden ausgelotet. So wollen wir dem nachspüren, was den Weg zu einer befreiten Gesellschaft versperrt.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="138">Forum für Freiraum</person>
@@ -4675,7 +4724,7 @@ Assoziation:E:n sucht im Gespräch nach Fragen ohne vorgegebene Antworten. Der F
 Mehr Infos: https://freieraeume-film.de/</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="147">Forum für Freiraum</person>
@@ -4709,6 +4758,30 @@ Mehr Infos: https://freieraeume-film.de/</description>
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
+        <type>Talk</type>
+        <slug>jev22-54986-risc_v</slug>
+        <title>RISC-V</title>
+        <subtitle>Eine OpenSource Prozessorarchitektur</subtitle>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">David Ahlmer</person>
+        </persons>
       </event>
     </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
@@ -4874,7 +4947,7 @@ Der Talk vom letzten Jahr: https://mela.de/blog/2021/12/27/talk-informationen-be
 Quellen in hoher Qualität zum vorher runterladen: https://t1p.de/IBQuellen</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="430">Mela Eckenfels</person>
@@ -5358,7 +5431,7 @@ Es werden Beispiele aus der gegenwärtigen Forschung aufgezeigt. Hybride, sogena
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="3411">alpha</person>
@@ -5494,7 +5567,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description/>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="32">ceddral</person>
@@ -5546,7 +5619,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Talk über selbstgemachte LED Cubes und dem [ledcube.rs](https://github.com/ledcube-rs/ledcube.rs) Projekt. Vieles an dem Projekt ist selbst designed: Die Schaltung des Würfel, die Firmware und auch das PCB.&lt;br /&gt;&lt;br /&gt;![Bild eines blinkenden LED Cubes](https://raw.githubusercontent.com/ledcube-rs/ledcube.rs/master/cube1.gif)&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="13">Cyrill</person>
@@ -5571,7 +5644,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Kurze Einführung in CAD mit Fusion 360 mit anschliessenden Beispielaufgaben und Übungen. Fokus liegt bei 3D-Druckbaren Designs.&lt;br /&gt;&lt;br /&gt;Der Workshop besteht aus vier Teilen: &lt;br /&gt;  - (Vortrag) Kurze Einführung in 3D Modelierung (CAD vs. 3D Modelierung, ca 5 Minuten) und Einführung in Fusion 360 (ca 20 Minuten)&lt;br /&gt;  - (Workshop) Gemeinsames Beispiel in Fusion erstellen (ca 15-20 Minuten) “Von der Skizze bis zum Druckbaren Model” &lt;br /&gt;  - (Vortrag) Tipps um Dinge einfacher Druckbar zu machen (10 Minuten) &lt;br /&gt;  - (Workshop) 5-10 Beispiel-Aufgaben zum modelieren. Jeder kann sich eine oder zwei aussuchen und für sich modelieren. Vortragende helfen bei Problemen, beantworten Fragen, etc. [Beispiele: Staubsauger-Werkzeug-Adapter, angepasste Haken oder Aufhänger, (einfache) Ersatzteile, Passgenaue Einschübe, etc.]&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="14">Raphi</person>
@@ -5647,7 +5720,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         <description>Ein kurzer Vortrag über modulare Synthesizer. Sofern die Geräte vor Ort sein können, werden interessierten Personen auch gerne auch selbst rumspielen dürfen.&lt;br /&gt;&lt;br /&gt;Meine Racks: &lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/2044207](https://www.modulargrid.net/e/racks/view/2044207)&lt;br /&gt;  - [https://www.modulargrid.net/e/racks/view/1885770](https://www.modulargrid.net/e/racks/view/1885770)&lt;br /&gt;</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="13">Cyrill</person>
@@ -5675,7 +5748,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
 Wie wir ökologische Holzbauweise mit flexiblen Wohnraumgrößen verbinden, das Projekt planen und finanzieren, erfährst du in diesem Vortrag.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="107">Jojo</person>
@@ -5730,7 +5803,7 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <description>Eine Besetzung in Bayern? Bis zum Sommer 2022 wurde ein Vierseithof in der Holledau zum Teil still besetzt. Mehr als eine Woche nach dem öffentlich-werden erfolgte die Räumung. Was ist passiert? Geschichten, Erfahrungen und Bilder aus Wolfersdorf.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="142">Aaron</person>
@@ -5912,6 +5985,52 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="a4cda022-4123-4a18-801e-7fcf1a68d44e" id="54987">
+        <type>Talk</type>
+        <slug>jev22-54987-biometrische_ueberwachung</slug>
+        <title>Biometrische Überwachung</title>
+        <subtitle>Kartieren zur Gegenwehr</subtitle>
+        <date>2022-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">Bjorn</person>
+        </persons>
+      </event>
+      <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
+        <type>Talk</type>
+        <slug>jev22-54988-hirntumordiagnostik</slug>
+        <title>Hirntumordiagnostik</title>
+        <subtitle/>
+        <date>2022-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">Frikandel</person>
+        </persons>
+      </event>
+    </room>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
@@ -5944,7 +6063,7 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
 Eine Übersicht zu dem Projekt getragen durch einen gemeinnützigen Verein ist unter https://oberlab.de/ zu finden.</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="97">Lukas Lischke</person>
@@ -6066,6 +6185,7 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
       </event>
     </room>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
+    <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
 </schedule>

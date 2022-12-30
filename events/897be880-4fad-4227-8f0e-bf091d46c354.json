@@ -1,0 +1,28 @@
+{
+  "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
+  "type": "Talk",
+  "id": 54986,
+  "slug": "jev22-54986-risc_v",
+  "title": "RISC-V",
+  "subtitle": "Eine OpenSource Prozessorarchitektur",
+  "date": "2022-12-29T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false
+  },
+  "persons": [
+    {
+      "id": 4,
+      "public_name": "David Ahlmer"
+    }
+  ],
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}

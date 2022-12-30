@@ -1,0 +1,28 @@
+{
+  "guid": "a4cda022-4123-4a18-801e-7fcf1a68d44e",
+  "type": "Talk",
+  "id": 54987,
+  "slug": "jev22-54987-biometrische_ueberwachung",
+  "title": "Biometrische \u00dcberwachung",
+  "subtitle": "Kartieren zur Gegenwehr",
+  "date": "2022-12-30T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false
+  },
+  "persons": [
+    {
+      "id": 5,
+      "public_name": "Bjorn"
+    }
+  ],
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}

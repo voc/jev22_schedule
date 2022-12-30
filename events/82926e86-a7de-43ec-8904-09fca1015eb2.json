@@ -1,0 +1,28 @@
+{
+  "guid": "82926e86-a7de-43ec-8904-09fca1015eb2",
+  "type": "Talk",
+  "id": 54988,
+  "slug": "jev22-54988-hirntumordiagnostik",
+  "title": "Hirntumordiagnostik",
+  "subtitle": "",
+  "date": "2022-12-30T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false
+  },
+  "persons": [
+    {
+      "id": 6,
+      "public_name": "Frikandel"
+    }
+  ],
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}

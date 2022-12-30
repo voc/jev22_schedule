@@ -3,9 +3,9 @@
   "schedule": {
     "generator": {
       "name": "voc/schedule/jev22",
-      "version": "4613f"
+      "version": "812e8"
     },
-    "version": "2022-12-30 02:50",
+    "version": "2022-12-30 03:35",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -329,6 +329,11 @@
           "location": "Aalen"
         },
         {
+          "name": "Warpzone",
+          "guid": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+          "location": "M\u00fcnster"
+        },
+        {
           "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
           "name": "WoodbineDWeb",
           "description": "Talks at Woodbine DWeb NYC 2022",
@@ -481,6 +486,7 @@
               }
             ],
             "Hackwerk": [],
+            "Warpzone": [],
             "WoodbineDWeb": []
           }
         },
@@ -1122,7 +1128,7 @@
                 "room": "HIP2",
                 "slug": "jev22-49192-regenerative_hacking",
                 "url": "https://pretalx.c3voc.de/hip-berlin-2022/talk/VL3KS3/",
-                "title": "Regenerative Hacking",
+                "title": "Regenerative Hacking ",
                 "subtitle": "Ecosystemic design workshop for rural community hackspaces",
                 "track": "E.T.I.",
                 "type": "Talk",
@@ -1647,6 +1653,7 @@
               }
             ],
             "Hackwerk": [],
+            "Warpzone": [],
             "WoodbineDWeb": [
               {
                 "abstract": "Intro to Solar Protocol",
@@ -3549,6 +3556,64 @@
               }
             ],
             "Hackwerk": [],
+            "Warpzone": [
+              {
+                "guid": "ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd",
+                "type": "Talk",
+                "id": 54984,
+                "slug": "jev22-54984-einfuehrung_in_nixos",
+                "title": "Einfuehrung in NixOS",
+                "subtitle": "",
+                "date": "2022-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 1,
+                    "public_name": "Felix Ulonska"
+                  }
+                ]
+              },
+              {
+                "guid": "17386a7d-577c-46a0-a994-cbbe1ac29bf7",
+                "type": "Talk",
+                "id": 54985,
+                "slug": "jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
+                "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+                "subtitle": "",
+                "date": "2022-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 2,
+                    "public_name": "Max"
+                  },
+                  {
+                    "id": 3,
+                    "public_name": "Jonathan"
+                  }
+                ]
+              }
+            ],
             "WoodbineDWeb": []
           }
         },
@@ -4878,10 +4943,10 @@
                 "start": "13:00",
                 "duration": "00:30",
                 "room": "Seminarraum",
-                "slug": "jev22-5092-intro_to_time",
+                "slug": "jev22-5092-intro_to_time_organisation_concepts_and_useful_tricks",
                 "url": "https://talks.w.icmp.camp/wicmp1/talk/B3WBJM/",
-                "title": "intro to time",
-                "subtitle": "& organisation-concepts and useful tricks",
+                "title": "intro to time- & organisation-concepts and useful tricks",
+                "subtitle": "",
                 "track": "Erlangen",
                 "type": "Talk",
                 "language": "de",
@@ -5367,10 +5432,10 @@
                 "start": "14:30",
                 "duration": "01:00",
                 "room": "Bhavani",
-                "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums",
+                "slug": "jev22-4985-antiautoritaere_gedanken_zum_generationskonflikt_und_den_daraus_resultierenden_eigentums_und_machtverhaeltnissen",
                 "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/NYPZTG/",
-                "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums",
-                "subtitle": "und Machtverh\u00e4ltnissen",
+                "title": "Antiautorit\u00e4re Gedanken zum Generationskonflikt und den daraus resultierenden Eigentums- und Machtverh\u00e4ltnissen",
+                "subtitle": "",
                 "track": "Freir\u00e4ume",
                 "type": "Talk",
                 "language": "de",
@@ -5491,6 +5556,34 @@
                 ],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "Warpzone": [
+              {
+                "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
+                "type": "Talk",
+                "id": 54986,
+                "slug": "jev22-54986-risc_v",
+                "title": "RISC-V",
+                "subtitle": "Eine OpenSource Prozessorarchitektur",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 4,
+                    "public_name": "David Ahlmer"
+                  }
+                ]
               }
             ],
             "WoodbineDWeb": []
@@ -6761,6 +6854,60 @@
               }
             ],
             "Hackwerk": [],
+            "Warpzone": [
+              {
+                "guid": "a4cda022-4123-4a18-801e-7fcf1a68d44e",
+                "type": "Talk",
+                "id": 54987,
+                "slug": "jev22-54987-biometrische_ueberwachung",
+                "title": "Biometrische \u00dcberwachung",
+                "subtitle": "Kartieren zur Gegenwehr",
+                "date": "2022-12-30T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 5,
+                    "public_name": "Bjorn"
+                  }
+                ]
+              },
+              {
+                "guid": "82926e86-a7de-43ec-8904-09fca1015eb2",
+                "type": "Talk",
+                "id": 54988,
+                "slug": "jev22-54988-hirntumordiagnostik",
+                "title": "Hirntumordiagnostik",
+                "subtitle": "",
+                "date": "2022-12-30T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false
+                },
+                "persons": [
+                  {
+                    "id": 6,
+                    "public_name": "Frikandel"
+                  }
+                ]
+              }
+            ],
             "WoodbineDWeb": []
           }
         },
@@ -6960,6 +7107,7 @@
               }
             ],
             "Hackwerk": [],
+            "Warpzone": [],
             "WoodbineDWeb": []
           }
         }

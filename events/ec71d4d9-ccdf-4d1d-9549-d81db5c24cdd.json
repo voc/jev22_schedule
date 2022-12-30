@@ -1,0 +1,28 @@
+{
+  "guid": "ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd",
+  "type": "Talk",
+  "id": 54984,
+  "slug": "jev22-54984-einfuehrung_in_nixos",
+  "title": "Einfuehrung in NixOS",
+  "subtitle": "",
+  "date": "2022-12-28T19:00:00+01:00",
+  "start": "19:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false
+  },
+  "persons": [
+    {
+      "id": 1,
+      "public_name": "Felix Ulonska"
+    }
+  ],
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}

@@ -1,0 +1,32 @@
+{
+  "guid": "17386a7d-577c-46a0-a994-cbbe1ac29bf7",
+  "type": "Talk",
+  "id": 54985,
+  "slug": "jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
+  "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+  "subtitle": "",
+  "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false
+  },
+  "persons": [
+    {
+      "id": 2,
+      "public_name": "Max"
+    },
+    {
+      "id": 3,
+      "public_name": "Jonathan"
+    }
+  ],
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}
