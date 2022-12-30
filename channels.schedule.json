@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-30 11:20",
+    "version": "2022-12-30 11:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6668,7 +6668,7 @@
                 "abstract": "Who cares ist Bildungsangebot und Anlaufstelle f\u00fcr Menschen, die f\u00fcr andere Menschen da sind / da sein wollen. Und dabei von der (Reproduktions-)Arbeits- und Geschlechterforschung profitieren m\u00f6chten. Kommt rum und bastelt gemeinsam an progressiven Modellen zur Bew\u00e4ltigung eurer F\u00fcrsorgearbeit!",
                 "description": "Who Cares (ist) konzipiert (f\u00fcr) soziale R\u00e4ume, in denen Menschen emanzipatorische Ans\u00e4tze zur praktischen Bew\u00e4ltigung von F\u00fcrsorgearbeit entwickeln. In unserer Care-Werkstatt auf dem Freiraumforum k\u00f6nnen verschiedene Ans\u00e4tze f\u00fcr radikal z\u00e4rtliche Beziehungsweisen entwickelt und reflektiert werden. \r\n\r\nVerschiedenes Wissen aus Jahrzehnten von globaler und feministischer Forschung hilft beim Verstehen, Vorbeugen und \u00dcberwinden bekannter, nur scheinbar individueller Problematiken im Bereich der Care-Arbeit. Au\u00dferdem k\u00f6nnen verschiedene Kollektive miteinander in Austausch treten und Bezug zur gesellschaftlichen Dimension der (scheiternden) F\u00fcrsorge herstellen. \r\n\r\nWho cares m\u00f6chte angesichts versch\u00e4rfter sozialer Notlagen individuelle Handlungsf\u00e4higkeit in solidarischen, z\u00e4rtlichen Beziehungsweisen erm\u00f6glichen - und damit verbunden Perspektiven auf ein gutes, selbstbestimmtes Leben f\u00fcr alle Menschen greifbar machen. Und gemeinsam die Abh\u00e4ngigkeit von patriarchal strukturierten Familienkonzepten auf der einen und arbeitsame Vereinsamung sowie rassifizierter und chauvinistischer Externalisierung von Care auf der anderen Seite zu \u00fcberwinden.",
                 "recording_license": "",
-                "do_not_record": false,
+                "do_not_record": true,
                 "persons": [
                   {
                     "id": 138,
