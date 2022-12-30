@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-29 23:40</version>
+  <version>2022-12-30 02:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5464,62 +5464,6 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
         </recording>
         <persons>
           <person id="32">ceddral</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="5136" guid="5c136451-b07a-5290-bda4-838406dc814c">
-        <logo/>
-        <date>2022-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-5136-operational_transconductance_amplifiers</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/FXSKCP/</url>
-        <title>Operational Transconductance Amplifiers</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Operational Transconductance Amplifiers (OTAs) are fascinating electronic devices:&#13;
-They behave like Operational Amplifiers (OP-Amps), but with a controllable current output.&#13;
-That enables a lot of interesting possible use cases e.g., voltage controlled amplifiers, voltage controlled filters and voltage controlled simulations of passive electronic components.&#13;
-Due to their versatility, they can be seen as secret heroes in analog audio circuits, but still their underlying circuit is still relatively simple and therefore comprehensible.&#13;
-This talk will take top-down approach starting with the operational principles and various example applications to then continue a bit further down the rabbit hole and take a high-level look at the inner circuit.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="27">etXzat</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="5620" guid="5d62000d-a88e-5e1b-b591-7007860146e6">
-        <logo/>
-        <date>2022-12-30T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Seminarraum</room>
-        <slug>jev22-5620-das_matrix_protokoll</slug>
-        <url>https://talks.w.icmp.camp/wicmp1/talk/WAFFKU/</url>
-        <title>Das Matrix-Protokoll</title>
-        <subtitle/>
-        <track>Erlangen</track>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Matrix (matrix.org) ist ein Protokollstandard für (Gruppen)chats, die über mehrere Server teilt sind. Ich möchte die Funktion und Konzepte des Protokolls erklären und welche Probleme es löst - insbesondere:&#13;
- - Verteilte Verwaltung von Räumen (Moderationsrechte, Mitgliedschaft)&#13;
- - Ende-zu-Ende-Verschlüsselung mit mehreren Geräten pro Benutzer</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="30">thejonny</person>
         </persons>
         <links/>
         <attachments/>
