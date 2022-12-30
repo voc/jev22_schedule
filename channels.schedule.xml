@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 02:30</version>
+  <version>2022-12-30 02:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -5423,6 +5423,40 @@ You can also spectate the event on PeerTube.</description>
         <persons>
           <person id="3418">Julian Groß</person>
         </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="56027" guid="d6e0ca60-732d-5793-8989-b77e5ace1aa2">
+        <logo/>
+        <date>2022-12-30T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>xrelog22 - Stream</room>
+        <slug>jev22-56027-poetry_paella_inkl_jev22_recap</slug>
+        <url>https://pretalx.c3voc.de/xrelog-2022/talk/GXJ9AH/</url>
+        <title>Poetry Paella inkl. jev22 recap</title>
+        <subtitle/>
+        <track>Kunst &amp; Musik</track>
+        <type>Live Session (60)</type>
+        <language>de</language>
+        <abstract>Poetry Paella inkl. jev22 recap</abstract>
+        <description>Was übrig geblieben ist, wird am nächsten Tag in die Pfanne gehauen. Reis, Safran und gutes Olivenöl darüber, fein abschmecken und fertig. 1-2 Überraschungsgäste wollen hier noch nicht gespoilert werden.&#13;
+&#13;
+Haben da ja noch ein paar lose Enden, die wollen wir uns zumindestens nochmal kurz anschauen und evt. mit genuß vertilgen. Wie es so unsere Art auf der #xrelog22 ist werdet ihr den größten Spaß haben, wenn ihr uns dazu im Multiversum von overte besucht. Den Client gibt's gratis hier: https://overte.org/#downloads. Garantiert Bullshitfrei, free &amp; open source. Ein Login ist nicht erforderlich.&#13;
+&#13;
+Mögliche, aber noch lange nicht bestätigte Paella Zutaten könnten sein ...&#13;
+&#13;
+... Glühweinprogrammier-Nacht NewsFlash&#13;
+... NewYork NewsFlash (wip)&#13;
+... Südbairische Hackertour NewsFlash (pre-wip)&#13;
+... Mafifa WM 2030 - die Quintessenz im Schnelldurchlauf&#13;
+... Und was ist mit Bits &amp; Bäume? Wird die 9te Hackerethik offiziel?&#13;
+... Literatur, Demo-Szene und mal schauen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
       </event>

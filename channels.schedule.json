@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "4613f"
     },
-    "version": "2022-12-30 02:30",
+    "version": "2022-12-30 02:50",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -6221,6 +6221,29 @@
                     "answers": []
                   }
                 ],
+                "links": [],
+                "attachments": []
+              },
+              {
+                "id": 56027,
+                "guid": "d6e0ca60-732d-5793-8989-b77e5ace1aa2",
+                "logo": "",
+                "date": "2022-12-30T23:00:00+01:00",
+                "start": "23:00",
+                "duration": "01:00",
+                "room": "xrelog22 - Stream",
+                "slug": "jev22-56027-poetry_paella_inkl_jev22_recap",
+                "url": "https://pretalx.c3voc.de/xrelog-2022/talk/GXJ9AH/",
+                "title": "Poetry Paella inkl. jev22 recap",
+                "subtitle": "",
+                "track": "Kunst & Musik",
+                "type": "Live Session (60)",
+                "language": "de",
+                "abstract": "Poetry Paella inkl. jev22 recap",
+                "description": "Was \u00fcbrig geblieben ist, wird am n\u00e4chsten Tag in die Pfanne gehauen. Reis, Safran und gutes Oliven\u00f6l dar\u00fcber, fein abschmecken und fertig. 1-2 \u00dcberraschungsg\u00e4ste wollen hier noch nicht gespoilert werden.\r\n\r\nHaben da ja noch ein paar lose Enden, die wollen wir uns zumindestens nochmal kurz anschauen und evt. mit genu\u00df vertilgen. Wie es so unsere Art auf der #xrelog22 ist werdet ihr den gr\u00f6\u00dften Spa\u00df haben, wenn ihr uns dazu im Multiversum von overte besucht. Den Client gibt's gratis hier: https://overte.org/#downloads. Garantiert Bullshitfrei, free & open source. Ein Login ist nicht erforderlich.\r\n\r\nM\u00f6gliche, aber noch lange nicht best\u00e4tigte Paella Zutaten k\u00f6nnten sein ...\r\n\r\n... Gl\u00fchweinprogrammier-Nacht NewsFlash\r\n... NewYork NewsFlash (wip)\r\n... S\u00fcdbairische Hackertour NewsFlash (pre-wip)\r\n... Mafifa WM 2030 - die Quintessenz im Schnelldurchlauf\r\n... Und was ist mit Bits & B\u00e4ume? Wird die 9te Hackerethik offiziel?\r\n... Literatur, Demo-Szene und mal schauen",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
                 "links": [],
                 "attachments": []
               }
