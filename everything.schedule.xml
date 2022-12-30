@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-30 15:10; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 15:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
+  <version>2022-12-30 15:20; FireShonks 0.55; Hacking in Parallel 0.28; Hellarious 0.9 DEFINITLY FINAL; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-30 15:20 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.5; Freiraumforum 0.51; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -12272,22 +12272,20 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Workshopraum 2 - H2-3.4</room>
-        <slug>jev22-7780-luetzerath_lebt_ueber_klimagerechtigkeit_und_den_besetzten_raeumen</slug>
+        <slug>jev22-7780-luetzerath_lebt_klimagerechtigkeit_besetzte_raeume_und_gelebte_utopien</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/LSNTDF/</url>
-        <title>Lützerath Lebt! Über Klimagerechtigkeit und den besetzten Räumen</title>
+        <title>Lützerath Lebt! Klimagerechtigkeit,  besetzte Räume und gelebte Utopien</title>
         <subtitle/>
         <track>Freiräume</track>
         <type>Gespräch</type>
         <language>de</language>
         <abstract>Persönlicher Erfahrungsaustausch über die Beweggründe, am Klimaprotestcamp mitzuwirken &amp; wie die besetzten Räume wirken.</abstract>
-        <description>Nach Jahren der Auseinandersetzung mit Klimagerechtigkeit haben wir Lützerath als Ort für den Klimaprotest gewählt. Wir berichten von unseren Erfahrungen dort, warum es diesen Ort gibt, was die Utopien dahinter sind und wie wir uns alle engagieren können.&#13;
+        <description>Das Dorf Lützerath, welches seit 2 Jahren von Klimagerechtigkeitsaktivist*innen besetzt ist, ist bedroht. Für Januar wurde die Räumung angekündigt. 2 Aktivist*innen, die die letzten beiden Monate in Lützerath gelebt haben, berichten von ihren Erfahrungen dort, warum es diesen Ort gibt, wie es ist, in einem selbstverwalteten, utopischen Ort zu leben und diesen mit zu gestalten. Es geht um die aktuelle Situation vor Ort und darum, was jetzt getan werden kann, um dich dem Kampf um Klimagerechtigkeit anzuschließen.&#13;
 &#13;
-Lützerath ist ein Dorf im rheinischen Braunkohlerevier, das vom Energiekonzern RWE abgerissen werden soll, um den Tagebau Garzweiler II zu erweitern. Um das zu verhindern, blockieren Klimagerechtigkeitsaktivist*innen seit zwei Jahren den Abriss durch ein Protestcamp im Dorf. Wird die Braunkohle, der klimaschädlichste Energieträger überhaupt, unter Lützerath verbrannt, kann Deutschland die im Pariser Klimaabkommen vereinbarte 1,5°C-Grenze nicht einhalten.&#13;
+Lützerath ist ein Dorf im rheinischen Braunkohlerevier, das vom Energiekonzern RWE abgerissen werden soll. Um das zu verhindern, blockieren Klimagerechtigkeitsaktivist*innen seit zwei Jahren den Abriss durch ein Protestcamp im Dorf. Wird die Braunkohle, der klimaschädlichste Energieträger überhaupt, unter Lützerath verbrannt, kann. Deutschland die im Pariser Klimaabkommen vereinbarte 1,5°C-Grenze nicht einhalten. &#13;
 &#13;
-Von 1750 bis 2018 war Deutschland für rund 5,7 Prozent aller weltweiten Emissionen verantwortlich – mehr als Afrika und Südamerika zusammen und trägt damit große Verantwortung für die Verursachung der Katastrophe.&#13;
-&#13;
-- ANMELDUNG (optional, für draußen): - https://us02web.zoom.us/meeting/register/tZwrceGtpz0pEtWwTVPIe4ScN8-kDtWQYHXa&#13;
-- Den direkten Zoom-Link für Teilnehmende vor Ort bekommt der Engel / Host.</description>
+- ANMELDUNG (für draußen): - https://us02web.zoom.us/meeting/register/tZwrceGtpz0pEtWwTVPIe4ScN8-kDtWQYHXa&#13;
+- Den direkten Zoom-Link für Teilnehmende hat der Host.</description>
         <recording>
           <license/>
           <optout>false</optout>
