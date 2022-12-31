@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-31 17:40</version>
+  <version>2022-12-31 21:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -1875,7 +1875,9 @@ In this talk we will use topic modeling and social network analysis to explore p
 &#13;
 Social media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.&#13;
 &#13;
-This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
+This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.&#13;
+&#13;
+Here you can find the repository containing the slides and further relevant files: https://gitlab.com/bi3n3k3rn/conflicts2022/</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4206,7 +4208,9 @@ In this talk we will use topic modeling and social network analysis to explore p
 &#13;
 Social media reactions are captured in tweets about the war in Ukraine, the Tigray war, the Yemeni civil war and the Iranian protests. The tweets will be scrapped for all the major dates of the conflicts' timelines, where a topic analysis will be performed afterwards. Social network analysis will be performed with an emphasis on a subset of relevant government, institutions, media and activist twitter accounts.&#13;
 &#13;
-This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.</description>
+This talk also aims to be a brief guide on how to perform twitter scraping, basic topic modeling, as well as creating and visualizing social networks using python on your own.&#13;
+&#13;
+Here you can find the repository containing the slides and further relevant files: https://gitlab.com/bi3n3k3rn/conflicts2022/</description>
         <recording>
           <license/>
           <optout>false</optout>
