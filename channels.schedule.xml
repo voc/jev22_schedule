@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-31 00:40</version>
+  <version>2022-12-31 12:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -81,13 +81,13 @@ Moderation: Peter Arun Pfaff</description>
         <links/>
         <attachments/>
       </event>
-      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
+      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
         <logo/>
         <date>2022-12-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>00:50</duration>
         <room>Ahlam</room>
-        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1041,13 +1041,13 @@ anonymised.</abstract>
         <links/>
         <attachments/>
       </event>
-      <event id="5664" guid="ec566e44-cdc5-516f-86c3-2f468f939a9d">
+      <event id="2085" guid="d208dfc5-5c1f-541a-b0ac-18f29ececb26">
         <logo/>
         <date>2022-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:50</duration>
         <room>Ahlam</room>
-        <slug>jev22-5664-raum_fuer_die_schoene_welt</slug>
+        <slug>jev22-2085-raum_fuer_die_schoene_welt</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/FKJMDE/</url>
         <title>Raum für die schöne Welt</title>
         <subtitle/>
@@ -1097,13 +1097,13 @@ Moderation: Peter Arun Pfaff</description>
       </event>
     </room>
     <room name="Bhavani" guid="64f358c2-82f2-11ed-b6f2-370ab4c5fdf0">
-      <event id="2242" guid="22424983-c48f-5273-b283-3f9425d617b1">
+      <event id="6202" guid="62027428-e983-516c-bfa7-ab2f1b138e95">
         <logo/>
         <date>2022-12-27T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>02:00</duration>
         <room>Bhavani</room>
-        <slug>jev22-2242-gebaerdensprache_und_freiraum</slug>
+        <slug>jev22-6202-gebaerdensprache_und_freiraum</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/T9KVRQ/</url>
         <title>Gebärdensprache und Freiraum</title>
         <subtitle>Deafolution!</subtitle>
@@ -5871,13 +5871,13 @@ Who cares möchte angesichts verschärfter sozialer Notlagen individuelle Handlu
         <links/>
         <attachments/>
       </event>
-      <event id="3858" guid="38bb5885-f7af-500b-b082-23bf649492d7">
+      <event id="8348" guid="f83483be-0e0e-5fe3-a623-d35b8cb8fa7e">
         <logo/>
         <date>2022-12-30T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
         <room>Ahlam</room>
-        <slug>jev22-3858-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
+        <slug>jev22-8348-celebrate_safe_projekt_von_mindzone_und_conaction_condrobs_e_v</slug>
         <url>https://forum.freiraeumen.jetzt/freiraumforum/talk/XBMLSE/</url>
         <title>Celebrate Safe- Projekt von Mindzone und ConAction Condrobs e.V.</title>
         <subtitle/>

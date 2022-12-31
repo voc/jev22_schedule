@@ -2,10 +2,10 @@
   "id": 2601,
   "guid": "d2bd6011-9e50-566c-8c1a-0ab0727ae3b7",
   "logo": "",
-  "date": "2022-12-29T19:00:00+01:00",
-  "start": "19:00",
+  "date": "2022-12-30T15:00:00+01:00",
+  "start": "15:00",
   "duration": "02:00",
-  "room": "Workshopraum 1 - H2-2.5",
+  "room": "Workshopraum 3 - H2-3.6",
   "slug": "jev22-2601-abriss_party_crashen",
   "url": "https://forum.freiraeumen.jetzt/freiraumforum/talk/XF9S7Q/",
   "title": "Abriss-Party-Crashen",
@@ -28,6 +28,6 @@
   ],
   "links": [],
   "attachments": [],
-  "room_id": "75e89700-82f2-11ed-9245-2f2ddaaba5eb",
+  "room_id": null,
   "origin": "forum.freiraeumen.jetzt"
 }
