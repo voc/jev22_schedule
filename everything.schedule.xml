@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-31 12:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-31 12:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2022-12-31 17:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-31 17:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -698,7 +698,9 @@ This is the workshop: https://pretalx.c3voc.de/fire-shonks-2022/talk/DALZNB/</de
         <abstract>Das Fediverse ist mehr als Mastodon und das Imitieren von kommerziellen Plattformen. Hubzilla kennenlernen.&#13;
 &#13;
 Stream-Link: https://streaming.media.ccc.de/jev22/fireshonks</abstract>
-        <description>Was wir gerade sehen ist das Mastodon für viele für das Fediverse gehalten wird. Was ist schade. Eine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das lässt sich nun auch angehen nachdem das Interesse am Fediverse auch durch eine mediale Öffentlichkeit ein wenig geweckt ist - jetzt kann es weitergehen.&#13;
+        <description>Recording ist online unter: https://media.ccc.de/v/fire-shonks-2022-49311-das-fediverse-steht-fr-vielfalt-nicht-fr-einfalt&#13;
+&#13;
+Was wir gerade sehen ist das Mastodon für viele für das Fediverse gehalten wird. Was ist schade. Eine Imitation von Twitter mit 500 Zeichen - das soll es gewesen sein? Es geht doch um was ganz anderes und das lässt sich nun auch angehen nachdem das Interesse am Fediverse auch durch eine mediale Öffentlichkeit ein wenig geweckt ist - jetzt kann es weitergehen.&#13;
 &#13;
 Der erste Teil des Vortrages thematisiert die Geschichte und Architektur des Fediverse und hält ein Plädoyer dafür, dass es um mehr geht als um ActivityPub und die eine dominierende Anwendung.&#13;
 &#13;
@@ -707,6 +709,8 @@ Im zweiten Teil wird am Beispiel der FEDI App Hubzilla (https://hubzilla.org) de
 Blogging, Filesharing, Teilen von Wikis und Events – Hubzilla verbindet sich mit dem Verständnis von mehreren Protokollen multifunktional in alle Richtungen. &#13;
 &#13;
 Mit einem feinen Zugriffsrechtesystem könnt ihr genau bestimmen, wer was sehen darf bzw. inwieweit Ihr öffentlich oder privat agieren möchten. Mit einer „nomadischen Identität“ ist der Umzug eines Accounts von einem Server zum andern möglich, ohne dass Inhalte verloren gehen. Ein eigener Hubzilla-Server ist ähnlich einfach installiert wie eine WordPress-Webseite. Hubzilla ermöglicht es, sich wirklich mündig und souverän in einem sozialen Netzwerk zu bewegen. &#13;
+&#13;
+Recording ist online unter: https://media.ccc.de/v/fire-shonks-2022-49311-das-fediverse-steht-fr-vielfalt-nicht-fr-einfalt&#13;
 &#13;
 In dem Workshop "Mein FEDI Server" &#13;
 https://pretalx.c3voc.de/fire-shonks-2022/talk/ZT98DR/&#13;
