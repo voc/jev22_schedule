@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2022-12-31 21:40",
+    "version": "2023-01-02 01:10",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -1262,7 +1262,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es f\u00fcr eine Veranstaltung betreiben kann.\r\n\r\nSpoiler: Es ist *keine* Kryptow\u00e4hrung ;).",
-                "description": "",
+                "description": "Folien gibt's unter https://windfis.ch/talks/taler/.",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
@@ -1293,7 +1293,7 @@
                 "type": "Talk",
                 "language": "de",
                 "abstract": "Erzaehlt die Schritte, die ich unternommen hab, um ein Provider-Independent IPv6  Netz mit eigenem Routing zu kriegen.",
-                "description": "IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und\r\neine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt\r\nIPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix\r\nhaben und da dr\u00fcber End-to-End Server betreiben k\u00f6nnen. Ist aber leider gar nicht\r\nso. Weil mich das  ge\u00e4rgert hat, hab ich angefangen, mich durch die Formalit\u00e4ten\r\nzu k\u00e4mpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.\r\nDabei was gelernt \u00fcber:\r\n   - Formulare\r\n   - Tunnels\r\n   - \"Sponsoring LIRs\"\r\n   - RIPE Databases\r\n   - Border Gateway Protocol\r\nErgebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)",
+                "description": "IPv4 Adressen sind alle. Jeder Provider liefert nur noch IPv6 zu Kund*innen, und\r\neine kleine weisse Kiste simuliert dann ein IPv4 Netz lokal. Also sollten alle jetzt\r\nIPv6@Home haben. Weils da nie Adressknappheit gibt, sollte jede/r ein Prefix\r\nhaben und da dr\u00fcber End-to-End Server betreiben k\u00f6nnen. Ist aber leider gar nicht\r\nso. Weil mich das  ge\u00e4rgert hat, hab ich angefangen, mich durch die Formalit\u00e4ten\r\nzu k\u00e4mpfen, die von der RIPE vorgeschrieben sind, wenn man ein Netz selber haben will.\r\nDabei was gelernt \u00fcber:\r\n   - Formulare\r\n   - Tunnels\r\n   - \"Sponsoring LIRs\"\r\n   - RIPE Databases\r\n   - Border Gateway Protocol\r\nErgebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)\r\n\r\nFolien gibt's unter http://pestilenz.org/~bauerm/ispv6.pdf",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-31 21:40</version>
+  <version>2023-01-02 01:10</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -843,7 +843,7 @@ Be warned: This talk will cover enough information to make you consider building
         <abstract>Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es für eine Veranstaltung betreiben kann.&#13;
 &#13;
 Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
-        <description/>
+        <description>Folien gibt's unter https://windfis.ch/talks/taler/.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -880,7 +880,9 @@ Dabei was gelernt über:&#13;
    - "Sponsoring LIRs"&#13;
    - RIPE Databases&#13;
    - Border Gateway Protocol&#13;
-Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</description>
+Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)&#13;
+&#13;
+Folien gibt's unter http://pestilenz.org/~bauerm/ispv6.pdf</description>
         <recording>
           <license/>
           <optout>false</optout>

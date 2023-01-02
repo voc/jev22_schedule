@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2022-12-31 21:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2022-12-31 21:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-01-02 01:10; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-02 01:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1732,7 +1732,7 @@ https://de.labournet.tv/project/der-laute-fruehling</description>
         <abstract>Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es für eine Veranstaltung betreiben kann.&#13;
 &#13;
 Spoiler: Es ist *keine* Kryptowährung ;).</abstract>
-        <description/>
+        <description>Folien gibt's unter https://windfis.ch/talks/taler/.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -1769,7 +1769,9 @@ Dabei was gelernt über:&#13;
    - "Sponsoring LIRs"&#13;
    - RIPE Databases&#13;
    - Border Gateway Protocol&#13;
-Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)</description>
+Ergebnis: eigenes Autonomous System, ungenattetes End-to-End Internet(6)&#13;
+&#13;
+Folien gibt's unter http://pestilenz.org/~bauerm/ispv6.pdf</description>
         <recording>
           <license/>
           <optout>false</optout>

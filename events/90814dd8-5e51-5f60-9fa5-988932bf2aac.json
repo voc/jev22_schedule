@@ -14,7 +14,7 @@
   "type": "Talk",
   "language": "de",
   "abstract": "Hier stelle ich euch die Funktionsweise des Bezahlsystems GNU Taler vor, und (hoffentlich) wie man es f\u00fcr eine Veranstaltung betreiben kann.\r\n\r\nSpoiler: Es ist *keine* Kryptow\u00e4hrung ;).",
-  "description": "",
+  "description": "Folien gibt's unter https://windfis.ch/talks/taler/.",
   "recording_license": "",
   "do_not_record": false,
   "persons": [
