@@ -16,7 +16,7 @@
   "abstract": "",
   "description": "Ein kurzer Vortrag \u00fcber modulare Synthesizer. Sofern die Ger\u00e4te vor Ort sein k\u00f6nnen, werden interessierten Personen auch gerne auch selbst rumspielen d\u00fcrfen.<br /><br />Meine Racks: <br />  - [https://www.modulargrid.net/e/racks/view/2044207](https://www.modulargrid.net/e/racks/view/2044207)<br />  - [https://www.modulargrid.net/e/racks/view/1885770](https://www.modulargrid.net/e/racks/view/1885770)<br />",
   "recording_license": "",
-  "do_not_record": true,
+  "do_not_record": false,
   "persons": [
     {
       "id": 13,
