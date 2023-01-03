@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-02 10:10</version>
+  <version>2023-01-03 15:30</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2068,7 +2068,7 @@ mAkE is a trans-disciplinary approach to connect European and African Digital In
         <language>de</language>
         <abstract>Damit andere deinen Code ausführen, verstehen und vielleicht sogar erweitern können, braucht es nicht viel. Ein bisschen aufräumen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was gehört eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? &#13;
 In diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.</abstract>
-        <description/>
+        <description>Beispielprojekt und Unterlage zum Nachlesen: https://codebase.helmholtz.cloud/hifis/software/education/hifis-workshops/foundations-of-research-software-publication</description>
         <recording>
           <license/>
           <optout>false</optout>

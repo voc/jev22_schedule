@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-02 10:10",
+    "version": "2023-01-03 15:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2573,7 +2573,7 @@
                 "type": "Workshop",
                 "language": "de",
                 "abstract": "Damit andere deinen Code ausf\u00fchren, verstehen und vielleicht sogar erweitern k\u00f6nnen, braucht es nicht viel. Ein bisschen aufr\u00e4umen, ein bisschen Doku, eine Lizenz, ... Ja und was noch? Und was geh\u00f6rt eigentlich in die Doku? Und welche Lizenz ist eigentlich die richtige? \r\nIn diesen Vortrag spiele ich eine Liste an Empfehlungen an einem Beispielprojekt durch.",
-                "description": "",
+                "description": "Beispielprojekt und Unterlage zum Nachlesen: https://codebase.helmholtz.cloud/hifis/software/education/hifis-workshops/foundations-of-research-software-publication",
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
