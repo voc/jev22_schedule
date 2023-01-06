@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-06 21:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-01-06 21:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-06 21:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -2342,6 +2342,24 @@
               }
             ],
             "Lounge": [],
+            "ChilyConChaos": [
+              {
+                "guid": "1ca0f00e-f061-4f80-b94e-59807d66b73b",
+                "title": "Raspberry Pi Pico mit CircuitPy",
+                "subtitle": null,
+                "abstract": "Christian \"CWB\" Wenzel-Benner",
+                "description": "",
+                "date": "2022-12-28T04:00:00+01:00",
+                "start": "04:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 1000,
+                "slug": "jev22-1000-raspberry_pi_pico_mit_circuitpy"
+              }
+            ],
             "Warpzone": [],
             "RTC-B\u00fchne (Sparti)": [
               {
@@ -5294,6 +5312,24 @@
             ],
             "Spezial Raum": [],
             "Lounge": [],
+            "ChilyConChaos": [
+              {
+                "guid": "fa4243fa-206d-4de8-9704-ddfa829ff51b",
+                "title": "Schafkopf lernen",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-28T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 4243,
+                "slug": "jev22-4243-schafkopf_lernen"
+              }
+            ],
             "Warpzone": [
               {
                 "guid": "ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd",
@@ -8887,6 +8923,88 @@
               }
             ],
             "Lounge": [],
+            "ChilyConChaos": [
+              {
+                "guid": "1834e88b-0bd7-441e-a5b1-2baaa8db6601",
+                "title": "IT-Sicherheit ist kein Waschmittel",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Talk",
+                "id": 1834,
+                "slug": "jev22-1834-it_sicherheit_ist_kein_waschmittel"
+              },
+              {
+                "guid": "085c83b8-0c0a-44a8-8b9c-f9c480efd1b1",
+                "title": "Was ist FragDenStaat.de? \t",
+                "subtitle": null,
+                "abstract": "Anna, mit Q&A",
+                "description": "",
+                "date": "2022-12-29T17:00:00+01:00",
+                "start": "17:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 8583,
+                "slug": "jev22-8583-was_ist_fragdenstaat_de"
+              },
+              {
+                "guid": "93d65e3e-6a7b-48be-b229-dd7c356238f6",
+                "title": "All about DigitalCourage",
+                "subtitle": null,
+                "abstract": "Jakob, mit Q&A",
+                "description": "",
+                "date": "2022-12-29T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Other",
+                "id": 9365,
+                "slug": "jev22-9365-all_about_digitalcourage"
+              },
+              {
+                "guid": "b4f4b341-d776-48bf-8a83-d2356968daef",
+                "title": "WTF eG. Geschichte, M\u00f6glichkeiten, Grundlagen",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Talk",
+                "id": 4434,
+                "slug": "jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen"
+              },
+              {
+                "guid": "f509eb97-0aa6-4fb7-bfec-887de9899eaf",
+                "title": "Warum fliegt ein Flugzeug",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-29T15:00:00+01:00",
+                "start": "15:00",
+                "duration": "0:30",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "auch auf dem R\u00fccken)? (Vortrag",
+                "id": 5099,
+                "slug": "jev22-5099-warum_fliegt_ein_flugzeug"
+              }
+            ],
             "Warpzone": [
               {
                 "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
@@ -12061,6 +12179,24 @@
                 "persons": [],
                 "links": [],
                 "attachments": []
+              }
+            ],
+            "ChilyConChaos": [
+              {
+                "guid": "3aafc24d-9dc3-4c39-948c-d7fc12365485",
+                "title": "Securing UnSafe Rust with XRust",
+                "subtitle": null,
+                "abstract": null,
+                "description": "",
+                "date": "2022-12-30T16:00:00+01:00",
+                "start": "16:00",
+                "duration": "1:00",
+                "room": "ChilyConChaos",
+                "persons": [],
+                "track": "Gie\u00dfen/Wetzlar",
+                "type": "Votrag",
+                "id": 3249,
+                "slug": "jev22-3249-securing_unsafe_rust_with_xrust"
               }
             ],
             "Warpzone": [
