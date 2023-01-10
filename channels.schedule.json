@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-10 18:40",
+    "version": "2023-01-10 19:00",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2792,7 +2792,8 @@
                 "abstract": "",
                 "description": "",
                 "recording": {
-                  "optout": false
+                  "optout": false,
+                  "url": "https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4"
                 },
                 "persons": [
                   {
@@ -2803,7 +2804,8 @@
                     "id": 3,
                     "public_name": "Jonathan"
                   }
-                ]
+                ],
+                "video_download_url": "https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4"
               }
             ],
             "Sparti": [

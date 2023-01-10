@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-10 18:40</version>
+  <version>2023-01-10 19:00</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2286,6 +2286,7 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
           <person id="2">Max</person>
           <person id="3">Jonathan</person>
         </persons>
+        <video_download_url>https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4</video_download_url>
       </event>
     </room>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">

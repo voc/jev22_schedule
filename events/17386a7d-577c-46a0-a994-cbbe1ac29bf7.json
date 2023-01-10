@@ -15,7 +15,8 @@
   "abstract": "",
   "description": "",
   "recording": {
-    "optout": false
+    "optout": false,
+    "url": "https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4"
   },
   "persons": [
     {
@@ -27,6 +28,7 @@
       "public_name": "Jonathan"
     }
   ],
+  "video_download_url": "https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4",
   "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
   "origin": "import.c3voc.de"
 }
