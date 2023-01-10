@@ -15,7 +15,8 @@
   "abstract": "",
   "description": "",
   "recording": {
-    "optout": false
+    "optout": false,
+    "url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4"
   },
   "persons": [
     {
@@ -23,6 +24,7 @@
       "public_name": "Felix Ulonska"
     }
   ],
+  "video_download_url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4",
   "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
   "origin": "import.c3voc.de"
 }

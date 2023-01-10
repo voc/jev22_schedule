@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-06 21:40",
+    "version": "2023-01-10 18:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -2764,14 +2764,16 @@
                 "abstract": "",
                 "description": "",
                 "recording": {
-                  "optout": false
+                  "optout": false,
+                  "url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4"
                 },
                 "persons": [
                   {
                     "id": 1,
                     "public_name": "Felix Ulonska"
                   }
-                ]
+                ],
+                "video_download_url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4"
               },
               {
                 "guid": "17386a7d-577c-46a0-a994-cbbe1ac29bf7",
