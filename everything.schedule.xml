@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-10 19:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-01-10 19:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7933,6 +7933,29 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
       </event>
     </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7" id="54991">
+        <type>Talk</type>
+        <slug>jev22-54991-optische_nachrichtentechnik</slug>
+        <title>Optische Nachrichtentechnik</title>
+        <subtitle/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">Prof. Dr.-Ing. Dirk Fischer</person>
+        </persons>
+        <video_download_url>https://hn13.net/kh22/KH22ONT.mp4</video_download_url>
+      </event>
       <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
         <type>Talk</type>
         <slug>jev22-54986-risc_v</slug>
@@ -7952,7 +7975,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="4">David Ahlmer</person>
+          <person id="5">David Ahlmer</person>
         </persons>
         <video_download_url>https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4</video_download_url>
       </event>
@@ -10812,7 +10835,7 @@ Und dann freuen wir uns darauf, mit euch nachts noch ein letztes mal so richtig 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="5">Bjorn</person>
+          <person id="6">Bjorn</person>
         </persons>
       </event>
       <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
@@ -10834,7 +10857,7 @@ Und dann freuen wir uns darauf, mit euch nachts noch ein letztes mal so richtig 
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6">Frikandel</person>
+          <person id="7">Frikandel</person>
         </persons>
       </event>
     </room>

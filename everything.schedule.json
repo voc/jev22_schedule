@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-10 19:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-01-10 19:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -9011,6 +9011,34 @@
             ],
             "Warpzone": [
               {
+                "guid": "3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7",
+                "type": "Talk",
+                "id": 54991,
+                "slug": "jev22-54991-optische_nachrichtentechnik",
+                "title": "Optische Nachrichtentechnik",
+                "subtitle": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://hn13.net/kh22/KH22ONT.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 4,
+                    "public_name": "Prof. Dr.-Ing. Dirk Fischer"
+                  }
+                ],
+                "video_download_url": "https://hn13.net/kh22/KH22ONT.mp4"
+              },
+              {
                 "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
                 "type": "Talk",
                 "id": 54986,
@@ -9032,7 +9060,7 @@
                 },
                 "persons": [
                   {
-                    "id": 4,
+                    "id": 5,
                     "public_name": "David Ahlmer"
                   }
                 ],
@@ -12227,7 +12255,7 @@
                 },
                 "persons": [
                   {
-                    "id": 5,
+                    "id": 6,
                     "public_name": "Bjorn"
                   }
                 ]
@@ -12253,7 +12281,7 @@
                 },
                 "persons": [
                   {
-                    "id": 6,
+                    "id": 7,
                     "public_name": "Frikandel"
                   }
                 ]

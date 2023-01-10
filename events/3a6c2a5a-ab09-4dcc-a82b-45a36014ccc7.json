@@ -1,0 +1,30 @@
+{
+  "guid": "3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7",
+  "type": "Talk",
+  "id": 54991,
+  "slug": "jev22-54991-optische_nachrichtentechnik",
+  "title": "Optische Nachrichtentechnik",
+  "subtitle": "",
+  "date": "2022-12-29T18:00:00+01:00",
+  "start": "18:00",
+  "duration": "01:30",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false,
+    "url": "https://hn13.net/kh22/KH22ONT.mp4"
+  },
+  "persons": [
+    {
+      "id": 4,
+      "public_name": "Prof. Dr.-Ing. Dirk Fischer"
+    }
+  ],
+  "video_download_url": "https://hn13.net/kh22/KH22ONT.mp4",
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}
