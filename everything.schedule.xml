@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-10 19:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:00 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-01-10 19:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -7954,6 +7954,7 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
         <persons>
           <person id="4">David Ahlmer</person>
         </persons>
+        <video_download_url>https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4</video_download_url>
       </event>
     </room>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">

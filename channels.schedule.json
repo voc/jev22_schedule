@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-10 19:00",
+    "version": "2023-01-10 19:30",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -4680,14 +4680,16 @@
                 "abstract": "",
                 "description": "",
                 "recording": {
-                  "optout": false
+                  "optout": false,
+                  "url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4"
                 },
                 "persons": [
                   {
                     "id": 4,
                     "public_name": "David Ahlmer"
                   }
-                ]
+                ],
+                "video_download_url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4"
               }
             ],
             "Sparti": [

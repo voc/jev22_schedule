@@ -15,7 +15,8 @@
   "abstract": "",
   "description": "",
   "recording": {
-    "optout": false
+    "optout": false,
+    "url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4"
   },
   "persons": [
     {
@@ -23,6 +24,7 @@
       "public_name": "David Ahlmer"
     }
   ],
+  "video_download_url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4",
   "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
   "origin": "import.c3voc.de"
 }
