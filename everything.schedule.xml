@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-10 19:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-10 19:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-01-11 23:10; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-11 23:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -6859,17 +6859,17 @@ Ebenfalls ist nicht immer einfach erkennbar, wem eine Lücke und ein entsprechen
 * Der des Landes der Filiale, die im Impressum steht, der des Bundeslandes, in dem die Firma ihren Hauptsitz hat?&#13;
 * Was passiert, wenn das Datenleck an den falschen LfDI gemeldet wird?&#13;
 * Wieso wollen BfDI und LdDIs wissen wer ich bin?&#13;
-* Wie kann ich sicher sein, dass das BSI aus der Lücke keinen Staatstrojaner macht? etc. etc.&#13;
+* Wie kann ich sicher sein, dass das BSI aus der Lücke keinen Staatstrojaner macht? &#13;
+etc. etc.&#13;
 &#13;
 Wie das aus Sicht von Sicherheitsforscher:innen funktioniert, haben Zerforschung und Linus in dem Vortrag: “Deine Software, die Sicherheitslücken und ich” [5] dargestellt.&#13;
 &#13;
 &#13;
-Damit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europäischer Ebene [7] - dem Bund vorschlagen, dass er Sicherheitsforscher:innen einlädt, ihn und die öffentliche Hand im Allgemeinen zu hacken.&#13;
+Damit sich das bessert wollen wir - als konstruktiven Beitrag zur Debatte um Sicherheitsforschung auf Bundes- [6] und Europäischer Ebene [7] - dem Bund vorschlagen, dass er Sicherheitsforscher:innen einlädt, ihn und die öffentliche Hand im Allgemeinen zu Hacken.&#13;
 &#13;
 Dies durch das Ausloben eines “Bunten Bug Bounties” und das Einrichten einer one-stop-shop Meldestelle für Sicherheitslücken und Datenlecks.&#13;
 &#13;
-&#13;
-Vorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen nicht anzuzeigen, die Niederlande garantieren, dass die Meldung veröffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld für Fixes von Lücken in relevanten Open Source Frameworks.&#13;
+Vorbilder gibt es genug, die Bundeswehr [8] und die Niederlande [9] machen das schon. Die Bundeswehr verspricht Sicherheitsforscher:innen sie nicht anzuzeigen, die Niederlande garantieren, dass die Meldung veröffentlicht werden darf und es gibt ein T-Shirt [10]. Die EU zahlt mit EU-Fossa [11] sogar Geld für Fixes von Lücken in relevanten Open Source Frameworks.&#13;
 &#13;
 Ziel des Projektes ist es herauszufinden: &#13;
 &#13;
