@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-11 23:10</version>
+  <version>2023-01-14 15:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -4005,6 +4005,29 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
       </event>
     </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
+      <event guid="5c9133d1-92da-45f8-ad8d-820ac1504690" id="54997">
+        <type>Talk</type>
+        <slug>jev22-54997-todel</slug>
+        <title>ToDel</title>
+        <subtitle/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">Prof. Dr.-Ing. Dirk Fischer</person>
+        </persons>
+        <video_download_url>https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4</video_download_url>
+      </event>
       <event guid="3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7" id="54991">
         <type>Talk</type>
         <slug>jev22-54991-optische_nachrichtentechnik</slug>
@@ -4026,7 +4049,7 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
         <persons>
           <person id="4">Prof. Dr.-Ing. Dirk Fischer</person>
         </persons>
-        <video_download_url>https://hn13.net/kh22/KH22ONT.mp4</video_download_url>
+        <video_download_url>https://hn13.net/kh22/KH22-ONT.mp4</video_download_url>
       </event>
       <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
         <type>Talk</type>

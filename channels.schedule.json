@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-11 23:10",
+    "version": "2023-01-14 15:40",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen - channels",
@@ -4664,6 +4664,34 @@
             ],
             "Warpzone": [
               {
+                "guid": "5c9133d1-92da-45f8-ad8d-820ac1504690",
+                "type": "Talk",
+                "id": 54997,
+                "slug": "jev22-54997-todel",
+                "title": "ToDel",
+                "subtitle": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 4,
+                    "public_name": "Prof. Dr.-Ing. Dirk Fischer"
+                  }
+                ],
+                "video_download_url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
+              },
+              {
                 "guid": "3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7",
                 "type": "Talk",
                 "id": 54991,
@@ -4681,7 +4709,7 @@
                 "description": "",
                 "recording": {
                   "optout": false,
-                  "url": "https://hn13.net/kh22/KH22ONT.mp4"
+                  "url": "https://hn13.net/kh22/KH22-ONT.mp4"
                 },
                 "persons": [
                   {
@@ -4689,7 +4717,7 @@
                     "public_name": "Prof. Dr.-Ing. Dirk Fischer"
                   }
                 ],
-                "video_download_url": "https://hn13.net/kh22/KH22ONT.mp4"
+                "video_download_url": "https://hn13.net/kh22/KH22-ONT.mp4"
               },
               {
                 "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
