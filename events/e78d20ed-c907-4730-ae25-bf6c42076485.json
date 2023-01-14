@@ -1,9 +1,9 @@
 {
-  "guid": "ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd",
+  "guid": "e78d20ed-c907-4730-ae25-bf6c42076485",
   "type": "Talk",
-  "id": 54984,
-  "slug": "jev22-54984-bitte_loeschen",
-  "title": "bitte l\u00f6schen",
+  "id": 55000,
+  "slug": "jev22-55000-einfuehrung_in_nixos",
+  "title": "Einfuehrung in NixOS",
   "subtitle": "",
   "date": "2022-12-28T19:00:00+01:00",
   "start": "19:00",
@@ -16,15 +16,15 @@
   "description": "",
   "recording": {
     "optout": false,
-    "url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4"
+    "url": "https://hn13.net/kh22/KH22-NixOS.mp4"
   },
   "persons": [
     {
-      "id": 2,
-      "public_name": "Felix Ulonska"
+      "id": 1,
+      "public_name": "Felix Ulonska (Jabbi"
     }
   ],
-  "video_download_url": "https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4",
+  "video_download_url": "https://hn13.net/kh22/KH22-NixOS.mp4",
   "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
   "origin": "import.c3voc.de"
 }

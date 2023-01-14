@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-14 15:40</version>
+  <version>2023-01-14 15:50</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -2241,9 +2241,9 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
       </event>
     </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
-      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
+      <event guid="e78d20ed-c907-4730-ae25-bf6c42076485" id="55000">
         <type>Talk</type>
-        <slug>jev22-54984-einfuehrung_in_nixos</slug>
+        <slug>jev22-55000-einfuehrung_in_nixos</slug>
         <title>Einfuehrung in NixOS</title>
         <subtitle/>
         <date>2022-12-28T19:00:00+01:00</date>
@@ -2260,13 +2260,60 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="1">Felix Ulonska</person>
+          <person id="1">Felix Ulonska (Jabbi</person>
+        </persons>
+        <video_download_url>https://hn13.net/kh22/KH22-NixOS.mp4</video_download_url>
+      </event>
+      <event guid="ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd" id="54984">
+        <type>Talk</type>
+        <slug>jev22-54984-bitte_loeschen</slug>
+        <title>bitte löschen</title>
+        <subtitle/>
+        <date>2022-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">Felix Ulonska</person>
         </persons>
         <video_download_url>https://import.c3voc.de/videos/097127f9-5a34-408d-9339-4eaaa699ef8e.mp4</video_download_url>
       </event>
       <event guid="17386a7d-577c-46a0-a994-cbbe1ac29bf7" id="54985">
         <type>Talk</type>
-        <slug>jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
+        <slug>jev22-54985-bitte_loeschen</slug>
+        <title>bitte löschen</title>
+        <subtitle/>
+        <date>2022-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="3">Max</person>
+          <person id="4">Jonathan</person>
+        </persons>
+        <video_download_url>https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4</video_download_url>
+      </event>
+      <event guid="0b1d1a76-c656-46f5-9c15-3aae791bd489" id="54999">
+        <type>Talk</type>
+        <slug>jev22-54999-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern</slug>
         <title>Wie No-Code und Serverless Ideen verwirklichen und den Markt verändern</title>
         <subtitle/>
         <date>2022-12-28T20:00:00+01:00</date>
@@ -2283,10 +2330,10 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="2">Max</person>
-          <person id="3">Jonathan</person>
+          <person id="5">Max (sedecon.solutions)</person>
+          <person id="6">Jonathan (sedecon.solutions)</person>
         </persons>
-        <video_download_url>https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4</video_download_url>
+        <video_download_url>https://hn13.net/kh22/KH22-NCNS.mp4</video_download_url>
       </event>
     </room>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
@@ -4005,29 +4052,6 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
       </event>
     </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
-      <event guid="5c9133d1-92da-45f8-ad8d-820ac1504690" id="54997">
-        <type>Talk</type>
-        <slug>jev22-54997-todel</slug>
-        <title>ToDel</title>
-        <subtitle/>
-        <date>2022-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:30</duration>
-        <room>Warpzone</room>
-        <track/>
-        <language>de</language>
-        <logo/>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="4">Prof. Dr.-Ing. Dirk Fischer</person>
-        </persons>
-        <video_download_url>https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4</video_download_url>
-      </event>
       <event guid="3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7" id="54991">
         <type>Talk</type>
         <slug>jev22-54991-optische_nachrichtentechnik</slug>
@@ -4047,15 +4071,38 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="4">Prof. Dr.-Ing. Dirk Fischer</person>
+          <person id="7">Prof. Dr.-Ing. Dirk Fischer</person>
         </persons>
         <video_download_url>https://hn13.net/kh22/KH22-ONT.mp4</video_download_url>
       </event>
+      <event guid="5c9133d1-92da-45f8-ad8d-820ac1504690" id="54997">
+        <type>Talk</type>
+        <slug>jev22-54997-bitte_loeschen</slug>
+        <title>bitte löschen</title>
+        <subtitle/>
+        <date>2022-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">Prof. Dr.-Ing. Dirk Fischer</person>
+        </persons>
+        <video_download_url>https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4</video_download_url>
+      </event>
       <event guid="897be880-4fad-4227-8f0e-bf091d46c354" id="54986">
         <type>Talk</type>
-        <slug>jev22-54986-risc_v</slug>
-        <title>RISC-V</title>
-        <subtitle>Eine OpenSource Prozessorarchitektur</subtitle>
+        <slug>jev22-54986-bitte_loeschen</slug>
+        <title>bitte löschen</title>
+        <subtitle/>
         <date>2022-12-29T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
@@ -4070,9 +4117,32 @@ Schafkopf gilt als das traditionelle Kartenspiel in Bayern und Franken</abstract
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="5">David Ahlmer</person>
+          <person id="8">David Ahlmer</person>
         </persons>
         <video_download_url>https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4</video_download_url>
+      </event>
+      <event guid="bc311e5e-d4b4-476d-84f0-7f2da49ea036" id="54998">
+        <type>Talk</type>
+        <slug>jev22-54998-risc_v</slug>
+        <title>RISC-V</title>
+        <subtitle>Eine Open Source Prozessorarchitektur</subtitle>
+        <date>2022-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Warpzone</room>
+        <track/>
+        <language>de</language>
+        <logo/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">David Ahlmer</person>
+        </persons>
+        <video_download_url>https://hn13.net/kh22/KH22-RISCV.mp4</video_download_url>
       </event>
     </room>
     <room name="Sparti" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
@@ -5627,7 +5697,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="6">Bjorn</person>
+          <person id="9">Bjorn</person>
         </persons>
       </event>
       <event guid="82926e86-a7de-43ec-8904-09fca1015eb2" id="54988">
@@ -5649,7 +5719,7 @@ Den Code (aka die Dokumentation) der Serverseite gibts hier [2].&#13;
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="7">Frikandel</person>
+          <person id="10">Frikandel</person>
         </persons>
       </event>
     </room>

@@ -1,0 +1,34 @@
+{
+  "guid": "0b1d1a76-c656-46f5-9c15-3aae791bd489",
+  "type": "Talk",
+  "id": 54999,
+  "slug": "jev22-54999-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
+  "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+  "subtitle": "",
+  "date": "2022-12-28T20:00:00+01:00",
+  "start": "20:00",
+  "duration": "01:00",
+  "room": "Warpzone",
+  "track": "",
+  "language": "de",
+  "logo": "",
+  "abstract": "",
+  "description": "",
+  "recording": {
+    "optout": false,
+    "url": "https://hn13.net/kh22/KH22-NCNS.mp4"
+  },
+  "persons": [
+    {
+      "id": 5,
+      "public_name": "Max (sedecon.solutions)"
+    },
+    {
+      "id": 6,
+      "public_name": "Jonathan (sedecon.solutions)"
+    }
+  ],
+  "video_download_url": "https://hn13.net/kh22/KH22-NCNS.mp4",
+  "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
+  "origin": "import.c3voc.de"
+}

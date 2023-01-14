@@ -2,8 +2,8 @@
   "guid": "17386a7d-577c-46a0-a994-cbbe1ac29bf7",
   "type": "Talk",
   "id": 54985,
-  "slug": "jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
-  "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+  "slug": "jev22-54985-bitte_loeschen",
+  "title": "bitte l\u00f6schen",
   "subtitle": "",
   "date": "2022-12-28T20:00:00+01:00",
   "start": "20:00",
@@ -20,11 +20,11 @@
   },
   "persons": [
     {
-      "id": 2,
+      "id": 3,
       "public_name": "Max"
     },
     {
-      "id": 3,
+      "id": 4,
       "public_name": "Jonathan"
     }
   ],

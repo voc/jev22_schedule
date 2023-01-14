@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-14 15:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-14 15:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-01-14 15:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-14 15:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -5332,11 +5332,39 @@
             ],
             "Warpzone": [
               {
+                "guid": "e78d20ed-c907-4730-ae25-bf6c42076485",
+                "type": "Talk",
+                "id": 55000,
+                "slug": "jev22-55000-einfuehrung_in_nixos",
+                "title": "Einfuehrung in NixOS",
+                "subtitle": "",
+                "date": "2022-12-28T19:00:00+01:00",
+                "start": "19:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://hn13.net/kh22/KH22-NixOS.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 1,
+                    "public_name": "Felix Ulonska (Jabbi"
+                  }
+                ],
+                "video_download_url": "https://hn13.net/kh22/KH22-NixOS.mp4"
+              },
+              {
                 "guid": "ec71d4d9-ccdf-4d1d-9549-d81db5c24cdd",
                 "type": "Talk",
                 "id": 54984,
-                "slug": "jev22-54984-einfuehrung_in_nixos",
-                "title": "Einfuehrung in NixOS",
+                "slug": "jev22-54984-bitte_loeschen",
+                "title": "bitte l\u00f6schen",
                 "subtitle": "",
                 "date": "2022-12-28T19:00:00+01:00",
                 "start": "19:00",
@@ -5353,7 +5381,7 @@
                 },
                 "persons": [
                   {
-                    "id": 1,
+                    "id": 2,
                     "public_name": "Felix Ulonska"
                   }
                 ],
@@ -5363,8 +5391,8 @@
                 "guid": "17386a7d-577c-46a0-a994-cbbe1ac29bf7",
                 "type": "Talk",
                 "id": 54985,
-                "slug": "jev22-54985-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
-                "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+                "slug": "jev22-54985-bitte_loeschen",
+                "title": "bitte l\u00f6schen",
                 "subtitle": "",
                 "date": "2022-12-28T20:00:00+01:00",
                 "start": "20:00",
@@ -5381,15 +5409,47 @@
                 },
                 "persons": [
                   {
-                    "id": 2,
+                    "id": 3,
                     "public_name": "Max"
                   },
                   {
-                    "id": 3,
+                    "id": 4,
                     "public_name": "Jonathan"
                   }
                 ],
                 "video_download_url": "https://import.c3voc.de/videos/be46649a-15ed-458d-ac50-fc1f69873f2b.mp4"
+              },
+              {
+                "guid": "0b1d1a76-c656-46f5-9c15-3aae791bd489",
+                "type": "Talk",
+                "id": 54999,
+                "slug": "jev22-54999-wie_no_code_und_serverless_ideen_verwirklichen_und_den_markt_veraendern",
+                "title": "Wie No-Code und Serverless Ideen verwirklichen und den Markt ver\u00e4ndern",
+                "subtitle": "",
+                "date": "2022-12-28T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://hn13.net/kh22/KH22-NCNS.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 5,
+                    "public_name": "Max (sedecon.solutions)"
+                  },
+                  {
+                    "id": 6,
+                    "public_name": "Jonathan (sedecon.solutions)"
+                  }
+                ],
+                "video_download_url": "https://hn13.net/kh22/KH22-NCNS.mp4"
               }
             ],
             "RTC-B\u00fchne (Sparti)": [
@@ -9011,34 +9071,6 @@
             ],
             "Warpzone": [
               {
-                "guid": "5c9133d1-92da-45f8-ad8d-820ac1504690",
-                "type": "Talk",
-                "id": 54997,
-                "slug": "jev22-54997-todel",
-                "title": "ToDel",
-                "subtitle": "",
-                "date": "2022-12-29T18:00:00+01:00",
-                "start": "18:00",
-                "duration": "01:30",
-                "room": "Warpzone",
-                "track": "",
-                "language": "de",
-                "logo": "",
-                "abstract": "",
-                "description": "",
-                "recording": {
-                  "optout": false,
-                  "url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
-                },
-                "persons": [
-                  {
-                    "id": 4,
-                    "public_name": "Prof. Dr.-Ing. Dirk Fischer"
-                  }
-                ],
-                "video_download_url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
-              },
-              {
                 "guid": "3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7",
                 "type": "Talk",
                 "id": 54991,
@@ -9060,19 +9092,47 @@
                 },
                 "persons": [
                   {
-                    "id": 4,
+                    "id": 7,
                     "public_name": "Prof. Dr.-Ing. Dirk Fischer"
                   }
                 ],
                 "video_download_url": "https://hn13.net/kh22/KH22-ONT.mp4"
               },
               {
+                "guid": "5c9133d1-92da-45f8-ad8d-820ac1504690",
+                "type": "Talk",
+                "id": 54997,
+                "slug": "jev22-54997-bitte_loeschen",
+                "title": "bitte l\u00f6schen",
+                "subtitle": "",
+                "date": "2022-12-29T18:00:00+01:00",
+                "start": "18:00",
+                "duration": "01:30",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 7,
+                    "public_name": "Prof. Dr.-Ing. Dirk Fischer"
+                  }
+                ],
+                "video_download_url": "https://import.c3voc.de/videos/9415fad7-5884-423c-9f4f-e0a292f40723.mp4"
+              },
+              {
                 "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
                 "type": "Talk",
                 "id": 54986,
-                "slug": "jev22-54986-risc_v",
-                "title": "RISC-V",
-                "subtitle": "Eine OpenSource Prozessorarchitektur",
+                "slug": "jev22-54986-bitte_loeschen",
+                "title": "bitte l\u00f6schen",
+                "subtitle": "",
                 "date": "2022-12-29T20:00:00+01:00",
                 "start": "20:00",
                 "duration": "01:00",
@@ -9088,11 +9148,39 @@
                 },
                 "persons": [
                   {
-                    "id": 5,
+                    "id": 8,
                     "public_name": "David Ahlmer"
                   }
                 ],
                 "video_download_url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4"
+              },
+              {
+                "guid": "bc311e5e-d4b4-476d-84f0-7f2da49ea036",
+                "type": "Talk",
+                "id": 54998,
+                "slug": "jev22-54998-risc_v",
+                "title": "RISC-V",
+                "subtitle": "Eine Open Source Prozessorarchitektur",
+                "date": "2022-12-29T20:00:00+01:00",
+                "start": "20:00",
+                "duration": "01:00",
+                "room": "Warpzone",
+                "track": "",
+                "language": "de",
+                "logo": "",
+                "abstract": "",
+                "description": "",
+                "recording": {
+                  "optout": false,
+                  "url": "https://hn13.net/kh22/KH22-RISCV.mp4"
+                },
+                "persons": [
+                  {
+                    "id": 8,
+                    "public_name": "David Ahlmer"
+                  }
+                ],
+                "video_download_url": "https://hn13.net/kh22/KH22-RISCV.mp4"
               }
             ],
             "RTC-B\u00fchne (Sparti)": [
@@ -12283,7 +12371,7 @@
                 },
                 "persons": [
                   {
-                    "id": 6,
+                    "id": 9,
                     "public_name": "Bjorn"
                   }
                 ]
@@ -12309,7 +12397,7 @@
                 },
                 "persons": [
                   {
-                    "id": 7,
+                    "id": 10,
                     "public_name": "Frikandel"
                   }
                 ]

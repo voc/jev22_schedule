@@ -1,10 +1,10 @@
 {
-  "guid": "897be880-4fad-4227-8f0e-bf091d46c354",
+  "guid": "bc311e5e-d4b4-476d-84f0-7f2da49ea036",
   "type": "Talk",
-  "id": 54986,
-  "slug": "jev22-54986-bitte_loeschen",
-  "title": "bitte l\u00f6schen",
-  "subtitle": "",
+  "id": 54998,
+  "slug": "jev22-54998-risc_v",
+  "title": "RISC-V",
+  "subtitle": "Eine Open Source Prozessorarchitektur",
   "date": "2022-12-29T20:00:00+01:00",
   "start": "20:00",
   "duration": "01:00",
@@ -16,7 +16,7 @@
   "description": "",
   "recording": {
     "optout": false,
-    "url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4"
+    "url": "https://hn13.net/kh22/KH22-RISCV.mp4"
   },
   "persons": [
     {
@@ -24,7 +24,7 @@
       "public_name": "David Ahlmer"
     }
   ],
-  "video_download_url": "https://import.c3voc.de/videos/3b5f3595-94e6-42c4-ac2e-7a981074a978.mp4",
+  "video_download_url": "https://hn13.net/kh22/KH22-RISCV.mp4",
   "room_id": "9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b",
   "origin": "import.c3voc.de"
 }
