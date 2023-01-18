@@ -5,7 +5,7 @@
       "name": "voc/schedule/jev22",
       "version": "3e794"
     },
-    "version": "2023-01-14 15:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-14 15:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-01-18 22:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-18 22:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final",
     "conference": {
       "acronym": "jev22",
       "title": "Dezentrale Jahresendveranstaltungen",
@@ -332,13 +332,6 @@
           "description": "Timeout Raum",
           "capacity": 54,
           "location": "M\u00fcnchen"
-        },
-        {
-          "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
-          "name": "WoodbineDWeb",
-          "description": "Talks at Woodbine DWeb NYC 2022",
-          "capacity": null,
-          "location": "New York, USA"
         }
       ],
       "days": [
@@ -1054,8 +1047,7 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": [],
-            "WoodbineDWeb": []
+            "Timeout Raum - H2-5.1": []
           }
         },
         {
@@ -3520,40 +3512,7 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": [],
-            "WoodbineDWeb": [
-              {
-                "abstract": "Intro to Solar Protocol",
-                "attachments": [],
-                "date": "2022-12-27T10:30:00-05:00",
-                "description": "http://solarprotcool.net/",
-                "do_not_record": false,
-                "duration": "01:00",
-                "guid": "b67130ca-1f54-41c7-928c-b0497146bebc",
-                "id": 6713,
-                "language": "en",
-                "links": [],
-                "logo": "",
-                "persons": [
-                  {
-                    "id": 200,
-                    "code": "MICRO0",
-                    "public_name": "micro",
-                    "biography": null,
-                    "answers": []
-                  }
-                ],
-                "recording_license": "CC-BY-SA-4.0",
-                "room": "WoodbineDWeb",
-                "slug": "jev22-6713-intro_to_solar_protocol",
-                "start": "10:30",
-                "subtitle": "",
-                "title": "Intro to Solar Protocol",
-                "track": "",
-                "type": "Talk",
-                "url": "https://woodbine.nyc/2022/12/dweb-jev/solarprotocol-intro/"
-              }
-            ]
+            "Timeout Raum - H2-5.1": []
           }
         },
         {
@@ -7260,8 +7219,7 @@
                 "links": [],
                 "attachments": []
               }
-            ],
-            "WoodbineDWeb": []
+            ]
           }
         },
         {
@@ -11247,8 +11205,7 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": [],
-            "WoodbineDWeb": []
+            "Timeout Raum - H2-5.1": []
           }
         },
         {
@@ -13814,8 +13771,7 @@
                 "links": [],
                 "attachments": []
               }
-            ],
-            "WoodbineDWeb": []
+            ]
           }
         },
         {
@@ -14551,8 +14507,7 @@
                 "attachments": []
               }
             ],
-            "Timeout Raum - H2-5.1": [],
-            "WoodbineDWeb": []
+            "Timeout Raum - H2-5.1": []
           }
         }
       ]
