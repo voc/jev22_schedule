@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-01-18 22:30</version>
+  <version>2023-01-19 03:40</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen - channels</title>
@@ -137,6 +137,7 @@ Anschließend an die Filmvorführung findet ein Workshop statt, in dem wir uns m
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="2" date="2022-12-27" start="2022-12-27T09:00:00+01:00" end="2022-12-27T09:00:00+01:00">
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -1211,6 +1212,33 @@ Mehr Infos: https://www.dokfest-muenchen.de/films/geschlossene-gesellschaft</des
         </persons>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf">
+      <event guid="b67130ca-1f54-41c7-928c-b0497146bebc" id="6713">
+        <abstract>Intro to Solar Protocol</abstract>
+        <attachments/>
+        <date>2022-12-27T10:30:00-05:00</date>
+        <description>http://solarprotcool.net/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <duration>01:00</duration>
+        <language>en</language>
+        <links/>
+        <logo/>
+        <persons>
+          <person id="200">micro</person>
+        </persons>
+        <room>WoodbineDWeb</room>
+        <slug>jev22-6713-intro_to_solar_protocol</slug>
+        <start>10:30</start>
+        <subtitle/>
+        <title>Intro to Solar Protocol</title>
+        <track/>
+        <type>Talk</type>
+        <url>https://woodbine.nyc/2022/12/dweb-jev/solarprotocol-intro/</url>
       </event>
     </room>
   </day>
@@ -3025,6 +3053,7 @@ Mehr Infos: https://www.die-autobahn-derfilm.de/</description>
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="4" date="2022-12-29" start="2022-12-29T09:00:00+01:00" end="2022-12-29T09:00:00+01:00">
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -4886,6 +4915,7 @@ Mehr Infos: https://freieraeume-film.de/</description>
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="5" date="2022-12-30" start="2022-12-30T09:00:00+01:00" end="2022-12-30T09:00:00+01:00">
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7">
@@ -6143,6 +6173,7 @@ Mehr Infos: https://www.allesandersplatz.berlin/</description>
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
   <day index="6" date="2022-12-31" start="2022-12-31T09:00:00+01:00" end="2022-12-31T09:00:00+01:00">
     <room name="Fireshonks" guid="c62a781e-48a3-4546-bb5c-dee2080738f7"/>
@@ -6295,5 +6326,6 @@ Nach einer umfassenden Vorstellung und Einführung kann jede/r Workshoppende ein
         <attachments/>
       </event>
     </room>
+    <room name="WoodbineDWeb" guid="a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf"/>
   </day>
 </schedule>

@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2023-01-18 22:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-18 22:30 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final",
+    "version": "2023-01-19 03:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-19 03:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -411,6 +411,15 @@
         "location": "M\u00fcnchen",
         "schedule_name": "Timeout Raum - H2-5.1",
         "stream": null
+      },
+      {
+        "guid": "a6f1969c-8349-4344-9d4e-8b1e1ecd0ecf",
+        "name": "WoodbineDWeb",
+        "description": "Talks at Woodbine DWeb NYC 2022",
+        "capacity": null,
+        "location": "New York, USA",
+        "schedule_name": "WoodbineDWeb",
+        "stream": "woodbine"
       }
     ],
     "conferences": [
