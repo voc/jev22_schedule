@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2023-01-19 03:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-19 03:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-01-21 01:30; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-01-21 01:30 ; Reconnect To Chaos! 2.5; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -196,33 +196,6 @@
         "capacity": null,
         "location": "Potsdam, Chaostreff",
         "schedule_name": "Seminarraum 3 (21)",
-        "stream": null
-      },
-      {
-        "name": "xrelog22 - Stream",
-        "guid": "ad28953f-122e-4293-836d-860320183a1c",
-        "description": "Main-Stream",
-        "capacity": 100000,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "xrelog22 - Stream",
-        "stream": "xrelog22"
-      },
-      {
-        "name": "icc|bs",
-        "guid": "63dc1e9f-0b83-4504-9d2c-2d0eea14ce02",
-        "description": "Matrix - Intergalactic Chaos Communication | Broadcast Studio",
-        "capacity": 498,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "icc|bs",
-        "stream": null
-      },
-      {
-        "name": "Multiversum B\u00fchne",
-        "guid": "a5515405-a6a1-47f7-97dc-bd9ef73819a1",
-        "description": "Realraum B\u00fchne f\u00fcr Panels, Impuls-Vortr\u00e4ge, Lighntins-Talks & mehr",
-        "capacity": 50,
-        "location": "Hamburg, FTZ/HAW",
-        "schedule_name": "Multiversum B\u00fchne",
         "stream": null
       },
       {
