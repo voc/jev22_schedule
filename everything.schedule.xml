@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-02-19 00:20; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-02-19 00:20 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-02-20 00:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -1838,22 +1838,6 @@ Ein Beispielset gibt's hier: https://soundcloud.com/dercorn/nbgsubculture-2022-0
       </event>
     </room>
     <room name="Lounge"/>
-    <room name="ChilyConChaos">
-      <event guid="1ca0f00e-f061-4f80-b94e-59807d66b73b" id="1000">
-        <title>Raspberry Pi Pico mit CircuitPy</title>
-        <subtitle/>
-        <abstract>Christian "CWB" Wenzel-Benner</abstract>
-        <description/>
-        <date>2022-12-28T04:00:00+01:00</date>
-        <start>04:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-1000-raspberry_pi_pico_mit_circuitpy</slug>
-      </event>
-    </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b"/>
     <room name="RTC-Bühne (Sparti)" guid="6f12618c-0f1c-4318-a201-099152f86ac0">
       <event id="409" guid="ef0a4cff-09db-5cb4-bbeb-ecb3ca678345">
@@ -4551,22 +4535,6 @@ Danach gebe ich noch ein paar Beispiele mit Nixos.</description>
     </room>
     <room name="Spezial Raum"/>
     <room name="Lounge"/>
-    <room name="ChilyConChaos">
-      <event guid="fa4243fa-206d-4de8-9704-ddfa829ff51b" id="4243">
-        <title>Schafkopf lernen</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-4243-schafkopf_lernen</slug>
-      </event>
-    </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
       <event guid="e78d20ed-c907-4730-ae25-bf6c42076485" id="55000">
         <type>Talk</type>
@@ -7907,78 +7875,6 @@ Weil mit weißer Farbe gedruck wird, solltest du ein dunkles Textil mitbringen. 
       </event>
     </room>
     <room name="Lounge"/>
-    <room name="ChilyConChaos">
-      <event guid="1834e88b-0bd7-441e-a5b1-2baaa8db6601" id="1834">
-        <title>IT-Sicherheit ist kein Waschmittel</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Talk</type>
-        <slug>jev22-1834-it_sicherheit_ist_kein_waschmittel</slug>
-      </event>
-      <event guid="085c83b8-0c0a-44a8-8b9c-f9c480efd1b1" id="8583">
-        <title>Was ist FragDenStaat.de? 	</title>
-        <subtitle/>
-        <abstract>Anna, mit Q&amp;A</abstract>
-        <description/>
-        <date>2022-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-8583-was_ist_fragdenstaat_de</slug>
-      </event>
-      <event guid="93d65e3e-6a7b-48be-b229-dd7c356238f6" id="9365">
-        <title>All about DigitalCourage</title>
-        <subtitle/>
-        <abstract>Jakob, mit Q&amp;A</abstract>
-        <description/>
-        <date>2022-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Other</type>
-        <slug>jev22-9365-all_about_digitalcourage</slug>
-      </event>
-      <event guid="b4f4b341-d776-48bf-8a83-d2356968daef" id="4434">
-        <title>WTF eG. Geschichte, Möglichkeiten, Grundlagen</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Talk</type>
-        <slug>jev22-4434-wtf_eg_geschichte_moeglichkeiten_grundlagen</slug>
-      </event>
-      <event guid="f509eb97-0aa6-4fb7-bfec-887de9899eaf" id="5099">
-        <title>Warum fliegt ein Flugzeug</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>auch auf dem Rücken)? (Vortrag</type>
-        <slug>jev22-5099-warum_fliegt_ein_flugzeug</slug>
-      </event>
-    </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
       <event guid="3a6c2a5a-ab09-4dcc-a82b-45a36014ccc7" id="54991">
         <type>Talk</type>
@@ -10890,22 +10786,6 @@ Und dann freuen wir uns darauf, mit euch nachts noch ein letztes mal so richtig 
         <persons/>
         <links/>
         <attachments/>
-      </event>
-    </room>
-    <room name="ChilyConChaos">
-      <event guid="3aafc24d-9dc3-4c39-948c-d7fc12365485" id="3249">
-        <title>Securing UnSafe Rust with XRust</title>
-        <subtitle/>
-        <abstract/>
-        <description/>
-        <date>2022-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>ChilyConChaos</room>
-        <persons/>
-        <track>Gießen/Wetzlar</track>
-        <type>Votrag</type>
-        <slug>jev22-3249-securing_unsafe_rust_with_xrust</slug>
       </event>
     </room>
     <room name="Warpzone" guid="9be59b3e-fc43-5618-ba0f-bfa5dc5b0c9b">
