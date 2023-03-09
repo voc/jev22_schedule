@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2023-03-09 11:40; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-03-09 11:40 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
+  <version>2023-03-09 20:00; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-03-09 20:00 ; Reconnect To Chaos! 2.5; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1</version>
   <conference>
     <acronym>jev22</acronym>
     <title>Dezentrale Jahresendveranstaltungen</title>
@@ -33,9 +33,6 @@
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
@@ -1958,9 +1955,6 @@ anonymised.</abstract>
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="2158" guid="cd2bc158-39c7-4f9c-bd87-0bf9d6061875">
         <date>2022-12-27T12:30:00+01:00</date>
@@ -4879,172 +4873,6 @@ Im Workshop stelle ich unterschiedliche Modi der Entscheidungsfindung vor und wi
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49308" guid="a26df7fb-0c77-5252-afd2-2a2fbf1d35e4">
-        <logo/>
-        <date>2022-12-28T11:42:23+01:00</date>
-        <start>11:42</start>
-        <duration>00:15</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49308-opening</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/M7TWWN/</url>
-        <title>Opening</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Impulse Vortrag</type>
-        <language>de</language>
-        <abstract>Welcome to xrelog22</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3509">XR.Labs Operation Group</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="53789" guid="bb608932-d054-579c-b207-90fb2db578bf">
-        <logo/>
-        <date>2022-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-53789-the_evolution_of_the_metaverse</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/VK9JTW/</url>
-        <title>The Evolution of the Metaverse</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>en</language>
-        <abstract>The Evolution of the Metaverse (A Late Night One ...)</abstract>
-        <description>Some toughts about the evolution of the metaverse compared to the evolution of the internet itself by DarlingVR Creator.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3886">Darling</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49305" guid="8eab3ce0-c079-5052-82b3-98ac397d240c">
-        <logo/>
-        <date>2022-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49305-overte</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/LUBGZY/</url>
-        <title>Overte</title>
-        <subtitle>In-world creation with Voxels, Physics, etc.</subtitle>
-        <track>Sachen Machen</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>Casual hands-on in Overte</abstract>
-        <description>Try out Overte and its in-world creation with the developers.&#13;
-You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
-You can also spectate the event on PeerTube.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49219" guid="0c89378a-1c09-5bae-9f59-ca6f55b4f5d4">
-        <logo/>
-        <date>2022-12-28T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49219-mafifa</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/PXMDSU/</url>
-        <title>mafifa</title>
-        <subtitle>WM 2030</subtitle>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>mafifa - WM 2030: Ein interaktives Spiel in der Matrix. Nicht Jeopardy.</abstract>
-        <description>Finden wir den nächsten Austragungsort, zusammen, interaktiv. Teil 1#4 - Die Auslosung. Zwei müssen raus!&#13;
-Ermittlung des Austragungsort in einem absolut nicht korrupten, sportlich hochwertigen, interaktivem Entscheidungs-Turnier. Das Turnier findet in der Matrix statt und wird live übertragen und kommentiert. Belly Rethy ist raus.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3253">CodeFreezR</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02">
-      <event id="49303" guid="e57e0c6a-cb36-514d-b235-ec73a048fac7">
-        <logo>/media/xrelog-2022/submissions/97JC77/15ThemenBereichePico_m5205Tr.jpg</logo>
-        <date>2022-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>03:00</duration>
-        <room>icc|bs</room>
-        <slug>jev22-49303-xr_barcamp</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/97JC77/</url>
-        <title>XR.Barcamp</title>
-        <subtitle/>
-        <track>So Dies und Das</track>
-        <type>Workshop</type>
-        <language>de</language>
-        <abstract>[EN] XR Barcamp: All Things VR / AR / MR / DR = XR. Come unprepared with / without VR-Gadgets. Let's talk about bullshit-free meta- and multiverse, aka Social VR, and maybe visit some of them. Maybe we will build our own VRooms from scratch, argue about good taste, researching solutions to connect the dots &amp; worlds, ... and / or find our poster of "15 Topic-Tracks" as an inspiration of ideas.&#13;
-&#13;
----&#13;
-&#13;
-[DE] XR Barcamp - Alles rund um VR / AR / MR / DR = XR. Kommt gerne komplett unvorbereitet mit / ohne VR-Gadgets. Lasst uns über Bullshit-freies Meta- und Multiverse, aka Social VR, sprechen und es ggf. auch besuchen. Vielleicht bauen wir eigene VRooms, streiten über guten Geschmack, finden Lösungen Welten zu vernetzen (Connecting the Dots), ... Siehe auch unser Poster der „15 Themenbeieichen“ als möglichen Ideengeber.</abstract>
-        <description>[DE] Je nach teilnehmenden Wesen wollen wir das Barcamp deutschsprachig oder in englisch halten.&#13;
-&#13;
-Kurz was zum Thema Barcamp:&#13;
-&#13;
-So'n Barcamp ist ein Event im Event. Am Anfang wissen wir noch garnicht ob, bzw. wieviel Themen &amp; Wesen was in den Ring werfen. Zugegeben ein paar Vorschläge haben wir schon gesammelt. Ihr könnt auch schon vorab Ideen, Wünsche, Anregungen einkippen, Siehe Matrix-Kanal weiter unten.&#13;
-&#13;
-Vor dem bauen des adhoc Sub-Fahrplan können wir voten, wie so die Stimmungslage zu den Breakout-Vorschläge so ist.&#13;
-&#13;
-Das verteilt sich dann in etwa so:&#13;
-- Kennenlernen,  Themensammlung, Voting (so ca. 30-40 Minuten). &#13;
-- Mini-Fahrplan bauen. ~15 Minuten Pause oder Spontan Impuls-Vortrag.&#13;
-- Breakout-Sessions (je ~30 Minuten) je nach Anzahl der Themen evt. 1-3 Timeslots mit 1-n parallelen Breakouts&#13;
-- Optional: Was war, was wird. Die besten Takeaways aus den Sessions&#13;
-&#13;
----&#13;
-&#13;
-[EN] Depending on the participants, the Barcamp will be held in German or in English. &#13;
-&#13;
-Briefly something about Barcamps:&#13;
-&#13;
-Such a barcamp is an event within an event. At the beginning we don't know if or how many topics &amp; beings will throw something into the ring. Admittedly, we have already collected a few suggestions. You can also type in ideas, wishes, suggestions in advance, see matrix room below.&#13;
-&#13;
-&#13;
-Admittedly we have already collected a few. Before building the adhoc sub-timetable, we can vote on the mood for the breakout proposals.&#13;
-&#13;
-It breaks then down roughly like this:&#13;
-- Getting to know each other, collection of topics, voting (about 30-40 minutes)&#13;
-- Build a mini timetable. ~15 minutes break or spontaneous impulse lecture.&#13;
-- Breakout sessions (~30 minutes each), depending on the number of topics, possibly 1-3 timeslot(s) with 1-n parallel breakouts&#13;
-- Optional: What was, what will be. The best takeaways from the sessions</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3509">XR.Labs Operation Group</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="6037" guid="60c37cca-de6c-510c-89f5-4c7bf3c0ab75">
         <date>2022-12-28T14:00:00+01:00</date>
@@ -8301,154 +8129,6 @@ Here you can find the repository containing the slides and further relevant file
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49306" guid="bf6ca943-8410-5ca8-93a5-6672b3d8d222">
-        <logo/>
-        <date>2022-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49306-overte</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/T3KYPP/</url>
-        <title>Overte</title>
-        <subtitle>World hopping</subtitle>
-        <track>VR Welten</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>Let's visit worlds in Overte together!</abstract>
-        <description>Try out Overte and explore some of the existing worlds with the developers.&#13;
-You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
-You can also spectate the event on PeerTube.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49285" guid="9c218ba2-39b5-533e-822e-b710ff4eef93">
-        <logo/>
-        <date>2022-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49285-the_web_3_0_house_of_cards</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/8G9NAA/</url>
-        <title>The Web 3.0 House of Cards</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Live Session (60)</type>
-        <language>en</language>
-        <abstract>How eth.link exposed the technical and governance shortcomings of Web 3.0&#13;
-&#13;
-This talk is a true story about how the allegedly "decentralized" web 3.0 briefly came under the complete control of its arch-nemesis, Godaddy.</abstract>
-        <description>We'll start by covering the basics of how DNS works technically and, more important, politically (ICANN). We'll then proceed to an introduction to IPFS and how the Etherum Name Service (ENS) implements it.&#13;
-&#13;
-The rest of the talk will be explore what happens when theory meets reality, and show some major weaknesses in web 3.0's technical infrastructure and how Godaddy exploited it.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3290">aestetix</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49282" guid="9a9afc40-471a-5bb5-b77f-94dc4041d4a7">
-        <logo/>
-        <date>2022-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49282-is_the_metaverse_metaworse</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/QNYTS3/</url>
-        <title>Is the Metaverse, Metaworse?</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>en</language>
-        <abstract>The vision of the Metaverse is to be the the next step in the digitization of our work-life. While it is not explicitly tied to a particular technology yet, the Metaverse is most often associated with some sort of 3D immersive technology and concepts from Web3. While still in its infancy, we have decades of precedent from serious gaming and ubiquitous computing to judge where to expect the threats to emerge. Since we expect parts of the Metaverse to start being deployed piece by piece over the next years and we have been exploring Metaverse threats for a few years now. Some threats are derivable from IT security but there will also be threats particular to the Metaverse that arise due to the complex nature of 3D and cyber/physical interactions. In this talk we will address our findings so far that affect individuals and enterprises as they take first steps in deploying or using Metaverse-like spaces.</abstract>
-        <description>Outline of presentation:&lt;br&gt;&#13;
-Very early beginnings: Stephenson, Gibson, Cline&lt;br&gt;&#13;
-Early 2000s: Web 2.0 and SecondLife&lt;br&gt;&#13;
-Recent developments&lt;br&gt;&#13;
-What is the Metaverse now? The Internet of Experiences&lt;br&gt;&#13;
-Hardware support&lt;br&gt;&#13;
-Software support: Web3&lt;br&gt;&#13;
-The problems with Web3 and how these affect the threat model&lt;br&gt;&#13;
-Classical threats&lt;br&gt;&#13;
-Metaverse specific threats&lt;br&gt;&#13;
-Cryptocurrency-specific threats&lt;br&gt;&#13;
-Conclusions and outlook&lt;br&gt;</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3392">Morton Swimmer</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49126" guid="2ea04ef1-e9e6-50f4-86a3-36243cf03ef2">
-        <logo>/media/xrelog-2022/submissions/HP8RXT/Multiplayer_fgWFeXS.jpeg</logo>
-        <date>2022-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:30</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49126-third_room</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/HP8RXT/</url>
-        <title>Third Room</title>
-        <subtitle>Decentralized Virtual Worlds on Matrix</subtitle>
-        <track>Matrix &amp; Thirdroom.io</track>
-        <type>Live Session (30)</type>
-        <language>en</language>
-        <abstract>Third Room is a browser-based decentralized virtual worlds platform built on top of the Matrix protocol. Third Room pushes the limits of what you can do in a 3D browser application utilizing WebAssembly, SharedArrayBuffers and Atomics for lock-free multithreading, WebGL2, and much more. It's built on open standards like the glTF 3D file format and fully embraces it to provide a DOM-like API for scripting interactable user-generated worlds.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3278">Robert Long</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="49287" guid="7f811be1-c484-5602-aafd-6756a68a0899">
-        <logo/>
-        <date>2022-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49287-menschenrechtsverletzungen_durch_facebook_meta</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/MDTAEK/</url>
-        <title>Menschenrechtsverletzungen durch Facebook/Meta</title>
-        <subtitle/>
-        <track>Activism</track>
-        <type>Live Session (30)</type>
-        <language>de</language>
-        <abstract>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt.</abstract>
-        <description>Jeder Mensch soll seine Menschenrechte möglichst frei ausüben können, darauf haben sich die Vereinten Nationen geeinigt. Und doch konnten wir feststellen, dass der Konzern Facebook/Meta einige der Persönlichkeitsrechte aus der Menschenrechtscharta bricht oder zumindest beschränkt. &#13;
-In diesem Vortrag ordnen wir die bestehenden Vorwürfe an den Geschäftspraktiken von Facebook/Meta den einzelnen Menschenrechten zu. Es soll deutlich werden, warum es dringend notwendig ist, dass eine solch globale und allgemeine Kommunikationsinfrastruktur wesentlich freier und selbstbestimmter zugänglich sein müsste. &#13;
-(Hinweis: Wir waren für diesen Vortrag nicht selbst investigativ tätig, wir fassen lediglich die Ergebnisse aus verschiedenen Enthüllungen wie z.B. den Facebook-Papers, Cambridge Analytica u.a. vor einem neuen Kontext zusammen.)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="456">Steffen</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78">
       <event id="1843" guid="d1843366-bf8e-4735-89c2-71c6c939c44b">
         <date>2022-12-29T16:00:00+01:00</date>
@@ -11013,71 +10693,6 @@ Let's all get together again to hang out, chat with people we haven't met yet or
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c">
-      <event id="49307" guid="6be5205a-e021-58e5-aac5-fbf654757933">
-        <logo/>
-        <date>2022-12-30T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-49307-overte</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/KE9BUG/</url>
-        <title>Overte</title>
-        <subtitle>Logic using the JavaScript API</subtitle>
-        <track>Sachen Machen</track>
-        <type>Workshop</type>
-        <language>en</language>
-        <abstract>Casual introduction into the capabilities of Overte's scripting engine.</abstract>
-        <description>Try out scripting in Overte and see the endless possibilities.&#13;
-You can join using the client from https://overte.org/#downloads (Windows or Linux)&#13;
-You can also spectate the event on PeerTube.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="3418">Julian Groß</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event id="56027" guid="d6e0ca60-732d-5793-8989-b77e5ace1aa2">
-        <logo/>
-        <date>2022-12-30T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>01:00</duration>
-        <room>xrelog22 - Stream</room>
-        <slug>jev22-56027-poetry_paella_inkl_jev22_recap</slug>
-        <url>https://pretalx.c3voc.de/xrelog-2022/talk/GXJ9AH/</url>
-        <title>Poetry Paella inkl. jev22 recap</title>
-        <subtitle/>
-        <track>Kunst &amp; Musik</track>
-        <type>Live Session (60)</type>
-        <language>de</language>
-        <abstract>Poetry Paella inkl. jev22 recap</abstract>
-        <description>Was übrig geblieben ist, wird am nächsten Tag in die Pfanne gehauen. Reis, Safran und gutes Olivenöl darüber, fein abschmecken und fertig. 1-2 Überraschungsgäste wollen hier noch nicht gespoilert werden.&#13;
-&#13;
-Haben da ja noch ein paar lose Enden, die wollen wir uns zumindestens nochmal kurz anschauen und evt. mit genuß vertilgen. Wie es so unsere Art auf der #xrelog22 ist werdet ihr den größten Spaß haben, wenn ihr uns dazu im Multiversum von overte besucht. Den Client gibt's gratis hier: https://overte.org/#downloads. Garantiert Bullshitfrei, free &amp; open source. Ein Login ist nicht erforderlich.&#13;
-&#13;
-Mögliche, aber noch lange nicht bestätigte Paella Zutaten könnten sein ...&#13;
-&#13;
-... Glühweinprogrammier-Nacht NewsFlash&#13;
-... NewYork NewsFlash (wip)&#13;
-... Südbairische Hackertour NewsFlash (pre-wip)&#13;
-... Mafifa WM 2030 - die Quintessenz im Schnelldurchlauf&#13;
-... Und was ist mit Bits &amp; Bäume? Wird die 9te Hackerethik offiziel?&#13;
-... Literatur, Demo-Szene und mal schauen</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954">
@@ -12201,9 +11816,6 @@ Otherwise be spontaneous and just drop by.</description>
     <room name="Theaterraum (22)" guid="0ba794eb-69bb-4381-9ce6-422529fc8291"/>
     <room name="Seminarraum 2 (24)" guid="ce023d5e-a406-4bc0-ad0b-f0ce64c7f206"/>
     <room name="Seminarraum 3 (21)" guid="9d6724e4-a5ff-4fca-b4da-1fc28b59882a"/>
-    <room name="xrelog22 - Stream" guid="ad28953f-122e-4293-836d-860320183a1c"/>
-    <room name="icc|bs" guid="63dc1e9f-0b83-4504-9d2c-2d0eea14ce02"/>
-    <room name="Multiversum Bühne" guid="a5515405-a6a1-47f7-97dc-bd9ef73819a1"/>
     <room name="Halle 4K" guid="3100bf0b-d2c9-43be-8bf4-c083b4239a78"/>
     <room name="Hackwerk" guid="7ddef1dc-d3e8-451b-9ea5-3441bfa22e23"/>
     <room name="Winterchaos" guid="99411f15-7335-4d36-abac-3ff0419ec954"/>
