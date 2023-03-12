@@ -1,6 +1,6 @@
 {
   "data": {
-    "version": "2023-03-09 20:10; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-03-09 20:10 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Winterchaos 0.6; Freiraumforum 1.final; Woodbine 0.1",
+    "version": "2023-03-12 22:50; FireShonks 0.58; Hacking in Parallel 0.28; Hellarious 1.0 FINAL FOR REALZY; Wintergalaktische Club Mate Party 0.12; ChilyConChaos 2023-03-12 22:50 ; Reconnect To Chaos! 2.5; xrelog22: Independent Multiverses 1.11; CCL CE 1.2.0; Hackwerk 0.2; Freiraumforum 1.final; Woodbine 0.1",
     "rooms": [
       {
         "name": "Fireshonks-Stream",
@@ -240,15 +240,6 @@
         "location": "Aalen",
         "schedule_name": "Hackwerk",
         "stream": "aalend"
-      },
-      {
-        "name": "Winterchaos",
-        "guid": "99411f15-7335-4d36-abac-3ff0419ec954",
-        "description": "Talks at LuXerias and LABOR Luzerns Winterchaos 2022",
-        "capacity": null,
-        "location": "Luzern, CH",
-        "schedule_name": "Winterchaos",
-        "stream": "winterchaos"
       },
       {
         "name": "Vortragsraum 1 - Ahlam - H2-1.6",
